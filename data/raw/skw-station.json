@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235809358,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2566265627,
+    "lat": "22.2791539",
+    "lon": "114.2288977",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4218210293457707,
+    "addresstype": "railway",
+    "name": "筲箕灣 Shau Kei Wan",
+    "display_name": "筲箕灣 Shau Kei Wan, 1, 東喜道 Tung Hei Road, 愛秩序灣 Aldrich Bay, 筲箕灣 Shau Kei Wan, 東區 Eastern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2741539",
+      "22.2841539",
+      "114.2238977",
+      "114.2338977"
+    ]
+  }
+]

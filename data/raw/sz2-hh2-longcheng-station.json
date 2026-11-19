@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237800396,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9061791678,
+    "lat": "22.7201054",
+    "lon": "114.2501509",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "龙城广场地铁站①",
+    "display_name": "龙城广场地铁站①, 龙岗大道, 黄龙塘, 龙岗街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.7200554",
+      "22.7201554",
+      "114.2501009",
+      "114.2502009"
+    ]
+  },
+  {
+    "place_id": 237951010,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9061791679,
+    "lat": "22.7196130",
+    "lon": "114.2501455",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "龙城广场地铁站②",
+    "display_name": "龙城广场地铁站②, 龙岗大道, 黄龙塘, 龙岗街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.7195630",
+      "22.7196630",
+      "114.2500955",
+      "114.2501955"
+    ]
+  }
+]

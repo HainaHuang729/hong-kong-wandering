@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237098619,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 103426538,
+    "lat": "22.3380100",
+    "lon": "114.1600103",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.37878580059237354,
+    "addresstype": "tourism",
+    "name": "李鄭屋漢墓博物館 Lei Cheng Uk Han Tomb Museum",
+    "display_name": "李鄭屋漢墓博物館 Lei Cheng Uk Han Tomb Museum, 41, 東京街 Tonkin Street, 李鄭屋 Li Cheng Uk, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3378303",
+      "22.3381897",
+      "114.1598140",
+      "114.1602066"
+    ]
+  }
+]

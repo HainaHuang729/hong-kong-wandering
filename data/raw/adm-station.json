@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237406636,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2423106205,
+    "lat": "22.2787065",
+    "lon": "114.1642477",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "金鐘站 Admiralty Station",
+    "display_name": "金鐘站 Admiralty Station, 金鐘道 Queensway, 添馬 Tamar, 金鐘 Admiralty, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2786565",
+      "22.2787565",
+      "114.1641977",
+      "114.1642977"
+    ]
+  },
+  {
+    "place_id": 237406998,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4614263240,
+    "lat": "22.2797363",
+    "lon": "114.1638122",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "港鐵B出口 MTR Exit B",
+    "display_name": "港鐵B出口 MTR Exit B, 德立街 Drake Street, 添馬 Tamar, 金鐘 Admiralty, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2796863",
+      "22.2797863",
+      "114.1637622",
+      "114.1638622"
+    ]
+  },
+  {
+    "place_id": 237374935,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11898071855,
+    "lat": "22.2789997",
+    "lon": "114.1645237",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "港鐵C出口 MTR Exit C",
+    "display_name": "港鐵C出口 MTR Exit C, 德立街 Drake Street, 添馬 Tamar, 金鐘 Admiralty, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2789497",
+      "22.2790497",
+      "114.1644737",
+      "114.1645737"
+    ]
+  },
+  {
+    "place_id": 237148717,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2423106206,
+    "lat": "22.2785054",
+    "lon": "114.1645408",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "金鐘廊 Queensway Plaza",
+    "display_name": "金鐘廊 Queensway Plaza, 金鐘道 Queensway, 添馬 Tamar, 金鐘 Admiralty, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2784554",
+      "22.2785554",
+      "114.1644908",
+      "114.1645908"
+    ]
+  },
+  {
+    "place_id": 237380140,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11753646522,
+    "lat": "22.2785921",
+    "lon": "114.1654723",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "港鐵D出口 MTR Exit D",
+    "display_name": "港鐵D出口 MTR Exit D, 95, 德立街 Drake Street, 添馬 Tamar, 金鐘 Admiralty, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2785421",
+      "22.2786421",
+      "114.1654223",
+      "114.1655223"
+    ]
+  }
+]

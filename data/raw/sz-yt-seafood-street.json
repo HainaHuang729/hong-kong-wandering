@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 234402699,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5432970365,
+    "lat": "22.5892687",
+    "lon": "114.2728457",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "盐田海鲜街",
+    "display_name": "盐田海鲜街, 北山道, 盐田街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5892187",
+      "22.5893187",
+      "114.2727957",
+      "114.2728957"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235825695,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1572955025,
+    "lat": "22.1609358",
+    "lon": "114.2561908",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "蒲台島石刻 Rock Carvings on Po Toi Island",
+    "display_name": "蒲台島石刻 Rock Carvings on Po Toi Island, 蒲台郊遊徑 Po Toi Country Trail, 灣仔 Wan Tsai, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.1608858",
+      "22.1609858",
+      "114.2561408",
+      "114.2562408"
+    ]
+  }
+]

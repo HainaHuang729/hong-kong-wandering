@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235736313,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 16078708,
+    "lat": "22.5896664",
+    "lon": "113.8340456",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "西湾红树林公园",
+    "display_name": "西湾红树林公园, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5829877",
+      "22.6017945",
+      "113.8258163",
+      "113.8361285"
+    ]
+  }
+]

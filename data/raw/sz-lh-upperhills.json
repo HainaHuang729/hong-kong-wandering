@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238013928,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 674566923,
+    "lat": "22.5601574",
+    "lon": "114.0651169",
+    "class": "landuse",
+    "type": "commercial",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "commercial",
+    "name": "深业上城",
+    "display_name": "深业上城, 莲花一村社区, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5584541",
+      "22.5617958",
+      "114.0629262",
+      "114.0672986"
+    ]
+  }
+]

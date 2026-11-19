@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237937297,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9310728712,
+    "lat": "22.5585802",
+    "lon": "114.0821888",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40906086839840655,
+    "addresstype": "railway",
+    "name": "黄木岗",
+    "display_name": "黄木岗, 笋岗西路, 南天社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5535802",
+      "22.5635802",
+      "114.0771888",
+      "114.0871888"
+    ]
+  },
+  {
+    "place_id": 237129443,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 13644249,
+    "lat": "22.5562321",
+    "lon": "114.0760806",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "quarter",
+    "name": "黄木岗社区",
+    "display_name": "黄木岗社区, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5509936",
+      "22.5583298",
+      "114.0677243",
+      "114.0813529"
+    ]
+  }
+]

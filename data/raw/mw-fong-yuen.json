@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 239290760,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 351080002,
+    "lat": "22.3504137",
+    "lon": "114.0576908",
+    "class": "amenity",
+    "type": "library",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "芳園書室 Fong Yuen Study Hall",
+    "display_name": "芳園書室 Fong Yuen Study Hall, 芳園路 Fong Yuen Road, 馬灣大街村中 Ma Wan Main Street Village Central, 馬灣 Ma Wan, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3503736",
+      "22.3504715",
+      "114.0576209",
+      "114.0577538"
+    ]
+  }
+]

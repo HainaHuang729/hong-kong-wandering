@@ -1,0 +1,2987 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "4460930": {
+        "pageid": 4460930,
+        "ns": 6,
+        "title": "File:The Legend at Jardine's Lookout.jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 776970,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Legend_at_Jardine%27s_Lookout.jpg/960px-The_Legend_at_Jardine%27s_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Legend_at_Jardine%27s_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Legend_at_Jardine%27s_Lookout.jpg/960px-The_Legend_at_Jardine%27s_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Legend_at_Jardine%27s_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Legend_at_Jardine%27s_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Legend_at_Jardine%27s_Lookout.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4460930",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-07-28 15:16:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "The Legend at Jardine's Lookout",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "The Legend at Jardine's Lookout|Self-published work|Photos by User:Baycrest|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275302",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194883",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Legend at Jardine's Lookout",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Baycrest\" title=\"User:Baycrest\">Baycrest</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "23636168": {
+        "pageid": 23636168,
+        "ns": 6,
+        "title": "File:Tiger Balm Garden, walk-in safe (Hong Kong).jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 899405,
+            "width": 1496,
+            "height": 2245,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tiger_Balm_Garden%2C_walk-in_safe_%28Hong_Kong%29.jpg/960px-Tiger_Balm_Garden%2C_walk-in_safe_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1441,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/18/Tiger_Balm_Garden%2C_walk-in_safe_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tiger_Balm_Garden%2C_walk-in_safe_%28Hong_Kong%29.jpg/960px-Tiger_Balm_Garden%2C_walk-in_safe_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1441,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/18/Tiger_Balm_Garden%2C_walk-in_safe_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Tiger_Balm_Garden%2C_walk-in_safe_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tiger_Balm_Garden,_walk-in_safe_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23636168",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-01-06 11:13:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tiger Balm Garden, walk-in safe (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D70|Self-published work|Haw Par Mansion|Hong Kong photographs taken on 2010-11-14|Files with coordinates missing SDC location of creation|2010 photographs of Hong Kong by Mk2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275350",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195310",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Walk-in safe in the Tiger Balm Garden, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-11-14 13:17:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613447": {
+        "pageid": 101613447,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 06.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4638233,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613447",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:17:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275913",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195362",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:39:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613515": {
+        "pageid": 101613515,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 20.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5202717,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_20.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613515",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:18:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 20",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275792",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195199",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:43:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613524": {
+        "pageid": 101613524,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 22.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6764889,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_22.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613524",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:18:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 22",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275832",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195514",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:43:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613538": {
+        "pageid": 101613538,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 21.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6293400,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_21.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613538",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:18:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 21",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275827",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195277",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:43:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613540": {
+        "pageid": 101613540,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 23.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4424737,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_23.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613540",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:19:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 23",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275848",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195134",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:44:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613548": {
+        "pageid": 101613548,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 24.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5932012,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_24.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613548",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:19:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 24",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275700",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195277",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:44:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613558": {
+        "pageid": 101613558,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 27.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4225145,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_27.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613558",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:19:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 27",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275832",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195241",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:45:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613588": {
+        "pageid": 101613588,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 18.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6823791,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1637pm_March_2021_SS2_18.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613588",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:19:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1637pm March 2021 SS2 18",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275889",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195270",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:43:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317445": {
+        "pageid": 107317445,
+        "ns": 6,
+        "title": "File:Haw Par Mansion 202104.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2135998,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Haw_Par_Mansion_202104.jpg/960px-Haw_Par_Mansion_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/63/Haw_Par_Mansion_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Haw_Par_Mansion_202104.jpg/960px-Haw_Par_Mansion_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/63/Haw_Par_Mansion_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Haw_Par_Mansion_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317445",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:31:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275617",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195053",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317451": {
+        "pageid": 107317451,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Former Sitting Room 202104.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1360221,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Haw_Par_Mansion_Former_Sitting_Room_202104.jpg/960px-Haw_Par_Mansion_Former_Sitting_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/18/Haw_Par_Mansion_Former_Sitting_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Haw_Par_Mansion_Former_Sitting_Room_202104.jpg/960px-Haw_Par_Mansion_Former_Sitting_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/18/Haw_Par_Mansion_Former_Sitting_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Haw_Par_Mansion_Former_Sitting_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Former_Sitting_Room_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317451",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:31:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Former Sitting Room 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Moon gates in Hong Kong|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275839",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195228",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317457": {
+        "pageid": 107317457,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Former Music Room 202104.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1309377,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Haw_Par_Mansion_Former_Music_Room_202104.jpg/960px-Haw_Par_Mansion_Former_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/12/Haw_Par_Mansion_Former_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Haw_Par_Mansion_Former_Music_Room_202104.jpg/960px-Haw_Par_Mansion_Former_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/12/Haw_Par_Mansion_Former_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Haw_Par_Mansion_Former_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Former_Music_Room_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317457",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:32:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Former Music Room 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275825",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195192",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317463": {
+        "pageid": 107317463,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Former Main Entrance to the Mansion 2021.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1453832,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg/960px-Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/de/Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg/960px-Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/de/Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Former_Main_Entrance_to_the_Mansion_2021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317463",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:32:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Former Main Entrance to the Mansion 2021",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Moon gates in Hong Kong|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275822",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195244",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317473": {
+        "pageid": 107317473,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Side Entrance Lobby 202104.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1198465,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg/960px-Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg/960px-Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Side_Entrance_Lobby_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317473",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:32:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Side Entrance Lobby 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275825",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195228",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317481": {
+        "pageid": 107317481,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Former Dining Room 202104.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1422797,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Haw_Par_Mansion_Former_Dining_Room_202104.jpg/960px-Haw_Par_Mansion_Former_Dining_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/98/Haw_Par_Mansion_Former_Dining_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Haw_Par_Mansion_Former_Dining_Room_202104.jpg/960px-Haw_Par_Mansion_Former_Dining_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/98/Haw_Par_Mansion_Former_Dining_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Haw_Par_Mansion_Former_Dining_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Former_Dining_Room_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317481",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:33:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Former Dining Room 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275678",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195367",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317487": {
+        "pageid": 107317487,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Former Dining Room corner seating 202104.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2213132,
+            "width": 1600,
+            "height": 2133,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg/960px-Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg/960px-Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Former_Dining_Room_corner_seating_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317487",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:33:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Former Dining Room corner seating 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275753",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195319",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317492": {
+        "pageid": 107317492,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Stairs view 202104.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1648642,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Haw_Par_Mansion_Stairs_view_202104.jpg/960px-Haw_Par_Mansion_Stairs_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/30/Haw_Par_Mansion_Stairs_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Haw_Par_Mansion_Stairs_view_202104.jpg/960px-Haw_Par_Mansion_Stairs_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/30/Haw_Par_Mansion_Stairs_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Haw_Par_Mansion_Stairs_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Stairs_view_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317492",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:34:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Stairs view 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275758",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195306",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317502": {
+        "pageid": 107317502,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Level 2 bathroom 202104.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1232000,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Haw_Par_Mansion_Level_2_bathroom_202104.jpg/960px-Haw_Par_Mansion_Level_2_bathroom_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Haw_Par_Mansion_Level_2_bathroom_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Haw_Par_Mansion_Level_2_bathroom_202104.jpg/960px-Haw_Par_Mansion_Level_2_bathroom_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Haw_Par_Mansion_Level_2_bathroom_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Haw_Par_Mansion_Level_2_bathroom_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Level_2_bathroom_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317502",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:34:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Level 2 bathroom 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275767",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195319",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317508": {
+        "pageid": 107317508,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Safe deposit room 202104.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1075876,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Haw_Par_Mansion_Safe_deposit_room_202104.jpg/960px-Haw_Par_Mansion_Safe_deposit_room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Haw_Par_Mansion_Safe_deposit_room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Haw_Par_Mansion_Safe_deposit_room_202104.jpg/960px-Haw_Par_Mansion_Safe_deposit_room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Haw_Par_Mansion_Safe_deposit_room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Haw_Par_Mansion_Safe_deposit_room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Safe_deposit_room_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317508",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:34:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Safe deposit room 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275836",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195206",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317512": {
+        "pageid": 107317512,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Music Room 202104.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1397743,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Haw_Par_Mansion_Music_Room_202104.jpg/960px-Haw_Par_Mansion_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/92/Haw_Par_Mansion_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Haw_Par_Mansion_Music_Room_202104.jpg/960px-Haw_Par_Mansion_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/92/Haw_Par_Mansion_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Haw_Par_Mansion_Music_Room_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Music_Room_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317512",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:35:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Music Room 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275822",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195222",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317523": {
+        "pageid": 107317523,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Roof view 202104.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1632760,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Haw_Par_Mansion_Roof_view_202104.jpg/960px-Haw_Par_Mansion_Roof_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/34/Haw_Par_Mansion_Roof_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Haw_Par_Mansion_Roof_view_202104.jpg/960px-Haw_Par_Mansion_Roof_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/34/Haw_Par_Mansion_Roof_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Haw_Par_Mansion_Roof_view_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Roof_view_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317523",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:35:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Roof view 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275403",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195258",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317763": {
+        "pageid": 107317763,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Level 1 Rest area 202104.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4767154,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Haw_Par_Mansion_Level_1_Rest_area_202104.jpg/960px-Haw_Par_Mansion_Level_1_Rest_area_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Haw_Par_Mansion_Level_1_Rest_area_202104.jpg/1920px-Haw_Par_Mansion_Level_1_Rest_area_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Haw_Par_Mansion_Level_1_Rest_area_202104.jpg/960px-Haw_Par_Mansion_Level_1_Rest_area_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Haw_Par_Mansion_Level_1_Rest_area_202104.jpg/1920px-Haw_Par_Mansion_Level_1_Rest_area_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Haw_Par_Mansion_Level_1_Rest_area_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Level_1_Rest_area_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317763",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:46:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Level 1 Rest area 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275747",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195314",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317829": {
+        "pageid": 107317829,
+        "ns": 6,
+        "title": "File:Haw Par Mansion balcony 2021.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7272037,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Haw_Par_Mansion_balcony_2021.jpg/960px-Haw_Par_Mansion_balcony_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Haw_Par_Mansion_balcony_2021.jpg/1920px-Haw_Par_Mansion_balcony_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Haw_Par_Mansion_balcony_2021.jpg/960px-Haw_Par_Mansion_balcony_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Haw_Par_Mansion_balcony_2021.jpg/1920px-Haw_Par_Mansion_balcony_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Haw_Par_Mansion_balcony_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_balcony_2021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317829",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:49:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion balcony 2021",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275514",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195222",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion balcony",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107317915": {
+        "pageid": 107317915,
+        "ns": 6,
+        "title": "File:Haw Par Mansion Lift tower 202104.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7647011,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Haw_Par_Mansion_Lift_tower_202104.jpg/960px-Haw_Par_Mansion_Lift_tower_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Haw_Par_Mansion_Lift_tower_202104.jpg/1920px-Haw_Par_Mansion_Lift_tower_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Haw_Par_Mansion_Lift_tower_202104.jpg/960px-Haw_Par_Mansion_Lift_tower_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Haw_Par_Mansion_Lift_tower_202104.jpg/1920px-Haw_Par_Mansion_Lift_tower_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Haw_Par_Mansion_Lift_tower_202104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haw_Par_Mansion_Lift_tower_202104.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107317915",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-07 15:52:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haw Par Mansion Lift tower 202104",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Haw Par Mansion|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275756",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.195306",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Haw Par Mansion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237961407,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 282307133,
+    "lat": "22.3682880",
+    "lon": "114.2889716",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.31620884567581686,
+    "addresstype": "beach",
+    "name": "橋咀泳灘 Kiu Tsui Beach",
+    "display_name": "橋咀泳灘 Kiu Tsui Beach, 橋咀 Kiu Tsui, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3675503",
+      "22.3686635",
+      "114.2879973",
+      "114.2894628"
+    ]
+  }
+]

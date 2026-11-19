@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237681024,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 6075911,
+    "lat": "22.2464539",
+    "lon": "114.2468153",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.3015950553092256,
+    "addresstype": "beach",
+    "name": "大浪灣泳灘 Big Wave Bay Beach",
+    "display_name": "大浪灣泳灘 Big Wave Bay Beach, 大浪灣 Tai Long Wan, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2458133",
+      "22.2470528",
+      "114.2464635",
+      "114.2480479"
+    ]
+  }
+]

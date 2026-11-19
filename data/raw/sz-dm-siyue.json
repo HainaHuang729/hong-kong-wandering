@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237940077,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12449937169,
+    "lat": "22.5490166",
+    "lon": "114.1145929",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "思月书院",
+    "display_name": "思月书院, 二横街, 东门商业步行街, 城东社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5489666",
+      "22.5490666",
+      "114.1145429",
+      "114.1146429"
+    ]
+  }
+]

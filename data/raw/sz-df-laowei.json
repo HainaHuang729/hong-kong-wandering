@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237307552,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 248181078,
+    "lat": "22.6112600",
+    "lon": "114.1306956",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "residential",
+    "name": "老围西一巷",
+    "display_name": "老围西一巷, 大芬油画村, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6112245",
+      "22.6112665",
+      "114.1302572",
+      "114.1311333"
+    ]
+  },
+  {
+    "place_id": 237406534,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 724857953,
+    "lat": "22.6125512",
+    "lon": "114.1321311",
+    "class": "highway",
+    "type": "service",
+    "place_rank": 27,
+    "importance": 0.040070299076829165,
+    "addresstype": "road",
+    "name": "老围东六巷",
+    "display_name": "老围东六巷, 大芬油画村, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6124686",
+      "22.6126411",
+      "114.1315663",
+      "114.1326957"
+    ]
+  },
+  {
+    "place_id": 234926935,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1041948327,
+    "lat": "22.6118652",
+    "lon": "114.1313523",
+    "class": "highway",
+    "type": "service",
+    "place_rank": 27,
+    "importance": 0.040070299076829165,
+    "addresstype": "road",
+    "name": "老围西三巷",
+    "display_name": "老围西三巷, 大芬油画村, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6117653",
+      "22.6119651",
+      "114.1309695",
+      "114.1317351"
+    ]
+  },
+  {
+    "place_id": 236804480,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1041948329,
+    "lat": "22.6115640",
+    "lon": "114.1314448",
+    "class": "highway",
+    "type": "service",
+    "place_rank": 27,
+    "importance": 0.040070299076829165,
+    "addresstype": "road",
+    "name": "老围西一巷",
+    "display_name": "老围西一巷, 大芬油画村, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6114720",
+      "22.6116561",
+      "114.1310583",
+      "114.1318312"
+    ]
+  },
+  {
+    "place_id": 234304263,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1041948328,
+    "lat": "22.6117080",
+    "lon": "114.1314006",
+    "class": "highway",
+    "type": "service",
+    "place_rank": 27,
+    "importance": 0.040070299076829165,
+    "addresstype": "road",
+    "name": "老围西二巷",
+    "display_name": "老围西二巷, 大芬油画村, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6116158",
+      "22.6118002",
+      "114.1310148",
+      "114.1317864"
+    ]
+  }
+]

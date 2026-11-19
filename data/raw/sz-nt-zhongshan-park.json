@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237229520,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10210996804,
+    "lat": "22.5496509",
+    "lon": "113.9184616",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40567491777443077,
+    "addresstype": "railway",
+    "name": "中山公园",
+    "display_name": "中山公园, 南山大道, 马家龙社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5446509",
+      "22.5546509",
+      "113.9134616",
+      "113.9234616"
+    ]
+  },
+  {
+    "place_id": 237160048,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 203270341,
+    "lat": "22.5511528",
+    "lon": "113.9138268",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.10540294855860563,
+    "addresstype": "park",
+    "name": "中山公园",
+    "display_name": "中山公园, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5468605",
+      "22.5551787",
+      "113.9095228",
+      "113.9182235"
+    ]
+  }
+]

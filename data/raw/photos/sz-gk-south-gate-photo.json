@@ -1,0 +1,1439 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "163077103": {
+        "pageid": 163077103,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 01.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5744506,
+            "width": 3024,
+            "height": 2591,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 823,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 823,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077103",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658428",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.099708",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 17:56:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077104": {
+        "pageid": 163077104,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 02.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12671321,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077104",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Prayer trees|Self-published work|Files with coordinates missing SDC location of creation|Pink flowers in Shenzhen|March 2025 in Longgang District, Shenzhen|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658861",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.099961",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:02:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077102": {
+        "pageid": 163077102,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 03.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10464851,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077102",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658811",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.100419",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:03:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077108": {
+        "pageid": 163077108,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 04.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10592810,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077108",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658786",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.100539",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:03:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077110": {
+        "pageid": 163077110,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 05.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11685068,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077110",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Tiled roofs in Shenzhen|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658925",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.100328",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:05:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077111": {
+        "pageid": 163077111,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 06.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 30822678,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077111",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658925",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.100128",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:06:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077115": {
+        "pageid": 163077115,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 07.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 27181737,
+            "width": 6048,
+            "height": 8064,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077115",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658969",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.100106",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:07:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077113": {
+        "pageid": 163077113,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 08.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8757041,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_08.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077113",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 08",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Diaolou, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.659100",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.099381",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:12:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077114": {
+        "pageid": 163077114,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 09.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10151327,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077114",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:37:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.659117",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.099364",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:12:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077116": {
+        "pageid": 163077116,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 10.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10748993,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_10.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077116",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:38:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 10",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658914",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.099861",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:14:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163077119": {
+        "pageid": 163077119,
+        "ns": 6,
+        "title": "File:Gankeng Historic Hakka Town (Shenzhen) 11.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9870571,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg/960px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg/1920px-Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Gankeng_Historic_Hakka_Town_%28Shenzhen%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gankeng_Historic_Hakka_Town_(Shenzhen)_11.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163077119",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-01 19:38:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen) 11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.658850",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.099906",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gankeng Historic Hakka Town (Shenzhen)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-12 18:16:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ubahnverleih\" title=\"User:Ubahnverleih\">Ubahnverleih</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163144332": {
+        "pageid": 163144332,
+        "ns": 6,
+        "title": "File:SZ Shenzhen Longgang JiHua Ganli Road Gankeng Ancient Town n Gankeng Hakka Town sign n visitors April 2025 R12S 01.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7093723,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg/960px-SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg/1920px-SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg/960px-SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg/1920px-SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Longgang_JiHua_Ganli_Road_Gankeng_Ancient_Town_n_Gankeng_Hakka_Town_sign_n_visitors_April_2025_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163144332",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-03 17:24:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ Shenzhen Longgang JiHua Ganli Road Gankeng Ancient Town n Gankeng Hakka Town sign n visitors April 2025 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Young women of China|CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Young women of China in 2025|Children of China in 2025|April 2025 in Longgang District, Shenzhen|Young people of China in 2025|Gankeng Ancient Town, Shenzhen - Visitors|Gankeng Ancient Town, Shenzhen - Signs|2025 in Gankeng Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.656953",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.100310",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ Shenzhen Longgang JiHua Ganli Road Gankeng Ancient Town n Gankeng Hakka Town sign in April 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-04-03 13:17:25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:TIADMEAEYPM\" title=\"User:TIADMEAEYPM\">TIADMEAEYPM</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

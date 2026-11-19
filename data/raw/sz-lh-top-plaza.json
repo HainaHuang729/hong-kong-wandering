@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237292837,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 41281446,
+    "lat": "22.5566275",
+    "lon": "114.0532386",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.3966620202275504,
+    "addresstype": "park",
+    "name": "莲花山公园",
+    "display_name": "莲花山公园, 6030, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5509741",
+      "22.5623765",
+      "114.0441904",
+      "114.0623191"
+    ]
+  }
+]

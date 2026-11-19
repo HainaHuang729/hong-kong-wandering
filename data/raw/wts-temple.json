@@ -1,0 +1,33 @@
+[
+  {
+    "place_id": 237190187,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 343575243,
+    "lat": "22.3421820",
+    "lon": "114.1948307",
+    "category": "place",
+    "type": "square",
+    "place_rank": 25,
+    "importance": 0.06673268558785381,
+    "addresstype": "square",
+    "name": "黃大仙廣場 Wong Tai Sin Square",
+    "display_name": "黃大仙廣場 Wong Tai Sin Square, 鳳凰新村 Fung Wong New Village, 黃大仙 Wong Tai Sin, 黃大仙區 Wong Tai Sin District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "address": {
+      "square": "黃大仙廣場 Wong Tai Sin Square",
+      "neighbourhood": "鳳凰新村 Fung Wong New Village",
+      "suburb": "黃大仙 Wong Tai Sin",
+      "region": "九龍 Kowloon",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.3418475",
+      "22.3423641",
+      "114.1943932",
+      "114.1953074"
+    ]
+  }
+]

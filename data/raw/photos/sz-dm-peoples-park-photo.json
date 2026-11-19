@@ -1,0 +1,2982 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "142055351": {
+        "pageid": 142055351,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (56).jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12232502,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/SHENZHEN_PEOPLE%27S_PARK_%2856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(56).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142055351",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 02:48:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (56)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon EF 16–35mm F4L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556117",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111953",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-11 14:00:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142055353": {
+        "pageid": 142055353,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (57).jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13706680,
+            "width": 5464,
+            "height": 8192,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1439,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1439,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/SHENZHEN_PEOPLE%27S_PARK_%2857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(57).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142055353",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 02:48:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (57)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon EF 16–35mm F4L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556275",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111832",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-11 14:01:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142055362": {
+        "pageid": 142055362,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (58).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14693297,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/SHENZHEN_PEOPLE%27S_PARK_%2858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(58).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142055362",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 02:52:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (58)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon EF 16–35mm F4L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556293",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111808",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-11 14:01:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142055416": {
+        "pageid": 142055416,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (66).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11056813,
+            "width": 5464,
+            "height": 8192,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1439,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1439,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SHENZHEN_PEOPLE%27S_PARK_%2866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(66).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142055416",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 02:53:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (66)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556293",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111352",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-11 14:14:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142055417": {
+        "pageid": 142055417,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (65).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12169592,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SHENZHEN_PEOPLE%27S_PARK_%2865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(65).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142055417",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 02:53:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (65)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556343",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111633",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-11 14:13:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "156587580": {
+        "pageid": 156587580,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (123).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14596909,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/SHENZHEN_PEOPLE%27S_PARK_%28123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(123).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156587580",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-12 09:19:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (123)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555998",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111512",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-12 09:43:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "156587586": {
+        "pageid": 156587586,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (124).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13549191,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SHENZHEN_PEOPLE%27S_PARK_%28124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(124).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156587586",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-12 09:19:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (124)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555892",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111633",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-12 09:43:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "156587587": {
+        "pageid": 156587587,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (125).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15949027,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/SHENZHEN_PEOPLE%27S_PARK_%28125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(125).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156587587",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-12 09:19:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (125)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555908",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111625",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-12 09:43:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "156587591": {
+        "pageid": 156587591,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (126).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16152151,
+            "width": 8192,
+            "height": 3933,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 461,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 461,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/SHENZHEN_PEOPLE%27S_PARK_%28126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(126).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156587591",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-12 09:19:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (126)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555868",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111580",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-12 09:45:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165048105": {
+        "pageid": 165048105,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (137).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10945272,
+            "width": 5464,
+            "height": 8192,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1439,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1439,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SHENZHEN_PEOPLE%27S_PARK_%28137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(137).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165048105",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-11 11:23:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (137)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Files with coordinates missing SDC location of creation|China photographs taken on 2025-05-11|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555772",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111678",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-11 14:02:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "179285385": {
+        "pageid": 179285385,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (153).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16479868,
+            "width": 5218,
+            "height": 6748,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1241,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1241,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/SHENZHEN_PEOPLE%27S_PARK_%28153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(153).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179285385",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-02 01:39:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (153)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|December 2025 in Shenzhen|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen|Guangdong photographs taken on 2025-12-01",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556245",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111885",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-12-01 14:12:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "179285390": {
+        "pageid": 179285390,
+        "ns": 6,
+        "title": "File:SHENZHEN PEOPLE'S PARK (154).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15130897,
+            "width": 7054,
+            "height": 4191,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 570,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg/960px-SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 570,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg/1920px-SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SHENZHEN_PEOPLE%27S_PARK_%28154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SHENZHEN_PEOPLE%27S_PARK_(154).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179285390",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-02 01:39:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SHENZHEN PEOPLE'S PARK (154)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|December 2025 in Shenzhen|Taken with Canon RF 24-70mm F2.8L IS USM|People's Park, Shenzhen|Guangdong photographs taken on 2025-12-01",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556145",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111923",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-12-01 14:13:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "179287037": {
+        "pageid": 179287037,
+        "ns": 6,
+        "title": "File:Asclepias curassavica in China.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6256843,
+            "width": 6874,
+            "height": 4349,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Asclepias_curassavica_in_China.jpg/960px-Asclepias_curassavica_in_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 607,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Asclepias_curassavica_in_China.jpg/1920px-Asclepias_curassavica_in_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Asclepias_curassavica_in_China.jpg/960px-Asclepias_curassavica_in_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 607,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Asclepias_curassavica_in_China.jpg/1920px-Asclepias_curassavica_in_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Asclepias_curassavica_in_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Asclepias_curassavica_in_China.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179287037",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-02 02:20:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Asclepias curassavica in China",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Self-published work|Files with coordinates missing SDC location of creation|December 2025 in Shenzhen|Taken with Canon RF 24-70mm F2.8L IS USM|Asclepias curassavica (flowers)|Guangdong photographs taken on 2025-12-01",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556320",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111710",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Asclepias curassavica in China",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-12-01 14:13:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403639": {
+        "pageid": 186403639,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (36).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8145193,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(36).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403639",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (36)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified white Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555782",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111373",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:57:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403640": {
+        "pageid": 186403640,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (35).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5760812,
+            "width": 5283,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 993,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 993,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(35).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403640",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (35)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified pink Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555788",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111373",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:57:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403642": {
+        "pageid": 186403642,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (34).jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5679226,
+            "width": 5590,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 938,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 938,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(34).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403642",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (34)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Files with coordinates missing SDC location of creation|Unidentified pink and yellow Rosa cultivars|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555788",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111382",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:57:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403643": {
+        "pageid": 186403643,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (37).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6140570,
+            "width": 6022,
+            "height": 4953,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 790,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 790,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(37).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403643",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (37)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified apricot Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555782",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111373",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:57:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403646": {
+        "pageid": 186403646,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (27).jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10769894,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(27).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403646",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (27)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified pink Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555782",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111352",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:55:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403647": {
+        "pageid": 186403647,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (28).jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11463505,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(28).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403647",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (28)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified pink Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555782",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111352",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:56:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403648": {
+        "pageid": 186403648,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (29).jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9638115,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(29).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403648",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (29)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified pink Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555782",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111352",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:56:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403651": {
+        "pageid": 186403651,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (30).jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7111260,
+            "width": 6533,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 803,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 803,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(30).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403651",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:20:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (30)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Files with coordinates missing SDC location of creation|Unidentified yellow Rosa cultivars|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555790",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111352",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:56:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403653": {
+        "pageid": 186403653,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (32).jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12324959,
+            "width": 5464,
+            "height": 8192,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1439,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1439,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(32).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403653",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:21:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (32)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified pink Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555802",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111352",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:56:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403655": {
+        "pageid": 186403655,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (31).jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6966135,
+            "width": 5738,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 914,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 914,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(31).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403655",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:21:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (31)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Files with coordinates missing SDC location of creation|Unidentified yellow Rosa cultivars|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555790",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111352",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:56:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186403657": {
+        "pageid": 186403657,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (33).jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5033245,
+            "width": 5886,
+            "height": 4487,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 732,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 732,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(33).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186403657",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:21:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (33)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Files with coordinates missing SDC location of creation|Unidentified pink and yellow Rosa cultivars|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555788",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111382",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 10:57:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186405173": {
+        "pageid": 186405173,
+        "ns": 6,
+        "title": "File:ROSE IN SHENZHEN PEOPLE'S PARK (81).jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10905025,
+            "width": 8192,
+            "height": 5464,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg/960px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg/1920px-ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_%2881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROSE_IN_SHENZHEN_PEOPLE%27S_PARK_(81).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186405173",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-18 12:50:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK (81)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS R5|Taken with Canon EF 100mm F2.8L Macro IS USM|Self-published work|Unidentified pink Rosa cultivars|Unidentified white Rosa cultivars|Files with coordinates missing SDC location of creation|People's Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.555808",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.111732",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ROSE IN SHENZHEN PEOPLE'S PARK",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-18 11:21:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

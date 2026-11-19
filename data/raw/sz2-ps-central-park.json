@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237942813,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9035726632,
+    "lat": "22.7045781",
+    "lon": "114.3434244",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "坪山中心公园",
+    "display_name": "坪山中心公园, 大工业区中心广场, 山吓, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.7045281",
+      "22.7046281",
+      "114.3433744",
+      "114.3434744"
+    ]
+  },
+  {
+    "place_id": 238085210,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9035726633,
+    "lat": "22.7045019",
+    "lon": "114.3430694",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "坪山中心公园",
+    "display_name": "坪山中心公园, 和安路, 正坑, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.7044519",
+      "22.7045519",
+      "114.3430194",
+      "114.3431194"
+    ]
+  }
+]

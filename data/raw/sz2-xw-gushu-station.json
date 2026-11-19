@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237199909,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8916622542,
+    "lat": "22.6053710",
+    "lon": "113.8409656",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "固戍地铁站北",
+    "display_name": "固戍地铁站北, 宝安大道辅路, 解放村, 固戍社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6053210",
+      "22.6054210",
+      "113.8409156",
+      "113.8410156"
+    ]
+  },
+  {
+    "place_id": 237353967,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8916622540,
+    "lat": "22.6023009",
+    "lon": "113.8431182",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "固戍地铁站",
+    "display_name": "固戍地铁站, 宝安大道辅路, 解放村, 固戍社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6022509",
+      "22.6023509",
+      "113.8430682",
+      "113.8431682"
+    ]
+  }
+]

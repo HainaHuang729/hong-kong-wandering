@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237949890,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 64896107,
+    "lat": "22.5439704",
+    "lon": "114.0823445",
+    "class": "building",
+    "type": "commercial",
+    "place_rank": 30,
+    "importance": 0.44050461830476045,
+    "addresstype": "building",
+    "name": "赛格广场",
+    "display_name": "赛格广场, 1002, 华强北路, 深铁汇坊（华强北站）, 福强社区, 华强北街道, 福田区, 深圳市, 广东省, 518031, 中国",
+    "boundingbox": [
+      "22.5437201",
+      "22.5444003",
+      "114.0819729",
+      "114.0827140"
+    ]
+  },
+  {
+    "place_id": 238015475,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8602557894,
+    "lat": "22.5430223",
+    "lon": "114.0827710",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "赛格广场",
+    "display_name": "赛格广场, 深南中路, 南园社区, 南园街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5429723",
+      "22.5430723",
+      "114.0827210",
+      "114.0828210"
+    ]
+  },
+  {
+    "place_id": 237995485,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8602557893,
+    "lat": "22.5433302",
+    "lon": "114.0822303",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "赛格广场",
+    "display_name": "赛格广场, 华强路步行街, 深铁汇坊（华强北站）, 华航社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5432802",
+      "22.5433802",
+      "114.0821803",
+      "114.0822803"
+    ]
+  }
+]

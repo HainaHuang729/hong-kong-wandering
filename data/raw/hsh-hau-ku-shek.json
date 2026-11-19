@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 234796072,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 185460579,
+    "lat": "22.5109865",
+    "lon": "114.1089042",
+    "class": "building",
+    "type": "temple",
+    "place_rank": 30,
+    "importance": 0.3263790596244939,
+    "addresstype": "building",
+    "name": "居石侯公祠 Hau Ku Shek Ancestral Hall",
+    "display_name": "居石侯公祠 Hau Ku Shek Ancestral Hall, E6, 河上鄉 Ho Sheung Heung, 北區 North District, 新界 New Territories, 香港 Hong Kong, 518010, 中国",
+    "boundingbox": [
+      "22.5108924",
+      "22.5110806",
+      "114.1087374",
+      "114.1090710"
+    ]
+  }
+]

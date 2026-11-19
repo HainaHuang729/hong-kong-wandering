@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237218134,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 208849572,
+    "lat": "22.3392038",
+    "lon": "114.1603741",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "building",
+    "name": "廉潔樓 Lim Kit House",
+    "display_name": "廉潔樓 Lim Kit House, 廣利道 Kwong Lee Road, 李鄭屋 Li Cheng Uk, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3390113",
+      "22.3393784",
+      "114.1598701",
+      "114.1607041"
+    ]
+  },
+  {
+    "place_id": 234671009,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 445053617,
+    "lat": "22.3414484",
+    "lon": "114.1552887",
+    "class": "office",
+    "type": "government",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "office",
+    "name": "蘇屋邨辦事處 So Uk Estate Management Office",
+    "display_name": "蘇屋邨辦事處 So Uk Estate Management Office, 蘭花街 Orchid Street, 蘇屋邨 So Uk Estate, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3412667",
+      "22.3416959",
+      "114.1550077",
+      "114.1555176"
+    ]
+  },
+  {
+    "place_id": 237010920,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 208697427,
+    "lat": "22.3403482",
+    "lon": "114.1582411",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "building",
+    "name": "入境事務處李鄭屋員佐級職員宿舍 Immigration Department Lei Cheng Uk Rank and File Staff Quarters",
+    "display_name": "入境事務處李鄭屋員佐級職員宿舍 Immigration Department Lei Cheng Uk Rank and File Staff Quarters, 40, 文發街 Man Fat Street, 李鄭屋 Li Cheng Uk, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3402380",
+      "22.3404782",
+      "114.1581140",
+      "114.1583698"
+    ]
+  },
+  {
+    "place_id": 234627736,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 445056396,
+    "lat": "22.3414289",
+    "lon": "114.1572737",
+    "class": "amenity",
+    "type": "post_office",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "amenity",
+    "name": "蘇屋郵政局 So Uk Post Office",
+    "display_name": "蘇屋郵政局 So Uk Post Office, 蘭花街 Orchid Street, 蘇屋邨 So Uk Estate, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3413642",
+      "22.3415072",
+      "114.1571816",
+      "114.1573967"
+    ]
+  },
+  {
+    "place_id": 237178405,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9878952177,
+    "lat": "22.3397402",
+    "lon": "114.1572334",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "蘇屋邨海棠樓 Begonia House, So Uk Estate",
+    "display_name": "蘇屋邨海棠樓 Begonia House, So Uk Estate, 長發街 Cheung Fat Street, 李鄭屋 Li Cheng Uk, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3396902",
+      "22.3397902",
+      "114.1571834",
+      "114.1572834"
+    ]
+  }
+]

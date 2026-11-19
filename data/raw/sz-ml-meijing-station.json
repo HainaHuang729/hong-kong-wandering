@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 238096146,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3434031748,
+    "lat": "22.5635799",
+    "lon": "114.0329144",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 0.39951314662297394,
+    "addresstype": "railway",
+    "name": "梅景",
+    "display_name": "梅景, 梅林路, 下梅社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5635299",
+      "22.5636299",
+      "114.0328644",
+      "114.0329644"
+    ]
+  },
+  {
+    "place_id": 236993691,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062301331,
+    "lat": "22.5635951",
+    "lon": "114.0329297",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.39951314662297394,
+    "addresstype": "railway",
+    "name": "梅景",
+    "display_name": "梅景, 梅林路, 下梅社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5585951",
+      "22.5685951",
+      "114.0279297",
+      "114.0379297"
+    ]
+  }
+]

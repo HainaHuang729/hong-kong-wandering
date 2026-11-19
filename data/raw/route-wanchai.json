@@ -1,0 +1,2113 @@
+{
+  "code": "Ok",
+  "routes": [
+    {
+      "legs": [
+        {
+          "steps": [
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    84
+                  ],
+                  "location": [
+                    114.172855,
+                    22.277628
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.172855,
+                    22.277628
+                  ],
+                  [
+                    114.173054,
+                    22.277649
+                  ],
+                  [
+                    114.173368,
+                    22.277683
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 84,
+                "bearing_before": 0,
+                "location": [
+                  114.172855,
+                  22.277628
+                ],
+                "type": "depart"
+              },
+              "name": "軒尼詩道 Hennessy Road",
+              "mode": "walking",
+              "weight": 6.65,
+              "duration": 42.6,
+              "distance": 53.2
+            },
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    270
+                  ],
+                  "location": [
+                    114.173368,
+                    22.277683
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173362,
+                    22.277747
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173368,
+                    22.277683
+                  ],
+                  [
+                    114.173362,
+                    22.277747
+                  ],
+                  [
+                    114.173361,
+                    22.277767
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 354,
+                "bearing_before": 82,
+                "location": [
+                  114.173368,
+                  22.277683
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "柯布連道 O'Brien Road",
+              "mode": "walking",
+              "weight": 0.77,
+              "duration": 7.5,
+              "distance": 9.3
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    180,
+                    330
+                  ],
+                  "location": [
+                    114.173361,
+                    22.277767
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173361,
+                    22.277767
+                  ],
+                  [
+                    114.173329,
+                    22.277789
+                  ],
+                  [
+                    114.17331,
+                    22.277936
+                  ],
+                  [
+                    114.173307,
+                    22.277959
+                  ],
+                  [
+                    114.173253,
+                    22.277954
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 333,
+                "bearing_before": 357,
+                "location": [
+                  114.173361,
+                  22.277767
+                ],
+                "modifier": "slight left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 2.51,
+              "duration": 23,
+              "distance": 28.7
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    120,
+                    180
+                  ],
+                  "location": [
+                    114.173253,
+                    22.277954
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    180,
+                    300
+                  ],
+                  "location": [
+                    114.173257,
+                    22.277923
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173288,
+                    22.277372
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    180,
+                    345
+                  ],
+                  "location": [
+                    114.173326,
+                    22.277024
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173351,
+                    22.276796
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173253,
+                    22.277954
+                  ],
+                  [
+                    114.173257,
+                    22.277923
+                  ],
+                  [
+                    114.173312,
+                    22.277445
+                  ],
+                  [
+                    114.173288,
+                    22.277372
+                  ],
+                  [
+                    114.173294,
+                    22.277288
+                  ],
+                  [
+                    114.173305,
+                    22.277204
+                  ],
+                  [
+                    114.173326,
+                    22.277024
+                  ],
+                  [
+                    114.17333,
+                    22.276998
+                  ],
+                  [
+                    114.173351,
+                    22.2768
+                  ],
+                  [
+                    114.173351,
+                    22.276796
+                  ],
+                  [
+                    114.173351,
+                    22.276793
+                  ],
+                  [
+                    114.173362,
+                    22.276716
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 172,
+                "bearing_before": 302,
+                "location": [
+                  114.173253,
+                  22.277954
+                ],
+                "modifier": "sharp left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 11.76,
+              "duration": 110.7,
+              "distance": 138.2
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    255
+                  ],
+                  "location": [
+                    114.173362,
+                    22.276716
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    75,
+                    180
+                  ],
+                  "location": [
+                    114.173314,
+                    22.27671
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    255
+                  ],
+                  "location": [
+                    114.173316,
+                    22.276691
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173362,
+                    22.276716
+                  ],
+                  [
+                    114.173329,
+                    22.276712
+                  ],
+                  [
+                    114.173314,
+                    22.27671
+                  ],
+                  [
+                    114.173316,
+                    22.276691
+                  ],
+                  [
+                    114.173302,
+                    22.276689
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 261,
+                "bearing_before": 171,
+                "location": [
+                  114.173362,
+                  22.276716
+                ],
+                "modifier": "right",
+                "type": "end of road"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 0.72,
+              "duration": 6.8,
+              "distance": 8.6
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    75,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173302,
+                    22.276689
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    165,
+                    270
+                  ],
+                  "location": [
+                    114.173309,
+                    22.27663
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    180,
+                    270,
+                    345
+                  ],
+                  "location": [
+                    114.173314,
+                    22.276599
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    165,
+                    270
+                  ],
+                  "location": [
+                    114.173321,
+                    22.276544
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173302,
+                    22.276689
+                  ],
+                  [
+                    114.173309,
+                    22.27663
+                  ],
+                  [
+                    114.173314,
+                    22.276599
+                  ],
+                  [
+                    114.173316,
+                    22.276581
+                  ],
+                  [
+                    114.173319,
+                    22.276558
+                  ],
+                  [
+                    114.173321,
+                    22.276544
+                  ],
+                  [
+                    114.173328,
+                    22.276501
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 172,
+                "bearing_before": 260,
+                "location": [
+                  114.173302,
+                  22.276689
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 1.75,
+              "duration": 17,
+              "distance": 21
+            },
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    270,
+                    345
+                  ],
+                  "location": [
+                    114.173328,
+                    22.276501
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173569,
+                    22.276524
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 3,
+                  "entry": [
+                    true,
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173596,
+                    22.276527
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173328,
+                    22.276501
+                  ],
+                  [
+                    114.173569,
+                    22.276524
+                  ],
+                  [
+                    114.173596,
+                    22.276527
+                  ],
+                  [
+                    114.173618,
+                    22.276529
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 82,
+                "bearing_before": 170,
+                "location": [
+                  114.173328,
+                  22.276501
+                ],
+                "modifier": "left",
+                "type": "end of road"
+              },
+              "name": "莊士敦道 Johnston Road",
+              "mode": "walking",
+              "weight": 2.5,
+              "duration": 24,
+              "distance": 30
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173618,
+                    22.276529
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180
+                  ],
+                  "location": [
+                    114.17364,
+                    22.276332
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173715,
+                    22.275649
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.17372,
+                    22.275612
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173723,
+                    22.275568
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173618,
+                    22.276529
+                  ],
+                  [
+                    114.17364,
+                    22.276332
+                  ],
+                  [
+                    114.173715,
+                    22.275649
+                  ],
+                  [
+                    114.17372,
+                    22.275612
+                  ],
+                  [
+                    114.173723,
+                    22.275568
+                  ],
+                  [
+                    114.173726,
+                    22.275553
+                  ],
+                  [
+                    114.173733,
+                    22.275487
+                  ],
+                  [
+                    114.173741,
+                    22.275415
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 172,
+                "bearing_before": 84,
+                "location": [
+                  114.173618,
+                  22.276529
+                ],
+                "modifier": "right",
+                "type": "turn"
+              },
+              "name": "石水渠街 Stone Nullah Lane",
+              "mode": "walking",
+              "weight": 10.4,
+              "duration": 99.2,
+              "distance": 124
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    150,
+                    210
+                  ],
+                  "location": [
+                    114.173741,
+                    22.275415
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173741,
+                    22.275415
+                  ],
+                  [
+                    114.173758,
+                    22.275416
+                  ],
+                  [
+                    114.173762,
+                    22.275382
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 149,
+                "bearing_before": 172,
+                "location": [
+                  114.173741,
+                  22.275415
+                ],
+                "modifier": "slight left",
+                "type": "fork"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 0.47,
+              "duration": 4.4,
+              "distance": 5.5
+            },
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    210,
+                    330
+                  ],
+                  "location": [
+                    114.173762,
+                    22.275382
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173762,
+                    22.275382
+                  ],
+                  [
+                    114.173941,
+                    22.275397
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 84,
+                "bearing_before": 149,
+                "location": [
+                  114.173762,
+                  22.275382
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 1.54,
+              "duration": 14.8,
+              "distance": 18.5
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    15,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.173941,
+                    22.275397
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    180,
+                    330
+                  ],
+                  "location": [
+                    114.173956,
+                    22.274975
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.174011,
+                    22.274507
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.174006,
+                    22.274411
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    180
+                  ],
+                  "location": [
+                    114.174004,
+                    22.274344
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    150,
+                    270
+                  ],
+                  "location": [
+                    114.174006,
+                    22.274306
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    195,
+                    270
+                  ],
+                  "location": [
+                    114.174073,
+                    22.274037
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    90,
+                    180,
+                    270
+                  ],
+                  "location": [
+                    114.17407,
+                    22.274016
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173941,
+                    22.275397
+                  ],
+                  [
+                    114.173938,
+                    22.275379
+                  ],
+                  [
+                    114.173934,
+                    22.275333
+                  ],
+                  [
+                    114.173956,
+                    22.274975
+                  ],
+                  [
+                    114.173965,
+                    22.274896
+                  ],
+                  [
+                    114.174009,
+                    22.274547
+                  ],
+                  [
+                    114.174011,
+                    22.274529
+                  ],
+                  [
+                    114.174011,
+                    22.274507
+                  ],
+                  [
+                    114.17401,
+                    22.274487
+                  ],
+                  [
+                    114.174006,
+                    22.274411
+                  ],
+                  [
+                    114.174004,
+                    22.274362
+                  ],
+                  [
+                    114.174004,
+                    22.274344
+                  ],
+                  [
+                    114.174004,
+                    22.274328
+                  ],
+                  [
+                    114.174006,
+                    22.274306
+                  ],
+                  [
+                    114.174017,
+                    22.274279
+                  ],
+                  [
+                    114.174059,
+                    22.27422
+                  ],
+                  [
+                    114.174069,
+                    22.274169
+                  ],
+                  [
+                    114.174073,
+                    22.274037
+                  ],
+                  [
+                    114.17407,
+                    22.274016
+                  ],
+                  [
+                    114.174067,
+                    22.273992
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 182,
+                "bearing_before": 84,
+                "location": [
+                  114.173941,
+                  22.275397
+                ],
+                "modifier": "right",
+                "type": "turn"
+              },
+              "name": "灣仔道 Wan Chai Road",
+              "mode": "walking",
+              "weight": 13.14,
+              "duration": 126.1,
+              "distance": 157.7
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    195,
+                    270
+                  ],
+                  "location": [
+                    114.174067,
+                    22.273992
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.174067,
+                    22.273992
+                  ],
+                  [
+                    114.174145,
+                    22.273993
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 88,
+                "bearing_before": 185,
+                "location": [
+                  114.174067,
+                  22.273992
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "景星街 King Sing Street",
+              "mode": "walking",
+              "weight": 0.68,
+              "duration": 6.5,
+              "distance": 8
+            },
+            {
+              "intersections": [
+                {
+                  "in": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    269
+                  ],
+                  "location": [
+                    114.174145,
+                    22.273993
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.174145,
+                    22.273993
+                  ],
+                  [
+                    114.174145,
+                    22.273993
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 0,
+                "bearing_before": 89,
+                "location": [
+                  114.174145,
+                  22.273993
+                ],
+                "modifier": "right",
+                "type": "arrive"
+              },
+              "name": "景星街 King Sing Street",
+              "mode": "walking",
+              "weight": 0,
+              "duration": 0,
+              "distance": 0
+            }
+          ],
+          "weight": 52.89,
+          "summary": "石水渠街 Stone Nullah Lane, 灣仔道 Wan Chai Road",
+          "duration": 482.6,
+          "distance": 602.8
+        },
+        {
+          "steps": [
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    269
+                  ],
+                  "location": [
+                    114.174145,
+                    22.273993
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.174145,
+                    22.273993
+                  ],
+                  [
+                    114.174067,
+                    22.273992
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 269,
+                "bearing_before": 0,
+                "location": [
+                  114.174145,
+                  22.273993
+                ],
+                "modifier": "left",
+                "type": "depart"
+              },
+              "name": "景星街 King Sing Street",
+              "mode": "walking",
+              "weight": 0.68,
+              "duration": 6.5,
+              "distance": 8
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    195,
+                    270
+                  ],
+                  "location": [
+                    114.174067,
+                    22.273992
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    120,
+                    195,
+                    300
+                  ],
+                  "location": [
+                    114.174013,
+                    22.273853
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    120,
+                    195,
+                    300
+                  ],
+                  "location": [
+                    114.174005,
+                    22.273833
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    120,
+                    195,
+                    300
+                  ],
+                  "location": [
+                    114.173997,
+                    22.273813
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    105,
+                    195,
+                    285
+                  ],
+                  "location": [
+                    114.173875,
+                    22.273525
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    105,
+                    195,
+                    285
+                  ],
+                  "location": [
+                    114.173865,
+                    22.273502
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    105,
+                    210,
+                    285
+                  ],
+                  "location": [
+                    114.173857,
+                    22.273483
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    30,
+                    165,
+                    300
+                  ],
+                  "location": [
+                    114.173744,
+                    22.27323
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.174067,
+                    22.273992
+                  ],
+                  [
+                    114.174013,
+                    22.273853
+                  ],
+                  [
+                    114.174005,
+                    22.273833
+                  ],
+                  [
+                    114.173997,
+                    22.273813
+                  ],
+                  [
+                    114.173875,
+                    22.273525
+                  ],
+                  [
+                    114.173865,
+                    22.273502
+                  ],
+                  [
+                    114.173857,
+                    22.273483
+                  ],
+                  [
+                    114.173744,
+                    22.27323
+                  ],
+                  [
+                    114.173755,
+                    22.273204
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 199,
+                "bearing_before": 268,
+                "location": [
+                  114.174067,
+                  22.273992
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "石水渠街 Stone Nullah Lane",
+              "mode": "walking",
+              "weight": 7.83,
+              "duration": 75.1,
+              "distance": 93.8
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    105,
+                    210,
+                    345
+                  ],
+                  "location": [
+                    114.173755,
+                    22.273204
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    30,
+                    105,
+                    210,
+                    315
+                  ],
+                  "location": [
+                    114.173741,
+                    22.273182
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    30,
+                    105,
+                    195,
+                    330
+                  ],
+                  "location": [
+                    114.17373,
+                    22.273162
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    195,
+                    300
+                  ],
+                  "location": [
+                    114.173703,
+                    22.273095
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    195,
+                    300
+                  ],
+                  "location": [
+                    114.173681,
+                    22.273037
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173755,
+                    22.273204
+                  ],
+                  [
+                    114.173741,
+                    22.273182
+                  ],
+                  [
+                    114.17373,
+                    22.273162
+                  ],
+                  [
+                    114.173703,
+                    22.273095
+                  ],
+                  [
+                    114.173681,
+                    22.273037
+                  ],
+                  [
+                    114.173668,
+                    22.273004
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 209,
+                "bearing_before": 157,
+                "location": [
+                  114.173755,
+                  22.273204
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 2.01,
+              "duration": 19.2,
+              "distance": 23.9
+            },
+            {
+              "intersections": [
+                {
+                  "in": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    20
+                  ],
+                  "location": [
+                    114.173668,
+                    22.273004
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.173668,
+                    22.273004
+                  ],
+                  [
+                    114.173668,
+                    22.273004
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 0,
+                "bearing_before": 200,
+                "location": [
+                  114.173668,
+                  22.273004
+                ],
+                "modifier": "left",
+                "type": "arrive"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 0,
+              "duration": 0,
+              "distance": 0
+            }
+          ],
+          "weight": 10.52,
+          "summary": "景星街 King Sing Street, 石水渠街 Stone Nullah Lane",
+          "duration": 100.8,
+          "distance": 125.8
+        }
+      ],
+      "weight_name": "routability",
+      "geometry": {
+        "coordinates": [
+          [
+            114.172855,
+            22.277628
+          ],
+          [
+            114.173054,
+            22.277649
+          ],
+          [
+            114.173368,
+            22.277683
+          ],
+          [
+            114.173362,
+            22.277747
+          ],
+          [
+            114.173361,
+            22.277767
+          ],
+          [
+            114.173329,
+            22.277789
+          ],
+          [
+            114.17331,
+            22.277936
+          ],
+          [
+            114.173307,
+            22.277959
+          ],
+          [
+            114.173253,
+            22.277954
+          ],
+          [
+            114.173257,
+            22.277923
+          ],
+          [
+            114.173312,
+            22.277445
+          ],
+          [
+            114.173288,
+            22.277372
+          ],
+          [
+            114.173294,
+            22.277288
+          ],
+          [
+            114.173305,
+            22.277204
+          ],
+          [
+            114.173326,
+            22.277024
+          ],
+          [
+            114.17333,
+            22.276998
+          ],
+          [
+            114.173351,
+            22.2768
+          ],
+          [
+            114.173351,
+            22.276796
+          ],
+          [
+            114.173351,
+            22.276793
+          ],
+          [
+            114.173362,
+            22.276716
+          ],
+          [
+            114.173329,
+            22.276712
+          ],
+          [
+            114.173314,
+            22.27671
+          ],
+          [
+            114.173316,
+            22.276691
+          ],
+          [
+            114.173302,
+            22.276689
+          ],
+          [
+            114.173309,
+            22.27663
+          ],
+          [
+            114.173314,
+            22.276599
+          ],
+          [
+            114.173316,
+            22.276581
+          ],
+          [
+            114.173319,
+            22.276558
+          ],
+          [
+            114.173321,
+            22.276544
+          ],
+          [
+            114.173328,
+            22.276501
+          ],
+          [
+            114.173569,
+            22.276524
+          ],
+          [
+            114.173596,
+            22.276527
+          ],
+          [
+            114.173618,
+            22.276529
+          ],
+          [
+            114.17364,
+            22.276332
+          ],
+          [
+            114.173715,
+            22.275649
+          ],
+          [
+            114.17372,
+            22.275612
+          ],
+          [
+            114.173723,
+            22.275568
+          ],
+          [
+            114.173726,
+            22.275553
+          ],
+          [
+            114.173733,
+            22.275487
+          ],
+          [
+            114.173741,
+            22.275415
+          ],
+          [
+            114.173758,
+            22.275416
+          ],
+          [
+            114.173762,
+            22.275382
+          ],
+          [
+            114.173941,
+            22.275397
+          ],
+          [
+            114.173938,
+            22.275379
+          ],
+          [
+            114.173934,
+            22.275333
+          ],
+          [
+            114.173956,
+            22.274975
+          ],
+          [
+            114.173965,
+            22.274896
+          ],
+          [
+            114.174009,
+            22.274547
+          ],
+          [
+            114.174011,
+            22.274529
+          ],
+          [
+            114.174011,
+            22.274507
+          ],
+          [
+            114.17401,
+            22.274487
+          ],
+          [
+            114.174006,
+            22.274411
+          ],
+          [
+            114.174004,
+            22.274362
+          ],
+          [
+            114.174004,
+            22.274344
+          ],
+          [
+            114.174004,
+            22.274328
+          ],
+          [
+            114.174006,
+            22.274306
+          ],
+          [
+            114.174017,
+            22.274279
+          ],
+          [
+            114.174059,
+            22.27422
+          ],
+          [
+            114.174069,
+            22.274169
+          ],
+          [
+            114.174073,
+            22.274037
+          ],
+          [
+            114.17407,
+            22.274016
+          ],
+          [
+            114.174067,
+            22.273992
+          ],
+          [
+            114.174145,
+            22.273993
+          ],
+          [
+            114.174067,
+            22.273992
+          ],
+          [
+            114.174013,
+            22.273853
+          ],
+          [
+            114.174005,
+            22.273833
+          ],
+          [
+            114.173997,
+            22.273813
+          ],
+          [
+            114.173875,
+            22.273525
+          ],
+          [
+            114.173865,
+            22.273502
+          ],
+          [
+            114.173857,
+            22.273483
+          ],
+          [
+            114.173744,
+            22.27323
+          ],
+          [
+            114.173755,
+            22.273204
+          ],
+          [
+            114.173741,
+            22.273182
+          ],
+          [
+            114.17373,
+            22.273162
+          ],
+          [
+            114.173703,
+            22.273095
+          ],
+          [
+            114.173681,
+            22.273037
+          ],
+          [
+            114.173668,
+            22.273004
+          ]
+        ],
+        "type": "LineString"
+      },
+      "weight": 63.41,
+      "duration": 583.4,
+      "distance": 728.6
+    }
+  ],
+  "waypoints": [
+    {
+      "hint": "ao-Ng1fGiJECAQAAjAMAAJcBAAChAQAANCClQVM9kUKdUQJCDoUFQqUAAABFAgAABQEAAAsBAAB4AAAAtyPOBvztUwG8I84G0O1TAQIAfxAAAAAA",
+      "location": [
+        114.172855,
+        22.277628
+      ],
+      "name": "軒尼詩道 Hennessy Road",
+      "distance": 4.899470686
+    },
+    {
+      "hint": "mrO7m52zu5tmAQAARAAAAAAAAAAAAAAAF1MsQiiiAEEAAAAAAAAAAFgBAABBAAAAAAAAAAAAAAB4AAAAwSjOBsnfUwHCKM4Gat9TAQAA3xAAAAAA",
+      "location": [
+        114.174145,
+        22.273993
+      ],
+      "name": "景星街 King Sing Street",
+      "distance": 10.52023505
+    },
+    {
+      "hint": "E7BnjqmqCJLHAAAAIQAAAAAAAAAAAAAAu0O_QRwYeUAAAAAAAAAAAL4AAAAgAAAAAAAAAAAAAAB4AAAA5CbOBuzbUwGFJ84GtttTAQAAPwEAAAAA",
+      "location": [
+        114.173668,
+        22.273004
+      ],
+      "name": "",
+      "distance": 17.63752879
+    }
+  ]
+}

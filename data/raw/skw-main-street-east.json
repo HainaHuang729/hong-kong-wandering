@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237892917,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 86501883,
+    "lat": "22.2774137",
+    "lon": "114.2299878",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "residential",
+    "name": "筲箕灣東大街 Shau Kei Wan Main Street East",
+    "display_name": "筲箕灣東大街 Shau Kei Wan Main Street East, 愛秩序灣 Aldrich Bay, 筲箕灣 Shau Kei Wan, 東區 Eastern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2770484",
+      "22.2777880",
+      "114.2297833",
+      "114.2301058"
+    ]
+  }
+]

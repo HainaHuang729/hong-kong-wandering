@@ -1,0 +1,3012 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "8285553": {
+        "pageid": 8285553,
+        "ns": 6,
+        "title": "File:Shek O Bus Terminus 1.jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4691483,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shek_O_Bus_Terminus_1.jpg/960px-Shek_O_Bus_Terminus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shek_O_Bus_Terminus_1.jpg/1920px-Shek_O_Bus_Terminus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shek_O_Bus_Terminus_1.jpg/960px-Shek_O_Bus_Terminus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shek_O_Bus_Terminus_1.jpg/1920px-Shek_O_Bus_Terminus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Shek_O_Bus_Terminus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Bus_Terminus_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8285553",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-10-28 12:32:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Bus Terminus 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Fujifilm FinePix F100fd|Shek O Bus Terminus|License migration redundant|NWFB Route 9|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230603",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251160",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/minghong/3917483744/\">Photo of Shek O Bus Terminus</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-09-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Minghong\" title=\"User:Minghong\">Minghong</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27698057": {
+        "pageid": 27698057,
+        "ns": 6,
+        "title": "File:Hong Kong 04475.JPG",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3743101,
+            "width": 4912,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hong_Kong_04475.JPG/960px-Hong_Kong_04475.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hong_Kong_04475.JPG/1920px-Hong_Kong_04475.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hong_Kong_04475.JPG/960px-Hong_Kong_04475.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hong_Kong_04475.JPG/1920px-Hong_Kong_04475.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hong_Kong_04475.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_04475.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27698057",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-13 17:04:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong 04475",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony SLT-A55V|Shek O|Files with coordinates missing SDC location of creation|People photographing in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230662",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251165",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 12:30:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Sebastian Wallroth",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "CC-BY-3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Sebastian Wallroth",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27698070": {
+        "pageid": 27698070,
+        "ns": 6,
+        "title": "File:Hong Kong 04476.JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3820837,
+            "width": 4912,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hong_Kong_04476.JPG/960px-Hong_Kong_04476.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hong_Kong_04476.JPG/1920px-Hong_Kong_04476.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hong_Kong_04476.JPG/960px-Hong_Kong_04476.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hong_Kong_04476.JPG/1920px-Hong_Kong_04476.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hong_Kong_04476.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_04476.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27698070",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-13 17:04:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong 04476",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony SLT-A55V|Shek O|Shek O Bus Terminus|Files with coordinates missing SDC location of creation|People photographing in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230735",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251165",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 12:30:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Sebastian Wallroth",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "CC-BY-3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Sebastian Wallroth",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "38562616": {
+        "pageid": 38562616,
+        "ns": 6,
+        "title": "File:Shek O Baptist Chapel (Hong Kong).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5903137,
+            "width": 3888,
+            "height": 5184,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg/960px-Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg/1920px-Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg/960px-Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg/1920px-Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Shek_O_Baptist_Chapel_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Baptist_Chapel_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38562616",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-02-24 02:19:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Baptist Chapel (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-HX300|Shek O|Romanization of Cantonese|Self-published work|Files with coordinates missing SDC location of creation|Churches in Southern District, Hong Kong|2015 photographs of Hong Kong by Mk2010|Baptist Convention of Hong Kong churches|Baptist chapels in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230540",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.252580",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Shek O Baptist Chapel, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-02-20 16:22:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "39201866": {
+        "pageid": 39201866,
+        "ns": 6,
+        "title": "File:Shek O Tin Hau Temple, wooden plaque with inscriptions (Hong Kong).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5800542,
+            "width": 5086,
+            "height": 3814,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/960px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/1920px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/960px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/1920px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Tin_Hau_Temple,_wooden_plaque_with_inscriptions_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39201866",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-03-25 13:31:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Tin Hau Temple, wooden plaque with inscriptions (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Inscribed boards|Tin Hau Temple, Shek O|Self-published work|Files with coordinates missing SDC location of creation|2015 photographs of Hong Kong by Mk2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230600",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.252090",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A wooden plaque with inscriptions in the Shek O Tin Hau Temple, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-02-20 16:32:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "74622298": {
+        "pageid": 74622298,
+        "ns": 6,
+        "title": "File:3841 at Shek O (20181124134940).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8367845,
+            "width": 4430,
+            "height": 2905,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/3841_at_Shek_O_%2820181124134940%29.jpg/960px-3841_at_Shek_O_%2820181124134940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 630,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/3841_at_Shek_O_%2820181124134940%29.jpg/1920px-3841_at_Shek_O_%2820181124134940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/3841_at_Shek_O_%2820181124134940%29.jpg/960px-3841_at_Shek_O_%2820181124134940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 630,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/3841_at_Shek_O_%2820181124134940%29.jpg/1920px-3841_at_Shek_O_%2820181124134940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/3841_at_Shek_O_%2820181124134940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:3841_at_Shek_O_(20181124134940).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74622298",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-11-24 12:32:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "3841 at Shek O (20181124134940)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O Bus Terminus|NWFB Route 9|Self-published work|Letters UW on vehicle registration plates|Number 6901 on vehicle registration plates|Number 3841 on buses|2018 film posters|Green, orange, white buses|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2018-11-24|Alexander Dennis Enviro400 buses of New World First Bus|Buses taken with Canon PowerShot SX60 HS|Buses in Hong Kong photographed in November 2018",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230650",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251153",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Mortal Engines</i> - hey another film banner on my return trip.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-11-24 13:49:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "74622299": {
+        "pageid": 74622299,
+        "ns": 6,
+        "title": "File:3855 at Shek O (20181124124251).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8226503,
+            "width": 4359,
+            "height": 2905,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/3855_at_Shek_O_%2820181124124251%29.jpg/960px-3855_at_Shek_O_%2820181124124251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/3855_at_Shek_O_%2820181124124251%29.jpg/1920px-3855_at_Shek_O_%2820181124124251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/3855_at_Shek_O_%2820181124124251%29.jpg/960px-3855_at_Shek_O_%2820181124124251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/3855_at_Shek_O_%2820181124124251%29.jpg/1920px-3855_at_Shek_O_%2820181124124251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/3855_at_Shek_O_%2820181124124251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:3855_at_Shek_O_(20181124124251).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74622299",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-11-24 12:32:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "3855 at Shek O (20181124124251)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O Bus Terminus|NWFB Route 9|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2018-11-24|Alexander Dennis Enviro400 buses of New World First Bus|Buses taken with Canon PowerShot SX60 HS|Buses in Hong Kong photographed in November 2018",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230650",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251153",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Ralph Breaks the Internet</i> at the great south!",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-11-24 12:42:51",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102125080": {
+        "pageid": 102125080,
+        "ns": 6,
+        "title": "File:Shek O Beach (51062082093).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6041757,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Beach_%2851062082093%29.jpg/960px-Shek_O_Beach_%2851062082093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Beach_%2851062082093%29.jpg/1920px-Shek_O_Beach_%2851062082093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Beach_%2851062082093%29.jpg/960px-Shek_O_Beach_%2851062082093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Beach_%2851062082093%29.jpg/1920px-Shek_O_Beach_%2851062082093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shek_O_Beach_%2851062082093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Beach_(51062082093).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102125080",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-22 16:18:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Beach (51062082093)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O Beach|Hong Kong photographs taken on 2020-01-04|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Raita Futo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.229944",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.252183",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "石澳泳灘",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "4 January 2020, 15:40 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/raita/51062082093/\">Shek O Beach</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/128275472@N07\">Raita Futo</a> from Tokyo, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "152715423": {
+        "pageid": 152715423,
+        "ns": 6,
+        "title": "File:Shek O Village Sitting-out Area 2024.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4093459,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Shek_O_Village_Sitting-out_Area_2024.jpg/960px-Shek_O_Village_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Shek_O_Village_Sitting-out_Area_2024.jpg/1920px-Shek_O_Village_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Shek_O_Village_Sitting-out_Area_2024.jpg/960px-Shek_O_Village_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Shek_O_Village_Sitting-out_Area_2024.jpg/1920px-Shek_O_Village_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Shek_O_Village_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Village_Sitting-out_Area_2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152715423",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-16 12:46:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Village Sitting-out Area 2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|September 2024 in Southern District, Hong Kong|2024 in Shek O|Shek O Village Sitting-out Area",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230213",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.252272",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​石澳村休憩處，位於石澳的休憩處。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-09-12 10:55:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tombus20032000&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tombus20032000 (page does not exist)\">Tombus20032000</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153085889": {
+        "pageid": 153085889,
+        "ns": 6,
+        "title": "File:Shek O Beach Sitting-out Area 2024.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4840680,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Shek_O_Beach_Sitting-out_Area_2024.jpg/960px-Shek_O_Beach_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Shek_O_Beach_Sitting-out_Area_2024.jpg/1920px-Shek_O_Beach_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Shek_O_Beach_Sitting-out_Area_2024.jpg/960px-Shek_O_Beach_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Shek_O_Beach_Sitting-out_Area_2024.jpg/1920px-Shek_O_Beach_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Shek_O_Beach_Sitting-out_Area_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Beach_Sitting-out_Area_2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153085889",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-24 13:27:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Beach Sitting-out Area 2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|2024 in Shek O|Shek O Beach Sitting-out Area",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230050",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251533",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​石澳泳灘休憩處，位於石澳的休憩處。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-09-12 11:18:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tombus20032000&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tombus20032000 (page does not exist)\">Tombus20032000</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153778142": {
+        "pageid": 153778142,
+        "ns": 6,
+        "title": "File:Shek O Village Road 2024.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4476242,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_Village_Road_2024.jpg/960px-Shek_O_Village_Road_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_Village_Road_2024.jpg/1920px-Shek_O_Village_Road_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_Village_Road_2024.jpg/960px-Shek_O_Village_Road_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_Village_Road_2024.jpg/1920px-Shek_O_Village_Road_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Shek_O_Village_Road_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Village_Road_2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153778142",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-10-11 02:21:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Village Road 2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|September 2024 in Southern District, Hong Kong|Streets in Shek O|2024 in Shek O|Shek O Village Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230244",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251563",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​石澳村路，位於石澳的街道。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-09-12 10:54:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tombus20032000&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tombus20032000 (page does not exist)\">Tombus20032000</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203013733": {
+        "pageid": 203013733,
+        "ns": 6,
+        "title": "File:3847 CTB 9 09-11-2026.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2597520,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/3847_CTB_9_09-11-2026.jpg/960px-3847_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/3847_CTB_9_09-11-2026.jpg/1920px-3847_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/3847_CTB_9_09-11-2026.jpg/960px-3847_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/3847_CTB_9_09-11-2026.jpg/1920px-3847_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/3847_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:3847_CTB_9_09-11-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203013733",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:46:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "3847 CTB 9 09-11-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Citybus Route 9|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230639",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251175",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:13:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014487": {
+        "pageid": 203014487,
+        "ns": 6,
+        "title": "File:Shek O Cheung Poon Kee 09-11-2026.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5237484,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Shek_O_Cheung_Poon_Kee_09-11-2026.jpg/960px-Shek_O_Cheung_Poon_Kee_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Shek_O_Cheung_Poon_Kee_09-11-2026.jpg/1920px-Shek_O_Cheung_Poon_Kee_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Shek_O_Cheung_Poon_Kee_09-11-2026.jpg/960px-Shek_O_Cheung_Poon_Kee_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Shek_O_Cheung_Poon_Kee_09-11-2026.jpg/1920px-Shek_O_Cheung_Poon_Kee_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Shek_O_Cheung_Poon_Kee_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Cheung_Poon_Kee_09-11-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014487",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Cheung Poon Kee 09-11-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Restaurants in Hong Kong|Shek O|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230219",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251472",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:15:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014494": {
+        "pageid": 203014494,
+        "ns": 6,
+        "title": "File:Shek O Road 09-11-2026(5).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6376724,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shek_O_Road_09-11-2026%285%29.jpg/960px-Shek_O_Road_09-11-2026%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shek_O_Road_09-11-2026%285%29.jpg/1920px-Shek_O_Road_09-11-2026%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shek_O_Road_09-11-2026%285%29.jpg/960px-Shek_O_Road_09-11-2026%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shek_O_Road_09-11-2026%285%29.jpg/1920px-Shek_O_Road_09-11-2026%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Shek_O_Road_09-11-2026%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Road_09-11-2026(5).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014494",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Road 09-11-2026(5)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O Road|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230606",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251153",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:14:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014496": {
+        "pageid": 203014496,
+        "ns": 6,
+        "title": "File:Shek O Road 09-11-2026(6).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4477726,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Shek_O_Road_09-11-2026%286%29.jpg/960px-Shek_O_Road_09-11-2026%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Shek_O_Road_09-11-2026%286%29.jpg/1920px-Shek_O_Road_09-11-2026%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Shek_O_Road_09-11-2026%286%29.jpg/960px-Shek_O_Road_09-11-2026%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Shek_O_Road_09-11-2026%286%29.jpg/1920px-Shek_O_Road_09-11-2026%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Shek_O_Road_09-11-2026%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Road_09-11-2026(6).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014496",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Road 09-11-2026(6)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O Road|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230597",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251153",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:14:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014497": {
+        "pageid": 203014497,
+        "ns": 6,
+        "title": "File:Shek O Shing Kee Store 09-11-2026.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4958746,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Shek_O_Shing_Kee_Store_09-11-2026.jpg/960px-Shek_O_Shing_Kee_Store_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Shek_O_Shing_Kee_Store_09-11-2026.jpg/1920px-Shek_O_Shing_Kee_Store_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Shek_O_Shing_Kee_Store_09-11-2026.jpg/960px-Shek_O_Shing_Kee_Store_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Shek_O_Shing_Kee_Store_09-11-2026.jpg/1920px-Shek_O_Shing_Kee_Store_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Shek_O_Shing_Kee_Store_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Shing_Kee_Store_09-11-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014497",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Shing Kee Store 09-11-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230628",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251167",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:14:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014501": {
+        "pageid": 203014501,
+        "ns": 6,
+        "title": "File:Shek O some restaurents 09-11-2026(1).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4990013,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Shek_O_some_restaurents_09-11-2026%281%29.jpg/960px-Shek_O_some_restaurents_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Shek_O_some_restaurents_09-11-2026%281%29.jpg/1920px-Shek_O_some_restaurents_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Shek_O_some_restaurents_09-11-2026%281%29.jpg/960px-Shek_O_some_restaurents_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Shek_O_some_restaurents_09-11-2026%281%29.jpg/1920px-Shek_O_some_restaurents_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Shek_O_some_restaurents_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_some_restaurents_09-11-2026(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014501",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O some restaurents 09-11-2026(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230006",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251419",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:15:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014505": {
+        "pageid": 203014505,
+        "ns": 6,
+        "title": "File:Shek O Tai Restaurant 09-11-2026(1).jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4649910,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg/960px-Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg/1920px-Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg/960px-Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg/1920px-Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Shek_O_Tai_Restaurant_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Tai_Restaurant_09-11-2026(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014505",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Tai Restaurant 09-11-2026(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230333",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251494",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:14:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014512": {
+        "pageid": 203014512,
+        "ns": 6,
+        "title": "File:Shek O Village Road 09-11-2026.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4783492,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Shek_O_Village_Road_09-11-2026.jpg/960px-Shek_O_Village_Road_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Shek_O_Village_Road_09-11-2026.jpg/1920px-Shek_O_Village_Road_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Shek_O_Village_Road_09-11-2026.jpg/960px-Shek_O_Village_Road_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Shek_O_Village_Road_09-11-2026.jpg/1920px-Shek_O_Village_Road_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Shek_O_Village_Road_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Village_Road_09-11-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014512",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Village Road 09-11-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Warning road signs in Hong Kong|Files with coordinates missing SDC location of creation|Shek O Village Road|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230261",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251511",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:15:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203014513": {
+        "pageid": 203014513,
+        "ns": 6,
+        "title": "File:Shek O Tai Restaurant 09-11-2026(2).jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5686374,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg/960px-Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg/1920px-Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg/960px-Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg/1920px-Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Shek_O_Tai_Restaurant_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Tai_Restaurant_09-11-2026(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203014513",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 13:54:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Tai Restaurant 09-11-2026(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230336",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251481",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:14:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203015673": {
+        "pageid": 203015673,
+        "ns": 6,
+        "title": "File:Shek O Beach Sitting-out Area 09-11-2026(1).jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8956336,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg/960px-Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg/1920px-Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg/960px-Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg/1920px-Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Shek_O_Beach_Sitting-out_Area_09-11-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Beach_Sitting-out_Area_09-11-2026(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203015673",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 14:10:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Beach Sitting-out Area 09-11-2026(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Fences in Hong Kong|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09|Shek O Beach Sitting-out Area",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230161",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251481",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:32:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203015674": {
+        "pageid": 203015674,
+        "ns": 6,
+        "title": "File:Shek O Beach Sitting-out Area 09-11-2026(2).jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7647250,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg/960px-Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg/1920px-Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg/960px-Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg/1920px-Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Shek_O_Beach_Sitting-out_Area_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Beach_Sitting-out_Area_09-11-2026(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203015674",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 14:10:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Beach Sitting-out Area 09-11-2026(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Fences in Hong Kong|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09|Shek O Beach Sitting-out Area",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230081",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251411",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:31:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203015689": {
+        "pageid": 203015689,
+        "ns": 6,
+        "title": "File:Shek O some restaurents 09-11-2026(4).jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5931314,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_some_restaurents_09-11-2026%284%29.jpg/960px-Shek_O_some_restaurents_09-11-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_some_restaurents_09-11-2026%284%29.jpg/1920px-Shek_O_some_restaurents_09-11-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_some_restaurents_09-11-2026%284%29.jpg/960px-Shek_O_some_restaurents_09-11-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Shek_O_some_restaurents_09-11-2026%284%29.jpg/1920px-Shek_O_some_restaurents_09-11-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Shek_O_some_restaurents_09-11-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_some_restaurents_09-11-2026(4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203015689",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 14:10:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O some restaurents 09-11-2026(4)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shek O|Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230139",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251319",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:31:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203016803": {
+        "pageid": 203016803,
+        "ns": 6,
+        "title": "File:3843 CTB 9 09-11-2026.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2476051,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/3843_CTB_9_09-11-2026.jpg/960px-3843_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/3843_CTB_9_09-11-2026.jpg/1920px-3843_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/3843_CTB_9_09-11-2026.jpg/960px-3843_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/3843_CTB_9_09-11-2026.jpg/1920px-3843_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/3843_CTB_9_09-11-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:3843_CTB_9_09-11-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203016803",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 14:29:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "3843 CTB 9 09-11-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Citybus Route 9|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230644",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251183",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:33:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203016805": {
+        "pageid": 203016805,
+        "ns": 6,
+        "title": "File:3843 CTB 9 09-11-2026(2).jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2480460,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/3843_CTB_9_09-11-2026%282%29.jpg/960px-3843_CTB_9_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/3843_CTB_9_09-11-2026%282%29.jpg/1920px-3843_CTB_9_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/3843_CTB_9_09-11-2026%282%29.jpg/960px-3843_CTB_9_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/3843_CTB_9_09-11-2026%282%29.jpg/1920px-3843_CTB_9_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/3843_CTB_9_09-11-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:3843_CTB_9_09-11-2026(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203016805",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-09 14:29:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "3843 CTB 9 09-11-2026(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Citybus Route 9|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-11-09",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230606",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.251161",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在石澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-09 17:38:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

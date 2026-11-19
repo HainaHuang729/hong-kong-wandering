@@ -1,0 +1,35 @@
+[
+  {
+    "place_id": 237010230,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1084568866,
+    "lat": "22.2484015",
+    "lon": "114.2143974",
+    "category": "tourism",
+    "type": "picnic_site",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "tourism",
+    "name": "大潭篤水塘燒烤區三號場 Tai Tam Tuk Reservoir Barbecue Area Site 3",
+    "display_name": "大潭篤水塘燒烤區三號場 Tai Tam Tuk Reservoir Barbecue Area Site 3, 大潭水塘道 Tai Tam Reservoir Road, 大潭篤 Tai Tam Tuk, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "address": {
+      "tourism": "大潭篤水塘燒烤區三號場 Tai Tam Tuk Reservoir Barbecue Area Site 3",
+      "road": "大潭水塘道 Tai Tam Reservoir Road",
+      "quarter": "大潭篤 Tai Tam Tuk",
+      "suburb": "南區 Southern District",
+      "city_district": "香港島 Hong Kong Island",
+      "city": "香港 Hong Kong",
+      "region": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2482217",
+      "22.2485079",
+      "114.2140442",
+      "114.2147352"
+    ]
+  }
+]

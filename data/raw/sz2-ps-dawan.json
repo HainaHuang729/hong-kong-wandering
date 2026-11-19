@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236784231,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 784652604,
+    "lat": "22.6837721",
+    "lon": "114.3378900",
+    "category": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "大万世居",
+    "display_name": "大万世居, 均田路, 大万, 马峦街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6832863",
+      "22.6845549",
+      "114.3371397",
+      "114.3385419"
+    ]
+  },
+  {
+    "place_id": 237173799,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9017484235,
+    "lat": "22.6827749",
+    "lon": "114.3373633",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "大万世居",
+    "display_name": "大万世居, 比亚迪路, 大万, 马峦街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6827249",
+      "22.6828249",
+      "114.3373133",
+      "114.3374133"
+    ]
+  }
+]

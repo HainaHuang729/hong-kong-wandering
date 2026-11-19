@@ -1,0 +1,1295 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "50906838": {
+        "pageid": 50906838,
+        "ns": 6,
+        "title": "File:Braemar Hill Road near Choi Sai Woo Park.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9666560,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg/960px-Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg/1920px-Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg/960px-Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg/1920px-Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braemar_Hill_Road_near_Choi_Sai_Woo_Park.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50906838",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-08-26 18:15:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Braemar Hill Road near Choi Sai Woo Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Choi Sai Woo Park|Braemar Hill Road|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Braemar Hill Road in North Point, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-08-23 14:07:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Exploringlife\" class=\"mw-redirect\" title=\"User:Exploringlife\">Exploringlife</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "50784332": {
+        "pageid": 50784332,
+        "ns": 6,
+        "title": "File:Choi Sai Woo Park Entrance Gate 2011.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2645518,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg/960px-Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg/1920px-Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg/960px-Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg/1920px-Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Choi_Sai_Woo_Park_Entrance_Gate_2011.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50784332",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-08-20 16:10:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Choi Sai Woo Park Entrance Gate 2011",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Choi Sai Woo Park|Braemar Hill Road|Self-published work|Chinese gates in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Choi Sai Woo Park Entrance Gate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-07-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "190091840": {
+        "pageid": 190091840,
+        "ns": 6,
+        "title": "File:Choi Sai Woo Park KMB bus stop flag 19-07-2013.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 85319,
+            "width": 720,
+            "height": 960,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Choi_Sai_Woo_Park_KMB_bus_stop_flag_19-07-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Choi_Sai_Woo_Park_KMB_bus_stop_flag_19-07-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Choi_Sai_Woo_Park_KMB_bus_stop_flag_19-07-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Choi_Sai_Woo_Park_KMB_bus_stop_flag_19-07-2013.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=190091840",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-23 07:49:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Choi Sai Woo Park KMB bus stop flag 19-07-2013",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Unidentified bus stops",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在寶馬山拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-07-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1130762": {
+        "pageid": 1130762,
+        "ns": 6,
+        "title": "File:Facilities for Children in Choi Sai Woo Park.JPG",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 662584,
+            "width": 1152,
+            "height": 648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG/960px-Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG/960px-Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Facilities_for_Children_in_Choi_Sai_Woo_Park.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1130762",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-09-02 17:30:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Facilities for Children in Choi Sai Woo Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-LX1|CC-BY-SA-2.5,2.0,1.0|Choi Sai Woo Park|License migration redundant|Self-published work|Photographs taken on 2006-09-02|Children's playgrounds in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Facilities for Children in Choi Sai Woo park, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2 September 2006, 13:44:57 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Own Work, copyleft",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1130769": {
+        "pageid": 1130769,
+        "ns": 6,
+        "title": "File:Facilities for Elders in Choi Sai Woo Park.JPG",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 720724,
+            "width": 1152,
+            "height": 648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG/960px-Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/27/Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG/960px-Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/27/Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Facilities_for_Elders_in_Choi_Sai_Woo_Park.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1130769",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-09-02 17:33:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Facilities for Elders in Choi Sai Woo Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-LX1|CC-BY-SA-2.5,2.0,1.0|Choi Sai Woo Park|License migration redundant|Self-published work|Photographs taken on 2006-09-02|Elderly fitness stations",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Facilities for Elders in Choi Sai Woo park, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2 September 2006, 13:44:47 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Own Work, copyleft",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5647496": {
+        "pageid": 5647496,
+        "ns": 6,
+        "title": "File:HK Choi Sai Woo Park Braemar Hill Road.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1180099,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG/960px-HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG/960px-HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Choi_Sai_Woo_Park_Braemar_Hill_Road.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5647496",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-01-05 13:27:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Choi Sai Woo Park Braemar Hill Road",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|Choi Sai Woo Park|License migration redundant|Self-published work|Hong Kong photographs taken on 2009-01-04|Photographs by Anonymous Hong Kong Photographer 1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​<a href=\"https://zh.wikipedia.org/wiki/%E5%8C%97%E8%A7%92\" class=\"extiw\" title=\"zh:北角\">北角</a><a href=\"https://zh.wikipedia.org/wiki/%E5%AF%B6%E9%A6%AC%E5%B1%B1\" class=\"extiw\" title=\"zh:寶馬山\">寶馬山</a><a href=\"https://zh.wikipedia.org/wiki/%E5%AF%B6%E9%A6%AC%E5%B1%B1%E9%81%93\" class=\"extiw\" title=\"zh:寶馬山道\">寶馬山道</a><a href=\"https://zh.wikipedia.org/wiki/%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:賽西湖公園\">賽西湖公園</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-01-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cbada91&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cbada91 (page does not exist)\">Cbada91</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5647503": {
+        "pageid": 5647503,
+        "ns": 6,
+        "title": "File:HK Choi Sai Woo Park Pacific Palisades Trees Sino Group.JPG",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1171853,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG/960px-HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG/960px-HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Choi_Sai_Woo_Park_Pacific_Palisades_Trees_Sino_Group.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5647503",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-01-05 13:29:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Choi Sai Woo Park Pacific Palisades Trees Sino Group",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|Choi Sai Woo Park|License migration redundant|Self-published work|Hong Kong photographs taken on 2009-01-04|Photographs by Anonymous Hong Kong Photographer 1|Pacific Palisades, Hong Kong|Trees in Eastern District, Hong Kong|Araucaria columnaris in Hong Kong|Children's playgrounds in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E5%8C%97%E8%A7%92\" class=\"extiw\" title=\"zh:北角\">zh:北角</a><a href=\"https://zh.wikipedia.org/wiki/%E5%AF%B6%E9%A6%AC%E5%B1%B1\" class=\"extiw\" title=\"zh:寶馬山\">zh:寶馬山</a>\n<p><a href=\"https://zh.wikipedia.org/wiki/%E5%AF%B6%E9%A6%AC%E5%B1%B1%E8%8A%B1%E5%9C%92\" class=\"extiw\" title=\"zh:寶馬山花園\">寶馬山花園</a>\n</p>\n<a href=\"https://zh.wikipedia.org/wiki/%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:賽西湖公園\">賽西湖公園</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-01-04 16:02:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cbada91&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cbada91 (page does not exist)\">Cbada91</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5647522": {
+        "pageid": 5647522,
+        "ns": 6,
+        "title": "File:HK Cloud View Road Braemar Hill Mansion.JPG",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1172900,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG/960px-HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8f/HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG/960px-HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8f/HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Cloud_View_Road_Braemar_Hill_Mansion.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5647522",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-01-05 13:33:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Cloud View Road Braemar Hill Mansion",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|Choi Sai Woo Park|Braemar Hill Road|License migration redundant|Self-published work|Hong Kong photographs taken on 2009-01-04|Photographs by Anonymous Hong Kong Photographer 1|Exterior of Braemar Hill Mansions|102 (road sign, Hong Kong)|109 (road sign, Hong Kong)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E5%8C%97%E8%A7%92\" class=\"extiw\" title=\"zh:北角\">zh:北角</a><a href=\"https://zh.wikipedia.org/wiki/%E5%AF%B6%E9%A6%AC%E5%B1%B1\" class=\"extiw\" title=\"zh:寶馬山\">zh:寶馬山</a>\n<p><a href=\"https://zh.wikipedia.org/wiki/%E9%9B%B2%E6%99%AF%E9%81%93\" class=\"extiw\" title=\"zh:雲景道\">雲景道</a>遠眺\n</p>\n<a href=\"https://zh.wikipedia.org/wiki/%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%BB%88\" class=\"extiw\" title=\"zh:賽西湖大廈\">賽西湖大廈</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-01-04 15:15:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cbada91&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cbada91 (page does not exist)\">Cbada91</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "32582173": {
+        "pageid": 32582173,
+        "ns": 6,
+        "title": "File:HK North Point Mid-Levels Braemar Hill Road Choi Sai Wo Park n Braemar Hill Mansion Apr-2014.JPG",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2238389,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG/960px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG/1920px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG/960px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG/1920px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_North_Point_Mid-Levels_Braemar_Hill_Road_Choi_Sai_Wo_Park_n_Braemar_Hill_Mansion_Apr-2014.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32582173",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-05-04 23:42:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK North Point Mid-Levels Braemar Hill Road Choi Sai Wo Park n Braemar Hill Mansion Apr-2014",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|2014 in Braemar Hill, Hong Kong|April 2014 in North Point|Photographs by Anonymous Hong Kong Photographer 1|Hong Kong photographs taken on 2014-04-25|Exterior of Braemar Hill Mansions|Facades in North Point|2014 in Braemar Hill Road|2014 in Choi Sai Woo Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Braemar Hill Mansion, Braemar Hill Road, North Point Mid-Levels, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-04-25 13:33:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Yisodsory_Wan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Yisodsory Wan (page does not exist)\">Yisodsory Wan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "32582180": {
+        "pageid": 32582180,
+        "ns": 6,
+        "title": "File:HK North Point Mid-Levels Braemar Hill Road 賽西湖公園 Choi Sai Woo Park Apr-2014 Toyota.JPG",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2751612,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG/960px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG/1920px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG/960px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG/1920px-HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_North_Point_Mid-Levels_Braemar_Hill_Road_%E8%B3%BD%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9C%92_Choi_Sai_Woo_Park_Apr-2014_Toyota.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32582180",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-05-04 23:42:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK North Point Mid-Levels Braemar Hill Road 賽西湖公園 Choi Sai Woo Park Apr-2014 Toyota",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Choi Sai Woo Park|Self-published work|2014 in Braemar Hill, Hong Kong|April 2014 in North Point|Photographs by Anonymous Hong Kong Photographer 1|Hong Kong photographs taken on 2014-04-25|2014 in Braemar Hill Road|2014 in Choi Sai Woo Park|April 2014 in Braemar Hill, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Braemar Hill Road, North Point Mid-Levels, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-04-25 13:33:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Yisodsory_Wan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Yisodsory Wan (page does not exist)\">Yisodsory Wan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1130659": {
+        "pageid": 1130659,
+        "ns": 6,
+        "title": "File:Main Entrance of Choi Sai Woo Park.JPG",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 544020,
+            "width": 864,
+            "height": 648,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Main_Entrance_of_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Main_Entrance_of_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Main_Entrance_of_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Main_Entrance_of_Choi_Sai_Woo_Park.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1130659",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-09-02 17:05:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Main Entrance of Choi Sai Woo Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-LX1|CC-BY-SA-2.5,2.0,1.0|Choi Sai Woo Park|Braemar Hill Road|License migration redundant|Self-published work|Photographs taken on 2006-09-02|Chinese gates in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The main Entrance of Choi Sai Woo Park, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2 September 2006, 13:38:53 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Own Work, copyleft",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1130774": {
+        "pageid": 1130774,
+        "ns": 6,
+        "title": "File:Pavillion in Choi Sai Woo Park.JPG",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 612581,
+            "width": 974,
+            "height": 648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pavillion_in_Choi_Sai_Woo_Park.JPG/960px-Pavillion_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 639,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pavillion_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pavillion_in_Choi_Sai_Woo_Park.JPG/960px-Pavillion_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 639,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pavillion_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pavillion_in_Choi_Sai_Woo_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pavillion_in_Choi_Sai_Woo_Park.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1130774",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-09-02 17:35:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pavillion in Choi Sai Woo Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-LX1|CC-BY-SA-2.5,2.0,1.0|Choi Sai Woo Park|License migration redundant|Self-published work|Photographs taken on 2006-09-02|Pavilions in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The pavillion in Choi Sai Woo park, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2 September 2006, 13:43:30 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Own Work, copyleft",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "place_id": 237523257,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3304192934,
+    "lat": "22.2465500",
+    "lon": "114.2211610",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "大潭水塘(北) Tai Tam Reservoir (North)",
+    "display_name": "大潭水塘(北) Tai Tam Reservoir (North), 大潭道 Tai Tam Road, 大潭篤 Tai Tam Tuk, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "address": {
+      "highway": "大潭水塘(北) Tai Tam Reservoir (North)",
+      "road": "大潭道 Tai Tam Road",
+      "quarter": "大潭篤 Tai Tam Tuk",
+      "suburb": "南區 Southern District",
+      "city_district": "香港島 Hong Kong Island",
+      "city": "香港 Hong Kong",
+      "region": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2465000",
+      "22.2466000",
+      "114.2211110",
+      "114.2212110"
+    ]
+  }
+]

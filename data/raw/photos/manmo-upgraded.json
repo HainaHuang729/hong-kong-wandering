@@ -1,0 +1,860 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "4995305": {
+        "pageid": 4995305,
+        "ns": 6,
+        "title": "File:HK Sheung Wan Man Mo Temple Bowl.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1172052,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/33/HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/33/HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Man_Mo_Temple_Bowl.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4995305",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-10-15 01:41:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan Man Mo Temple Bowl",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|License migration redundant|Self-published work|Hong Kong photographs taken on 2008-10-13|Incense in Hong Kong|Photographs by Anonymous Hong Kong Photographer 1|Interiors of Man Mo Temple, Hollywood Road|2008 in Man Mo Temple, Hollywood Road|Incense burners in Man Mo Temple, Hollywood Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%93\" class=\"extiw\" title=\"zh:荷李活道\">荷李活道</a><a href=\"https://zh.wikipedia.org/wiki/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%96%87%E6%AD%A6%E5%BB%9F\" class=\"extiw\" title=\"zh:東華三院文武廟\">東華三院文武廟</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-10-13 14:31:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Arenece&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Arenece (page does not exist)\">Arenece</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4995292": {
+        "pageid": 4995292,
+        "ns": 6,
+        "title": "File:HK Sheung Wan Man Mo Temple Chinese stone lion 1.JPG",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1194800,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_1.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4995292",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-10-15 01:37:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan Man Mo Temple Chinese stone lion 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|License migration redundant|Self-published work|Hong Kong photographs taken on 2008-10-13|Photographs by Anonymous Hong Kong Photographer 1|2008 in Man Mo Temple, Hollywood Road|Stone lions of Man Mo Temple, Hollywood Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%93\" class=\"extiw\" title=\"zh:荷李活道\">荷李活道</a><a href=\"https://zh.wikipedia.org/wiki/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%96%87%E6%AD%A6%E5%BB%9F\" class=\"extiw\" title=\"zh:東華三院文武廟\">東華三院文武廟</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-10-13 14:32:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Arenece&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Arenece (page does not exist)\">Arenece</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4995294": {
+        "pageid": 4995294,
+        "ns": 6,
+        "title": "File:HK Sheung Wan Man Mo Temple Chinese stone lion 2.JPG",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1185425,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_2.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4995294",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-10-15 01:38:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan Man Mo Temple Chinese stone lion 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|License migration redundant|Self-published work|Hong Kong photographs taken on 2008-10-13|Photographs by Anonymous Hong Kong Photographer 1|2008 in Man Mo Temple, Hollywood Road|Stone lions of Man Mo Temple, Hollywood Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%93\" class=\"extiw\" title=\"zh:荷李活道\">荷李活道</a><a href=\"https://zh.wikipedia.org/wiki/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%96%87%E6%AD%A6%E5%BB%9F\" class=\"extiw\" title=\"zh:東華三院文武廟\">東華三院文武廟</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-10-13 14:32:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Arenece&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Arenece (page does not exist)\">Arenece</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4995297": {
+        "pageid": 4995297,
+        "ns": 6,
+        "title": "File:HK Sheung Wan Man Mo Temple Chinese stone lion 3.JPG",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1176340,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e4/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e4/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Man_Mo_Temple_Chinese_stone_lion_3.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4995297",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-10-15 01:39:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan Man Mo Temple Chinese stone lion 3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|License migration redundant|Self-published work|Hong Kong photographs taken on 2008-10-13|Photographs by Anonymous Hong Kong Photographer 1|Stone lions of Man Mo Temple, Hollywood Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%93\" class=\"extiw\" title=\"zh:荷李活道\">荷李活道</a><a href=\"https://zh.wikipedia.org/wiki/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%96%87%E6%AD%A6%E5%BB%9F\" class=\"extiw\" title=\"zh:東華三院文武廟\">東華三院文武廟</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-10-13 14:33:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Arenece&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Arenece (page does not exist)\">Arenece</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4995288": {
+        "pageid": 4995288,
+        "ns": 6,
+        "title": "File:HK Sheung Wan Man Mo Temple Monday noon 1.JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1184144,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/49/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/49/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_1.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4995288",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-10-15 01:35:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan Man Mo Temple Monday noon 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|License migration redundant|Self-published work|Multilingual signs in Hong Kong|Photographs by Anonymous Hong Kong Photographer 1|Facades of Man Mo Temple, Hollywood Road|Hollywood Road, Sheung Wan|Entrances in Central and Western District|2008 in Man Mo Temple, Hollywood Road|Signs in Man Mo Temple, Hollywood Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">上環</a><a href=\"https://zh.wikipedia.org/wiki/%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%93\" class=\"extiw\" title=\"zh:荷李活道\">荷李活道</a><a href=\"https://zh.wikipedia.org/wiki/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%96%87%E6%AD%A6%E5%BB%9F\" class=\"extiw\" title=\"zh:東華三院文武廟\">東華三院文武廟</a>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Arenece&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Arenece (page does not exist)\">Arenece</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4995308": {
+        "pageid": 4995308,
+        "ns": 6,
+        "title": "File:HK Sheung Wan Man Mo Temple Monday noon 3.JPG",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1186861,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG/960px-HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Man_Mo_Temple_Monday_noon_3.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4995308",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-10-15 01:42:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sheung Wan Man Mo Temple Monday noon 3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z60|FAL|License migration redundant|Self-published work|Hong Kong photographs taken on 2008-10-13|Photographs by Anonymous Hong Kong Photographer 1|Facades of Man Mo Temple, Hollywood Road|Lit Shing Kung",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%92%B0\" class=\"extiw\" title=\"zh:上環\">zh:上環</a><a href=\"https://zh.wikipedia.org/wiki/%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%93\" class=\"extiw\" title=\"zh:荷李活道\">荷李活道</a><a href=\"https://zh.wikipedia.org/wiki/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%96%87%E6%AD%A6%E5%BB%9F\" class=\"extiw\" title=\"zh:東華三院文武廟\">東華三院文武廟</a><br>Lit Shing Kung, one of the 3 buildings in the Man Mo Temple complex in Sheung Wan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-10-13 14:29:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Arenece&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Arenece (page does not exist)\">Arenece</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "114549938": {
+        "pageid": 114549938,
+        "ns": 6,
+        "title": "File:Man Mo Temple 文武廟, Sheung Wan 上環 (6788698822).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 545637,
+            "width": 536,
+            "height": 815,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Man_Mo_Temple_%E6%96%87%E6%AD%A6%E5%BB%9F%2C_Sheung_Wan_%E4%B8%8A%E7%92%B0_%286788698822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1460,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Man_Mo_Temple_%E6%96%87%E6%AD%A6%E5%BB%9F%2C_Sheung_Wan_%E4%B8%8A%E7%92%B0_%286788698822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1460
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Man_Mo_Temple_%E6%96%87%E6%AD%A6%E5%BB%9F%2C_Sheung_Wan_%E4%B8%8A%E7%92%B0_%286788698822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Man_Mo_Temple_%E6%96%87%E6%AD%A6%E5%BB%9F,_Sheung_Wan_%E4%B8%8A%E7%92%B0_(6788698822).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114549938",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-01-23 03:52:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Man Mo Temple 文武廟, Sheung Wan 上環 (6788698822)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Man Mo Temple, Hollywood Road|2001 in Hong Kong|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.284339",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.149923",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>The shadows on this roll of film are very heavy. I guess it was a sunny day...\n</p>\nHK island 香港島.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2001-05-06 00:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joybot/6788698822/\">Man Mo Temple 文武廟, Sheung Wan 上環</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62559061@N06\">Joybot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14652354": {
+        "pageid": 14652354,
+        "ns": 6,
+        "title": "File:上環文武廟.JPG",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 134306,
+            "width": 684,
+            "height": 912,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/%E4%B8%8A%E7%92%B0%E6%96%87%E6%AD%A6%E5%BB%9F.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/%E4%B8%8A%E7%92%B0%E6%96%87%E6%AD%A6%E5%BB%9F.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/%E4%B8%8A%E7%92%B0%E6%96%87%E6%AD%A6%E5%BB%9F.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E7%92%B0%E6%96%87%E6%AD%A6%E5%BB%9F.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14652354",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-06-07 14:49:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "上環文武廟",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Self-published work|Facades of Man Mo Temple, Hollywood Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​上環文武廟",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-02-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E6%96%87%E5%AD%90%E8%A8%80%E6%9C%A8&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:文子言木 (page does not exist)\">文子言木</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

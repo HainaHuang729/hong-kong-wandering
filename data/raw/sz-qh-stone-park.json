@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237459039,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 542328084,
+    "lat": "22.5291392",
+    "lon": "113.8847574",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "前海石公园",
+    "display_name": "前海石公园, 前海合作区, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5264175",
+      "22.5317048",
+      "113.8821308",
+      "113.8867357"
+    ]
+  }
+]

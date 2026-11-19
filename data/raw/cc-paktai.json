@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237720486,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 204534877,
+    "lat": "22.2123543",
+    "lon": "114.0278615",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.319279276758968,
+    "addresstype": "amenity",
+    "name": "北帝廟 Pak Tai Temple",
+    "display_name": "北帝廟 Pak Tai Temple, 北社四里 Pak She Fourth Lane, 長洲 Cheung Chau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2121499",
+      "22.2125658",
+      "114.0276542",
+      "114.0281026"
+    ]
+  }
+]

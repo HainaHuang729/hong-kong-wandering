@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237146314,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 219493684,
+    "lat": "22.5674622",
+    "lon": "114.1144960",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.1507975276546128,
+    "addresstype": "park",
+    "name": "洪湖公园",
+    "display_name": "洪湖公园, 2023号, 笋岗街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5589995",
+      "22.5763197",
+      "114.1118319",
+      "114.1176354"
+    ]
+  }
+]

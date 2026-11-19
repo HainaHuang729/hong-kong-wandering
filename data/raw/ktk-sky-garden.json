@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236925483,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 14878032,
+    "lat": "22.3085063",
+    "lon": "114.2108376",
+    "class": "leisure",
+    "type": "garden",
+    "place_rank": 25,
+    "importance": 0.06673268558785381,
+    "addresstype": "garden",
+    "name": "啟德空中花園 Kai Tak Sky Garden",
+    "display_name": "啟德空中花園 Kai Tak Sky Garden, 啟德跑道區 Kai Tak Runway Area, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3081140",
+      "22.3161948",
+      "114.2031757",
+      "114.2117462"
+    ]
+  }
+]

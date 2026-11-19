@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237979753,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9310728711,
+    "lat": "22.5517929",
+    "lon": "114.0817703",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.41603709239052356,
+    "addresstype": "railway",
+    "name": "华新‎",
+    "display_name": "华新‎, 红荔路, 长城社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5467929",
+      "22.5567929",
+      "114.0767703",
+      "114.0867703"
+    ]
+  },
+  {
+    "place_id": 237271770,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062211266,
+    "lat": "22.5517778",
+    "lon": "114.0816022",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "华新",
+    "display_name": "华新, 华强北路, 长城社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5517278",
+      "22.5518278",
+      "114.0815522",
+      "114.0816522"
+    ]
+  },
+  {
+    "place_id": 237690910,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1657111621,
+    "lat": "22.5519110",
+    "lon": "114.0822094",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "华新",
+    "display_name": "华新, 红荔路, 长城社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5518610",
+      "22.5519610",
+      "114.0821594",
+      "114.0822594"
+    ]
+  }
+]

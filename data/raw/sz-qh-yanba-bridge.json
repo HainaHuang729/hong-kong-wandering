@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237459242,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 774864189,
+    "lat": "22.5373946",
+    "lon": "113.8870454",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "前海石公园桂湾段",
+    "display_name": "前海石公园桂湾段, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5326709",
+      "22.5420845",
+      "113.8857568",
+      "113.8893785"
+    ]
+  }
+]

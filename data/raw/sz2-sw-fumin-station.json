@@ -1,0 +1,128 @@
+[
+  {
+    "place_id": 237347438,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062047168,
+    "lat": "22.5259347",
+    "lon": "114.0596709",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4103179230018307,
+    "addresstype": "railway",
+    "name": "福民",
+    "display_name": "福民, 福民路, 皇岗上围一村, 海滨社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5209347",
+      "22.5309347",
+      "114.0546709",
+      "114.0646709"
+    ]
+  },
+  {
+    "place_id": 237345802,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7920720341,
+    "lat": "22.5278525",
+    "lon": "114.0630578",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4103179230018307,
+    "addresstype": "railway",
+    "name": "福民",
+    "display_name": "福民, 福强路, 海滨社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5228525",
+      "22.5328525",
+      "114.0580578",
+      "114.0680578"
+    ]
+  },
+  {
+    "place_id": 235063882,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062205664,
+    "lat": "22.5259462",
+    "lon": "114.0606395",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4103179230018307,
+    "addresstype": "railway",
+    "name": "福民",
+    "display_name": "福民, 福民路, 海滨社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5209462",
+      "22.5309462",
+      "114.0556395",
+      "114.0656395"
+    ]
+  },
+  {
+    "place_id": 234308736,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1709807032,
+    "lat": "22.5259269",
+    "lon": "114.0596437",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "福民",
+    "display_name": "福民, 金田路, 皇岗上围一村, 皇岗社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5258769",
+      "22.5259769",
+      "114.0595937",
+      "114.0596937"
+    ]
+  },
+  {
+    "place_id": 237367611,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7484117239,
+    "lat": "22.5278503",
+    "lon": "114.0629770",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "福民",
+    "display_name": "福民, 福强路, 海滨社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5278003",
+      "22.5279003",
+      "114.0629270",
+      "114.0630270"
+    ]
+  },
+  {
+    "place_id": 236936241,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062047186,
+    "lat": "22.5259561",
+    "lon": "114.0597712",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "福民",
+    "display_name": "福民, 福民路, 海滨社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5259061",
+      "22.5260061",
+      "114.0597212",
+      "114.0598212"
+    ]
+  }
+]

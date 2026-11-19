@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236646719,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 156335591,
+    "lat": "22.2703561",
+    "lon": "114.1498719",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 30,
+    "importance": 0.36902538090653614,
+    "addresstype": "shop",
+    "name": "山頂廣場 The Peak Galleria",
+    "display_name": "山頂廣場 The Peak Galleria, 118, 山頂道 Peak Road, 山頂 The Peak, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2697455",
+      "22.2709693",
+      "114.1495492",
+      "114.1504950"
+    ]
+  },
+  {
+    "place_id": 236922649,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 26412241,
+    "lat": "22.2700481",
+    "lon": "114.1501528",
+    "class": "shop",
+    "type": "supermarket",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "shop",
+    "name": "ParkNShop (Peak Galleria)",
+    "display_name": "ParkNShop (Peak Galleria), 118, 山頂道 Peak Road, 山頂 The Peak, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2699981",
+      "22.2700981",
+      "114.1501028",
+      "114.1502028"
+    ]
+  }
+]

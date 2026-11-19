@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237842503,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 29703210,
+    "lat": "22.3720347",
+    "lon": "114.1202262",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.3750543179568698,
+    "addresstype": "tourism",
+    "name": "三棟屋博物館 Sam Tung Uk Museum",
+    "display_name": "三棟屋博物館 Sam Tung Uk Museum, 古屋里 Kwu Uk Lane, 石圍角 Shek Wai Kok, 荃灣市中心 Tsuen Wan Town Centre, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3718392",
+      "22.3722302",
+      "114.1200608",
+      "114.1203916"
+    ]
+  }
+]

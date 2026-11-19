@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237027049,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 610762998,
+    "lat": "22.5402263",
+    "lon": "113.9785445",
+    "class": "building",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "生态广场",
+    "display_name": "生态广场, 侨城西街, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5400639",
+      "22.5404017",
+      "113.9783846",
+      "113.9786901"
+    ]
+  },
+  {
+    "place_id": 237175611,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5783888724,
+    "lat": "22.5401654",
+    "lon": "113.9784612",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "生态广场",
+    "display_name": "生态广场, 侨城西街, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5401154",
+      "22.5402154",
+      "113.9784112",
+      "113.9785112"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237321921,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 738082952,
+    "lat": "22.2699360",
+    "lon": "114.1844306",
+    "class": "office",
+    "type": "railway",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "office",
+    "name": "跑馬地總站 Happy Valley Terminus",
+    "display_name": "跑馬地總站 Happy Valley Terminus, 黃泥涌道 Wong Nai Chung Road, 跑馬地 Happy Valley, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2699151",
+      "22.2699569",
+      "114.1844029",
+      "114.1844583"
+    ]
+  },
+  {
+    "place_id": 237192591,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 292205443,
+    "lat": "22.2698375",
+    "lon": "114.1842709",
+    "class": "railway",
+    "type": "tram_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "railway",
+    "name": "跑馬地總站 Happy Valley Terminus",
+    "display_name": "跑馬地總站 Happy Valley Terminus, 黃泥涌道 Wong Nai Chung Road, 跑馬地 Happy Valley, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2697875",
+      "22.2698875",
+      "114.1842209",
+      "114.1843209"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235780044,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 507687002,
+    "lat": "22.2547046",
+    "lon": "113.8621727",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.3294460664555125,
+    "addresstype": "amenity",
+    "name": "關帝古廟 Kwan Tai Temple",
+    "display_name": "關帝古廟 Kwan Tai Temple, 吉慶後街 Kat Hing Back Street, 大澳市中心 Tai O Town Centre, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2546355",
+      "22.2547907",
+      "113.8620914",
+      "113.8622489"
+    ]
+  }
+]

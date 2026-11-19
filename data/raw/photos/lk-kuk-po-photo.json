@@ -1,0 +1,1360 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "151381198": {
+        "pageid": 151381198,
+        "ns": 6,
+        "title": "File:20240810 Mike Tsang HKCEC Po Leung Kuk Gala.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1166402,
+            "width": 1004,
+            "height": 1526,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg/960px-20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1459,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a1/20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg/960px-20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1459,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a1/20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:20240810_Mike_Tsang_HKCEC_Po_Leung_Kuk_Gala.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151381198",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-11 09:48:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "20240810 Mike Tsang HKCEC Po Leung Kuk Gala",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vocalists from China|Men of China|CC-Zero|Men of Hong Kong|Hong Kong Convention and Exhibition Centre|Vocalists from Hong Kong|Po Leung Kuk|Mike Tsang|Self-published work|Files with coordinates missing SDC location of creation|Mike Tsang in 2024",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282878",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.172486",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "2024.08.10 Mike Tsang Pei Tak at the Po Lung Kuk Gala Spectacular concert in Wanchai Hong Kong Convention and Exhibition Centre",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-10 19:51:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Izumi2009&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Izumi2009 (page does not exist)\">Izumi2009</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "78226061": {
+        "pageid": 78226061,
+        "ns": 6,
+        "title": "File:Abandoned Houses in Kukpo.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6808451,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Abandoned_Houses_in_Kukpo.jpg/960px-Abandoned_Houses_in_Kukpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Abandoned_Houses_in_Kukpo.jpg/1920px-Abandoned_Houses_in_Kukpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Abandoned_Houses_in_Kukpo.jpg/960px-Abandoned_Houses_in_Kukpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Abandoned_Houses_in_Kukpo.jpg/1920px-Abandoned_Houses_in_Kukpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Abandoned_Houses_in_Kukpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Abandoned_Houses_in_Kukpo.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78226061",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-04-21 16:21:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Abandoned Houses in Kukpo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with annotations|Bagua (Taoist cosmology)|Kuk Po|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Abandoned Houses in Kukpo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-03-12 12:09:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cheuk_Lachlann&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cheuk Lachlann (page does not exist)\">Cheuk Lachlann</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "127879094": {
+        "pageid": 127879094,
+        "ns": 6,
+        "title": "File:Emblem of the Po Leung Kuk.png",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 312739,
+            "width": 1200,
+            "height": 1250,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Emblem_of_the_Po_Leung_Kuk.png/960px-Emblem_of_the_Po_Leung_Kuk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1000,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/47/Emblem_of_the_Po_Leung_Kuk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Emblem_of_the_Po_Leung_Kuk.png/960px-Emblem_of_the_Po_Leung_Kuk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1000,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/47/Emblem_of_the_Po_Leung_Kuk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Emblem_of_the_Po_Leung_Kuk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Po_Leung_Kuk.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127879094",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-18 12:56:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Emblem of the Po Leung Kuk",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Coats of arms of Hong Kong|PD Hong Kong|Po Leung Kuk|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Po Leung Kuk",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1878-11-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Po Leung Kuk",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Po Leung Kuk",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "140230342": {
+        "pageid": 140230342,
+        "ns": 6,
+        "title": "File:Heung Yee Kuk NT supported the Government of Hong Kong during 1967 riots wk1967-05-26 p10.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 730582,
+            "width": 1182,
+            "height": 1005,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg/960px-Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 816,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg/960px-Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 816,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Heung_Yee_Kuk_NT_supported_the_Government_of_Hong_Kong_during_1967_riots_wk1967-05-26_p10.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=140230342",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-11-06 17:42:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Heung Yee Kuk NT supported the Government of Hong Kong during 1967 riots wk1967-05-26 p10",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hong Kong 1967 riots|PD Hong Kong|Heung Yee Kuk|Works copyrighted in the U.S.|May 1967 in Hong Kong|Newspaper clippings of Wah Kiu Yat Po",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​新界鄉議局、鄉事委員會發表聲明支持香港政府平息左派暴動。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1967-05-26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://mmis.hkpl.gov.hk/\">https://mmis.hkpl.gov.hk/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "華僑日報（Wah Kiu Yat Po）",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12773700": {
+        "pageid": 12773700,
+        "ns": 6,
+        "title": "File:Hong Kong San Po Kong Po Leung Kuk Ho Sau Nan Primary School.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5424823,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG/960px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG/1920px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG/960px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG/1920px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12773700",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-01-22 10:58:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong San Po Kong Po Leung Kuk Ho Sau Nan Primary School",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon PowerShot G9|License migration redundant|Self-published work|Po Leung Kuk Ho Sau Nan Primary School at San Po Kong|January 2011 in San Po Kong|2011 in Wong Tai Sin District|Buildings in San Po Kong|School buildings in Wong Tai Sin District|School buildings in San Po Kong|Yi Lun Street|Buildings in Hong Keung Street|Hong Keung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​香港新蒲崗保良局何壽南小學",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-01-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Will629\" title=\"User:Will629\">Will629</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12773714": {
+        "pageid": 12773714,
+        "ns": 6,
+        "title": "File:Hong Kong San Po Kong Po Leung Kuk Ho Sau Nan Primary School Main Entrance.JPG",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5066757,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG/960px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG/1920px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG/960px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG/1920px-Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_San_Po_Kong_Po_Leung_Kuk_Ho_Sau_Nan_Primary_School_Main_Entrance.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12773714",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-01-22 11:01:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong San Po Kong Po Leung Kuk Ho Sau Nan Primary School Main Entrance",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon PowerShot G9|License migration redundant|Self-published work|Po Leung Kuk Ho Sau Nan Primary School at San Po Kong|Hong Keung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​香港新蒲崗保良局何壽南小學正門",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-01-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Will629\" title=\"User:Will629\">Will629</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "15193322": {
+        "pageid": 15193322,
+        "ns": 6,
+        "title": "File:Po Leung Kuk Castar Primary School (Hong Kong).JPG",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2492070,
+            "width": 2399,
+            "height": 3200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG/960px-Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1281,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG/1920px-Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG/960px-Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1281,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG/1920px-Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Po_Leung_Kuk_Castar_Primary_School_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Po_Leung_Kuk_Castar_Primary_School_(Hong_Kong).JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15193322",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-05-13 14:35:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Po Leung Kuk Castar Primary School (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Fujifilm FinePix F200EXR|Tsing King Road|License migration redundant|Tsing Yi Garden|Self-published work|Hong Kong photographs taken on 2011-05-06|2011 photographs of Hong Kong by Mk2010|Po Leung Kuk Castar Primary School",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Po Leung Kuk Castar Primary School, Tsing Yi, Hong Kong.\n<a rel=\"nofollow\" class=\"external free\" href=\"http://www.plkcastar.edu.hk\">http://www.plkcastar.edu.hk</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-05-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "43576405": {
+        "pageid": 43576405,
+        "ns": 6,
+        "title": "File:Po Leung Kuk Tong Nai Kan Junior Secondary College (Hong Kong).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6000583,
+            "width": 5076,
+            "height": 3806,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg/960px-Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg/1920px-Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg/960px-Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg/1920px-Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Po_Leung_Kuk_Tong_Nai_Kan_Junior_Secondary_College_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43576405",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-09-24 00:36:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Po Leung Kuk Tong Nai Kan Junior Secondary College (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Po Leung Kuk Tong Nai Kan Junior Secondary College|Self-published work|Files with coordinates missing SDC location of creation|2014 photographs of Hong Kong by Mk2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.339120",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.140810",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Po Leung Kuk Tong Nai Kan Junior Secondary College, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-11-11 16:09:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "18365769": {
+        "pageid": 18365769,
+        "ns": 6,
+        "title": "File:Po Leung Kuk Yu Lee Mo Fan Memorial School (Hong Kong).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2546896,
+            "width": 3600,
+            "height": 2395,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg/960px-Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 639,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg/1920px-Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg/960px-Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 639,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg/1920px-Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Po_Leung_Kuk_Yu_Lee_Mo_Fan_Memorial_School_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18365769",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-02-13 03:09:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Po Leung Kuk Yu Lee Mo Fan Memorial School (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony NEX-3|Self-published work|2012 photographs of Hong Kong by Mk2010|Po Leung Kuk Yu Lee Mo Fan Memorial School",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Po Leung Kuk Yu Lee Mo Fan Memorial School, North Point, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-01-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28907034": {
+        "pageid": 28907034,
+        "ns": 6,
+        "title": "File:Po leung Kuk Fung Ching Memorial School (Hong Kong).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4315736,
+            "width": 3139,
+            "height": 2582,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg/960px-Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 790,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg/1920px-Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg/960px-Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 790,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg/1920px-Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Po_leung_Kuk_Fung_Ching_Memorial_School_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Po_leung_Kuk_Fung_Ching_Memorial_School_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28907034",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-10-08 12:12:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Po leung Kuk Fung Ching Memorial School (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Po Leung Kuk Fung Ching Memorial School|Taken with Canon PowerShot SX260 HS|Self-published work|Files with coordinates missing SDC location of creation|2013 photographs of Hong Kong by Mk2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.315280",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.263500",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Po leung Kuk Fung Ching Memorial School",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-02-16 13:58:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "58685071": {
+        "pageid": 58685071,
+        "ns": 6,
+        "title": "File:Sham Shui Po, Hong Kong - panoramio.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1800474,
+            "width": 4000,
+            "height": 2250,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg/960px-Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg/1920px-Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg/960px-Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg/1920px-Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sham_Shui_Po%2C_Hong_Kong_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sham_Shui_Po,_Hong_Kong_-_panoramio.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58685071",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-05-10 07:58:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sham Shui Po, Hong Kong - panoramio",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Nam Cheong Street|Yee Kuk Street|Sham Shui Po Public Dispensary|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2014-11-19|Photos from Panoramio ID 6037213",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.326957",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.161603",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sham Shui Po, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 19 November 2014",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161031220943/http://www.panoramio.com/photo/114043037\">https://web.archive.org/web/20161031220943/http://www.panoramio.com/photo/114043037</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161031220851/http://www.panoramio.com/user/6037213?with_photo_id=114043037\">ken93110</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">ken93110</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 10 May 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "ken93110",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "20538087": {
+        "pageid": 20538087,
+        "ns": 6,
+        "title": "File:Yee Kuk Street near Kweilin Street (Hong Kong).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2989155,
+            "width": 2700,
+            "height": 3600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg/960px-Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg/1920px-Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg/960px-Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg/1920px-Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Yee_Kuk_Street_near_Kweilin_Street_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yee_Kuk_Street_near_Kweilin_Street_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20538087",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-08-05 07:19:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Yee Kuk Street near Kweilin Street (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot SX260 HS|Yee Kuk Street|Self-published work|Files with coordinates missing SDC location of creation|2012 photographs of Hong Kong by Mk2010|Bamboo scaffolding in Sham Shui Po District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.328440",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159620",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Yee Kuk Street near Kweilin Street, Sham Shui Po, Kowloon, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-07-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

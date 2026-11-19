@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237109330,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214901838,
+    "lat": "22.5388378",
+    "lon": "114.0226605",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.41705598036976543,
+    "addresstype": "railway",
+    "name": "车公庙",
+    "display_name": "车公庙, 深南大道辅路, 泰然社区, 天安社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5338378",
+      "22.5438378",
+      "114.0176605",
+      "114.0276605"
+    ]
+  },
+  {
+    "place_id": 236979815,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3373068617,
+    "lat": "22.5377854",
+    "lon": "114.0231552",
+    "category": "place",
+    "type": "suburb",
+    "place_rank": 19,
+    "importance": 0.1467369657434958,
+    "addresstype": "suburb",
+    "name": "车公庙",
+    "display_name": "车公庙, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5177854",
+      "22.5577854",
+      "114.0031552",
+      "114.0431552"
+    ]
+  }
+]

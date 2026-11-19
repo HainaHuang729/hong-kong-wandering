@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237693754,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 149397329,
+    "lat": "22.2685627",
+    "lon": "114.1853255",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "residential",
+    "name": "毓秀街 Yuk Sau Street",
+    "display_name": "毓秀街 Yuk Sau Street, 跑馬地 Happy Valley, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2682670",
+      "22.2688672",
+      "114.1844810",
+      "114.1861669"
+    ]
+  },
+  {
+    "place_id": 237733622,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1310605758,
+    "lat": "22.2685257",
+    "lon": "114.1853573",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04008643091477835,
+    "addresstype": "road",
+    "name": "毓秀街 Yuk Sau Street",
+    "display_name": "毓秀街 Yuk Sau Street, 跑馬地 Happy Valley, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2682225",
+      "22.2687993",
+      "114.1845565",
+      "114.1861768"
+    ]
+  }
+]

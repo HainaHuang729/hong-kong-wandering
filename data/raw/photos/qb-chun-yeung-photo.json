@@ -1,0 +1,2982 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "20516564": {
+        "pageid": 20516564,
+        "ns": 6,
+        "title": "File:Chun Yeung Street near North Point Road (Hong Kong).jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4865743,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg/960px-Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg/1920px-Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg/960px-Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg/1920px-Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chun_Yeung_Street_near_North_Point_Road_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chun_Yeung_Street_near_North_Point_Road_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20516564",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-08-03 13:13:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chun Yeung Street near North Point Road (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot SX260 HS|North Point|Chun Yeung Street|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2012-07-28|2012 photographs of Hong Kong by Mk2010|119 (road sign, Hong Kong)|182 (road sign, Hong Kong)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290950",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chun Yeung Street near North Point Road, North Point, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-07-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "35502288": {
+        "pageid": 35502288,
+        "ns": 6,
+        "title": "File:North point car.JPG",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 464098,
+            "width": 2048,
+            "height": 1345,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/North_point_car.JPG/960px-North_point_car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 630,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/North_point_car.JPG/1920px-North_point_car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/North_point_car.JPG/960px-North_point_car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 630,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/North_point_car.JPG/1920px-North_point_car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/North_point_car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:North_point_car.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35502288",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-09-20 09:18:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "North point car",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS M|Chun Yeung Street|Self-published work|North Point Road|Files with coordinates missing SDC location of creation|Photographs by Legoleehk|Hong Kong Tramways No. 59",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291213",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196644",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​電車準備駛入北角春秧街街市(市場)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-09-10 09:40:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Legoleehk\" title=\"User:Legoleehk\">李家宇</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75048759": {
+        "pageid": 75048759,
+        "ns": 6,
+        "title": "File:HK Tramways 174 at Chun Yeung Street (20181214125713).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9207394,
+            "width": 4252,
+            "height": 2834,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg/960px-HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg/1920px-HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg/960px-HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg/1920px-HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/HK_Tramways_174_at_Chun_Yeung_Street_%2820181214125713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Tramways_174_at_Chun_Yeung_Street_(20181214125713).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75048759",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-14 10:52:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Tramways 174 at Chun Yeung Street (20181214125713)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "IFC Mall|Self-published work|Advertisements on trams in Hong Kong|Christmas 2018 in Hong Kong|Files with coordinates missing SDC location of creation|2018 in tram transport in Hong Kong|December 2018 in rail transport in Hong Kong|Hong Kong photographs taken on 2018-12-14|Hong Kong Tramways No. 174|Trams taken with Canon PowerShot SX60 HS|Chun Yeung Street Stop",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290958",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196686",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bringing the Santa to Chun Yeung Street market.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-12-14 12:57:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75048760": {
+        "pageid": 75048760,
+        "ns": 6,
+        "title": "File:HK Tramways 170 at Chun Yeung Street (20181214125330).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9680896,
+            "width": 4464,
+            "height": 2976,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg/960px-HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg/1920px-HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg/960px-HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg/1920px-HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/HK_Tramways_170_at_Chun_Yeung_Street_%2820181214125330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Tramways_170_at_Chun_Yeung_Street_(20181214125330).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75048760",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-14 10:52:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Tramways 170 at Chun Yeung Street (20181214125330)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Advertisements on trams in Hong Kong|Files with coordinates missing SDC location of creation|2018 in tram transport in Hong Kong|December 2018 in rail transport in Hong Kong|Hong Kong photographs taken on 2018-12-14|Hong Kong Tramways No. 170|Trams taken with Canon PowerShot SX60 HS|Chun Yeung Street Stop",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290958",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196686",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Just disembarked from 169 at the nearby terminus with some Japanese passengers.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-12-14 12:53:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75048761": {
+        "pageid": 75048761,
+        "ns": 6,
+        "title": "File:HK Tramways 155 at Chun Yeung Street (20181214125911).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9726122,
+            "width": 4465,
+            "height": 2976,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg/960px-HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg/1920px-HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg/960px-HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg/1920px-HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/HK_Tramways_155_at_Chun_Yeung_Street_%2820181214125911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Tramways_155_at_Chun_Yeung_Street_(20181214125911).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75048761",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-14 10:52:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Tramways 155 at Chun Yeung Street (20181214125911)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "IFC Mall|Self-published work|Advertisements on trams in Hong Kong|Christmas 2018 in Hong Kong|Files with coordinates missing SDC location of creation|2018 in tram transport in Hong Kong|December 2018 in rail transport in Hong Kong|Hong Kong photographs taken on 2018-12-14|Hong Kong Tramways No. 155|Trams taken with Canon PowerShot SX60 HS|Chun Yeung Street Stop",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290958",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196686",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A bit frequent here?",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-12-14 12:59:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75048765": {
+        "pageid": 75048765,
+        "ns": 6,
+        "title": "File:HK Tramways 10 at Chun Yeung Street (20181214130049).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9466268,
+            "width": 4465,
+            "height": 2976,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg/960px-HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg/1920px-HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg/960px-HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg/1920px-HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HK_Tramways_10_at_Chun_Yeung_Street_%2820181214130049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Tramways_10_at_Chun_Yeung_Street_(20181214130049).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75048765",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-14 10:53:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Tramways 10 at Chun Yeung Street (20181214130049)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Manulife Financial|Self-published work|Advertisements on trams in Hong Kong|Files with coordinates missing SDC location of creation|2018 in tram transport in Hong Kong|December 2018 in rail transport in Hong Kong|Hong Kong photographs taken on 2018-12-14|Hong Kong trams in smiley livery|Hong Kong Tramways No. 10|Trams taken with Canon PowerShot SX60 HS|Chun Yeung Street Stop",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290958",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196686",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Switched its destination sign.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-12-14 13:00:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095276": {
+        "pageid": 99095276,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road January 2021 SS2 03.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3682684,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095276",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:06:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road January 2021 SS2 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291012",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196628",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:09:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095291": {
+        "pageid": 99095291,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road pawn shop January 2021 SS2 06.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3115201,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_pawn_shop_January_2021_SS2_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095291",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:06:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road pawn shop January 2021 SS2 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Newspaper stands in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road|Churn Hing Pawn Shop 全興大押",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291202",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196563",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:11:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095297": {
+        "pageid": 99095297,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road January 2021 SS2 10.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4166971,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_10.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095297",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:06:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road January 2021 SS2 10",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road|Fire trucks in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291018",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196678",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:09:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095298": {
+        "pageid": 99095298,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road 太平燒味 January 2021 SS2 09.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3467912,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%A4%AA%E5%B9%B3%E7%87%92%E5%91%B3_January_2021_SS2_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095298",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:06:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road 太平燒味 January 2021 SS2 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291072",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196607",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:09:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095302": {
+        "pageid": 99095302,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road 富泰藥房 January 2021 SS2 11.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4193269,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%AF%8C%E6%B3%B0%E8%97%A5%E6%88%BF_January_2021_SS2_11.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095302",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:06:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road 富泰藥房 January 2021 SS2 11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Shops in North Point|2021 in North Point Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291104",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196603",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:08:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095306": {
+        "pageid": 99095306,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road 消防車 Fire engine January 2021 SS2 13.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3630121,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E6%B6%88%E9%98%B2%E8%BB%8A_Fire_engine_January_2021_SS2_13.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095306",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:07:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road 消防車 Fire engine January 2021 SS2 13",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road|Fire trucks in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290960",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196666",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:09:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095323": {
+        "pageid": 99095323,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road 全興大押 pawn shop January 2021 SS2 18.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3227944,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_%E5%85%A8%E8%88%88%E5%A4%A7%E6%8A%BC_pawn_shop_January_2021_SS2_18.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095323",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:07:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road 全興大押 pawn shop January 2021 SS2 18",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Men with backpacks|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road|Churn Hing Pawn Shop 全興大押",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291195",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196557",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:11:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095326": {
+        "pageid": 99095326,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road January 2021 SS2 19.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4140731,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_January_2021_SS2_19.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095326",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:07:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road January 2021 SS2 19",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road|Fire trucks in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290960",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196666",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:09:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99095328": {
+        "pageid": 99095328,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角道 North Point Road minibus 65 stop sign January 2021 SS2 20.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3598815,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92%E9%81%93_North_Point_Road_minibus_65_stop_sign_January_2021_SS2_20.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99095328",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-21 13:07:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road minibus 65 stop sign January 2021 SS2 20",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hong Kong Island Public Light Bus Route 65|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|2021 in North Point Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291146",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196624",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角道 North Point Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:08:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99145155": {
+        "pageid": 99145155,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street stop tram body ads January 2021 SS2 01.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4227603,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_tram_body_ads_January_2021_SS2_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99145155",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-22 04:37:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street stop tram body ads January 2021 SS2 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Number 53 on trams|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Buildings in Chun Yeung Street|2021 in Chun Yeung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291078",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196742",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street buildings in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:28:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99145161": {
+        "pageid": 99145161,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street stop n buildings January 2021 SS2 14.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3898454,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_stop_n_buildings_January_2021_SS2_14.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99145161",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-22 04:37:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street stop n buildings January 2021 SS2 14",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Blue baskets|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Buildings in Chun Yeung Street|2021 in Chun Yeung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291174",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196663",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street buildings in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:28:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99148086": {
+        "pageid": 99148086,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable January 2021 SS2 03.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4742537,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99148086",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-22 05:32:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable January 2021 SS2 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Vegetable shops in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Wet markets in Hong Kong|Shops in North Point|Markets in Eastern District, Hong Kong|2021 in Chun Yeung Street|Chun Yeung Street - Shops|Fruit shops in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291065",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196763",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:29:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99148120": {
+        "pageid": 99148120,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable January 2021 SS2 19.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3163696,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_19.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99148120",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-22 05:32:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable January 2021 SS2 19",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Vegetable shops in Hong Kong|Food displayed for sale in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Shops in North Point|Markets in Eastern District, Hong Kong|2021 in Chun Yeung Street|Chun Yeung Street - Shops|Fruit shops in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291065",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196763",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:29:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99148126": {
+        "pageid": 99148126,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable January 2021 SS2 22.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4165873,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shop_fruit_n_vegetable_January_2021_SS2_22.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99148126",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-22 05:32:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable January 2021 SS2 22",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Vegetable shops in Hong Kong|Food displayed for sale in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Wet markets in Hong Kong|Shops in North Point|Markets in Eastern District, Hong Kong|2021 in Chun Yeung Street|Chun Yeung Street - Shops|Fruit shops in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291059",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196744",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shop fruit n vegetable in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:28:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99149831": {
+        "pageid": 99149831,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shops January 2021 SS2 14.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3191437,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_14.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99149831",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-22 06:15:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shops January 2021 SS2 14",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Shops in North Point|Yee On Mansion|2021 in Chun Yeung Street|Chun Yeung Street - Shops",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291074",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196785",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:29:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99149859": {
+        "pageid": 99149859,
+        "ns": 6,
+        "title": "File:HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shops January 2021 SS2 25.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4553079,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg/960px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg/1920px-HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Eastern_District_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_market_shops_January_2021_SS2_25.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99149859",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-22 06:15:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market shops January 2021 SS2 25",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in North Point|Shops in North Point|2021 in Chun Yeung Street|Chun Yeung Street - Shops",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291075",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196892",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet market in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 16:29:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "118986841": {
+        "pageid": 118986841,
+        "ns": 6,
+        "title": "File:HK NP 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet food market shop 佳記 Justjoy June 2022 Px3.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5193234,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg/960px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg/1920px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg/960px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg/1920px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E4%BD%B3%E8%A8%98_Justjoy_June_2022_Px3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118986841",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-06-07 15:03:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK NP 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet food market shop 佳記 Justjoy June 2022 Px3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-06-01|June 2022 in North Point|Shops in North Point|Night in North Point|Chun Yeung Street - Shops|2022 in Chun Yeung Street|Night in Chun Yeung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291135",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197001",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point <a href=\"https://zh.wikipedia.org/wiki/%E6%98%A5%E7%A7%A7%E8%A1%97\" class=\"extiw\" title=\"zh:春秧街\">zh:春秧街</a> Chun Yeung Street 菜市場 wet market in June 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-06-01 19:15:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FUYUEMEI_OREH_220\" title=\"User:FUYUEMEI OREH 220\">FUYUEMEI OREH 220</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "118986850": {
+        "pageid": 118986850,
+        "ns": 6,
+        "title": "File:HK NP 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet food market shop 康安大藥行 June 2022 Px3.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5659284,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg/960px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg/1920px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg/960px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg/1920px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_Chun_Yeung_Street_%E8%8F%9C%E5%B8%82%E5%A0%B4_wet_food_market_shop_%E5%BA%B7%E5%AE%89%E5%A4%A7%E8%97%A5%E8%A1%8C_June_2022_Px3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118986850",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-06-07 15:03:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK NP 北角 North Point 春秧街 Chun Yeung Street 菜市場 wet food market shop 康安大藥行 June 2022 Px3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Pharmacies in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-06-01|June 2022 in North Point|Shops in North Point|Night in North Point|Chun Yeung Street - Shops|2022 in Chun Yeung Street|Night in Chun Yeung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.291135",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197001",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point <a href=\"https://zh.wikipedia.org/wiki/%E6%98%A5%E7%A7%A7%E8%A1%97\" class=\"extiw\" title=\"zh:春秧街\">zh:春秧街</a> Chun Yeung Street 菜市場 wet market in June 2022\n<ol><li>宜安大藥房 Yee On Dispensary</li></ol>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-06-01 19:15:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FUYUEMEI_OREH_220\" title=\"User:FUYUEMEI OREH 220\">FUYUEMEI OREH 220</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "118986867": {
+        "pageid": 118986867,
+        "ns": 6,
+        "title": "File:HK NP 北角 North Point 春秧街 55 Chun Yeung Street 宜安大廈 Yee On Mansion name sign June 2022 Px3.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5644008,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg/960px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg/1920px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg/960px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg/1920px-HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E6%98%A5%E7%A7%A7%E8%A1%97_55_Chun_Yeung_Street_%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88_Yee_On_Mansion_name_sign_June_2022_Px3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118986867",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-06-07 15:03:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK NP 北角 North Point 春秧街 55 Chun Yeung Street 宜安大廈 Yee On Mansion name sign June 2022 Px3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-06-01|June 2022 in North Point|Night in North Point|Yee On Mansion|2022 in Chun Yeung Street|Night in Chun Yeung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.290877",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.196879",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 港島東區 Eastern District 北角 North Point <a href=\"https://zh.wikipedia.org/wiki/%E6%98%A5%E7%A7%A7%E8%A1%97\" class=\"extiw\" title=\"zh:春秧街\">zh:春秧街</a> Chun Yeung Street 菜市場 wet market in June 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-06-01 19:16:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FUYUEMEI_OREH_220\" title=\"User:FUYUEMEI OREH 220\">FUYUEMEI OREH 220</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

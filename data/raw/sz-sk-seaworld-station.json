@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237914897,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10111219662,
+    "lat": "22.4880191",
+    "lon": "113.9088351",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4132399184526773,
+    "addresstype": "railway",
+    "name": "海上世界",
+    "display_name": "海上世界, 南海大道, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.4830191",
+      "22.4930191",
+      "113.9038351",
+      "113.9138351"
+    ]
+  },
+  {
+    "place_id": 238108462,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6715085274,
+    "lat": "22.4881293",
+    "lon": "113.9101589",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4132399184526773,
+    "addresstype": "railway",
+    "name": "海上世界",
+    "display_name": "海上世界, 太子路, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.4831293",
+      "22.4931293",
+      "113.9051589",
+      "113.9151589"
+    ]
+  },
+  {
+    "place_id": 237857814,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 543176177,
+    "lat": "22.4860651",
+    "lon": "113.9118315",
+    "class": "landuse",
+    "type": "retail",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "retail",
+    "name": "海上世界",
+    "display_name": "海上世界, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.4845525",
+      "22.4876275",
+      "113.9096092",
+      "113.9139553"
+    ]
+  }
+]

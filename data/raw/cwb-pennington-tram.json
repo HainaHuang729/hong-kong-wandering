@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237587998,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 149397289,
+    "lat": "22.2787200",
+    "lon": "114.1860807",
+    "class": "highway",
+    "type": "secondary",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "secondary",
+    "name": "邊寧頓街 Pennington Street",
+    "display_name": "邊寧頓街 Pennington Street, 利園山 Lee Gardens Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2784136",
+      "22.2790249",
+      "114.1860664",
+      "114.1861070"
+    ]
+  },
+  {
+    "place_id": 237890225,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1190966335,
+    "lat": "22.2781718",
+    "lon": "114.1860578",
+    "class": "highway",
+    "type": "secondary",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "secondary",
+    "name": "邊寧頓街 Pennington Street",
+    "display_name": "邊寧頓街 Pennington Street, 加路連山 Caroline Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2779326",
+      "22.2784136",
+      "114.1860535",
+      "114.1860738"
+    ]
+  },
+  {
+    "place_id": 237811048,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 292331640,
+    "lat": "22.2784563",
+    "lon": "114.1861111",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04008643091477835,
+    "addresstype": "road",
+    "name": "邊寧頓街 Pennington Street",
+    "display_name": "邊寧頓街 Pennington Street, 加路連山 Caroline Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2779745",
+      "22.2789518",
+      "114.1860966",
+      "114.1861293"
+    ]
+  },
+  {
+    "place_id": 237738408,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1898508075,
+    "lat": "22.2795252",
+    "lon": "114.1865618",
+    "class": "railway",
+    "type": "tram_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "railway",
+    "name": "邊寧頓街 Pennington Street",
+    "display_name": "邊寧頓街 Pennington Street, 怡和街 Yee Wo Street, 利園山 Lee Gardens Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2794752",
+      "22.2795752",
+      "114.1865118",
+      "114.1866118"
+    ]
+  },
+  {
+    "place_id": 237663235,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2957737065,
+    "lat": "22.2784960",
+    "lon": "114.1860227",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "邊寧頓街 Pennington Street",
+    "display_name": "邊寧頓街 Pennington Street, 利園山 Lee Gardens Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2784460",
+      "22.2785460",
+      "114.1859727",
+      "114.1860727"
+    ]
+  }
+]

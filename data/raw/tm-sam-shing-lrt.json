@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237039623,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2629470538,
+    "lat": "22.3826832",
+    "lon": "113.9762962",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "輕鐵三聖站 LR Sam Shing Stop",
+    "display_name": "輕鐵三聖站 LR Sam Shing Stop, 海榮路 Hoi Wing Road, 三聖 Sam Shing, 青山灣 Castle Peak Bay, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3826332",
+      "22.3827332",
+      "113.9762462",
+      "113.9763462"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 235552915,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 219384328,
+    "lat": "22.6169556",
+    "lon": "114.1334002",
+    "class": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 0.40567491777443077,
+    "addresstype": "building",
+    "name": "大芬",
+    "display_name": "大芬, 龙岗大道, 茂业社区, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6164171",
+      "22.6173995",
+      "114.1329490",
+      "114.1337767"
+    ]
+  },
+  {
+    "place_id": 235518246,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214690543,
+    "lat": "22.6169094",
+    "lon": "114.1333580",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40567491777443077,
+    "addresstype": "railway",
+    "name": "大芬",
+    "display_name": "大芬, 龙岗大道, 茂业社区, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6119094",
+      "22.6219094",
+      "114.1283580",
+      "114.1383580"
+    ]
+  },
+  {
+    "place_id": 235552647,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8687309763,
+    "lat": "22.6126355",
+    "lon": "114.1312679",
+    "class": "place",
+    "type": "quarter",
+    "place_rank": 20,
+    "importance": 0.37958691803318917,
+    "addresstype": "quarter",
+    "name": "大芬社区",
+    "display_name": "大芬社区, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6026355",
+      "22.6226355",
+      "114.1212679",
+      "114.1412679"
+    ]
+  }
+]

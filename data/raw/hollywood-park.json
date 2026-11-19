@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 239454531,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 148228845,
+    "lat": "22.2858808",
+    "lon": "114.1477084",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.35293318613167857,
+    "addresstype": "park",
+    "name": "荷李活道公園 Hollywood Road Park",
+    "display_name": "荷李活道公園 Hollywood Road Park, 上環 Sheung Wan, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2856619",
+      "22.2864583",
+      "114.1471958",
+      "114.1481376"
+    ]
+  }
+]

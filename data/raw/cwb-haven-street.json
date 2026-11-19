@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237692498,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26469192,
+    "lat": "22.2778181",
+    "lon": "114.1868384",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "residential",
+    "name": "希雲街 Haven Street",
+    "display_name": "希雲街 Haven Street, 加路連山 Caroline Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2774746",
+      "22.2781615",
+      "114.1864485",
+      "114.1872283"
+    ]
+  }
+]

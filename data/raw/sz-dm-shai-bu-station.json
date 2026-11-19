@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237146106,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9310728714,
+    "lat": "22.5521161",
+    "lon": "114.1176854",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40336244684265926,
+    "addresstype": "railway",
+    "name": "晒布",
+    "display_name": "晒布, 东门中路, 花场社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5471161",
+      "22.5571161",
+      "114.1126854",
+      "114.1226854"
+    ]
+  },
+  {
+    "place_id": 236779936,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9061784784,
+    "lat": "22.5520936",
+    "lon": "114.1177492",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "晒布",
+    "display_name": "晒布, 东门中路, 城东社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5520436",
+      "22.5521436",
+      "114.1176992",
+      "114.1177992"
+    ]
+  },
+  {
+    "place_id": 237044484,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1657111625,
+    "lat": "22.5521489",
+    "lon": "114.1176225",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "晒布",
+    "display_name": "晒布, 东门中路, 花场社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5520989",
+      "22.5521989",
+      "114.1175725",
+      "114.1176725"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 234665338,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 151396648,
+    "lat": "22.3060347",
+    "lon": "114.1928066",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.351725953161806,
+    "addresstype": "park",
+    "name": "大環山公園 Tai Wan Shan Park",
+    "display_name": "大環山公園 Tai Wan Shan Park, 紅磡 Hung Hom, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3055737",
+      "22.3064687",
+      "114.1922676",
+      "114.1933408"
+    ]
+  }
+]

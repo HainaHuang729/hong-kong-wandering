@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237933515,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10211004524,
+    "lat": "22.5652752",
+    "lon": "113.9059616",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3977269304249201,
+    "addresstype": "railway",
+    "name": "新安公园",
+    "display_name": "新安公园, 前进一路, 新安湖社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5602752",
+      "22.5702752",
+      "113.9009616",
+      "113.9109616"
+    ]
+  },
+  {
+    "place_id": 238199866,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 264955664,
+    "lat": "22.5656497",
+    "lon": "113.9068972",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "新安公园",
+    "display_name": "新安公园, 灵芝园社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5648410",
+      "22.5679083",
+      "113.9049963",
+      "113.9087509"
+    ]
+  }
+]

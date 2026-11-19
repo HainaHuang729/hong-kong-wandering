@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235315662,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1255386902,
+    "lat": "22.1643052",
+    "lon": "114.2511962",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "天后廟 Tin Hau Temple",
+    "display_name": "天后廟 Tin Hau Temple, 蒲台郊遊徑 Po Toi Country Trail, 灣仔 Wan Tsai, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.1642552",
+      "22.1643552",
+      "114.2511462",
+      "114.2512462"
+    ]
+  }
+]

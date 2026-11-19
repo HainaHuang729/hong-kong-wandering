@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237870781,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062205666,
+    "lat": "22.5645218",
+    "lon": "114.0900008",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4059416820298136,
+    "addresstype": "railway",
+    "name": "八卦岭",
+    "display_name": "八卦岭, 八卦三路, 华林社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5595218",
+      "22.5695218",
+      "114.0850008",
+      "114.0950008"
+    ]
+  },
+  {
+    "place_id": 237730499,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062166400,
+    "lat": "22.5633716",
+    "lon": "114.0888193",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4059416820298136,
+    "addresstype": "railway",
+    "name": "八卦岭",
+    "display_name": "八卦岭, 上步北路, 华林社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5583716",
+      "22.5683716",
+      "114.0838193",
+      "114.0938193"
+    ]
+  },
+  {
+    "place_id": 237859506,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3373068610,
+    "lat": "22.5617797",
+    "lon": "114.0947309",
+    "class": "place",
+    "type": "neighbourhood",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "neighbourhood",
+    "name": "八卦岭",
+    "display_name": "八卦岭, 上林社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5517797",
+      "22.5717797",
+      "114.0847309",
+      "114.1047309"
+    ]
+  }
+]

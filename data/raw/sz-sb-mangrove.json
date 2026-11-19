@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237343152,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 238150214,
+    "lat": "22.5258739",
+    "lon": "113.9957572",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "红树林海滨生态公园",
+    "display_name": "红树林海滨生态公园, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5230105",
+      "22.5287151",
+      "113.9888190",
+      "113.9987693"
+    ]
+  }
+]

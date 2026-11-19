@@ -1,0 +1,1327 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "201473246": {
+        "pageid": 201473246,
+        "ns": 6,
+        "title": "File:Xiwan Mangrove Wetland Park 10-10-2026(1).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3392153,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Xiwan_Mangrove_Wetland_Park_10-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Xiwan_Mangrove_Wetland_Park_10-10-2026(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201473246",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-10 15:34:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Xiwan Mangrove Wetland Park 10-10-2026(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Parks in Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|Shenzhen photographs taken on 2026-10-10",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.598192",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.827544",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在列車上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-10-10 16:39:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "201473247": {
+        "pageid": 201473247,
+        "ns": 6,
+        "title": "File:Xiwan Mangrove Wetland Park 10-10-2026(2).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3267500,
+            "width": 5712,
+            "height": 4284,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Xiwan_Mangrove_Wetland_Park_10-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Xiwan_Mangrove_Wetland_Park_10-10-2026(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201473247",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-10 15:34:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Xiwan Mangrove Wetland Park 10-10-2026(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Parks in Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|Shenzhen photographs taken on 2026-10-10",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.598553",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.827369",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在列車上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-10-10 16:39:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "201473245": {
+        "pageid": 201473245,
+        "ns": 6,
+        "title": "File:Xiwan Mangrove Wetland Park 10-10-2026(3).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1226455,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Xiwan_Mangrove_Wetland_Park_10-10-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Xiwan_Mangrove_Wetland_Park_10-10-2026(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201473245",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-10 15:34:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Xiwan Mangrove Wetland Park 10-10-2026(3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Parks in Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|Shenzhen photographs taken on 2026-10-10",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.600922",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.826675",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在列車上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-10-10 16:39:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "201676937": {
+        "pageid": 201676937,
+        "ns": 6,
+        "title": "File:Xiwan Mangrove Wetland Park 13-10-2026(1).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2032418,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Xiwan_Mangrove_Wetland_Park_13-10-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Xiwan_Mangrove_Wetland_Park_13-10-2026(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201676937",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-13 14:52:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Xiwan Mangrove Wetland Park 13-10-2026(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Parks in Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|Shenzhen photographs taken on 2026-10-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.598478",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.827386",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在列車上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-10-13 15:27:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "201676941": {
+        "pageid": 201676941,
+        "ns": 6,
+        "title": "File:Xiwan Mangrove Wetland Park 13-10-2026(2).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1894797,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg/960px-Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg/1920px-Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Xiwan_Mangrove_Wetland_Park_13-10-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Xiwan_Mangrove_Wetland_Park_13-10-2026(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=201676941",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-13 14:52:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Xiwan Mangrove Wetland Park 13-10-2026(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Parks in Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|Shenzhen photographs taken on 2026-10-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.598828",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.827211",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在列車上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-10-13 15:27:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "144265406": {
+        "pageid": 144265406,
+        "ns": 6,
+        "title": "File:中华人民共和国全国人民代表大会常务委员会公报2023年第七号.pdf",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11674391,
+            "width": 1239,
+            "height": 1752,
+            "pagecount": 242,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A52023%E5%B9%B4%E7%AC%AC%E4%B8%83%E5%8F%B7.pdf/page1-960px-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A52023%E5%B9%B4%E7%AC%AC%E4%B8%83%E5%8F%B7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1357,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A52023%E5%B9%B4%E7%AC%AC%E4%B8%83%E5%8F%B7.pdf/page1-960px-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A52023%E5%B9%B4%E7%AC%AC%E4%B8%83%E5%8F%B7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1357
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A52023%E5%B9%B4%E7%AC%AC%E4%B8%83%E5%8F%B7.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A52023%E5%B9%B4%E7%AC%AC%E4%B8%83%E5%8F%B7.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144265406",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-19 19:44:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "中华人民共和国全国人民代表大会常务委员会公报2023年第七号",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-PRC-exempt|2023 in Beijing|NPCSC Gazette in 2023|November 2023 in China|2023-11-15",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gazette of the Standing Committee of the National People's Congress of the People's Republic of China, Year 2023 Issue 07.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.npc.gov.cn/wxzlhgb/c27214/gb2023/202401/P020240119638254850042.pdf\">http://www.npc.gov.cn/wxzlhgb/c27214/gb2023/202401/P020240119638254850042.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:General_Office_of_the_Standing_Committee_of_the_National_People%27s_Congress\" class=\"extiw\" title=\"w:en:General Office of the Standing Committee of the National People's Congress\"><span title=\"Working &amp; Administrative Bodies of NPCSC\">General Office of the Standing Committee of the National People's Congress</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "191061001": {
+        "pageid": 191061001,
+        "ns": 6,
+        "title": "File:中山市国土空间总体规划（2021-2035年）.pdf",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 574086,
+            "width": 1239,
+            "height": 1752,
+            "pagecount": 78,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1357,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1357
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%B1%B1%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=191061001",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-03 07:51:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "中山市国土空间总体规划（2021-2035年）",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-PRC-exempt|Territorial spatial planning in Guangdong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​中山市国土空间总体规划（2021-2035年）",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.zs.gov.cn/attachment/0/531/531383/2494477.pdf\">https://www.zs.gov.cn/attachment/0/531/531383/2494477.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "中山市人民政府",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84426018": {
+        "pageid": 84426018,
+        "ns": 6,
+        "title": "File:宝安西湾红树林公园 1.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6822910,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84426018",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-27 23:36:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "宝安西湾红树林公园 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|November 2019 in Shenzhen|Baoan Xiwan Mangrove Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bao'an Xiwan Mangrove Forest Park (宝安西湾红树林公园), a park in Bao'an District, Shenzhen, China.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-25 11:03:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mx._Granger\" title=\"User:Mx. Granger\">Mx. Granger</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84426017": {
+        "pageid": 84426017,
+        "ns": 6,
+        "title": "File:宝安西湾红树林公园 2.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2726633,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84426017",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-27 23:36:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "宝安西湾红树林公园 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|November 2019 in Shenzhen|Baoan Xiwan Mangrove Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bao'an Xiwan Mangrove Forest Park (宝安西湾红树林公园), a park in Bao'an District, Shenzhen, China.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-25 11:25:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mx._Granger\" title=\"User:Mx. Granger\">Mx. Granger</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84426016": {
+        "pageid": 84426016,
+        "ns": 6,
+        "title": "File:宝安西湾红树林公园 3.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2705257,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84426016",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-27 23:36:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "宝安西湾红树林公园 3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Parks in Shenzhen|Self-published work|Baoan District|November 2019 in transport in Guangdong|Guangdong S03 Guangshen Coastal Expressway",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A highway (广深沿江高速) seen from Bao'an Xiwan Mangrove Forest Park (宝安西湾红树林公园), a park in Bao'an District, Shenzhen, China.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-25 12:06:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mx._Granger\" title=\"User:Mx. Granger\">Mx. Granger</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84426024": {
+        "pageid": 84426024,
+        "ns": 6,
+        "title": "File:宝安西湾红树林公园 4.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3856897,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg/960px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg/1920px-%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%AE%9D%E5%AE%89%E8%A5%BF%E6%B9%BE%E7%BA%A2%E6%A0%91%E6%9E%97%E5%85%AC%E5%9B%AD_4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84426024",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-27 23:36:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "宝安西湾红树林公园 4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|November 2019 in Shenzhen|Baoan Xiwan Mangrove Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bao'an Xiwan Mangrove Forest Park (宝安西湾红树林公园), a park in Bao'an District, Shenzhen, China.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-25 12:12:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mx._Granger\" title=\"User:Mx. Granger\">Mx. Granger</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "191059260": {
+        "pageid": 191059260,
+        "ns": 6,
+        "title": "File:湛江市国土空间总体规划（2021—2035年）.pdf",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11563212,
+            "width": 1239,
+            "height": 1752,
+            "pagecount": 97,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1357,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1357
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B9%9B%E6%B1%9F%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=191059260",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-03 07:18:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "湛江市国土空间总体规划（2021—2035年）",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-PRC-exempt|Territorial spatial planning in Guangdong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​湛江市国土空间总体规划（2021—2035年）",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.zhanjiang.gov.cn/attachment/0/245/245347/2014298.pdf\">https://www.zhanjiang.gov.cn/attachment/0/245/245347/2014298.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "湛江市人民政府",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

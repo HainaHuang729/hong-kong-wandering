@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237124724,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 507688251,
+    "lat": "22.2539333",
+    "lon": "113.8621111",
+    "class": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.053398824292362826,
+    "addresstype": "pedestrian",
+    "name": "大澳涌行人橋 Tai O Creek Pedestrian Bridge",
+    "display_name": "大澳涌行人橋 Tai O Creek Pedestrian Bridge, 大澳市中心 Tai O Town Centre, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2537927",
+      "22.2540627",
+      "113.8620797",
+      "113.8622461"
+    ]
+  },
+  {
+    "place_id": 237228018,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 104106465,
+    "lat": "22.2567939",
+    "lon": "113.8626668",
+    "class": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.053398824292362826,
+    "addresstype": "pedestrian",
+    "name": "吉慶後街 Kat Hing Back Street",
+    "display_name": "吉慶後街 Kat Hing Back Street, 大澳市中心 Tai O Town Centre, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2546206",
+      "22.2595324",
+      "113.8621494",
+      "113.8632803"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 428845202,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 849182583,
+    "lat": "22.3749699",
+    "lon": "114.1101881",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 24,
+    "importance": 0.0800654909590295,
+    "addresstype": "mall",
+    "name": "南豐紗廠 The Mills",
+    "display_name": "南豐紗廠 The Mills, 45, 荃灣市 Tsuen Wan Town, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3745003",
+      "22.3753893",
+      "114.1092362",
+      "114.1103827"
+    ]
+  }
+]

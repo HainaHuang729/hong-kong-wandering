@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237126440,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 448985634,
+    "lat": "22.3050400",
+    "lon": "114.1895212",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4314221691781169,
+    "addresstype": "railway",
+    "name": "黃埔 Whampoa",
+    "display_name": "黃埔 Whampoa, 德康街 Tak Hong Street, 黃埔花園 Whampoa Garden, 紅磡 Hung Hom, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3039988",
+      "22.3059023",
+      "114.1882014",
+      "114.1908715"
+    ]
+  }
+]

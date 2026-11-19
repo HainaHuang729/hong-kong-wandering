@@ -1,0 +1,2978 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "18743742": {
+        "pageid": 18743742,
+        "ns": 6,
+        "title": "File:HK 華富邨 Wah Fu Estate 06 courtyard Mar-2012.jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2044646,
+            "width": 2592,
+            "height": 1936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg/960px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 717,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg/1920px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg/960px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 717,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg/1920px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_06_courtyard_Mar-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18743742",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-03-18 14:19:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 華富邨 Wah Fu Estate 06 courtyard Mar-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with iPhone 4|Twin Tower blocks|Self-published work|Hong Kong photographs taken on 2012-03-17|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|2012 in Wah Fu Estate|March 2012 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.134667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E8%8F%AF%E5%AF%8C%E9%82%A8\" class=\"extiw\" title=\"zh:華富邨\">華富邨</a> Wah Fu Estate, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-03-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kallettom&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kallettom (page does not exist)\">Kallettom</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "18743753": {
+        "pageid": 18743753,
+        "ns": 6,
+        "title": "File:HK 華富邨 Wah Fu Estate 03 courtyard Mar-2012.jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2294456,
+            "width": 1936,
+            "height": 2592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg/960px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1285,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg/1920px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg/960px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1285,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg/1920px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_03_courtyard_Mar-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18743753",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-03-18 14:20:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 華富邨 Wah Fu Estate 03 courtyard Mar-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with iPhone 4|Twin Tower blocks|Self-published work|Hong Kong photographs taken on 2012-03-17|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Residential buildings in Wah Fu Estate|2012 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.134667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E8%8F%AF%E5%AF%8C%E9%82%A8\" class=\"extiw\" title=\"zh:華富邨\">華富邨</a> Wah Fu Estate, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-03-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kallettom&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kallettom (page does not exist)\">Kallettom</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "18743794": {
+        "pageid": 18743794,
+        "ns": 6,
+        "title": "File:HK 華富邨 Wah Fu Estate 08 courtyard Mar-2012.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2257781,
+            "width": 2592,
+            "height": 1936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg/960px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 717,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg/1920px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg/960px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 717,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg/1920px-HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E8%8F%AF%E5%AF%8C%E9%82%A8_Wah_Fu_Estate_08_courtyard_Mar-2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18743794",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-03-18 14:25:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 華富邨 Wah Fu Estate 08 courtyard Mar-2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with iPhone 4|Twin Tower blocks|Self-published work|Hong Kong photographs taken on 2012-03-17|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Facades in Wah Fu Estate|Residential buildings in Wah Fu Estate|2012 in Wah Fu Estate|March 2012 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.134667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E8%8F%AF%E5%AF%8C%E9%82%A8\" class=\"extiw\" title=\"zh:華富邨\">華富邨</a> Wah Fu Estate, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-03-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kallettom&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kallettom (page does not exist)\">Kallettom</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "90379872": {
+        "pageid": 90379872,
+        "ns": 6,
+        "title": "File:Hong Kong - Housing Project.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 282133,
+            "width": 850,
+            "height": 558,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hong_Kong_-_Housing_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 630,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hong_Kong_-_Housing_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 630
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hong_Kong_-_Housing_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_-_Housing_Project.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90379872",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-05-17 16:32:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong - Housing Project",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Buildings photographed in 1967|Hong Kong photographs taken on 1967-05-18|Historical images of Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.251447",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135246",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A housing project under construction, on the west end of Hong Kong (Victoria) island. The geotagged location is approximate.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1967-05-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/24736216@N07/3468641878/\">https://www.flickr.com/photos/24736216@N07/3468641878/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Roger W",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108855587": {
+        "pageid": 108855587,
+        "ns": 6,
+        "title": "File:Wah Fu Estate Wah Hong House 2021.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5973754,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Wah_Fu_Estate_Wah_Hong_House_2021.jpg/960px-Wah_Fu_Estate_Wah_Hong_House_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Wah_Fu_Estate_Wah_Hong_House_2021.jpg/1920px-Wah_Fu_Estate_Wah_Hong_House_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Wah_Fu_Estate_Wah_Hong_House_2021.jpg/960px-Wah_Fu_Estate_Wah_Hong_House_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Wah_Fu_Estate_Wah_Hong_House_2021.jpg/1920px-Wah_Fu_Estate_Wah_Hong_House_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wah_Fu_Estate_Wah_Hong_House_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Fu_Estate_Wah_Hong_House_2021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108855587",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-18 13:42:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Fu Estate Wah Hong House 2021",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|2021 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250350",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135522",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate Wah Hong House",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108855661": {
+        "pageid": 108855661,
+        "ns": 6,
+        "title": "File:Wah Fu Estate Garage C 202107.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5723800,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Wah_Fu_Estate_Garage_C_202107.jpg/960px-Wah_Fu_Estate_Garage_C_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Wah_Fu_Estate_Garage_C_202107.jpg/1920px-Wah_Fu_Estate_Garage_C_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Wah_Fu_Estate_Garage_C_202107.jpg/960px-Wah_Fu_Estate_Garage_C_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Wah_Fu_Estate_Garage_C_202107.jpg/1920px-Wah_Fu_Estate_Garage_C_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wah_Fu_Estate_Garage_C_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Fu_Estate_Garage_C_202107.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108855661",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-18 13:43:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Fu Estate Garage C 202107",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|2021 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250606",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135414",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate Garage C",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "109756438": {
+        "pageid": 109756438,
+        "ns": 6,
+        "title": "File:Wah Fu Estate Wah Kwai Estate structure 202107.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8472906,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg/960px-Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg/1920px-Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg/960px-Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg/1920px-Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Fu_Estate_Wah_Kwai_Estate_structure_202107.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109756438",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-06 14:31:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Fu Estate Wah Kwai Estate structure 202107",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|2021 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250681",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135431",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate Wah Kwai Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186029917": {
+        "pageid": 186029917,
+        "ns": 6,
+        "title": "File:Waterfall Bay Park and see Lamma Island 13-03-2026.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10070283,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg/960px-Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg/1920px-Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg/960px-Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg/1920px-Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Waterfall_Bay_Park_and_see_Lamma_Island_13-03-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186029917",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 07:12:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Waterfall Bay Park and see Lamma Island 13-03-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lamma Island|Waterfall Bay Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250325",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135544",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:52:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186031592": {
+        "pageid": 186031592,
+        "ns": 6,
+        "title": "File:Wah Fu Estate Garage C and Wah Yu House 13-03-2026.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13220576,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg/960px-Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg/1920px-Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg/960px-Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg/1920px-Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Fu_Estate_Garage_C_and_Wah_Yu_House_13-03-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186031592",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:09:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Fu Estate Garage C and Wah Yu House 13-03-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250844",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135239",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:20:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186031711": {
+        "pageid": 186031711,
+        "ns": 6,
+        "title": "File:Wah Ming House Wah Fu Estate and Residence Bel-Air on the Peak view 13-03-2026.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12085295,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg/960px-Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg/1920px-Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg/960px-Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg/1920px-Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Ming_House_Wah_Fu_Estate_and_Residence_Bel-Air_on_the_Peak_view_13-03-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186031711",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:15:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Ming House Wah Fu Estate and Residence Bel-Air on the Peak view 13-03-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Residence Bel-Air|Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250347",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135178",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:22:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186032050": {
+        "pageid": 186032050,
+        "ns": 6,
+        "title": "File:Wah Fu Estate Garage C and Wah Hong House 13-03-2026.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9766101,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg/960px-Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg/1920px-Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg/960px-Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg/1920px-Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Fu_Estate_Garage_C_and_Wah_Hong_House_13-03-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186032050",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:34:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Fu Estate Garage C and Wah Hong House 13-03-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250800",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135247",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:39:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186032203": {
+        "pageid": 186032203,
+        "ns": 6,
+        "title": "File:Wah Yu House Wah Fu Estate 13-03-2026(2).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12670907,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg/960px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg/1920px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg/960px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg/1920px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Yu_House_Wah_Fu_Estate_13-03-2026(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186032203",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:43:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Yu House Wah Fu Estate 13-03-2026(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.251253",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135461",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:48:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186032204": {
+        "pageid": 186032204,
+        "ns": 6,
+        "title": "File:Wah Ming House and Wah Yu House Wah Fu Estate 13-03-2026.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11729865,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg/960px-Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg/1920px-Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg/960px-Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg/1920px-Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Ming_House_and_Wah_Yu_House_Wah_Fu_Estate_13-03-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186032204",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:43:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Ming House and Wah Yu House Wah Fu Estate 13-03-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.251006",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135192",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:47:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186032208": {
+        "pageid": 186032208,
+        "ns": 6,
+        "title": "File:Wah Yu House Wah Fu Estate 13-03-2026(3).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16705621,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg/960px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg/1920px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg/960px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg/1920px-Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wah_Yu_House_Wah_Fu_Estate_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wah_Yu_House_Wah_Fu_Estate_13-03-2026(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186032208",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:43:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wah Yu House Wah Fu Estate 13-03-2026(3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.251103",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135522",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:49:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186032409": {
+        "pageid": 186032409,
+        "ns": 6,
+        "title": "File:Near Wah Shun House Wah Fu Estate basketball court 13-03-2026(3).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9331262,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg/960px-Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg/1920px-Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg/960px-Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg/1920px-Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Near_Wah_Shun_House_Wah_Fu_Estate_basketball_court_13-03-2026(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186032409",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:50:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Near Wah Shun House Wah Fu Estate basketball court 13-03-2026(3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Basketball courts in Hong Kong|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.251253",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:50:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186032510": {
+        "pageid": 186032510,
+        "ns": 6,
+        "title": "File:Near Wah Chun House, Wah Hong House and Wah Yu House Wah Fu Estate playground(Wah Hong Plaza) 13-03-2026(1).jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15637623,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg/960px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg/1920px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg/960px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg/1920px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Near_Wah_Chun_House,_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground(Wah_Hong_Plaza)_13-03-2026(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186032510",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:57:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Near Wah Chun House, Wah Hong House and Wah Yu House Wah Fu Estate playground(Wah Hong Plaza) 13-03-2026(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13|Children's playgrounds in Southern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.251006",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135597",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:50:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "186032518": {
+        "pageid": 186032518,
+        "ns": 6,
+        "title": "File:Near Wah Chun House, Wah Hong House and Wah Yu House Wah Fu Estate playground(Wah Hong Plaza) 13-03-2026(4).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9061638,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg/960px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg/1920px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg/960px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg/1920px-Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Near_Wah_Chun_House%2C_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground%28Wah_Hong_Plaza%29_13-03-2026%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Near_Wah_Chun_House,_Wah_Hong_House_and_Wah_Yu_House_Wah_Fu_Estate_playground(Wah_Hong_Plaza)_13-03-2026(4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186032518",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-13 08:57:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Near Wah Chun House, Wah Hong House and Wah Yu House Wah Fu Estate playground(Wah Hong Plaza) 13-03-2026(4)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2026 in Wah Fu Estate|Hong Kong photographs taken on 2026-03-13|Children's playgrounds in Southern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250372",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135453",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在華富邨拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-03-13 14:52:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "191834972": {
+        "pageid": 191834972,
+        "ns": 6,
+        "title": "File:Waterfall Bay Road 2026.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1176018,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Waterfall_Bay_Road_2026.jpg/960px-Waterfall_Bay_Road_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Waterfall_Bay_Road_2026.jpg/1920px-Waterfall_Bay_Road_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Waterfall_Bay_Road_2026.jpg/960px-Waterfall_Bay_Road_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Waterfall_Bay_Road_2026.jpg/1920px-Waterfall_Bay_Road_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Waterfall_Bay_Road_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Waterfall_Bay_Road_2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=191834972",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-12 02:17:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Waterfall Bay Road 2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Waterfall Bay Road|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250452",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135283",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​瀑布灣道，位於華富邨的街道。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-12 16:41:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tombus20032000&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tombus20032000 (page does not exist)\">Tombus20032000</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196069558": {
+        "pageid": 196069558,
+        "ns": 6,
+        "title": "File:202604 Wah Fu Estate 24.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4003824,
+            "width": 3840,
+            "height": 2160,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/202604_Wah_Fu_Estate_24.jpg/960px-202604_Wah_Fu_Estate_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/202604_Wah_Fu_Estate_24.jpg/1920px-202604_Wah_Fu_Estate_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/202604_Wah_Fu_Estate_24.jpg/960px-202604_Wah_Fu_Estate_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/202604_Wah_Fu_Estate_24.jpg/1920px-202604_Wah_Fu_Estate_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/202604_Wah_Fu_Estate_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:202604_Wah_Fu_Estate_24.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196069558",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 17:15:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "202604 Wah Fu Estate 24",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Jonashtand|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250472",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135384",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-02 17:32:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonashtand\" title=\"User:Jonashtand\">Jonashtand</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196069562": {
+        "pageid": 196069562,
+        "ns": 6,
+        "title": "File:202604 Wah Fu Estate 25.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3910143,
+            "width": 2160,
+            "height": 3840,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/202604_Wah_Fu_Estate_25.jpg/960px-202604_Wah_Fu_Estate_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1707,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/202604_Wah_Fu_Estate_25.jpg/1920px-202604_Wah_Fu_Estate_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/202604_Wah_Fu_Estate_25.jpg/960px-202604_Wah_Fu_Estate_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1707,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/202604_Wah_Fu_Estate_25.jpg/1920px-202604_Wah_Fu_Estate_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/202604_Wah_Fu_Estate_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:202604_Wah_Fu_Estate_25.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196069562",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 17:15:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "202604 Wah Fu Estate 25",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Jonashtand|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250462",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135409",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-02 17:33:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonashtand\" title=\"User:Jonashtand\">Jonashtand</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196069563": {
+        "pageid": 196069563,
+        "ns": 6,
+        "title": "File:202604 Wah Fu Estate 26.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3908570,
+            "width": 2160,
+            "height": 3840,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/202604_Wah_Fu_Estate_26.jpg/960px-202604_Wah_Fu_Estate_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1707,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/202604_Wah_Fu_Estate_26.jpg/1920px-202604_Wah_Fu_Estate_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/202604_Wah_Fu_Estate_26.jpg/960px-202604_Wah_Fu_Estate_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1707,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/202604_Wah_Fu_Estate_26.jpg/1920px-202604_Wah_Fu_Estate_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/202604_Wah_Fu_Estate_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:202604_Wah_Fu_Estate_26.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196069563",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 17:15:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "202604 Wah Fu Estate 26",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Jonashtand|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250364",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135533",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-02 17:33:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonashtand\" title=\"User:Jonashtand\">Jonashtand</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196069564": {
+        "pageid": 196069564,
+        "ns": 6,
+        "title": "File:202604 Wah Fu Estate 27.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4273255,
+            "width": 2160,
+            "height": 3840,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/202604_Wah_Fu_Estate_27.jpg/960px-202604_Wah_Fu_Estate_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1707,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/202604_Wah_Fu_Estate_27.jpg/1920px-202604_Wah_Fu_Estate_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/202604_Wah_Fu_Estate_27.jpg/960px-202604_Wah_Fu_Estate_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1707,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/202604_Wah_Fu_Estate_27.jpg/1920px-202604_Wah_Fu_Estate_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/202604_Wah_Fu_Estate_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:202604_Wah_Fu_Estate_27.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196069564",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 17:15:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "202604 Wah Fu Estate 27",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Jonashtand|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250356",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135558",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-02 17:35:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonashtand\" title=\"User:Jonashtand\">Jonashtand</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196069570": {
+        "pageid": 196069570,
+        "ns": 6,
+        "title": "File:202604 Wah Fu Estate 28.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4365606,
+            "width": 3840,
+            "height": 2160,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/202604_Wah_Fu_Estate_28.jpg/960px-202604_Wah_Fu_Estate_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/202604_Wah_Fu_Estate_28.jpg/1920px-202604_Wah_Fu_Estate_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/202604_Wah_Fu_Estate_28.jpg/960px-202604_Wah_Fu_Estate_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/202604_Wah_Fu_Estate_28.jpg/1920px-202604_Wah_Fu_Estate_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/202604_Wah_Fu_Estate_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:202604_Wah_Fu_Estate_28.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196069570",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 17:15:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "202604 Wah Fu Estate 28",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Jonashtand|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250356",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135558",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-02 17:35:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonashtand\" title=\"User:Jonashtand\">Jonashtand</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196069571": {
+        "pageid": 196069571,
+        "ns": 6,
+        "title": "File:202604 Wah Fu Estate 29.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3687367,
+            "width": 3840,
+            "height": 2160,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/202604_Wah_Fu_Estate_29.jpg/960px-202604_Wah_Fu_Estate_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/202604_Wah_Fu_Estate_29.jpg/1920px-202604_Wah_Fu_Estate_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/202604_Wah_Fu_Estate_29.jpg/960px-202604_Wah_Fu_Estate_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/202604_Wah_Fu_Estate_29.jpg/1920px-202604_Wah_Fu_Estate_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/202604_Wah_Fu_Estate_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:202604_Wah_Fu_Estate_29.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196069571",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 17:15:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "202604 Wah Fu Estate 29",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Jonashtand|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250334",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135570",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-02 17:36:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonashtand\" title=\"User:Jonashtand\">Jonashtand</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196069574": {
+        "pageid": 196069574,
+        "ns": 6,
+        "title": "File:202604 Wah Fu Estate 30.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4170416,
+            "width": 3840,
+            "height": 2160,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/202604_Wah_Fu_Estate_30.jpg/960px-202604_Wah_Fu_Estate_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/202604_Wah_Fu_Estate_30.jpg/1920px-202604_Wah_Fu_Estate_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/202604_Wah_Fu_Estate_30.jpg/960px-202604_Wah_Fu_Estate_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/202604_Wah_Fu_Estate_30.jpg/1920px-202604_Wah_Fu_Estate_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/202604_Wah_Fu_Estate_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:202604_Wah_Fu_Estate_30.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196069574",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 17:15:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "202604 Wah Fu Estate 30",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Jonashtand|April 2026 in Wah Fu Estate",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.250293",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.135590",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wah Fu Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-02 17:37:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonashtand\" title=\"User:Jonashtand\">Jonashtand</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

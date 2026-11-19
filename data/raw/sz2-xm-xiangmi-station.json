@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 235069264,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7975273815,
+    "lat": "22.5413354",
+    "lon": "114.0325698",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "香蜜湖地铁站 ②",
+    "display_name": "香蜜湖地铁站 ②, 深南大道辅路, 香蜜社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5412854",
+      "22.5413854",
+      "114.0325198",
+      "114.0326198"
+    ]
+  },
+  {
+    "place_id": 237387487,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7975273817,
+    "lat": "22.5415449",
+    "lon": "114.0339854",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "香蜜湖地铁站 ①",
+    "display_name": "香蜜湖地铁站 ①, 深南大道辅路, 香蜜社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5414949",
+      "22.5415949",
+      "114.0339354",
+      "114.0340354"
+    ]
+  }
+]

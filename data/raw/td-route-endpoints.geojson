@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "sourceUrl": "https://static.data.gov.hk/td/routes-fares-geojson/JSON_BUS.json",
+  "retrievedAt": "2026-11-02",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25102,
+          22.230729
+        ]
+      },
+      "properties": {
+        "routeId": 1637,
+        "companyCode": "CTB",
+        "district": "",
+        "routeNameC": "9",
+        "routeNameS": "9",
+        "routeNameE": "9",
+        "routeType": 1,
+        "serviceMode": "R",
+        "specialType": 0,
+        "journeyTime": 31,
+        "locStartNameC": "筲箕灣",
+        "locStartNameS": "筲箕湾",
+        "locStartNameE": "Shau Kei Wan",
+        "locEndNameC": "石澳",
+        "locEndNameS": "石澳",
+        "locEndNameE": "Shek O Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+        "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=9&dsmode=1&l=0",
+        "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=9&dsmode=1&l=2",
+        "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=9&dsmode=1&l=1",
+        "fullFare": 9.4,
+        "lastUpdateDate": "2025-05-16T00:00:00",
+        "routeSeq": 2,
+        "stopSeq": 1,
+        "stopId": 3160,
+        "stopPickDrop": 2,
+        "stopNameC": "石澳",
+        "stopNameS": "石澳",
+        "stopNameE": "Shek O"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.862551,
+          22.252622
+        ]
+      },
+      "properties": {
+        "routeId": 1724,
+        "companyCode": "NLB",
+        "district": "",
+        "routeNameC": "11",
+        "routeNameS": "11",
+        "routeNameE": "11",
+        "routeType": 1,
+        "serviceMode": "R",
+        "specialType": 2,
+        "journeyTime": 55,
+        "locStartNameC": "東涌站巴士總站",
+        "locStartNameS": "东涌站巴士总站",
+        "locStartNameE": "Tung Chung Station Bus Terminus",
+        "locEndNameC": "大澳",
+        "locEndNameS": "大澳",
+        "locEndNameE": "Tai O",
+        "hyperlinkC": "https://www.nlb.com.hk/route?q=11",
+        "hyperlinkS": "https://www.nlb.com.hk/route?q=11",
+        "hyperlinkE": "https://www.nlb.com.hk/route?q=11",
+        "fullFare": 23.3,
+        "lastUpdateDate": "2025-02-04T00:00:00",
+        "routeSeq": 2,
+        "stopSeq": 1,
+        "stopId": 11000,
+        "stopPickDrop": 2,
+        "stopNameC": "大澳",
+        "stopNameS": "大澳",
+        "stopNameE": "Tai O"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2131,
+          22.219156
+        ]
+      },
+      "properties": {
+        "routeId": 1526,
+        "companyCode": "CTB",
+        "district": "",
+        "routeNameC": "260",
+        "routeNameS": "260",
+        "routeNameE": "260",
+        "routeType": 1,
+        "serviceMode": "R",
+        "specialType": 0,
+        "journeyTime": 46,
+        "locStartNameC": "中環(交易廣場)",
+        "locStartNameS": "中环(交易广场)",
+        "locStartNameE": "Central (Exchange Square)",
+        "locEndNameC": "赤柱市場",
+        "locEndNameS": "赤柱市场",
+        "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+        "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+        "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+        "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+        "fullFare": 15.1,
+        "lastUpdateDate": "2025-01-05T00:00:00",
+        "routeSeq": 2,
+        "stopSeq": 1,
+        "stopId": 82,
+        "stopPickDrop": 2,
+        "stopNameC": "赤柱村",
+        "stopNameS": "赤柱村",
+        "stopNameE": "Stanley Village"
+      }
+    }
+  ]
+}

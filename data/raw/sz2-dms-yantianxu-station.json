@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237554350,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11455834334,
+    "lat": "22.5902298",
+    "lon": "114.2709224",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.38584692642506985,
+    "addresstype": "railway",
+    "name": "盐田墟",
+    "display_name": "盐田墟, 北山道, 盐田街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5852298",
+      "22.5952298",
+      "114.2659224",
+      "114.2759224"
+    ]
+  },
+  {
+    "place_id": 238044936,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11455815127,
+    "lat": "22.5901672",
+    "lon": "114.2709178",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "盐田墟",
+    "display_name": "盐田墟, 北山道, 盐田街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5901172",
+      "22.5902172",
+      "114.2708678",
+      "114.2709678"
+    ]
+  }
+]

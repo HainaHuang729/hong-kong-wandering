@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237398786,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6013132830,
+    "lat": "22.2831510",
+    "lon": "114.1488680",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "樓梯街 Ladder Street",
+    "display_name": "樓梯街 Ladder Street, 堅道 Caine Road, 太平山 Tai Ping Shan, 西半山 Mid-Levels West, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2831010",
+      "22.2832010",
+      "114.1488180",
+      "114.1489180"
+    ]
+  }
+]

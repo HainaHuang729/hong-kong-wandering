@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237965885,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214588594,
+    "lat": "22.5472942",
+    "lon": "114.1108594",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4122803330194641,
+    "addresstype": "railway",
+    "name": "老街",
+    "display_name": "老街, 永新路, 东门商业步行街, 东门社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5422942",
+      "22.5522942",
+      "114.1058594",
+      "114.1158594"
+    ]
+  },
+  {
+    "place_id": 237984510,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214588592,
+    "lat": "22.5476656",
+    "lon": "114.1108332",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "老街",
+    "display_name": "老街, 永新路, 东门商业步行街, 东门社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5476156",
+      "22.5477156",
+      "114.1107832",
+      "114.1108832"
+    ]
+  },
+  {
+    "place_id": 237951780,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214588593,
+    "lat": "22.5470714",
+    "lon": "114.1108235",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "老街",
+    "display_name": "老街, 3018, 建设路, 东门社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5470214",
+      "22.5471214",
+      "114.1107735",
+      "114.1108735"
+    ]
+  }
+]

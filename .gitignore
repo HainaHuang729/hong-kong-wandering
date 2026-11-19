@@ -1,0 +1,6 @@
+node_modules/
+dist/
+output/
+data/raw/expansion-sources/
+*.tsbuildinfo
+.DS_Store

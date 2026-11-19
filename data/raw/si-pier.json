@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237050839,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 701655702,
+    "lat": "22.3676770",
+    "lon": "114.2873008",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "橋咀島碼頭 Sharp Island Pier",
+    "display_name": "橋咀島碼頭 Sharp Island Pier, 橋咀洲地質步道 Sharp Island Geo Trail, 橋咀 Kiu Tsui, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3674466",
+      "22.3678730",
+      "114.2869933",
+      "114.2876158"
+    ]
+  },
+  {
+    "place_id": 236663195,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1551247388,
+    "lat": "22.3677215",
+    "lon": "114.2870879",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "橋咀碼頭 Sharp Island Pier",
+    "display_name": "橋咀碼頭 Sharp Island Pier, 橋咀洲地質步道 Sharp Island Geo Trail, 橋咀 Kiu Tsui, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3676715",
+      "22.3677715",
+      "114.2870379",
+      "114.2871379"
+    ]
+  }
+]

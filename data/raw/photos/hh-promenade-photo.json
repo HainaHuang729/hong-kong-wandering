@@ -1,0 +1,2987 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "31728427": {
+        "pageid": 31728427,
+        "ns": 6,
+        "title": "File:Hung Hum Promenade (Hong Kong).jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4765961,
+            "width": 4317,
+            "height": 2878,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hung_Hum_Promenade_%28Hong_Kong%29.jpg/960px-Hung_Hum_Promenade_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hung_Hum_Promenade_%28Hong_Kong%29.jpg/1920px-Hung_Hum_Promenade_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hung_Hum_Promenade_%28Hong_Kong%29.jpg/960px-Hung_Hum_Promenade_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hung_Hum_Promenade_%28Hong_Kong%29.jpg/1920px-Hung_Hum_Promenade_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hung_Hum_Promenade_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hung_Hum_Promenade_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31728427",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-03-21 12:10:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hung Hum Promenade (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony NEX-3|Hung Hom Bay|Harbourfront Horizon|Hung Hom Promenade|Self-published work|Files with coordinates missing SDC location of creation|2013 photographs of Hong Kong by Mk2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300400",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188100",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hung Hum Promenade at dusk, Kowloon, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-10-26 18:08:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "70555539": {
+        "pageid": 70555539,
+        "ns": 6,
+        "title": "File:Aqualuna. Hong Kong. (15847086937).jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3727863,
+            "width": 2400,
+            "height": 1620,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aqualuna._Hong_Kong._%2815847086937%29.jpg/960px-Aqualuna._Hong_Kong._%2815847086937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 648,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aqualuna._Hong_Kong._%2815847086937%29.jpg/1920px-Aqualuna._Hong_Kong._%2815847086937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aqualuna._Hong_Kong._%2815847086937%29.jpg/960px-Aqualuna._Hong_Kong._%2815847086937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 648,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aqualuna._Hong_Kong._%2815847086937%29.jpg/1920px-Aqualuna._Hong_Kong._%2815847086937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Aqualuna._Hong_Kong._%2815847086937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aqualuna._Hong_Kong._(15847086937).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70555539",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-04 15:30:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aqualuna. Hong Kong. (15847086937)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Aqua Luna (ship, 2006)|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Hong Kong skylines (North Point)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300055",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188461",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>The Aqua Luna was built from scratch; it took a Hong Kong craftsman 18 months to construct using traditional shipbuilding methods under the supervision of a 73-year-old shipbuilder. It is owned by the Aqua Restaurant Group, and was launched in 2006 with a party on top of a building at Pier Four, in Hong Kong. It has two decks which offer 1,500 square feet (140 m2) with an upper deck cabin with sofas[6] and a lower deck saloon. The ship can accommodate 80 passengers in addition to the crew. It is 28 metres (92 ft) long, and has three crimson sails arranged in a junk rig style. However, the sails are purely decorative, and the barge is motorised.\n</p>\n It costs up to HK$80,000 to rent",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-11-24 20:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/volvob12b/15847086937/\">Aqualuna. Hong Kong.</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/88123769@N02\">Bernard Spragg. NZ</a> from Christchurch, New Zealand",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75847231": {
+        "pageid": 75847231,
+        "ns": 6,
+        "title": "File:South entrance of Hung Hom (Hung Luen Road) Public Transport Interchange (20190114134045).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5935769,
+            "width": 3969,
+            "height": 2693,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg/960px-South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 651,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg/1920px-South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg/960px-South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 651,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg/1920px-South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/South_entrance_of_Hung_Hom_%28Hung_Luen_Road%29_Public_Transport_Interchange_%2820190114134045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_entrance_of_Hung_Hom_(Hung_Luen_Road)_Public_Transport_Interchange_(20190114134045).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75847231",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-14 14:21:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South entrance of Hung Hom (Hung Luen Road) Public Transport Interchange (20190114134045)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hung Hom (Hung Luen Road) Public Transport Interchange|Self-published work|Files with coordinates missing SDC location of creation|January 2019 in transport in Hong Kong|Hong Kong photographs taken on 2019-01-14",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300803",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188500",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This side faces the pier.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-01-14 13:40:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128739395": {
+        "pageid": 128739395,
+        "ns": 6,
+        "title": "File:Yau Kee 28 Fortune Ferry Central to Hung Hom compartment 15-02-2023.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3946836,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg/960px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg/1920px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg/960px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg/1920px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128739395",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-15 13:05:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Yau Kee 28 Fortune Ferry Central to Hung Hom compartment 15-02-2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "February 2023 in transport in Hong Kong|Hong Kong photographs taken on 2023-02-15|Self-published work|Files with coordinates missing SDC location of creation|Yau Kee 28 (ship, 1982)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300397",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188789",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This photo was taken at the Hung Hom Pier.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-15 18:55:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128739396": {
+        "pageid": 128739396,
+        "ns": 6,
+        "title": "File:Yau Kee 28 Fortune Ferry Central to Hung Hom compartment 15-02-2023(2).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3985630,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg/960px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg/1920px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg/960px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg/1920px-Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yau_Kee_28_Fortune_Ferry_Central_to_Hung_Hom_compartment_15-02-2023(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128739396",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-15 13:05:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Yau Kee 28 Fortune Ferry Central to Hung Hom compartment 15-02-2023(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "February 2023 in transport in Hong Kong|Hong Kong photographs taken on 2023-02-15|Self-published work|Files with coordinates missing SDC location of creation|Yau Kee 28 (ship, 1982)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300594",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188531",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This photo was taken at the Hung Hom Pier.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-15 18:55:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692410": {
+        "pageid": 131692410,
+        "ns": 6,
+        "title": "File:Lone Walk (20232201899).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2365651,
+            "width": 4345,
+            "height": 2900,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Lone_Walk_%2820232201899%29.jpg/960px-Lone_Walk_%2820232201899%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Lone_Walk_%2820232201899%29.jpg/1920px-Lone_Walk_%2820232201899%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Lone_Walk_%2820232201899%29.jpg/960px-Lone_Walk_%2820232201899%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Lone_Walk_%2820232201899%29.jpg/1920px-Lone_Walk_%2820232201899%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lone_Walk_%2820232201899%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lone_Walk_(20232201899).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692410",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:58:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lone Walk (20232201899)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Avenue of Stars, Hong Kong|Victoria Harbour|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Avenue of Stars in TST, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-05 23:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20232201899/\">Lone Walk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692412": {
+        "pageid": 131692412,
+        "ns": 6,
+        "title": "File:Walk (20393231056).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16992327,
+            "width": 7360,
+            "height": 4912,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Walk_%2820393231056%29.jpg/960px-Walk_%2820393231056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Walk_%2820393231056%29.jpg/1920px-Walk_%2820393231056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Walk_%2820393231056%29.jpg/960px-Walk_%2820393231056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Walk_%2820393231056%29.jpg/1920px-Walk_%2820393231056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Walk_%2820393231056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Walk_(20393231056).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692412",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:58:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Walk (20393231056)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hong Kong Cultural Centre|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "walk",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-06 01:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20393231056/\">walk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692414": {
+        "pageid": 131692414,
+        "ns": 6,
+        "title": "File:Hong Kong selfie (19721363943).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3368411,
+            "width": 4738,
+            "height": 3007,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_selfie_%2819721363943%29.jpg/960px-Hong_Kong_selfie_%2819721363943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 609,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_selfie_%2819721363943%29.jpg/1920px-Hong_Kong_selfie_%2819721363943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_selfie_%2819721363943%29.jpg/960px-Hong_Kong_selfie_%2819721363943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 609,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_selfie_%2819721363943%29.jpg/1920px-Hong_Kong_selfie_%2819721363943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hong_Kong_selfie_%2819721363943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_selfie_(19721363943).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692414",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:58:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong selfie (19721363943)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "People of Hong Kong|Files with coordinates missing SDC location of creation|People photographing using selfie sticks|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong selfie",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-06 00:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/19721363943/\">Hong Kong selfie</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692417": {
+        "pageid": 131692417,
+        "ns": 6,
+        "title": "File:Lone morning stroll (19798262223).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4576038,
+            "width": 4345,
+            "height": 2900,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lone_morning_stroll_%2819798262223%29.jpg/960px-Lone_morning_stroll_%2819798262223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lone_morning_stroll_%2819798262223%29.jpg/1920px-Lone_morning_stroll_%2819798262223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lone_morning_stroll_%2819798262223%29.jpg/960px-Lone_morning_stroll_%2819798262223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lone_morning_stroll_%2819798262223%29.jpg/1920px-Lone_morning_stroll_%2819798262223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lone_morning_stroll_%2819798262223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lone_morning_stroll_(19798262223).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692417",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lone morning stroll (19798262223)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Avenue of Stars, Hong Kong|Victoria Harbour|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Women in Hong Kong|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Avenue of the Stars in Kowloon, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-05 23:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/19798262223/\">lone morning stroll</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692420": {
+        "pageid": 131692420,
+        "ns": 6,
+        "title": "File:Buildings and sky (19796512424).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15741170,
+            "width": 7360,
+            "height": 4912,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Buildings_and_sky_%2819796512424%29.jpg/960px-Buildings_and_sky_%2819796512424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Buildings_and_sky_%2819796512424%29.jpg/1920px-Buildings_and_sky_%2819796512424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Buildings_and_sky_%2819796512424%29.jpg/960px-Buildings_and_sky_%2819796512424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Buildings_and_sky_%2819796512424%29.jpg/1920px-Buildings_and_sky_%2819796512424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Buildings_and_sky_%2819796512424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Buildings_and_sky_(19796512424).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692420",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Buildings and sky (19796512424)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wan Chai North|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "buildings and sky",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-06 01:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/19796512424/\">buildings and sky</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692424": {
+        "pageid": 131692424,
+        "ns": 6,
+        "title": "File:Pink (20385968116).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17879246,
+            "width": 7360,
+            "height": 4912,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Pink_%2820385968116%29.jpg/960px-Pink_%2820385968116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Pink_%2820385968116%29.jpg/1920px-Pink_%2820385968116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Pink_%2820385968116%29.jpg/960px-Pink_%2820385968116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Pink_%2820385968116%29.jpg/1920px-Pink_%2820385968116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Pink_%2820385968116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pink_(20385968116).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692424",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pink (20385968116)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Unidentified locations in Hong Kong|Flowers in Hong Kong|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "pink",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-06 00:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20385968116/\">pink</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692425": {
+        "pageid": 131692425,
+        "ns": 6,
+        "title": "File:Hoorah! (20149709789).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9799062,
+            "width": 5683,
+            "height": 3824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hoorah%21_%2820149709789%29.jpg/960px-Hoorah%21_%2820149709789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 646,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hoorah%21_%2820149709789%29.jpg/1920px-Hoorah%21_%2820149709789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hoorah%21_%2820149709789%29.jpg/960px-Hoorah%21_%2820149709789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 646,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hoorah%21_%2820149709789%29.jpg/1920px-Hoorah%21_%2820149709789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hoorah%21_%2820149709789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hoorah!_(20149709789).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692425",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hoorah! (20149709789)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Exterior of Hong Kong City Hall, High Block|Women of Hong Kong|Central, Hong Kong|Victoria Harbour|Tsim Sha Tsui Promenade|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Red trousers in Hong Kong|White T-shirts in Hong Kong|Sunny day in Hong Kong|Photographs by cloud.shepherd (Brian Miner)|Physical exercises in Hong Kong|Stretching in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hoorah!",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-05 23:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20149709789/\">Hoorah!</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692429": {
+        "pageid": 131692429,
+        "ns": 6,
+        "title": "File:Bright & sunny (20125979500).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 25477039,
+            "width": 7360,
+            "height": 4912,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bright_%26_sunny_%2820125979500%29.jpg/960px-Bright_%26_sunny_%2820125979500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bright_%26_sunny_%2820125979500%29.jpg/1920px-Bright_%26_sunny_%2820125979500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bright_%26_sunny_%2820125979500%29.jpg/960px-Bright_%26_sunny_%2820125979500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bright_%26_sunny_%2820125979500%29.jpg/1920px-Bright_%26_sunny_%2820125979500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bright_%26_sunny_%2820125979500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bright_%26_sunny_(20125979500).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692429",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bright & sunny (20125979500)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Exterior of HSBC Hong Kong headquarters building|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Hong Kong skylines (Central)|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong - Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-05 00:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20125979500/\">bright &amp; sunny</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692430": {
+        "pageid": 131692430,
+        "ns": 6,
+        "title": "File:Hong kong harbour (20142346328).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17267313,
+            "width": 7133,
+            "height": 4761,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hong_kong_harbour_%2820142346328%29.jpg/960px-Hong_kong_harbour_%2820142346328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hong_kong_harbour_%2820142346328%29.jpg/1920px-Hong_kong_harbour_%2820142346328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hong_kong_harbour_%2820142346328%29.jpg/960px-Hong_kong_harbour_%2820142346328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hong_kong_harbour_%2820142346328%29.jpg/1920px-Hong_kong_harbour_%2820142346328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hong_kong_harbour_%2820142346328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_kong_harbour_(20142346328).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692430",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong kong harbour (20142346328)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ports and harbours in Hong Kong|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "hong kong harbour",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-05 00:12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20142346328/\">hong kong harbour</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692434": {
+        "pageid": 131692434,
+        "ns": 6,
+        "title": "File:Victoria Harbor, Hong Kong (20314883581).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21136118,
+            "width": 6376,
+            "height": 4255,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg/960px-Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg/1920px-Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg/960px-Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg/1920px-Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Victoria_Harbor%2C_Hong_Kong_%2820314883581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Harbor,_Hong_Kong_(20314883581).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692434",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Victoria Harbor, Hong Kong (20314883581)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Victoria Harbour|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Victoria Harbor, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-04 23:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20314883581/\">Victoria Harbor, Hong Kong</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131692445": {
+        "pageid": 131692445,
+        "ns": 6,
+        "title": "File:Victoria Harbor on a hot day (20308418235).jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 41233052,
+            "width": 7360,
+            "height": 4912,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg/960px-Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg/1920px-Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg/960px-Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg/1920px-Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Victoria_Harbor_on_a_hot_day_%2820308418235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Harbor_on_a_hot_day_(20308418235).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131692445",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-09 07:59:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Victoria Harbor on a hot day (20308418235)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Victoria Harbour|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by cloud.shepherd (Brian Miner)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300489",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188804",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Victoria Harbor on a hot day",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-08-04 23:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/exnucboy1/20308418235/\">Victoria Harbor on a hot day</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34907359@N08\">cloud.shepherd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "135930098": {
+        "pageid": 135930098,
+        "ns": 6,
+        "title": "File:ATENU962 KMB 275X 14-08-2023.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2361043,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ATENU962_KMB_275X_14-08-2023.jpg/960px-ATENU962_KMB_275X_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ATENU962_KMB_275X_14-08-2023.jpg/1920px-ATENU962_KMB_275X_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ATENU962_KMB_275X_14-08-2023.jpg/960px-ATENU962_KMB_275X_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ATENU962_KMB_275X_14-08-2023.jpg/1920px-ATENU962_KMB_275X_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/ATENU962_KMB_275X_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ATENU962_KMB_275X_14-08-2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135930098",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-08-14 13:26:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ATENU962 KMB 275X 14-08-2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2023-08-14|Files with coordinates missing SDC location of creation|KMB Route 275X",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301019",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188339",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在紅磡（紅鸞道）拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-08-14 18:02:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "135931401": {
+        "pageid": 135931401,
+        "ns": 6,
+        "title": "File:Hong Kong Water Taxi 6 Fortune Ferry Central to Hung Hom 14-08-2023.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2298356,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg/960px-Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg/1920px-Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg/960px-Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg/1920px-Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Water_Taxi_6_Fortune_Ferry_Central_to_Hung_Hom_14-08-2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135931401",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-08-14 13:56:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong Water Taxi 6 Fortune Ferry Central to Hung Hom 14-08-2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2023-08-14|Files with coordinates missing SDC location of creation|Hong Kong Water Taxi 6 (ship, 2021)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300789",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188683",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在紅磡碼頭拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-08-14 17:36:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151609703": {
+        "pageid": 151609703,
+        "ns": 6,
+        "title": "File:Fulmar 18 Fortune Ferry Central to Hung Hom 19-08-2024(1).jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3200081,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg/960px-Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg/1920px-Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg/960px-Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg/1920px-Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fulmar_18_Fortune_Ferry_Central_to_Hung_Hom_19-08-2024(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151609703",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-19 14:13:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fulmar 18 Fortune Ferry Central to Hung Hom 19-08-2024(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hung Hom Ferry Pier|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300636",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188753",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在紅磡碼頭拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-19 17:38:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "191526424": {
+        "pageid": 191526424,
+        "ns": 6,
+        "title": "File:HK KCD 紅磡 Hung Hom 紅聯道 Hung Luen Road 巴士總站 Bus Terminus 268B stop sign May 2026 R12S 02.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2390788,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg/960px-HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg/1920px-HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg/960px-HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg/1920px-HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_KCD_%E7%B4%85%E7%A3%A1_Hung_Hom_%E7%B4%85%E8%81%AF%E9%81%93_Hung_Luen_Road_%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99_Bus_Terminus_268B_stop_sign_May_2026_R12S_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=191526424",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-08 02:14:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK KCD 紅磡 Hung Hom 紅聯道 Hung Luen Road 巴士總站 Bus Terminus 268B stop sign May 2026 R12S 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|KMB Route 268B|Hung Hom (Hung Luen Road) Public Transport Interchange|Bus terminuses in Kowloon City District|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-05-05|May 2026 in Hung Hom|2026 in Hung Hom (Hung Luen Road) PTI",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300542",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.187568",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK KCD 紅磡 Hung Hom 紅聯道 Hung Luen Road 巴士總站 Bus Terminus in May 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-05 18:58:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LhOA_Yausm_332\" title=\"User:LhOA Yausm 332\">LhOA Yausm 332</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "194274592": {
+        "pageid": 194274592,
+        "ns": 6,
+        "title": "File:Hung Hom Promenade full view 0293.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9568031,
+            "width": 11910,
+            "height": 3874,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hung_Hom_Promenade_full_view_0293.jpg/960px-Hung_Hom_Promenade_full_view_0293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 312,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hung_Hom_Promenade_full_view_0293.jpg/1920px-Hung_Hom_Promenade_full_view_0293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hung_Hom_Promenade_full_view_0293.jpg/960px-Hung_Hom_Promenade_full_view_0293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 312,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hung_Hom_Promenade_full_view_0293.jpg/1920px-Hung_Hom_Promenade_full_view_0293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hung_Hom_Promenade_full_view_0293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hung_Hom_Promenade_full_view_0293.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194274592",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-21 15:11:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hung Hom Promenade full view 0293",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|All media needing categories as of 2026|Media needing categories as of 21 June 2026",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300522",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188500",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hung Hom Promenade full view",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-21 21:42:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Noakshut&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Noakshut (page does not exist)\">Noakshut</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "194274596": {
+        "pageid": 194274596,
+        "ns": 6,
+        "title": "File:Hung Hom Promenade full view 0295.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7461043,
+            "width": 10024,
+            "height": 3798,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hung_Hom_Promenade_full_view_0295.jpg/960px-Hung_Hom_Promenade_full_view_0295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 364,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hung_Hom_Promenade_full_view_0295.jpg/1920px-Hung_Hom_Promenade_full_view_0295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hung_Hom_Promenade_full_view_0295.jpg/960px-Hung_Hom_Promenade_full_view_0295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 364,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hung_Hom_Promenade_full_view_0295.jpg/1920px-Hung_Hom_Promenade_full_view_0295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hung_Hom_Promenade_full_view_0295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hung_Hom_Promenade_full_view_0295.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194274596",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-21 15:11:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hung Hom Promenade full view 0295",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|All media needing categories as of 2026|Media needing categories as of 21 June 2026",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300556",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188514",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hung Hom Promenade full view",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-21 21:44:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Noakshut&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Noakshut (page does not exist)\">Noakshut</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "194274597": {
+        "pageid": 194274597,
+        "ns": 6,
+        "title": "File:Hung Hom Promenade full view 0294.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7639887,
+            "width": 10026,
+            "height": 3922,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Hung_Hom_Promenade_full_view_0294.jpg/960px-Hung_Hom_Promenade_full_view_0294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 376,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Hung_Hom_Promenade_full_view_0294.jpg/1920px-Hung_Hom_Promenade_full_view_0294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Hung_Hom_Promenade_full_view_0294.jpg/960px-Hung_Hom_Promenade_full_view_0294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 376,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Hung_Hom_Promenade_full_view_0294.jpg/1920px-Hung_Hom_Promenade_full_view_0294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hung_Hom_Promenade_full_view_0294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hung_Hom_Promenade_full_view_0294.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194274597",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-21 15:11:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hung Hom Promenade full view 0294",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|All media needing categories as of 2026|Media needing categories as of 21 June 2026",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300511",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188500",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hung Hom Promenade full view",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-21 21:43:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Noakshut&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Noakshut (page does not exist)\">Noakshut</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "194274598": {
+        "pageid": 194274598,
+        "ns": 6,
+        "title": "File:Hung Hom Promenade full view 0296.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8354286,
+            "width": 10750,
+            "height": 3866,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hung_Hom_Promenade_full_view_0296.jpg/960px-Hung_Hom_Promenade_full_view_0296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 345,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hung_Hom_Promenade_full_view_0296.jpg/1920px-Hung_Hom_Promenade_full_view_0296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hung_Hom_Promenade_full_view_0296.jpg/960px-Hung_Hom_Promenade_full_view_0296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 345,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hung_Hom_Promenade_full_view_0296.jpg/1920px-Hung_Hom_Promenade_full_view_0296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hung_Hom_Promenade_full_view_0296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hung_Hom_Promenade_full_view_0296.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194274598",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-21 15:11:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hung Hom Promenade full view 0296",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|All media needing categories as of 2026|Media needing categories as of 21 June 2026",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300689",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.188356",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hung Hom Promenade full view",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-21 21:45:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Noakshut&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Noakshut (page does not exist)\">Noakshut</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "194274600": {
+        "pageid": 194274600,
+        "ns": 6,
+        "title": "File:Hung Hom Promenade full view 0297.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7919953,
+            "width": 10838,
+            "height": 3788,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Hung_Hom_Promenade_full_view_0297.jpg/960px-Hung_Hom_Promenade_full_view_0297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 336,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Hung_Hom_Promenade_full_view_0297.jpg/1920px-Hung_Hom_Promenade_full_view_0297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Hung_Hom_Promenade_full_view_0297.jpg/960px-Hung_Hom_Promenade_full_view_0297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 336,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Hung_Hom_Promenade_full_view_0297.jpg/1920px-Hung_Hom_Promenade_full_view_0297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hung_Hom_Promenade_full_view_0297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hung_Hom_Promenade_full_view_0297.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194274600",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-21 15:11:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hung Hom Promenade full view 0297",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|All media needing categories as of 2026|Media needing categories as of 21 June 2026",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300594",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.187644",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hung Hom Promenade full view",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-21 21:45:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Noakshut&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Noakshut (page does not exist)\">Noakshut</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

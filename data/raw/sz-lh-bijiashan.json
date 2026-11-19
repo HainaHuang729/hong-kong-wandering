@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 236968788,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 98999987,
+    "lat": "22.5651644",
+    "lon": "114.0764651",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.13618373728802152,
+    "addresstype": "park",
+    "name": "笔架山公园",
+    "display_name": "笔架山公园, 26, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5582468",
+      "22.5721963",
+      "114.0695939",
+      "114.0849853"
+    ]
+  },
+  {
+    "place_id": 236869489,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8158214387,
+    "lat": "22.5579852",
+    "lon": "114.0714212",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "笔架山公园",
+    "display_name": "笔架山公园, 笋岗西路, 黄木岗社区, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5579352",
+      "22.5580352",
+      "114.0713712",
+      "114.0714712"
+    ]
+  },
+  {
+    "place_id": 236855571,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8158214388,
+    "lat": "22.5582849",
+    "lon": "114.0715835",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "笔架山公园",
+    "display_name": "笔架山公园, 笋岗西路, 华山社区, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5582349",
+      "22.5583349",
+      "114.0715335",
+      "114.0716335"
+    ]
+  }
+]

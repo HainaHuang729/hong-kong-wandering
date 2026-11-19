@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236134692,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 121774185,
+    "lat": "22.5129499",
+    "lon": "114.1054740",
+    "class": "highway",
+    "type": "unclassified",
+    "place_rank": 26,
+    "importance": 0.053398824292362826,
+    "addresstype": "unclassified",
+    "name": "河上鄉路 Ho Sheung Heung Road",
+    "display_name": "河上鄉路 Ho Sheung Heung Road, 松園 Tsung Yuen, 北區 North District, 新界 New Territories, 香港 Hong Kong, 518010, 中国",
+    "boundingbox": [
+      "22.5078788",
+      "22.5159232",
+      "114.1022536",
+      "114.1106901"
+    ]
+  },
+  {
+    "place_id": 234237740,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 839193316,
+    "lat": "22.5093475",
+    "lon": "114.1084332",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.053398824292362826,
+    "addresstype": "residential",
+    "name": "河上鄉排峰路 Ho Sheung Heung Pai Fung Road",
+    "display_name": "河上鄉排峰路 Ho Sheung Heung Pai Fung Road, 松園 Tsung Yuen, 北區 North District, 新界 New Territories, 香港 Hong Kong, 518010, 中国",
+    "boundingbox": [
+      "22.5090614",
+      "22.5139277",
+      "114.1052971",
+      "114.1092516"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237301921,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1026049685,
+    "lat": "22.3950944",
+    "lon": "114.1502211",
+    "class": "tourism",
+    "type": "picnic_site",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "城門郊遊地點六號場 Shing Mun Picnic Site No.6",
+    "display_name": "城門郊遊地點六號場 Shing Mun Picnic Site No.6, 城門林道－水塘段 Shing Mun Forest Track – Reservoir Section, 和宜合 Wo Yi Hop, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3944738",
+      "22.3956860",
+      "114.1498378",
+      "114.1504286"
+    ]
+  },
+  {
+    "place_id": 237304649,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1026049662,
+    "lat": "22.3915605",
+    "lon": "114.1472353",
+    "class": "tourism",
+    "type": "picnic_site",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "城門郊遊地點五號場 Shing Mun Picnic Site No.5",
+    "display_name": "城門郊遊地點五號場 Shing Mun Picnic Site No.5, 城門林道－水塘段 Shing Mun Forest Track – Reservoir Section, 和宜合 Wo Yi Hop, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3914482",
+      "22.3916774",
+      "114.1470424",
+      "114.1474467"
+    ]
+  }
+]

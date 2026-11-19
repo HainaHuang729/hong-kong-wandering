@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237916106,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 591035975,
+    "lat": "22.2811562",
+    "lon": "114.1540090",
+    "class": "amenity",
+    "type": "arts_centre",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "amenity",
+    "name": "大館 Tai Kwun",
+    "display_name": "大館 Tai Kwun, 10, 洗衣場石階 Laundry Steps, 蘇豪 SoHo, 半山 Mid-Levels, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2803929",
+      "22.2819654",
+      "114.1533179",
+      "114.1546870"
+    ]
+  },
+  {
+    "place_id": 237935779,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1012752103,
+    "lat": "22.2819420",
+    "lon": "114.1542600",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "大館 Tai Kwun",
+    "display_name": "大館 Tai Kwun, 荷李活道 Hollywood Road, 蘇豪 SoHo, 中環 Central, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2818920",
+      "22.2819920",
+      "114.1542100",
+      "114.1543100"
+    ]
+  }
+]

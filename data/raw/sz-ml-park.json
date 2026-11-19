@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235441294,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8624031074,
+    "lat": "22.5721110",
+    "lon": "114.0376901",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "梅林公园",
+    "display_name": "梅林公园, 龙尾路, 龙尾社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5720610",
+      "22.5721610",
+      "114.0376401",
+      "114.0377401"
+    ]
+  }
+]

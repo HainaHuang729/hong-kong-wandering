@@ -1,0 +1,1310 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "62421382": {
+        "pageid": 62421382,
+        "ns": 6,
+        "title": "File:111-SC-6614 - Skirmish line on beach firing at Naval forces approaching beach - NARA - 55174042.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17721250,
+            "width": 7983,
+            "height": 6305,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg/960px-111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 758,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg/1920px-111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg/960px-111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 758,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg/1920px-111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:111-SC-6614_-_Skirmish_line_on_beach_firing_at_Naval_forces_approaching_beach_-_NARA_-_55174042.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62421382",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-09-14 07:05:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>111-SC-6614 - Skirmish line on beach firing at Naval forces approaching beach</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Military|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Template Unknown (author)|Black and white photographs of World War I|US National Archives series: Photographs of American Military Activities|US National Archives location: other",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "6 March 1918<div style=\"display: none;\">date QS:P571,+1918-03-06T00:00:00Z/11</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104187215": {
+        "pageid": 104187215,
+        "ns": 6,
+        "title": "File:An Aide-De-Camps Recollections of Service in China, a Residence in Hong-Kong, and visits to other Islands in the Chinese Seas (in Two Volumes, Vol.I) (IA dli.granth.40181).pdf",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9435471,
+            "width": 616,
+            "height": 1000,
+            "pagecount": 342,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/An_Aide-De-Camps_Recollections_of_Service_in_China%2C_a_Residence_in_Hong-Kong%2C_and_visits_to_other_Islands_in_the_Chinese_Seas_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.40181%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1558,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/An_Aide-De-Camps_Recollections_of_Service_in_China%2C_a_Residence_in_Hong-Kong%2C_and_visits_to_other_Islands_in_the_Chinese_Seas_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.40181%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1558
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/An_Aide-De-Camps_Recollections_of_Service_in_China%2C_a_Residence_in_Hong-Kong%2C_and_visits_to_other_Islands_in_the_Chinese_Seas_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.40181%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:An_Aide-De-Camps_Recollections_of_Service_in_China,_a_Residence_in_Hong-Kong,_and_visits_to_other_Islands_in_the_Chinese_Seas_(in_Two_Volumes,_Vol.I)_(IA_dli.granth.40181).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104187215",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-23 10:41:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nAn Aide-De-Camps Recollections of Service in China, a Residence in Hong-Kong, and visits to other Islands in the Chinese Seas (in Two Volumes, Vol.I)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCunynghame, Arthur</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd><p>Source: Asiatic Society of Mumbai<br>Identifier: BK_00086062<br>Digitization Sponsor: Government of Maharashtra</p></dd>\n<dd>Original Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://granthsanjeevani.com/jspui/handle/123456789/40181\">https://granthsanjeevani.com/jspui/handle/123456789/40181</a>\" rel=\"nofollow\"&gt;Item 40181&lt;/a&gt;</dd></dl>\n<br>Subjects: Book;  Geography and Travel; Granth Sanjeevani</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/dli.granth.40181\" class=\"extiw\" title=\"iarchive:dli.granth.40181\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> dli.granth.40181</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.granth.40181/40181.pdf\">https://archive.org/download/dli.granth.40181/40181.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "36712876": {
+        "pageid": 36712876,
+        "ns": 6,
+        "title": "File:Approach Beach.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2114355,
+            "width": 3648,
+            "height": 2736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Approach_Beach.JPG/960px-Approach_Beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Approach_Beach.JPG/1920px-Approach_Beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Approach_Beach.JPG/960px-Approach_Beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Approach_Beach.JPG/1920px-Approach_Beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Approach_Beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Approach_Beach.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36712876",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-11-10 19:43:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Approach Beach",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Olympus SP-570UZ|Castle Peak Road - Ting Kau|Approach Beach|Self-published work|Shark nets in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Approach Beach in Ting Kau, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-11-05 12:16:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Exploringlife\" class=\"mw-redirect\" title=\"User:Exploringlife\">Exploringlife</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "129831906": {
+        "pageid": 129831906,
+        "ns": 6,
+        "title": "File:Approach Beach South Mountain Swimming Association 20171231.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2016468,
+            "width": 1840,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg/960px-Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1703,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg/960px-Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1703,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Approach_Beach_South_Mountain_Swimming_Association_20171231.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129831906",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-21 16:52:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Approach Beach South Mountain Swimming Association 20171231",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Approach Beach|Self-published work|December 2017 in Ting Kau|Swimming clubs from Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​香港<a href=\"https://zh.wikipedia.org/wiki/%E6%B1%80%E4%B9%9D\" class=\"extiw\" title=\"zh:汀九\">汀九</a><a href=\"https://zh.wikipedia.org/wiki/%E8%BF%91%E6%B0%B4%E7%81%A3\" class=\"extiw\" title=\"zh:近水灣\">近水灣</a>南山游泳會，攝於2017年12月31日。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-12-31 14:11:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Will629\" title=\"User:Will629\">Will629</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41949596": {
+        "pageid": 41949596,
+        "ns": 6,
+        "title": "File:HKFactSheet Tourism 082011.pdf",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 456003,
+            "width": 1239,
+            "height": 1754,
+            "pagecount": 3,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HKFactSheet_Tourism_082011.pdf/page1-960px-HKFactSheet_Tourism_082011.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1359,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HKFactSheet_Tourism_082011.pdf/page1-960px-HKFactSheet_Tourism_082011.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1359
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/HKFactSheet_Tourism_082011.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HKFactSheet_Tourism_082011.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41949596",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-29 16:30:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HKFactSheet Tourism 082011",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tourism in Hong Kong|PD Hong Kong|Hong Kong Fact Sheets",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong Fact Sheet on tourism, published in August 2011.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.tourism.gov.hk/resources/english/paperreport_doc/fact/2011-08/tourism_Aug_2011_eng.pdf\">http://www.tourism.gov.hk/resources/english/paperreport_doc/fact/2011-08/tourism_Aug_2011_eng.pdf</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Government_of_Hong_Kong\" class=\"extiw\" title=\"w:Government of Hong Kong\">Government of Hong Kong</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Information on Hong Kong Fact Sheets \"may be freely used. No acknowledgement is necessary.\"",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "95834734": {
+        "pageid": 95834734,
+        "ns": 6,
+        "title": "File:My colonial service in British Guiana, St. Lucia, Trinidad, Fiji, Australia, Newfoundland, and Hong Kong, with interludes (IA mycolonialservic02desviala).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17228939,
+            "width": 806,
+            "height": 1270,
+            "pagecount": 412,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/My_colonial_service_in_British_Guiana%2C_St._Lucia%2C_Trinidad%2C_Fiji%2C_Australia%2C_Newfoundland%2C_and_Hong_Kong%2C_with_interludes_%28IA_mycolonialservic02desviala%29.pdf/page1-500px-My_colonial_service_in_British_Guiana%2C_St._Lucia%2C_Trinidad%2C_Fiji%2C_Australia%2C_Newfoundland%2C_and_Hong_Kong%2C_with_interludes_%28IA_mycolonialservic02desviala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1513,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/My_colonial_service_in_British_Guiana%2C_St._Lucia%2C_Trinidad%2C_Fiji%2C_Australia%2C_Newfoundland%2C_and_Hong_Kong%2C_with_interludes_%28IA_mycolonialservic02desviala%29.pdf/page1-500px-My_colonial_service_in_British_Guiana%2C_St._Lucia%2C_Trinidad%2C_Fiji%2C_Australia%2C_Newfoundland%2C_and_Hong_Kong%2C_with_interludes_%28IA_mycolonialservic02desviala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1513
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/My_colonial_service_in_British_Guiana%2C_St._Lucia%2C_Trinidad%2C_Fiji%2C_Australia%2C_Newfoundland%2C_and_Hong_Kong%2C_with_interludes_%28IA_mycolonialservic02desviala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:My_colonial_service_in_British_Guiana,_St._Lucia,_Trinidad,_Fiji,_Australia,_Newfoundland,_and_Hong_Kong,_with_interludes_(IA_mycolonialservic02desviala).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95834734",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-05 17:53:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nMy colonial service in British Guiana, St. Lucia, Trinidad, Fiji, Australia, Newfoundland, and Hong Kong, with interludes</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Foreign, Commonwealth and Development Office|George William Des Vœux|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nDes Vux, George William, Sir, 1834-1909</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects: Great Britain -- Colonies</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/mycolonialservic02desviala\" class=\"extiw\" title=\"iarchive:mycolonialservic02desviala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> mycolonialservic02desviala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/mycolonialservic02desviala/mycolonialservic02desviala.pdf\">https://archive.org/download/mycolonialservic02desviala/mycolonialservic02desviala.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122257322": {
+        "pageid": 122257322,
+        "ns": 6,
+        "title": "File:Olympos approaching Beach at end of river 2013 3991b.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11954059,
+            "width": 4928,
+            "height": 3280,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg/960px-Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 639,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg/1920px-Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg/960px-Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 639,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg/1920px-Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olympos_approaching_Beach_at_end_of_river_2013_3991b.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122257322",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-08-23 13:07:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Olympos approaching Beach at end of river 2013 3991b",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Views of the south side of the river",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "36.395763",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "30.472882",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Across the river we see the arches that for some peopple are part of the Roman bath.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-12-14 11:14:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dosseman\" title=\"User:Dosseman\">Dosseman</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "146019500": {
+        "pageid": 146019500,
+        "ns": 6,
+        "title": "File:Pornography in Denmark- A New Approach (1970-03-01 San Francisco Examiner ad).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1825275,
+            "width": 3231,
+            "height": 4998,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg/960px-Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1485,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg/1920px-Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg/960px-Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1485,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg/1920px-Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pornography_in_Denmark-_A_New_Approach_%281970-03-01_San_Francisco_Examiner_ad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pornography_in_Denmark-_A_New_Approach_(1970-03-01_San_Francisco_Examiner_ad).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146019500",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-03-03 01:48:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pornography in Denmark- A New Approach (1970-03-01 San Francisco Examiner ad)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "1970 in San Francisco|1970-03-01|PD-scan (PD-US-no notice)|PD US no notice|Pornography in Denmark: A New Approach|1970 advertisements in the United States|Newspaper advertising in the United States|PD-US missing SDC copyright status|Images from newspapers of the United States",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Advertisement printed in the <i>San Francisco Examiner</i> promoting early screenings of the film <i><a href=\"https://en.wikipedia.org/wiki/Pornography_in_Denmark:_A_New_Approach\" class=\"extiw\" title=\"w:Pornography in Denmark: A New Approach\">Pornography in Denmark: A New Approach</a></i> in San Francisco. The advertisement reads as follows:\n<blockquote class=\"templatequote language\"><div style=\"text-align:justify; font-family:serif; font-size:200%;\"><b>We took our cameras to Copenhagen and meticulously filmed an incredible documentary. But don't plan to see it unless you can sign this statement:</b></div>\n<table style='text-align:justify; margin-left: auto; margin-right: auto; border:solid; vertical-align:top; border-spacing:20px; font-family:\"serif\";'><tbody><tr style=\"vertical-align:top\"><td style=\"width:16em;\"><br>   I have read the advertisement for this film and I know the nature of the subject matter. <br>   I have come to this theatre of my own choice, and not by coercion nor by accident. <br>   I am over 21 years of age and can present valid identification to prove it.<br> </td></tr></tbody></table>\n<table style='text-align:justify; margin-left: auto; margin-right: auto; border:none; vertical-align:top; border-spacing:20px; font-family:\"serif\";'><tbody><tr style=\"vertical-align:top\"><td style=\"width:20em;\"> <br>   <span style=\"font-size:150%;\">❝</span>In October of 1969, Copenhagen became the first city in the world to present an exposition of pornography. It was called Sex '69, and it attracted tens of thousands of tourists. More than 400 newsmen were there. And we were there. <br>   “We flew to Copenhagen with our cameras and a crew of professional filmmakers. For seven long days and nights we shot film. <br>   “We spent manny hours at the exposition. We visited bookstores, theatres and private sex clubs. We saw the making of pornography, the sale, distribution and the exhibition of it. We interviewed people, and we observed a free society. We meticulously recorded everything on film.</td><td style=\"width:20em;\"><br>   “Now, after several months of painstaking editing, our film is completed. It is the first film of its kind, and we are proud of it. Every incredible scene is authentic. Nothing is faked, and nothing is concealed. <br>   “We have presented social conditions in Denmark as they really are—without compromise, without fiction. We have been honest. <br>   “We invite you to see our film if the subject matter is of interest to you. However, if you have any reservations about seeing it, then don't. Now it's your turn to be honest.”\n<div style=\"float: right;\">—Alex deRenzy</div>\n<div style=\"float: right;\">The Screening Room</div></td></tr></tbody></table>\n<table style='text-align:center; width:100%; border:solid; vertical-align:top; font-family:\"serif\"; font-size:200%;'><tbody><tr style=\"vertical-align:top\"><td> <b>Pornography in Denmark: A New Approach.</b></td></tr></tbody></table>\n<div style=\"text-align:justify; font-family:serif;\">In Eastmancolor. A film by Alex deRenzy, Paul Gerber, Jack Kerpan and Michael Martin. Produced and directed by Alex deRenzy: The Screening Room, San Francisco, California.</div>\n<div style=\"text-align:center; font-size:120%;\"><b>World Premiere Engagement Now Showing!</b></div>\n<p>For men and women over 21 years. <span style=\"float:right;\">Continuous 11 A.M. 'til 2:00 A.M.</span>\n</p>\n<table style=\"text-align:center; margin-left: auto; margin-right: auto; border:solid; vertical-align:top;\"><tbody><tr style=\"vertical-align:top\"><td> <b>North Beach<br><span style=\"font-size:150%;\">Movie</span><br>Kearny near B'way<br>391-1073</b></td></tr></tbody></table>\n</blockquote>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1970-03-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Advertisement originally printed on page 11 of the March 1, 1970 edition of the <i>San Francisco Examiner</i> (Vol. 1970, No. 9). Scan via <a rel=\"nofollow\" class=\"external text\" href=\"https://www.newspapers.com/image/460254837\">Newspapers.com</a>.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Alexander E. de Renzy Film Productions, Inc.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> because it is a mere mechanical scan or photocopy of a public domain original, or – from the available evidence – is so similar to such a scan or photocopy that no copyright protection can be expected to arise. The original itself is in the public domain for the following reason:\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"boilerplate\" lang=\"en\" id=\"pd\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This advertisement (or image from an advertisement) is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> because it was <a href=\"https://en.wikipedia.org/wiki/publication\" class=\"extiw\" title=\"w:publication\">published</a> in a collective work (such as a periodical issue) in the United States between 1931 and 1977 and <b>without a copyright notice specific to the advertisement</b>. Unless its author has been dead for several years, it is <b>copyrighted</b> in jurisdictions that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada (70 <a href=\"https://en.wikipedia.org/wiki/List_of_Latin_phrases_(P)#Post_mortem_auctoris\" class=\"extiw\" title=\"w:List of Latin phrases (P)\">p.m.a.</a>), Mainland China (50 p.m.a., not Hong Kong or Macao), Germany (70 p.m.a.), Mexico (100 p.m.a.), Switzerland (70 p.m.a.), and other countries with individual treaties. See <a rel=\"nofollow\" class=\"external text\" href=\"https://copyright.cornell.edu/publicdomain\">this page</a> for further explanation.</i>\n</td></tr></tbody></table>\n<hr>\n<p><small>This tag is designed for use where there may be a need to assert that any enhancements (eg brightness, contrast, colour-matching, sharpening) are in themselves insufficiently creative to generate a new copyright.  It can be used where it is unknown whether any enhancements have been made, as well as when the enhancements are clear but insufficient.  For known raw unenhanced scans you can use an appropriate <a href=\"//commons.wikimedia.org/wiki/Template:PD-old\" title=\"Template:PD-old\">{{PD-old}}</a> tag instead. For usage, see <a href=\"//commons.wikimedia.org/wiki/Commons:When_to_use_the_PD-scan_tag\" title=\"Commons:When to use the PD-scan tag\">Commons:When to use the PD-scan tag</a>.</small>\n</p>\n<hr>\n<figure class=\"mw-halign-left\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span><figcaption></figcaption></figure> <small>Note: This tag applies to scans and photocopies only. For photographs of public domain originals taken from afar, <a href=\"//commons.wikimedia.org/wiki/Template:PD-Art\" title=\"Template:PD-Art\">{{PD-Art}}</a> may be applicable. See <a href=\"//commons.wikimedia.org/wiki/Commons:When_to_use_the_PD-Art_tag\" title=\"Commons:When to use the PD-Art tag\">Commons:When to use the PD-Art tag</a>.</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122869055": {
+        "pageid": 122869055,
+        "ns": 6,
+        "title": "File:Saxon Shore Way approaching Beach Walk - geograph.org.uk - 3786066.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 186138,
+            "width": 1077,
+            "height": 807,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg/960px-Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 719,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/01/Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg/960px-Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 719,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/01/Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122869055",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-10 19:34:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Saxon Shore Way approaching Beach Walk - geograph.org.uk - 3786066",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Saxon Shore Way|Images from Geograph Britain and Ireland|Whitstable Beach",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.364843",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.032827",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Saxon Shore Way approaching Beach Walk <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-11-24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/3786066\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/26285\">John Baker</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Saxon_Shore_Way_approaching_Beach_Walk_-_geograph.org.uk_-_3786066.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Saxon Shore Way approaching Beach Walk</i> by John Baker",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34604555": {
+        "pageid": 34604555,
+        "ns": 6,
+        "title": "File:Ting Kau East.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4217958,
+            "width": 3680,
+            "height": 2760,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ting_Kau_East.jpg/960px-Ting_Kau_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ting_Kau_East.jpg/1920px-Ting_Kau_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ting_Kau_East.jpg/960px-Ting_Kau_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ting_Kau_East.jpg/1920px-Ting_Kau_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ting_Kau_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ting_Kau_East.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34604555",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-08 10:14:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ting Kau East",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sanyo Xacti VPC-C5|PD-user|Approach Beach",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​近水灣的海浪優美，海風微弱。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-07-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/zh:User:Oscarkooty\" class=\"extiw\" title=\"w:zh:User:Oscarkooty\">Oscarkooty</a> at <a href=\"https://en.wikipedia.org/wiki/zh:\" class=\"extiw\" title=\"w:zh:\">Chinese Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PD-user-w 1%3D%3Azh%3A 2%3Dwikipedia 3%3DOscarkooty 4%3D 5%3D 6%3D 7%3D%5B%5B%3Azh%3AUser%3AOscarkooty%7COscarkooty%5D%5D\"> </span> <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>This work has been released into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b> by its author, <b><a href=\"https://zh.wikipedia.org/wiki/User:Oscarkooty\" class=\"extiw\" title=\"zh:User:Oscarkooty\">Oscarkooty</a>, at the <a href=\"https://zh.wikipedia.org/wiki/\" class=\"extiw\" title=\"zh:\">English Wikipedia</a> project</b>. This applies worldwide.<br>\n<p><small>In case this is not legally possible:</small><br> <a href=\"https://zh.wikipedia.org/wiki/User:Oscarkooty\" class=\"extiw\" title=\"zh:User:Oscarkooty\">Oscarkooty</a> grants anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "63521671": {
+        "pageid": 63521671,
+        "ns": 6,
+        "title": "File:Tuen Mun Road and Rambler Channel from bus on Ting Kau Bridge 2.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1372999,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg/960px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg/1920px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg/960px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg/1920px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63521671",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-10-22 11:21:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tuen Mun Road and Rambler Channel from bus on Ting Kau Bridge 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with annotations|Tuen Mun Road|Rambler Channel|Ting Kau|Approach Beach|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.365953",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.078950",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "汀九橋のバス車内より望むランブラー海峡と屯門公路",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-16 10:57:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF\" title=\"User:そらみみ\">そらみみ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "63521670": {
+        "pageid": 63521670,
+        "ns": 6,
+        "title": "File:Tuen Mun Road and Rambler Channel from bus on Ting Kau Bridge 3.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1287764,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg/960px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg/1920px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg/960px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg/1920px-Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tuen_Mun_Road_and_Rambler_Channel_from_bus_on_Ting_Kau_Bridge_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63521670",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-10-22 11:21:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tuen Mun Road and Rambler Channel from bus on Ting Kau Bridge 3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with annotations|Tuen Mun Road|Rambler Channel|Ting Kau|Approach Beach|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.364697",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.079583",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "汀九橋のバス車内より望むランブラー海峡と屯門公路",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-16 10:57:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF\" title=\"User:そらみみ\">そらみみ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

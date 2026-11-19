@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237224271,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062301400,
+    "lat": "22.5684555",
+    "lon": "114.0368749",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 0.39951314662297394,
+    "addresstype": "railway",
+    "name": "下梅林",
+    "display_name": "下梅林, 梅林路, 梅河社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5684055",
+      "22.5685055",
+      "114.0368249",
+      "114.0369249"
+    ]
+  },
+  {
+    "place_id": 235526570,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062301332,
+    "lat": "22.5684708",
+    "lon": "114.0368840",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.39951314662297394,
+    "addresstype": "railway",
+    "name": "下梅林",
+    "display_name": "下梅林, 梅林路, 梅河社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5634708",
+      "22.5734708",
+      "114.0318840",
+      "114.0418840"
+    ]
+  },
+  {
+    "place_id": 235530641,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9380950969,
+    "lat": "22.5647744",
+    "lon": "114.0354952",
+    "class": "place",
+    "type": "quarter",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "quarter",
+    "name": "下梅社区",
+    "display_name": "下梅社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5547744",
+      "22.5747744",
+      "114.0254952",
+      "114.0454952"
+    ]
+  }
+]

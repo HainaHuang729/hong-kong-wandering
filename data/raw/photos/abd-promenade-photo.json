@@ -1,0 +1,2982 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "18786857": {
+        "pageid": 18786857,
+        "ns": 6,
+        "title": "File:HK Aberdeen Square 香港仔中心 Aberdeen Centre March-2012 Ip4 Gate stone base.jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2653297,
+            "width": 1936,
+            "height": 2592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg/960px-HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1285,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg/1920px-HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg/960px-HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1285,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg/1920px-HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Aberdeen_Square_%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83_Aberdeen_Centre_March-2012_Ip4_Gate_stone_base.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18786857",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-03-22 05:42:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Aberdeen Square 香港仔中心 Aberdeen Centre March-2012 Ip4 Gate stone base",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with iPhone 4|Self-published work|Hong Kong photographs taken on 2012-03-17|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Chinese gates of Aberdeen Square, Hong Kong|2012 in Aberdeen Square, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.248000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154333",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%BB%94%E4%B8%AD%E5%BF%83\" class=\"extiw\" title=\"zh:香港仔中心\">香港仔中心</a>, Aberdeen Square, Aberdeen Centre, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-03-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Limdaifita\" title=\"User:Limdaifita\">Limdaifita</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "31067596": {
+        "pageid": 31067596,
+        "ns": 6,
+        "title": "File:Hong Kong Ap Lei Chau 1971.jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 560811,
+            "width": 1306,
+            "height": 1075,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hong_Kong_Ap_Lei_Chau_1971.jpg/960px-Hong_Kong_Ap_Lei_Chau_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 790,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hong_Kong_Ap_Lei_Chau_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hong_Kong_Ap_Lei_Chau_1971.jpg/960px-Hong_Kong_Ap_Lei_Chau_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 790,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hong_Kong_Ap_Lei_Chau_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hong_Kong_Ap_Lei_Chau_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Ap_Lei_Chau_1971.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31067596",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-02-09 03:23:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong Ap Lei Chau 1971",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aberdeen Typhoon Shelter|1971 in Hong Kong|Self-published work|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Historical images of Southern District, Hong Kong|Historical images of Ap Lei Chau|June 1971 in Ap Lei Chau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247217",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154729",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong Ap Lei Chau in 1971",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1971-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sillysocks/7504534516/\">Hong Kong    -  Aberdeen  -   June 1971</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/98714538@N00\">Barbara Ann Spengler</a> from Arizona (&amp; Florida)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "46076011": {
+        "pageid": 46076011,
+        "ns": 6,
+        "title": "File:Beef Steak with Turkey Sausage in Black Pepper Sauce.JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8111190,
+            "width": 5520,
+            "height": 4140,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG/960px-Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG/1920px-Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG/960px-Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG/1920px-Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beef_Steak_with_Turkey_Sausage_in_Black_Pepper_Sauce.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46076011",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-01-03 12:14:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Beef Steak with Turkey Sausage in Black Pepper Sauce",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beef steaks|Self-published work|Pepper-based food|Files with coordinates missing SDC location of creation|Fairwood (restaurant) products|Beef steaks of Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247424",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.153721",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Beef Steak with Turkey Sausage in Black Pepper Sauce",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-12-27 18:07:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64177919": {
+        "pageid": 64177919,
+        "ns": 6,
+        "title": "File:Baked Potato with Mayonnaise.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6776491,
+            "width": 5520,
+            "height": 4140,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Baked_Potato_with_Mayonnaise.jpg/960px-Baked_Potato_with_Mayonnaise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Baked_Potato_with_Mayonnaise.jpg/1920px-Baked_Potato_with_Mayonnaise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Baked_Potato_with_Mayonnaise.jpg/960px-Baked_Potato_with_Mayonnaise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Baked_Potato_with_Mayonnaise.jpg/1920px-Baked_Potato_with_Mayonnaise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Baked_Potato_with_Mayonnaise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baked_Potato_with_Mayonnaise.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64177919",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-19 09:09:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Baked Potato with Mayonnaise",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Baked potatoes|Self-published work|Potato dishes of Hong Kong|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247828",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154629",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Baked Potato with Mayonnaise",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-03 18:15:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64177931": {
+        "pageid": 64177931,
+        "ns": 6,
+        "title": "File:Lobster Bisque in Hong Kong Fast Food Shop.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7170075,
+            "width": 5520,
+            "height": 4140,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg/960px-Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg/1920px-Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg/960px-Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg/1920px-Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lobster_Bisque_in_Hong_Kong_Fast_Food_Shop.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64177931",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-19 09:09:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lobster Bisque in Hong Kong Fast Food Shop",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lobster bisque|Self-published work|Soups and stews of Hong Kong|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247828",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154629",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Lobster Bisque in Hong Kong Fast Food Shop",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-03 18:15:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64177932": {
+        "pageid": 64177932,
+        "ns": 6,
+        "title": "File:Mango Pomelo Sago Drink.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6482606,
+            "width": 4140,
+            "height": 5520,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mango_Pomelo_Sago_Drink.jpg/960px-Mango_Pomelo_Sago_Drink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mango_Pomelo_Sago_Drink.jpg/1920px-Mango_Pomelo_Sago_Drink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mango_Pomelo_Sago_Drink.jpg/960px-Mango_Pomelo_Sago_Drink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mango_Pomelo_Sago_Drink.jpg/1920px-Mango_Pomelo_Sago_Drink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mango_Pomelo_Sago_Drink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mango_Pomelo_Sago_Drink.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64177932",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-19 09:09:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mango Pomelo Sago Drink",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beverages from Hong Kong|Mango pomelo sago|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247828",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154629",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mango Pomelo Sago Drink",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-03 18:16:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64177937": {
+        "pageid": 64177937,
+        "ns": 6,
+        "title": "File:Sweet Bun with Butter.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6959265,
+            "width": 5520,
+            "height": 4140,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sweet_Bun_with_Butter.jpg/960px-Sweet_Bun_with_Butter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sweet_Bun_with_Butter.jpg/1920px-Sweet_Bun_with_Butter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sweet_Bun_with_Butter.jpg/960px-Sweet_Bun_with_Butter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sweet_Bun_with_Butter.jpg/1920px-Sweet_Bun_with_Butter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sweet_Bun_with_Butter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sweet_Bun_with_Butter.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64177937",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-19 09:09:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sweet Bun with Butter",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Breads of Hong Kong|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247828",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154629",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sweet Bun with Butter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-09-03 18:17:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "69356844": {
+        "pageid": 69356844,
+        "ns": 6,
+        "title": "File:Beef Brisket in Clear Broth.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7743228,
+            "width": 5520,
+            "height": 4140,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Beef_Brisket_in_Clear_Broth.jpg/960px-Beef_Brisket_in_Clear_Broth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Beef_Brisket_in_Clear_Broth.jpg/1920px-Beef_Brisket_in_Clear_Broth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Beef_Brisket_in_Clear_Broth.jpg/960px-Beef_Brisket_in_Clear_Broth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Beef_Brisket_in_Clear_Broth.jpg/1920px-Beef_Brisket_in_Clear_Broth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Beef_Brisket_in_Clear_Broth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beef_Brisket_in_Clear_Broth.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69356844",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-05-22 08:06:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Beef Brisket in Clear Broth",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Beef brisket of Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247910",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154470",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Beef Brisket in Clear Broth",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-04-22 19:05:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91007343": {
+        "pageid": 91007343,
+        "ns": 6,
+        "title": "File:Aberdeen Tsui Wah Ferry Pier Entrance in 2019.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8782880,
+            "width": 4736,
+            "height": 3552,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg/960px-Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg/1920px-Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg/960px-Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg/1920px-Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Tsui_Wah_Ferry_Pier_Entrance_in_2019.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91007343",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-07 07:55:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Tsui Wah Ferry Pier Entrance in 2019",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Aberdeen Promenade Piers",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247525",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154202",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aberdeen Tsui Wah Ferry Pier Entrance in 2019",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-12-22 11:55:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91007344": {
+        "pageid": 91007344,
+        "ns": 6,
+        "title": "File:Aberdeen Tsui Wah Ferry Pier in 2019.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7328737,
+            "width": 4736,
+            "height": 3552,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg/960px-Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg/1920px-Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg/960px-Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg/1920px-Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Tsui_Wah_Ferry_Pier_in_2019.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91007344",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-07 07:55:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Tsui Wah Ferry Pier in 2019",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Aberdeen Promenade Piers",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.246828",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154523",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aberdeen Tsui Wah Ferry Pier in 2019",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-12-22 11:53:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99398799": {
+        "pageid": 99398799,
+        "ns": 6,
+        "title": "File:HK ALC 鴨脷洲 Ap Lei Chau 洪聖街 Hung Shing Street 洪聖廟 Hung Shing Temple January 2021 SS2 013.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3087020,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg/960px-HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg/1920px-HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg/960px-HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg/1920px-HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E6%B4%AA%E8%81%96%E8%A1%97_Hung_Shing_Street_%E6%B4%AA%E8%81%96%E5%BB%9F_Hung_Shing_Temple_January_2021_SS2_013.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99398799",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-29 23:12:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK ALC 鴨脷洲 Ap Lei Chau 洪聖街 Hung Shing Street 洪聖廟 Hung Shing Temple January 2021 SS2 013",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hung Shing Temple, Ap Lei Chau|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-27|January 2021 in Ap Lei Chau",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247203",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.153991",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK ALC 鴨脷洲 Ap Lei Chau 洪聖街 Hung Shing Street 洪聖廟 Hung Shing Temple in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-27 10:50:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hoypiwoo_Summ\" title=\"User:Hoypiwoo Summ\">Hoypiwoo Summ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "109487547": {
+        "pageid": 109487547,
+        "ns": 6,
+        "title": "File:Hainanese Chicken Rice in Hong Kong Cha Chaan Teng.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11920634,
+            "width": 3552,
+            "height": 4736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg/960px-Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg/1920px-Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg/960px-Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg/1920px-Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hainanese_Chicken_Rice_in_Hong_Kong_Cha_Chaan_Teng.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109487547",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-30 14:36:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hainanese Chicken Rice in Hong Kong Cha Chaan Teng",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hainanese Chicken Rice in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247873",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154067",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hainanese Chicken Rice in Hong Kong Cha Chaan Teng",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-02-28 18:13:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ceeseven\" title=\"User:Ceeseven\">Ceeseven</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125566927": {
+        "pageid": 125566927,
+        "ns": 6,
+        "title": "File:Tsui Wah Ferry Tsui Wah 32 16-11-2022.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4869526,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg/960px-Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg/1920px-Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg/960px-Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg/1920px-Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tsui_Wah_Ferry_Tsui_Wah_32_16-11-2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125566927",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-16 12:44:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tsui Wah Ferry Tsui Wah 32 16-11-2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-11-16|November 2022 in transport in Hong Kong|Tsui Wah 32 (ship, 2001)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247025",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154389",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Aberdeen.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-16 15:43:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125567319": {
+        "pageid": 125567319,
+        "ns": 6,
+        "title": "File:Aberdeen Promenade Tsui Wah Ferry pier 16-11-2022(3).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4341988,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125567319",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-16 12:55:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Promenade Tsui Wah Ferry pier 16-11-2022(3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-11-16|November 2022 in transport in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247289",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154197",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Aberdeen.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-16 16:12:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125567320": {
+        "pageid": 125567320,
+        "ns": 6,
+        "title": "File:Aberdeen Promenade Tsui Wah Ferry pier 16-11-2022(2).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4001796,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125567320",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-16 12:55:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Promenade Tsui Wah Ferry pier 16-11-2022(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ferry piers in Hong Kong|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-11-16|November 2022 in transport in Hong Kong|November 2022 in Aberdeen, Hong Kong|Aberdeen Promenade Piers",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.246872",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154367",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Aberdeen.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-16 15:44:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125567321": {
+        "pageid": 125567321,
+        "ns": 6,
+        "title": "File:Aberdeen Promenade Tsui Wah Ferry pier 16-11-2022(1).jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4211114,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Promenade_Tsui_Wah_Ferry_pier_16-11-2022(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125567321",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-16 12:55:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Promenade Tsui Wah Ferry pier 16-11-2022(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-11-16|November 2022 in transport in Hong Kong|November 2022 in Aberdeen, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247033",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154342",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Aberdeen.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-16 15:43:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125568623": {
+        "pageid": 125568623,
+        "ns": 6,
+        "title": "File:Tsui Wah 8 Tsui Wah Ferry Aberdeen to Lamma Island(Yung Shue Wan) 16-11-2022.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2654026,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg/960px-Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg/1920px-Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg/960px-Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg/1920px-Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tsui_Wah_8_Tsui_Wah_Ferry_Aberdeen_to_Lamma_Island(Yung_Shue_Wan)_16-11-2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125568623",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-16 13:27:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tsui Wah 8 Tsui Wah Ferry Aberdeen to Lamma Island(Yung Shue Wan) 16-11-2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-11-16|November 2022 in transport in Hong Kong|Tsui Wah 8 (ship)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.246831",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154397",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Aberdeen.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-16 16:25:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125568727": {
+        "pageid": 125568727,
+        "ns": 6,
+        "title": "File:Aberdeen to Lamma Island(Yung Shue Wan) entry and exit 16-11-2022.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4654134,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg/960px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg/1920px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg/960px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg/1920px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_to_Lamma_Island(Yung_Shue_Wan)_entry_and_exit_16-11-2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125568727",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-16 13:30:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen to Lamma Island(Yung Shue Wan) entry and exit 16-11-2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tsui Wah Ferry|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-11-16|November 2022 in transport in Hong Kong|November 2022 in Aberdeen, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247319",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154206",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Aberdeen.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-16 16:26:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125568728": {
+        "pageid": 125568728,
+        "ns": 6,
+        "title": "File:Aberdeen to Lamma Island(Yung Shue Wan) entry and exit 16-11-2022(2).jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4185888,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg/960px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg/1920px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg/960px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg/1920px-Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Aberdeen_to_Lamma_Island%28Yung_Shue_Wan%29_entry_and_exit_16-11-2022%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_to_Lamma_Island(Yung_Shue_Wan)_entry_and_exit_16-11-2022(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125568728",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-16 13:30:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen to Lamma Island(Yung Shue Wan) entry and exit 16-11-2022(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2022-11-16|November 2022 in transport in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247092",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154297",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Aberdeen.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-16 16:26:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "143773502": {
+        "pageid": 143773502,
+        "ns": 6,
+        "title": "File:EK6856 10-01-2024.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2102600,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/EK6856_10-01-2024.jpg/960px-EK6856_10-01-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/EK6856_10-01-2024.jpg/1920px-EK6856_10-01-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/EK6856_10-01-2024.jpg/960px-EK6856_10-01-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/EK6856_10-01-2024.jpg/1920px-EK6856_10-01-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/EK6856_10-01-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:EK6856_10-01-2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143773502",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-10 11:46:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "EK6856 10-01-2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-01-10",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247886",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154281",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在香港仔拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-01-10 18:12:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "LN9267",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182887707": {
+        "pageid": 182887707,
+        "ns": 6,
+        "title": "File:41119 CTB 98 01-02-2026.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3579770,
+            "width": 4432,
+            "height": 3324,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/41119_CTB_98_01-02-2026.jpg/960px-41119_CTB_98_01-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/41119_CTB_98_01-02-2026.jpg/1920px-41119_CTB_98_01-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/41119_CTB_98_01-02-2026.jpg/960px-41119_CTB_98_01-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/41119_CTB_98_01-02-2026.jpg/1920px-41119_CTB_98_01-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/41119_CTB_98_01-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:41119_CTB_98_01-02-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182887707",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-01 14:28:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "41119 CTB 98 01-02-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Citybus Route 98|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-02-01",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247814",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154747",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在香港仔拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-02-01 21:03:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192575697": {
+        "pageid": 192575697,
+        "ns": 6,
+        "title": "File:B145430 Lau Kee traditional boat noodles 22-05-2026.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6774084,
+            "width": 6716,
+            "height": 5036,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/960px-B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/1920px-B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/960px-B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/1920px-B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:B145430_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192575697",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-22 04:51:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "B145430 Lau Kee traditional boat noodles 22-05-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aberdeen Promenade|Self-published work|Boats in Hong Kong|Files with coordinates missing SDC location of creation|Food shops in Southern District, Hong Kong|Hong Kong photographs taken on 2026-05-22",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247319",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.153786",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在香港仔拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-22 12:28:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192575727": {
+        "pageid": 192575727,
+        "ns": 6,
+        "title": "File:Aberdeen Typhoon Shelter sell Lau Kee traditional boat noodles 22-05-2026.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9217674,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/960px-Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/1920px-Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/960px-Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg/1920px-Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Typhoon_Shelter_sell_Lau_Kee_traditional_boat_noodles_22-05-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192575727",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-22 04:55:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Typhoon Shelter sell Lau Kee traditional boat noodles 22-05-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aberdeen Typhoon Shelter|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-05-22",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247394",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.153642",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在香港仔拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-22 12:29:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192576050": {
+        "pageid": 192576050,
+        "ns": 6,
+        "title": "File:Aberdeen Promenade 22-05-2026(1).jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16115542,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Aberdeen_Promenade_22-05-2026%281%29.jpg/960px-Aberdeen_Promenade_22-05-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Aberdeen_Promenade_22-05-2026%281%29.jpg/1920px-Aberdeen_Promenade_22-05-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Aberdeen_Promenade_22-05-2026%281%29.jpg/960px-Aberdeen_Promenade_22-05-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Aberdeen_Promenade_22-05-2026%281%29.jpg/1920px-Aberdeen_Promenade_22-05-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Aberdeen_Promenade_22-05-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Promenade_22-05-2026(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192576050",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-22 05:24:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Promenade 22-05-2026(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aberdeen Promenade|Self-published work|Files with coordinates missing SDC location of creation|Children's playgrounds in Southern District, Hong Kong|Hong Kong photographs taken on 2026-05-22",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247303",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154075",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在香港仔拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-22 12:27:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192576209": {
+        "pageid": 192576209,
+        "ns": 6,
+        "title": "File:Aberdeen Promenade Tsui Wah Ferry 22-05-2026.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10266642,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg/960px-Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg/1920px-Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aberdeen_Promenade_Tsui_Wah_Ferry_22-05-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192576209",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-22 05:37:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aberdeen Promenade Tsui Wah Ferry 22-05-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tsui Wah Ferry|Self-published work|Files with coordinates missing SDC location of creation|Aberdeen Promenade Piers|Hong Kong photographs taken on 2026-05-22",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.247361",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.154219",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在香港仔拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-22 12:27:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

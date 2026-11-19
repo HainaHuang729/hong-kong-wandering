@@ -1,0 +1,367 @@
+{
+ "currentVersion": 10.91,
+ "cimVersion": "2.9.0",
+ "id": 0,
+ "name": "FB_ROUTE_LINE",
+ "type": "Feature Layer",
+ "parentLayer": null,
+ "defaultVisibility": true,
+ "minScale": 0,
+ "maxScale": 0,
+ "canScaleSymbols": false,
+ "geometryType": "esriGeometryPolyline",
+ "description": "",
+ "copyrightText": "",
+ "editFieldsInfo": null,
+ "ownershipBasedAccessControlForFeatures": null,
+ "syncCanReturnChanges": false,
+ "relationships": [],
+ "isDataVersioned": false,
+ "isDataArchived": false,
+ "infoInEstimates": [
+  "extent",
+  "count"
+ ],
+ "isDataBranchVersioned": false,
+ "isDataReplicaTracked": false,
+ "isCoGoEnabled": false,
+ "supportsRollbackOnFailureParameter": true,
+ "archivingInfo": {
+  "supportsQueryWithHistoricMoment": false,
+  "startArchivingMoment": -1
+ },
+ "supportsStatistics": true,
+ "supportsExceedsLimitStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportsValidateSQL": true,
+ "supportsCoordinatesQuantization": true,
+ "supportsQuantizationEditMode": true,
+ "supportsCalculate": true,
+ "supportsASyncCalculate": true,
+ "supportsDatumTransformation": true,
+ "advancedQueryCapabilities": {
+  "supportsPagination": true,
+  "supportsTrueCurve": true,
+  "supportsQueryWithDistance": true,
+  "supportsReturningQueryExtent": true,
+  "supportsStatistics": true,
+  "supportsPercentileStatistics": true,
+  "supportsHavingClause": true,
+  "supportsOrderBy": true,
+  "supportsDistinct": true,
+  "supportsCountDistinct": true,
+  "supportsQueryWithResultType": true,
+  "supportsReturningGeometryCentroid": false,
+  "supportsSqlExpression": true,
+  "supportsQueryWithDatumTransformation": true,
+  "supportsLod": false,
+  "supportsQueryWithLodSR": false,
+  "supportsQueryAnalytic": false
+ },
+ "advancedEditingCapabilities": {
+  "supportedSqlFormatsInCalculate": [
+   "standard"
+  ],
+  "supportsAsyncApplyEdits": true
+ },
+ "hasGeometryProperties": true,
+ "geometryProperties": {
+  "shapeLengthFieldName": "Shape__Length",
+  "units": "esriMeters"
+ },
+ "hasMetadata": true,
+ "extent": {
+  "xmin": 803840.8000000007,
+  "ymin": 807385.0000000019,
+  "xmax": 852735.2067000009,
+  "ymax": 846027.5722000021,
+  "spatialReference": {
+   "wkid": 102140,
+   "latestWkid": 2326,
+   "xyTolerance": 0.001,
+   "zTolerance": 0.001,
+   "mTolerance": 0.001,
+   "falseX": -4786700,
+   "falseY": -11651800,
+   "xyUnits": 10000,
+   "falseZ": -100000,
+   "zUnits": 10000,
+   "falseM": -100000,
+   "mUnits": 10000
+  }
+ },
+ "sourceSpatialReference": {
+  "wkid": 102140,
+  "latestWkid": 2326,
+  "xyTolerance": 1.0E-4,
+  "zTolerance": 0.001,
+  "mTolerance": 2.0E-4,
+  "falseX": -4786700,
+  "falseY": -11651800,
+  "xyUnits": 99999.99999999999,
+  "falseZ": -100000,
+  "zUnits": 10000,
+  "falseM": 0,
+  "mUnits": 10000
+ },
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSLS",
+    "style": "esriSLSSolid",
+    "color": [
+     173,
+     49,
+     175,
+     255
+    ],
+    "width": 1
+   }
+  },
+  "scaleSymbols": true,
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "hasM": true,
+ "hasZ": false,
+ "allowUpdateWithoutMValues": false,
+ "allowGeometryUpdates": false,
+ "allowTrueCurvesUpdates": false,
+ "onlyAllowTrueCurveUpdatesByTrueCurveClients": false,
+ "hasAttachments": false,
+ "supportsApplyEditsWithGlobalIds": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "objectIdField": "OBJECTID",
+ "globalIdField": "",
+ "displayField": "ROUTE_NAMEE",
+ "typeIdField": "",
+ "subtypeField": "",
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null,
+   "editable": false,
+   "nullable": false,
+   "defaultValue": null,
+   "modelName": "OBJECTID"
+  },
+  {
+   "name": "ROUTE_ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "ROUTE_ID",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "defaultValue": null,
+   "modelName": "ROUTE_ID"
+  },
+  {
+   "name": "ROUTE_SEQ",
+   "type": "esriFieldTypeInteger",
+   "alias": "ROUTE_SEQ",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "defaultValue": null,
+   "modelName": "ROUTE_SEQ"
+  },
+  {
+   "name": "COMPANY_CODE",
+   "type": "esriFieldTypeString",
+   "alias": "COMPANY_CODE",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "COMPANY_CODE"
+  },
+  {
+   "name": "ROUTE_NAMEE",
+   "type": "esriFieldTypeString",
+   "alias": "ROUTE_NAMEE",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "ROUTE_NAMEE"
+  },
+  {
+   "name": "ST_STOP_ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "ST_STOP_ID",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "defaultValue": null,
+   "modelName": "ST_STOP_ID"
+  },
+  {
+   "name": "ST_STOP_NAMEE",
+   "type": "esriFieldTypeString",
+   "alias": "ST_STOP_NAMEE",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "ST_STOP_NAMEE"
+  },
+  {
+   "name": "ST_STOP_NAMEC",
+   "type": "esriFieldTypeString",
+   "alias": "ST_STOP_NAMEC",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "ST_STOP_NAMEC"
+  },
+  {
+   "name": "ST_STOP_NAMES",
+   "type": "esriFieldTypeString",
+   "alias": "ST_STOP_NAMES",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "ST_STOP_NAMES"
+  },
+  {
+   "name": "ED_STOP_ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "ED_STOP_ID",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "defaultValue": null,
+   "modelName": "ED_STOP_ID"
+  },
+  {
+   "name": "ED_STOP_NAMEE",
+   "type": "esriFieldTypeString",
+   "alias": "ED_STOP_NAMEE",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "ED_STOP_NAMEE"
+  },
+  {
+   "name": "ED_STOP_NAMEC",
+   "type": "esriFieldTypeString",
+   "alias": "ED_STOP_NAMEC",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "ED_STOP_NAMEC"
+  },
+  {
+   "name": "ED_STOP_NAMES",
+   "type": "esriFieldTypeString",
+   "alias": "ED_STOP_NAMES",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "ED_STOP_NAMES"
+  },
+  {
+   "name": "Shape__Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "Shape_Length",
+   "domain": null,
+   "editable": false,
+   "nullable": true,
+   "defaultValue": null,
+   "modelName": "Shape_Length"
+  }
+ ],
+ "geometryField": {
+  "name": "Shape",
+  "type": "esriFieldTypeGeometry",
+  "alias": "Shape",
+  "domain": null,
+  "editable": false,
+  "nullable": true,
+  "defaultValue": null,
+  "modelName": "Shape"
+ },
+ "indexes": [
+  {
+   "name": "FDO_OBJECTID",
+   "fields": "OBJECTID",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  },
+  {
+   "name": "FDO_Shape",
+   "fields": "Shape",
+   "isAscending": true,
+   "isUnique": false,
+   "description": ""
+  }
+ ],
+ "datesInUnknownTimezone": false,
+ "dateFieldsTimeReference": {
+  "timeZone": "China Standard Time",
+  "respectsDaylightSaving": false
+ },
+ "preferredTimeReference": null,
+ "types": [],
+ "templates": [
+  {
+   "name": "FB_ROUTE_LINE",
+   "description": "",
+   "prototype": {
+    "attributes": {
+     "ED_STOP_NAMES": null,
+     "ED_STOP_NAMEC": null,
+     "ROUTE_ID": null,
+     "ROUTE_SEQ": null,
+     "COMPANY_CODE": null,
+     "ROUTE_NAMEE": null,
+     "ST_STOP_ID": null,
+     "ST_STOP_NAMEE": null,
+     "ST_STOP_NAMEC": null,
+     "ST_STOP_NAMES": null,
+     "ED_STOP_ID": null,
+     "ED_STOP_NAMEE": null
+    }
+   },
+   "drawingTool": "esriFeatureEditToolLine"
+  }
+ ],
+ "maxRecordCount": 3000,
+ "supportedQueryFormats": "JSON, geoJSON, PBF",
+ "supportedExportFormats": "sqlite,filegdb",
+ "capabilities": "Query",
+ "useStandardizedQueries": true,
+ "supportedSpatialRelationships": [
+  "esriSpatialRelIntersects",
+  "esriSpatialRelContains",
+  "esriSpatialRelCrosses",
+  "esriSpatialRelEnvelopeIntersects",
+  "esriSpatialRelIndexIntersects",
+  "esriSpatialRelOverlaps",
+  "esriSpatialRelTouches",
+  "esriSpatialRelWithin",
+  "esriSpatialRelRelation"
+ ],
+ "standardMaxRecordCount": 8000,
+ "tileMaxRecordCount": 4000,
+ "standardMaxRecordCountNoGeometry": 32000,
+ "maxRecordCountFactor": 1,
+ "serviceItemId": "327559a157274ceabea5e5b24cae1bfa"
+}

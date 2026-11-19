@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 416627967,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 248181066,
+    "lat": "22.6125012",
+    "lon": "114.1319082",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 0.37958691803318917,
+    "addresstype": "tourism",
+    "name": "大芬油画村",
+    "display_name": "大芬油画村, 老围东一巷, 可园社区, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6111545",
+      "22.6141269",
+      "114.1292541",
+      "114.1340546"
+    ]
+  },
+  {
+    "place_id": 237117174,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8687309763,
+    "lat": "22.6126355",
+    "lon": "114.1312679",
+    "class": "place",
+    "type": "quarter",
+    "place_rank": 20,
+    "importance": 0.37958691803318917,
+    "addresstype": "quarter",
+    "name": "大芬社区",
+    "display_name": "大芬社区, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6026355",
+      "22.6226355",
+      "114.1212679",
+      "114.1412679"
+    ]
+  }
+]

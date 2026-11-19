@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237400934,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 23148424,
+    "lat": "22.2543158",
+    "lon": "114.1616500",
+    "class": "water",
+    "type": "reservoir",
+    "place_rank": 20,
+    "importance": 0.13341976424811167,
+    "addresstype": "reservoir",
+    "name": "香港仔下水塘 Aberdeen Lower Reservoir",
+    "display_name": "香港仔下水塘 Aberdeen Lower Reservoir, 黃竹坑 Wong Chuk Hang, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2518955",
+      "22.2567461",
+      "114.1605408",
+      "114.1628972"
+    ]
+  }
+]

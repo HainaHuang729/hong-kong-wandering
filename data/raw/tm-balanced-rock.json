@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237221190,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1691360460,
+    "lat": "22.4671848",
+    "lon": "114.3634293",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "疊石 Balanced Rock",
+    "display_name": "疊石 Balanced Rock, 塔門海旁街 Tap Mun Hoi Pong, 榕樹村 Yung Shu Village, 大埔區 Tai Po District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4671348",
+      "22.4672348",
+      "114.3633793",
+      "114.3634793"
+    ]
+  }
+]

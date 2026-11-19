@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237191297,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 578482606,
+    "lat": "22.2729501",
+    "lon": "114.1738292",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.3363461829037416,
+    "addresstype": "amenity",
+    "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+    "display_name": "灣仔北帝廟 Pak Tai Temple, Wan Chai, 2, 隆安街 Lung On Street, 灣仔南 Wan Chai South, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2727186",
+      "22.2731398",
+      "114.1736108",
+      "114.1740272"
+    ]
+  }
+]

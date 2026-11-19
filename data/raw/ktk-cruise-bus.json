@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236826478,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 552490455,
+    "lat": "22.3091472",
+    "lon": "114.2109381",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05339935225452045,
+    "addresstype": "tertiary",
+    "name": "承豐道 Shing Fung Road",
+    "display_name": "承豐道 Shing Fung Road, 啟德跑道區 Kai Tak Runway Area, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3087343",
+      "22.3095922",
+      "114.2103902",
+      "114.2115069"
+    ]
+  },
+  {
+    "place_id": 236931985,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 974044632,
+    "lat": "22.3082550",
+    "lon": "114.2113680",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339935225452045,
+    "addresstype": "residential",
+    "name": "承豐道 Shing Fung Road",
+    "display_name": "承豐道 Shing Fung Road, 啟德跑道區 Kai Tak Runway Area, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3081760",
+      "22.3082890",
+      "114.2112474",
+      "114.2114711"
+    ]
+  }
+]

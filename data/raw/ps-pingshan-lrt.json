@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 237283917,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6606470983,
+    "lat": "22.4428800",
+    "lon": "114.0120390",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3874552331902155,
+    "addresstype": "railway",
+    "name": "屏山 Ping Shan",
+    "display_name": "屏山 Ping Shan, 青山公路－屏山段 Castle Peak Road – Ping Shan, 屏山 Ping Shan, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4378800",
+      "22.4478800",
+      "114.0070390",
+      "114.0170390"
+    ]
+  },
+  {
+    "place_id": 237422987,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1546003547,
+    "lat": "22.4417527",
+    "lon": "114.0104662",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "屏山 Ping Shan",
+    "display_name": "屏山 Ping Shan, 青山公路－屏山段 Castle Peak Road – Ping Shan, 屏山 Ping Shan, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4417027",
+      "22.4418027",
+      "114.0104162",
+      "114.0105162"
+    ]
+  },
+  {
+    "place_id": 237316000,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 279256136,
+    "lat": "22.4427957",
+    "lon": "114.0117742",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "railway",
+    "name": "屏山 Ping Shan",
+    "display_name": "屏山 Ping Shan, 青山公路－屏山段 Castle Peak Road – Ping Shan, 屏山 Ping Shan, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4427457",
+      "22.4428457",
+      "114.0117242",
+      "114.0118242"
+    ]
+  },
+  {
+    "place_id": 237296748,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1735275653,
+    "lat": "22.4429984",
+    "lon": "114.0123818",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "railway",
+    "name": "屏山 Ping Shan",
+    "display_name": "屏山 Ping Shan, 屏興里 Ping Hing Lane, 白花村 Pak Fa Tsuen, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4429484",
+      "22.4430484",
+      "114.0123318",
+      "114.0124318"
+    ]
+  }
+]

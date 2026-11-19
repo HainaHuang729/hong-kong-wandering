@@ -1,0 +1,2001 @@
+[
+  {
+    "id": "route-repulse",
+    "vertices": 125,
+    "meters": 1737,
+    "minutes": 24,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 72,
+    "snapMeters": 52.99628897,
+    "roads": []
+  },
+  {
+    "id": "route-sheko",
+    "vertices": 55,
+    "meters": 758,
+    "minutes": 11,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 71,
+    "snapMeters": 21.2044557,
+    "roads": [
+      "石澳道 Shek O Road"
+    ]
+  },
+  {
+    "id": "route-kennedy",
+    "vertices": 183,
+    "meters": 2277,
+    "minutes": 31,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 123,
+    "snapMeters": 21.72560276,
+    "roads": [
+      "科士街 Forbes Street",
+      "皇后大道西 Queen's Road West",
+      "水街 Water Street",
+      "三多里 Sam To Lane",
+      "第一街 First Street"
+    ]
+  },
+  {
+    "id": "route-sheungwan",
+    "vertices": 112,
+    "meters": 1324,
+    "minutes": 18,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 111,
+    "snapMeters": 14.6128202,
+    "roads": [
+      "德輔道中 Des Voeux Road Central",
+      "安泰街 On Tai Street",
+      "摩利臣街 Morrison Street",
+      "文咸東街 Bonham Strand",
+      "皇后大道中 Queen's Road Central",
+      "水坑口街 Possession Street",
+      "荷李活道 Hollywood Road",
+      "新街 New Street",
+      "皇后大道西 Queen's Road West",
+      "甘雨街 Kom U Street"
+    ]
+  },
+  {
+    "id": "route-central",
+    "vertices": 187,
+    "meters": 2014,
+    "minutes": 27,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 69,
+    "snapMeters": 24.35310026,
+    "roads": [
+      "德輔道中 Des Voeux Road Central",
+      "急庇利街 Cleverly Street",
+      "皇后大道中 Queen's Road Central",
+      "荷李活道 Hollywood Road",
+      "鴨巴甸街 Aberdeen Street",
+      "奧卑利街 Old Bailey Street",
+      "大館里 Tai Kwun Lane",
+      "檢閱廣場 Parade Ground",
+      "中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System",
+      "域多利皇后街 Queen Victoria Street",
+      "畢打街 Pedder Street",
+      "遮打道 Chater Road"
+    ]
+  },
+  {
+    "id": "route-wanchai",
+    "vertices": 148,
+    "meters": 1443,
+    "minutes": 20,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 76,
+    "snapMeters": 17.63752879,
+    "roads": [
+      "軒尼詩道 Hennessy Road",
+      "柯布連道 O'Brien Road",
+      "莊士敦道 Johnston Road",
+      "石水渠街 Stone Nullah Lane",
+      "灣仔道 Wan Chai Road",
+      "景星街 King Sing Street",
+      "隆安街 Lung On Street"
+    ]
+  },
+  {
+    "id": "route-shamshuipo",
+    "vertices": 143,
+    "meters": 1742,
+    "minutes": 24,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 71,
+    "snapMeters": 5.609150362,
+    "roads": [
+      "長沙灣道 Cheung Sha Wan Road",
+      "石硤尾街 Shek Kip Mei Street",
+      "福華街 Fuk Wa Street",
+      "北河街 Pei Ho Street"
+    ]
+  },
+  {
+    "id": "route-yaumatei",
+    "vertices": 328,
+    "meters": 3904,
+    "minutes": 53,
+    "climbLevel": "flat",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 77,
+    "snapMeters": 10.35223741,
+    "roads": [
+      "彌敦道 Nathan Road",
+      "窩打老道 Waterloo Road",
+      "砵蘭街 Portland Street",
+      "上海街 Shanghai Street",
+      "新填地街 Reclamation Street",
+      "文明里 Man Ming Lane",
+      "永星里 Wing Sing Lane",
+      "甘肅街 Kansu Street",
+      "廟街 Temple Street",
+      "寶靈街 Bowring Street",
+      "白加士街 Parkes Street",
+      "德成街 Tak Shing Street",
+      "金巴利道 Kimberley Road",
+      "廣東道 Canton Road",
+      "梳士巴利道 Salisbury Road"
+    ]
+  },
+  {
+    "id": "route-cheungchau",
+    "vertices": 59,
+    "meters": 1259,
+    "minutes": 17,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 78,
+    "snapMeters": 17.9180726,
+    "roads": [
+      "新興海傍街 San Hing Praya Street",
+      "新北社街 San Pak She Street",
+      "北社四里 Pak She Fourth Lane",
+      "東提北路 Beach Road (North)",
+      "長洲東堤路 Cheung Chau Beach Road",
+      "文順巷 Man Shun Lane"
+    ]
+  },
+  {
+    "id": "route-lamma",
+    "vertices": 284,
+    "meters": 4884,
+    "minutes": 66,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 113,
+    "snapMeters": 30.50399372,
+    "roads": [
+      "榕樹灣大街 Yung Shue Wan Main Street",
+      "榕樹灣後街 Yung Shue Wan Back Street",
+      "索罟灣第一街 Sok Kwu Wan First Street"
+    ]
+  },
+  {
+    "id": "route-taio",
+    "vertices": 222,
+    "meters": 3001,
+    "minutes": 41,
+    "climbLevel": "flat",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 82,
+    "snapMeters": 8.288982727,
+    "roads": [
+      "大澳道 Tai O Road",
+      "大澳永安街 Tai O Wing On Street",
+      "大澳涌行人橋 Tai O Creek Pedestrian Bridge",
+      "吉慶後街 Kat Hing Back Street",
+      "石仔埗街 Shek Tsai Po Street"
+    ]
+  },
+  {
+    "id": "route-saikung",
+    "vertices": 138,
+    "meters": 1088,
+    "minutes": 15,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 62,
+    "snapMeters": 12.46565898,
+    "roads": [
+      "萬年街 Man Nin Street"
+    ]
+  },
+  {
+    "id": "route-shatin",
+    "vertices": 138,
+    "meters": 1601,
+    "minutes": 22,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 86,
+    "snapMeters": 13.06091539,
+    "roads": [
+      "瀝源橋 Lek Yuen Bridge",
+      "大涌橋路 Tai Chung Kiu Road",
+      "沙角街 Sha Kok Street",
+      "逸泰街 Yat Tai Street"
+    ]
+  },
+  {
+    "id": "route-kwuntong",
+    "vertices": 200,
+    "meters": 2471,
+    "minutes": 33,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 103,
+    "snapMeters": 16.05323916,
+    "roads": [
+      "觀塘道 Kwun Tong Road",
+      "勵業街 Lai Yip Street",
+      "海濱道 Hoi Bun Road",
+      "偉業街 Wai Yip Street",
+      "開源道 Hoi Yuen Road"
+    ]
+  },
+  {
+    "id": "route-pengchau",
+    "vertices": 119,
+    "meters": 2044,
+    "minutes": 28,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 88,
+    "snapMeters": 8.321329524,
+    "roads": [
+      "露坪街 Lo Peng Street",
+      "坪洲永安街 Peng Chau Wing On Street",
+      "大巷 Tai Lane",
+      "志仁里 Chi Yan Lane",
+      "志仁街 Chi Yan Street",
+      "寶坪街 Po Peng Street"
+    ]
+  },
+  {
+    "id": "route-muiwo",
+    "vertices": 290,
+    "meters": 4068,
+    "minutes": 55,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 83,
+    "snapMeters": 19.05700233,
+    "roads": [
+      "梅窩海濱長廊 Mui Wo waterfront promenade",
+      "東灣頭路 Tung Wan Tau Road",
+      "香港奧運徑 Hong Kong Olympic Trail",
+      "梅窩涌口街 Mui Wo Chung Hau Street"
+    ]
+  },
+  {
+    "id": "route-taihang",
+    "vertices": 229,
+    "meters": 2904,
+    "minutes": 39,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 127,
+    "snapMeters": 46.90135176,
+    "roads": [
+      "英皇道 King's Road",
+      "高士威道 Causeway Road",
+      "火龍徑 Fire Dragon Path",
+      "銅鑼灣道 Tung Lo Wan Road",
+      "華倫街 Warren Street",
+      "第二巷 Second Lane",
+      "施弼街 Shepherd Street",
+      "布朗街 Brown Street",
+      "第三巷 Third Lane",
+      "安庶庇街 Ormsby Street",
+      "新村街 Sun Chun Street",
+      "浣紗街 Wun Sha Street",
+      "大坑道 Tai Hang Road",
+      "勵德邨道 Lai Tak Tsuen Road",
+      "蓮花街 Lily Street"
+    ]
+  },
+  {
+    "id": "route-northpoint",
+    "vertices": 366,
+    "meters": 4324,
+    "minutes": 58,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 126,
+    "snapMeters": 24.6044259,
+    "roads": [
+      "錦屏街 Kam Ping Street",
+      "英皇道 King's Road",
+      "明園西街 Ming Yuen Western Street",
+      "北角道 North Point Road",
+      "和富道 Wharf Road",
+      "北角邨里 North Point Estate Lane",
+      "書局街 Shu Kuk Street"
+    ]
+  },
+  {
+    "id": "route-midlevelswest",
+    "vertices": 469,
+    "meters": 4510,
+    "minutes": 61,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 126,
+    "snapMeters": 14.49935333,
+    "roads": [
+      "薄扶林道 Pok Fu Lam Road",
+      "大學道 University Drive",
+      "碧珊徑 Pik Shan Path",
+      "旭龢道 Kotewall Road",
+      "羅便臣道 Robinson Road",
+      "西摩道 Seymour Road",
+      "些利街 Shelley Street",
+      "堅道 Caine Road",
+      "亞畢諾道 Arbuthnot Road",
+      "己連拿利 Glenealy",
+      "雅賓利道 Albany Road",
+      "時光隧道 Time Tunnel",
+      "雲咸街 Wyndham Street",
+      "畢打街 Pedder Street",
+      "遮打道 Chater Road"
+    ]
+  },
+  {
+    "id": "route-aberdeen",
+    "vertices": 277,
+    "meters": 4714,
+    "minutes": 63,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 236,
+    "snapMeters": 17.98043838,
+    "roads": [
+      "鴨脷洲大街 Main Street, Ap Lei Chau",
+      "華庭街 Wah Ting Street",
+      "鴨脷洲橋道 Ap Lei Chau Bridge Road",
+      "香港仔海傍道 Aberdeen Praya Road",
+      "觀海徑 Kwun Hoi Path",
+      "南寧街 Nam Ning Street",
+      "成都道 Chengtu Road",
+      "湖南街 Wu Nam Street"
+    ]
+  },
+  {
+    "id": "route-sanpokong",
+    "vertices": 419,
+    "meters": 4920,
+    "minutes": 66,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 157,
+    "snapMeters": 29.85986169,
+    "roads": [
+      "金池徑 Kam Chi Path",
+      "華池徑 Wah Chi Path",
+      "龍翔道 Lung Cheung Road",
+      "黃菊路 Wong Kuk Avenue",
+      "藍鐘路 Lam Chung Avenue",
+      "太子道東 Prince Edward Road East",
+      "協調道 Concorde Road",
+      "景福街 King Fuk Street",
+      "彩虹道 Choi Hung Road",
+      "蒲崗村道 Po Kong Village Road"
+    ]
+  },
+  {
+    "id": "route-shekkipmei",
+    "vertices": 305,
+    "meters": 4031,
+    "minutes": 54,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 212,
+    "snapMeters": 60.9151557,
+    "roads": [
+      "窩仔街 Woh Chai Street",
+      "偉倫街 Wai Lun Street",
+      "耀東街 Yiu Tung Street",
+      "南昌街 Nam Cheong Street",
+      "長沙灣道 Cheung Sha Wan Road"
+    ]
+  },
+  {
+    "id": "route-tokwawan",
+    "vertices": 497,
+    "meters": 6302,
+    "minutes": 85,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 115,
+    "snapMeters": 32.35673644,
+    "roads": [
+      "馬頭圍道 Ma Tau Wai Road",
+      "江蘇街 Kiang Su Street",
+      "九龍城道 Kowloon City Road",
+      "美景街 Mei King Street",
+      "土瓜灣道 To Kwa Wan Road",
+      "新山道 San Shan Road",
+      "馬坑涌道 Ma Hang Chung Road",
+      "馬頭涌道 Ma Tau Chung Road",
+      "宋皇臺道 Sung Wong Toi Road",
+      "世運道 Olympic Avenue"
+    ]
+  },
+  {
+    "id": "route-shatin-stroll",
+    "vertices": 435,
+    "meters": 5757,
+    "minutes": 77,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 172,
+    "snapMeters": 40.50130505,
+    "roads": [
+      "車公廟路 Che Kung Miu Road",
+      "沙田頭路 Sha Tin Tau Road",
+      "盛田街 Shing Tin Street",
+      "逸泰街 Yat Tai Street",
+      "沙角街 Sha Kok Street",
+      "大涌橋路 Tai Chung Kiu Road",
+      "瀝源橋 Lek Yuen Bridge"
+    ]
+  },
+  {
+    "id": "route-tseungkwano",
+    "vertices": 483,
+    "meters": 6154,
+    "minutes": 83,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 171,
+    "snapMeters": 59.14583567,
+    "roads": [
+      "景嶺路 King Ling Road",
+      "翠嶺路 Chui Ling Road",
+      "將藍公路 Tseung Lam Highway",
+      "唐賢街 Tong Yin Street",
+      "灣畔徑 Wan Poon Path",
+      "寶康路 Po Hong Road",
+      "唐明街 Tong Ming Street",
+      "唐俊街 Tong Chun Street",
+      "唐賢里 Tong Yin Lane",
+      "唐德街 Tong Tak Street",
+      "寶邑路 Po Yap Road"
+    ]
+  },
+  {
+    "id": "route-shamtseng",
+    "vertices": 373,
+    "meters": 6683,
+    "minutes": 90,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 159,
+    "snapMeters": 38.47496423,
+    "roads": [
+      "海興路 Hoi Hing Road",
+      "青山公路－汀九段 Castle Peak Road – Ting Kau",
+      "青山公路－深井段 Castle Peak Road – Sham Tseng"
+    ]
+  },
+  {
+    "id": "route-quarrybay",
+    "vertices": 582,
+    "meters": 6129,
+    "minutes": 82,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 192,
+    "snapMeters": 81.83562055,
+    "roads": [
+      "英皇道 King's Road",
+      "糖水道 Tong Shui Road",
+      "模範里 Model Lane",
+      "柏架山道 Mount Parker Road",
+      "華蘭路 Westlands Road",
+      "濱海街 Pan Hoi Street",
+      "太古灣道 Taikoo Wan Road",
+      "太茂路 Tai Mou Avenue"
+    ]
+  },
+  {
+    "id": "route-westkowloon",
+    "vertices": 316,
+    "meters": 3438,
+    "minutes": 46,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 106,
+    "snapMeters": 38.18679586,
+    "roads": [
+      "柯士甸道西 Austin Road West",
+      "文化道 Cultural Drive"
+    ]
+  },
+  {
+    "id": "route-kowlooncity",
+    "vertices": 299,
+    "meters": 3148,
+    "minutes": 42,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 115,
+    "snapMeters": 30.91575512,
+    "roads": [
+      "世運道 Olympic Avenue",
+      "橫頭磡東道 Wang Tau Hom East Road"
+    ]
+  },
+  {
+    "id": "route-taipo",
+    "vertices": 486,
+    "meters": 6422,
+    "minutes": 86,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 166,
+    "snapMeters": 47.37367525,
+    "roads": [
+      "2",
+      "富善街 Fu Shin Street",
+      "普益街 Po Yick Street",
+      "廣福道 Kwong Fuk Road",
+      "安富道 On Fu Road",
+      "運頭角里 Wan Tau Kok Lane",
+      "大貴街 Dai Kwai Street"
+    ]
+  },
+  {
+    "id": "route-taitam",
+    "vertices": 698,
+    "meters": 5742,
+    "minutes": 77,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 121,
+    "snapMeters": 10.7021634,
+    "roads": [
+      "黃泥涌峽道 Wong Nai Chung Gap Road",
+      "大潭水塘道 Tai Tam Reservoir Road",
+      "大潭家樂徑 Tai Tam Family Walk",
+      "港島徑第6段 Hong Kong Trail Section 6",
+      "港島徑第7段 Hong Kong Trail Section 7",
+      "大潭道 Tai Tam Road"
+    ]
+  },
+  {
+    "id": "route-tungchung",
+    "vertices": 378,
+    "meters": 4847,
+    "minutes": 65,
+    "climbLevel": "flat",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 100,
+    "snapMeters": 25.12971467,
+    "roads": [
+      "美東街 Mei Tung Street",
+      "達東路 Tat Tung Road",
+      "順東路 Shun Tung Road",
+      "東涌道北 Tung Chung Road North",
+      "寶安橋 Po On Bridge",
+      "涌口街 Chung Hau Street",
+      "裕東路 Yu Tung Road",
+      "東澳古道 Tung-O Ancient Trail",
+      "東涌道 Tung Chung Road"
+    ]
+  },
+  {
+    "id": "route-wongtaisin",
+    "vertices": 226,
+    "meters": 2683,
+    "minutes": 36,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 90,
+    "snapMeters": 18.86672606,
+    "roads": [
+      "沙田坳道 Shatin Pass Road",
+      "龍翔道 Lung Cheung Road",
+      "龍蟠街 Lung Poon Street",
+      "大磡道 Tai Hom Road",
+      "松北路 Pine Path North"
+    ]
+  },
+  {
+    "id": "route-happyvalley",
+    "vertices": 219,
+    "meters": 2821,
+    "minutes": 38,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 101,
+    "snapMeters": 14.98413643,
+    "roads": [
+      "黃泥涌道 Wong Nai Chung Road",
+      "成和道 Sing Woo Road",
+      "梅馨街 Mui Hing Street",
+      "毓秀街 Yuk Sau Street",
+      "集祥街 Tsap Tseung Street",
+      "景光街 King Kwong Street",
+      "奕蔭街 Yik Yam Street"
+    ]
+  },
+  {
+    "id": "route-shaukeiwan",
+    "vertices": 364,
+    "meters": 3959,
+    "minutes": 53,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 79,
+    "snapMeters": 50.30838452,
+    "roads": [
+      "東喜道 Tung Hei Road",
+      "愛秩序灣道 Aldrich Bay Road",
+      "愛信道 Oi Shun Road",
+      "愛德街 Oi Tak Street",
+      "望隆街 Mong Lung Street",
+      "筲箕灣東大街 Shau Kei Wan Main Street East",
+      "譚公廟道 Tam Kung Temple Road",
+      "阿公岩村道 A Kung Ngam Village Road"
+    ]
+  },
+  {
+    "id": "route-causewaybay",
+    "vertices": 80,
+    "meters": 1537,
+    "minutes": 21,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 64,
+    "snapMeters": 22.18130523,
+    "roads": [
+      "波斯富街 Percival Street",
+      "羅素街 Russell Street",
+      "利園山道 Lee Garden Road",
+      "白沙道 Pak Sha Road",
+      "禮頓道 Leighton Road",
+      "希雲街 Haven Street",
+      "加路連山道 Caroline Hill Road",
+      "棉花路 Cotton Path",
+      "敬誠街 Keswick Street",
+      "邊寧頓街 Pennington Street"
+    ]
+  },
+  {
+    "id": "route-thepeak",
+    "vertices": 1123,
+    "meters": 4753,
+    "minutes": 64,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 100,
+    "snapMeters": 18.26327758,
+    "roads": [
+      "舊山頂道 Old Peak Road",
+      "芬梨道 Findlay Road",
+      "山頂道 Peak Road",
+      "盧吉道 Lugard Road",
+      "夏力道 Harlech Road"
+    ]
+  },
+  {
+    "id": "route-leiyuemun",
+    "vertices": 220,
+    "meters": 3480,
+    "minutes": 47,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 78,
+    "snapMeters": 12.27514718,
+    "roads": [
+      "茶果嶺道 Cha Kwo Ling Road",
+      "崇信街 Shung Shun Street",
+      "鯉魚門徑 Lei Yue Mun Path",
+      "鯉魚門海傍道 Lei Yue Mun Praya Road",
+      "鯉魚門海傍道中",
+      "仁宇圍 Yan Yue Wai"
+    ]
+  },
+  {
+    "id": "route-hunghom",
+    "vertices": 207,
+    "meters": 2293,
+    "minutes": 31,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 211,
+    "snapMeters": 38.9101774,
+    "roads": [
+      "德安街 Tak On Street",
+      "船景街 Shung King Street"
+    ]
+  },
+  {
+    "id": "route-laichikok",
+    "vertices": 327,
+    "meters": 3454,
+    "minutes": 47,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 152,
+    "snapMeters": 15.0491635,
+    "roads": [
+      "萬事達廣場 Mount Sterling Mall",
+      "長沙灣道 Cheung Sha Wan Road",
+      "美荔道 Mei Lai Road",
+      "荔枝角道 Lai Chi Kok Road",
+      "百老匯街 Broadway",
+      "寶輪街 Po Lun Street",
+      "深旺道 Sham Mong Road",
+      "長順街 Cheung Shun Street",
+      "長茂街 Cheung Mou Street",
+      "長義街 Cheung Yee Street"
+    ]
+  },
+  {
+    "id": "route-taikoktsui",
+    "vertices": 300,
+    "meters": 2859,
+    "minutes": 39,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 100,
+    "snapMeters": 7.862837568,
+    "roads": [
+      "海景街 Hoi King Street",
+      "富貴街 Foo Kwai Street",
+      "大角咀道 Tai Kok Tsui Road",
+      "櫻桃街 Cherry Street",
+      "橡樹街 Oak Street",
+      "晏架街 Anchor Street",
+      "埃華街 Ivy Street",
+      "杉樹街 Pine Street",
+      "鐵樹街 Tit Shu Street",
+      "海輝道 Hoi Fai Road",
+      "深旺道 Sham Mong Road"
+    ]
+  },
+  {
+    "id": "route-pingshan",
+    "vertices": 260,
+    "meters": 2909,
+    "minutes": 39,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 80,
+    "snapMeters": 73.69318413,
+    "roads": [
+      "聚星路 Tsui Sing Road",
+      "屏廈路 Ping Ha Road",
+      "屏山竹林路 Ping Shan Chuk Lam Road",
+      "屏山南北路 Ping Shan Nam Pak Road",
+      "青山公路－屏山段 Castle Peak Road – Ping Shan",
+      "1"
+    ]
+  },
+  {
+    "id": "route-lungyeuktou",
+    "vertices": 87,
+    "meters": 1158,
+    "minutes": 16,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 72,
+    "snapMeters": 50.50655098,
+    "roads": [
+      "萃雲路 Sui Wan Road",
+      "沙頭角公路－龍躍頭段 Sha Tau Kok Road – Lung Yeuk Tau"
+    ]
+  },
+  {
+    "id": "route-hkubonham",
+    "vertices": 232,
+    "meters": 2268,
+    "minutes": 31,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 61,
+    "snapMeters": 34.88669149,
+    "roads": [
+      "薄扶林道 Pok Fu Lam Road",
+      "黃克競平臺 Haking Wong Podium",
+      "般咸道 Bonham Road",
+      "聖士提反里 St. Stephen's Lane",
+      "堅道 Caine Road",
+      "樓梯街 Ladder Street"
+    ]
+  },
+  {
+    "id": "route-tsuenwan",
+    "vertices": 320,
+    "meters": 3995,
+    "minutes": 54,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 167,
+    "snapMeters": 21.30235361,
+    "roads": [
+      "荃灣街市街 Tsuen Wan Market Street",
+      "大河道 Tai Ho Road",
+      "荃興徑 Tsuen Hing Path",
+      "海壩街 Hoi Pa Street",
+      "大涌道 Tai Chung Road",
+      "海貴路 Hoi Kwai Road"
+    ]
+  },
+  {
+    "id": "route-tuenmun",
+    "vertices": 281,
+    "meters": 4280,
+    "minutes": 58,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 117,
+    "snapMeters": 53.29135816,
+    "roads": [
+      "河傍街 Ho Pong Street",
+      "杯渡路 Pui To Road",
+      "愛明里 Oi Ming Lane",
+      "愛勇街 Oi Yung Street",
+      "友愛路 Yau Oi Road",
+      "屯門鄉事會路 Tuen Mun Heung Sze Wui Road",
+      "兆麟街 Siu Lun Street",
+      "青山公路－青山灣段 Castle Peak Road – Castle Peak Bay",
+      "三聖街 Sam Shing Street",
+      "青碧街 Tsing Bik Street",
+      "海榮路 Hoi Wing Road"
+    ]
+  },
+  {
+    "id": "route-sharpisland",
+    "vertices": 76,
+    "meters": 1551,
+    "minutes": 21,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 79,
+    "snapMeters": 7.800056877,
+    "roads": [
+      "橋咀洲地質步道 Sharp Island Geo Trail"
+    ]
+  },
+  {
+    "id": "route-tapmun",
+    "vertices": 248,
+    "meters": 3065,
+    "minutes": 41,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 70,
+    "snapMeters": 15.79581002,
+    "roads": [
+      "塔門碼頭 Tap Mun Pier",
+      "塔門海旁街 Tap Mun Hoi Pong"
+    ]
+  },
+  {
+    "id": "route-admiralty",
+    "vertices": 173,
+    "meters": 1743,
+    "minutes": 24,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 54,
+    "snapMeters": 20.25029799,
+    "roads": [
+      "法院道 Supreme Court Road",
+      "花園道 Garden Road",
+      "皇后大道中 Queen's Road Central",
+      "銀行街 Bank Street",
+      "德輔道中 Des Voeux Road Central",
+      "遮打道 Chater Road"
+    ]
+  },
+  {
+    "id": "route-pokfulam",
+    "vertices": 269,
+    "meters": 3316,
+    "minutes": 45,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 113,
+    "snapMeters": 27.09451876,
+    "roads": [
+      "薄扶林水塘道 Pok Fu Lam Reservoir Road",
+      "薄扶林道 Pok Fu Lam Road",
+      "置富道 Chi Fu Road",
+      "域多利道 Victoria Road",
+      "瀑布灣道 Waterfall Bay Road"
+    ]
+  },
+  {
+    "id": "route-aberdeenreservoir",
+    "vertices": 497,
+    "meters": 5994,
+    "minutes": 82,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 110,
+    "snapMeters": 88.67756861,
+    "roads": [
+      "香港仔水塘道 Aberdeen Reservoir Road",
+      "香港仔健身徑 Aberdeen Fitness Trail",
+      "香港仔自然教育徑 Aberdeen Nature Trail",
+      "港島徑第4段 Hong Kong Trail Section 4"
+    ]
+  },
+  {
+    "id": "route-dragonsback",
+    "vertices": 674,
+    "meters": 7766,
+    "minutes": 109,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 58,
+    "snapMeters": 32.29803418,
+    "roads": [
+      "石澳道 Shek O Road",
+      "龍脊 Dragon's Back",
+      "港島徑第8段 Hong Kong Trail Section 8",
+      "港島林道－哥連臣山段 Hong Kong Forest Track – Mount Collinson Section",
+      "砵甸乍山郊遊徑 Pottinger Peak Country Trail"
+    ]
+  },
+  {
+    "id": "route-flowermarket",
+    "vertices": 103,
+    "meters": 1612,
+    "minutes": 22,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 139,
+    "snapMeters": 13.84298195,
+    "roads": [
+      "太子道西 Prince Edward Road West",
+      "通菜街 Tung Choi Street",
+      "洗衣街 Sai Yee Street",
+      "花墟道 Flower Market Road",
+      "園圃街 Yuen Po Street"
+    ]
+  },
+  {
+    "id": "route-kadooriehill",
+    "vertices": 257,
+    "meters": 3463,
+    "minutes": 47,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 131,
+    "snapMeters": 13.84298195,
+    "roads": [
+      "亞皆老街 Argyle Street",
+      "嘉道理道 Kadoorie Avenue",
+      "窩打老道 Waterloo Road",
+      "律倫街 Rutland Quadrant",
+      "沙福道 Suffolk Road"
+    ]
+  },
+  {
+    "id": "route-leichenguk",
+    "vertices": 253,
+    "meters": 3687,
+    "minutes": 50,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 223,
+    "snapMeters": 22.44169677,
+    "roads": [
+      "長沙灣道 Cheung Sha Wan Road",
+      "長發街 Cheung Fat Street",
+      "發祥街 Fat Tseung Street",
+      "東京街 Tonkin Street",
+      "永愛道 Misereor Road",
+      "蘭花街 Orchid Street",
+      "丁香街 Lilac Street",
+      "彩雀街 Larkspur Street"
+    ]
+  },
+  {
+    "id": "route-kaitak",
+    "vertices": 189,
+    "meters": 1537,
+    "minutes": 21,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 143,
+    "snapMeters": 19.86562916,
+    "roads": [
+      "承豐道 Shing Fung Road"
+    ]
+  },
+  {
+    "id": "route-shingmun",
+    "vertices": 886,
+    "meters": 8072,
+    "minutes": 108,
+    "climbLevel": "flat",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 154,
+    "snapMeters": 29.71354662,
+    "roads": [
+      "​菠蘿壩自然教育徑 Pinapple Dam Nature Trail",
+      "城門道 Shing Mun Road",
+      "麥理浩徑第6段 MacLehose Trail Section 6",
+      "衛奕信徑第6段 Wilson Trail Section 6",
+      "城門林道－水塘段 Shing Mun Forest Track – Reservoir Section",
+      "麥理浩徑第7段 MacLehose Trail Section 7",
+      "肥仔脊"
+    ]
+  },
+  {
+    "id": "route-namsangwai",
+    "vertices": 388,
+    "meters": 12913,
+    "minutes": 173,
+    "climbLevel": "flat",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 256,
+    "snapMeters": 38.02764704,
+    "roads": [
+      "朗明街 Long Ming Street",
+      "朗和路 Long Wo Road",
+      "蠔洲路 Ho Chau Road",
+      "南生圍路 Nam Sang Wai Road"
+    ]
+  },
+  {
+    "id": "route-lukkeng",
+    "vertices": 339,
+    "meters": 6216,
+    "minutes": 83,
+    "climbLevel": "flat",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 162,
+    "snapMeters": 75.87221162,
+    "roads": [
+      "新娘潭路 Bride's Pool Road",
+      "金龍脊 Kam Lung Ridge",
+      "減龍脊 Kam Lung Ridge / 鳳坑家樂徑 Fung Hang Family Walk"
+    ]
+  },
+  {
+    "id": "route-hosheungheung",
+    "vertices": 225,
+    "meters": 2271,
+    "minutes": 31,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 68,
+    "snapMeters": 75.61833475,
+    "roads": [
+      "河上鄉排峰路 Ho Sheung Heung Pai Fung Road"
+    ]
+  },
+  {
+    "id": "route-yimtintsai",
+    "vertices": 165,
+    "meters": 1790,
+    "minutes": 24,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 44,
+    "snapMeters": 15.16520012,
+    "roads": [
+      "玉帶橋"
+    ]
+  },
+  {
+    "id": "route-mawan",
+    "vertices": 216,
+    "meters": 2837,
+    "minutes": 38,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 128,
+    "snapMeters": 31.50433279,
+    "roads": [
+      "珀麗路 Pak Lai Road",
+      "珀林路 Pak Lam Road",
+      "馬灣鄉事會路 Ma Wan Rural Committee Road",
+      "芳園路 Fong Yuen Road"
+    ]
+  },
+  {
+    "id": "route-poitoi",
+    "vertices": 347,
+    "meters": 3633,
+    "minutes": 49,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 32,
+    "snapMeters": 40.19134443,
+    "roads": [
+      "蒲台郊遊徑 Po Toi Country Trail"
+    ]
+  },
+  {
+    "id": "route-sz-shekou",
+    "vertices": 147,
+    "meters": 4337,
+    "minutes": 58,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 180,
+    "snapMeters": 34.70242093,
+    "roads": [
+      "太子路",
+      "康乐路",
+      "商乐路",
+      "兴全三路",
+      "荔园路",
+      "兴全四路",
+      "兴全二路",
+      "海昌路",
+      "蛇口老街",
+      "渔村路",
+      "公园南路",
+      "工业二路"
+    ]
+  },
+  {
+    "id": "route-sz-octloft",
+    "vertices": 205,
+    "meters": 4594,
+    "minutes": 62,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 273,
+    "snapMeters": 14.26987029,
+    "roads": [
+      "深南大道",
+      "恩平街",
+      "香山东街",
+      "生态广场东街",
+      "侨城东街",
+      "兴隆东街",
+      "光侨街"
+    ]
+  },
+  {
+    "id": "route-sz-shenzhenbay",
+    "vertices": 557,
+    "meters": 12949,
+    "minutes": 172,
+    "climbLevel": "flat",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 384,
+    "snapMeters": 11.92511222,
+    "roads": [
+      "滨海大道辅路",
+      "海园二路",
+      "望海路",
+      "东滨路",
+      "沙河西路",
+      "海德三道"
+    ]
+  },
+  {
+    "id": "route-sz-nantou",
+    "vertices": 144,
+    "meters": 2972,
+    "minutes": 40,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 124,
+    "snapMeters": 4.787071592,
+    "roads": [
+      "南山大道",
+      "深南大道",
+      "深南大道辅路",
+      "中山南街",
+      "中山西街",
+      "景行路",
+      "河滨路",
+      "玉泉路"
+    ]
+  },
+  {
+    "id": "route-sz-lianhuashan",
+    "vertices": 249,
+    "meters": 6267,
+    "minutes": 84,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 359,
+    "snapMeters": 98.13895585,
+    "roads": [
+      "红荔路",
+      "金桂路",
+      "莲湖东道",
+      "紫檀路",
+      "绿榕路",
+      "福田环城绿道（福田河绿道）",
+      "林荫大道",
+      "自然教育径"
+    ]
+  },
+  {
+    "id": "route-sz-yuanling",
+    "vertices": 211,
+    "meters": 4106,
+    "minutes": 55,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 131,
+    "snapMeters": 19.73468308,
+    "roads": [
+      "红荔路",
+      "围岭人行天桥",
+      "八卦一路",
+      "八卦三路"
+    ]
+  },
+  {
+    "id": "route-sz-dongmen",
+    "vertices": 151,
+    "meters": 2815,
+    "minutes": 38,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 301,
+    "snapMeters": 68.25161293,
+    "roads": [
+      "永新路",
+      "解放路",
+      "二横街",
+      "人民北路",
+      "晒布路",
+      "兴湖路"
+    ]
+  },
+  {
+    "id": "route-sz-huaqiangbei",
+    "vertices": 181,
+    "meters": 4212,
+    "minutes": 57,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 202,
+    "snapMeters": 27.35388501,
+    "roads": [
+      "华强北路",
+      "振中路",
+      "华强路步行街",
+      "振华路",
+      "振兴路",
+      "华富路",
+      "福田环城绿道（福田河绿道）",
+      "红荔路"
+    ]
+  },
+  {
+    "id": "route-sz-yantian",
+    "vertices": 96,
+    "meters": 2969,
+    "minutes": 40,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 462,
+    "snapMeters": 17.59858469,
+    "roads": [
+      "艺术廊桥",
+      "盐田区海滨栈道沙头角段",
+      "海景路",
+      "海山东三街",
+      "海景二路"
+    ]
+  },
+  {
+    "id": "route-sz-meilin",
+    "vertices": 452,
+    "meters": 10663,
+    "minutes": 143,
+    "climbLevel": "moderate",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 216,
+    "snapMeters": 40.58272414,
+    "roads": [
+      "梅林路",
+      "梅亭路",
+      "左岸上坝路",
+      "二线公路",
+      "一号路",
+      "六号路",
+      "梅山街"
+    ]
+  },
+  {
+    "id": "route-sz-qianhai",
+    "vertices": 407,
+    "meters": 5206,
+    "minutes": 70,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 117,
+    "snapMeters": 14.12726063,
+    "roads": [
+      "听海大道",
+      "桂湾四路",
+      "深圳山海连城绿道（前海湾段）",
+      "海风桥",
+      "新圳河桥"
+    ]
+  },
+  {
+    "id": "route-sz-tanglang",
+    "vertices": 274,
+    "meters": 5127,
+    "minutes": 69,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 124,
+    "snapMeters": 7.257241216,
+    "roads": [
+      "龙珠大道",
+      "龙珠六路",
+      "荔云登山道",
+      "极目阁路",
+      "百尺天梯",
+      "茶香径"
+    ]
+  },
+  {
+    "id": "route-sz-dapeng",
+    "vertices": 206,
+    "meters": 3862,
+    "minutes": 52,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 78,
+    "snapMeters": 76.3490031,
+    "roads": [
+      "鹏飞路",
+      "大鹏南门路",
+      "南门街",
+      "大鹏东门路",
+      "较场尾路"
+    ]
+  },
+  {
+    "id": "route-sz-yangmeikeng",
+    "vertices": 743,
+    "meters": 10748,
+    "minutes": 144,
+    "climbLevel": "moderate",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 71,
+    "snapMeters": 19.36949708,
+    "roads": [
+      "南澳新东路",
+      "海堤碧道",
+      "鹿嘴大道"
+    ]
+  },
+  {
+    "id": "route-sz-gankeng",
+    "vertices": 141,
+    "meters": 3456,
+    "minutes": 47,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 299,
+    "snapMeters": 19.36362265,
+    "roads": [
+      "甘李路",
+      "甘李二路",
+      "甘李五路",
+      "甘李四路"
+    ]
+  },
+  {
+    "id": "route-sz-dafen",
+    "vertices": 73,
+    "meters": 2134,
+    "minutes": 29,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 94,
+    "snapMeters": 28.3192526,
+    "roads": [
+      "非机动车道",
+      "沃尔玛广场人行天桥",
+      "老围东六巷",
+      "老围西三巷",
+      "新芬街",
+      "老围西一巷",
+      "大芬油画街"
+    ]
+  },
+  {
+    "id": "route-sz-xiangmipark",
+    "vertices": 210,
+    "meters": 4788,
+    "minutes": 65,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 377,
+    "snapMeters": 16.99552934,
+    "roads": [
+      "农林路",
+      "丰田路",
+      "花卉路",
+      "花海路",
+      "红荔西路",
+      "香蜜湖路辅路",
+      "红荔路",
+      "深南大道辅路"
+    ]
+  },
+  {
+    "id": "route-sz-dashahe",
+    "vertices": 315,
+    "meters": 6904,
+    "minutes": 93,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 178,
+    "snapMeters": 20.74677494,
+    "roads": [
+      "沙河西路",
+      "龙珠一路",
+      "大沙河生态长廊绿道",
+      "珠光南路",
+      "珠光北路",
+      "珠光路",
+      "西丽北路",
+      "留仙大道",
+      "学苑大道",
+      "留仙大道辅路",
+      "丽山路"
+    ]
+  },
+  {
+    "id": "route-sz-xiwan",
+    "vertices": 244,
+    "meters": 6350,
+    "minutes": 85,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 307,
+    "snapMeters": 22.1383541,
+    "roads": [
+      "宝安大道辅路",
+      "华丰路",
+      "顺昌路",
+      "固戍二路",
+      "南昌路",
+      "健裕路",
+      "金湾大道",
+      "宝源路"
+    ]
+  },
+  {
+    "id": "route-sz-xinan",
+    "vertices": 27,
+    "meters": 2063,
+    "minutes": 28,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 262,
+    "snapMeters": 6.719959213,
+    "roads": [
+      "创业二路",
+      "前进一路"
+    ]
+  },
+  {
+    "id": "route-sz-shuiwei",
+    "vertices": 128,
+    "meters": 2413,
+    "minutes": 33,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 137,
+    "snapMeters": 15.61702683,
+    "roads": [
+      "福民路",
+      "金田路",
+      "水围二街",
+      "水围三街",
+      "水围五街",
+      "水围街",
+      "皇岗公园一街",
+      "皇岗公园四街",
+      "皇岗公园街"
+    ]
+  },
+  {
+    "id": "route-sz-honghu",
+    "vertices": 157,
+    "meters": 4114,
+    "minutes": 55,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 182,
+    "snapMeters": 24.98879583,
+    "roads": [
+      "宝岗路",
+      "梅园路",
+      "宝安北路"
+    ]
+  },
+  {
+    "id": "route-sz-donghu",
+    "vertices": 247,
+    "meters": 5851,
+    "minutes": 76,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 286,
+    "snapMeters": 37.65589214,
+    "roads": [
+      "明珠桥",
+      "黄贝路",
+      "怡景路"
+    ]
+  },
+  {
+    "id": "route-sz-wutong",
+    "vertices": 143,
+    "meters": 3117,
+    "minutes": 42,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 184,
+    "snapMeters": 16.60321785,
+    "roads": [
+      "国威路",
+      "畔山路",
+      "莲塘路",
+      "罗沙公路3#人行天桥",
+      "罗沙路辅路",
+      "仙台人行天桥",
+      "仙台路",
+      "梧桐山南路",
+      "仙桐路"
+    ]
+  },
+  {
+    "id": "route-sz-xiaomeisha",
+    "vertices": 215,
+    "meters": 7070,
+    "minutes": 95,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 157,
+    "snapMeters": 72.32227123,
+    "roads": [
+      "盐梅路",
+      "盐葵路",
+      "深葵路"
+    ]
+  },
+  {
+    "id": "route-sz-dameisha",
+    "vertices": 302,
+    "meters": 5319,
+    "minutes": 71,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 154,
+    "snapMeters": 26.68235017,
+    "roads": [
+      "海滨栈道",
+      "盐田海滨栈道",
+      "盐梅路",
+      "海鲜街",
+      "北山道"
+    ]
+  },
+  {
+    "id": "route-sz-guangming",
+    "vertices": 833,
+    "meters": 12950,
+    "minutes": 173,
+    "climbLevel": "moderate",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 228,
+    "snapMeters": 42.17186131,
+    "roads": [
+      "光明大道",
+      "观光路",
+      "泉鸣路",
+      "牛山路",
+      "虹桥",
+      "大顶岭绿道",
+      "虹桥公园-全境骑咖-环湖骑行"
+    ]
+  },
+  {
+    "id": "route-sz-longhua",
+    "vertices": 237,
+    "meters": 4373,
+    "minutes": 59,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 291,
+    "snapMeters": 119.3022194,
+    "roads": [
+      "龙华环城绿道－绿廊公园段",
+      "民丰路",
+      "汇龙路",
+      "致远南路",
+      "深圳北站西广场"
+    ]
+  },
+  {
+    "id": "route-sz-guanlan",
+    "vertices": 132,
+    "meters": 2286,
+    "minutes": 31,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 159,
+    "snapMeters": 33.59276354,
+    "roads": [
+      "平安路",
+      "观澜大道",
+      "众安街",
+      "新东街",
+      "立新巷",
+      "大东门街",
+      "观澜沿河西路",
+      "食品路",
+      "桂新路"
+    ]
+  },
+  {
+    "id": "route-sz-hehu",
+    "vertices": 232,
+    "meters": 6956,
+    "minutes": 94,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 280,
+    "snapMeters": 59.69771253,
+    "roads": [
+      "龙园路",
+      "碧新路",
+      "龙岗河桥",
+      "盛龙路",
+      "龙城中路",
+      "龙福路",
+      "九曲桥",
+      "长兴南路",
+      "德政路",
+      "龙翔大道"
+    ]
+  },
+  {
+    "id": "route-sz-pingshan",
+    "vertices": 116,
+    "meters": 6340,
+    "minutes": 85,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 281,
+    "snapMeters": 85.49782488,
+    "roads": [
+      "体育二路",
+      "汤坑水滨路",
+      "环兴一路",
+      "新合路",
+      "均田路",
+      "比亚迪路",
+      "坪山同富路",
+      "坪山大道",
+      "深汕公路",
+      "和安路",
+      "大工业区中心广场"
+    ]
+  },
+  {
+    "id": "route-maclehose-1",
+    "vertices": 418,
+    "meters": 3757,
+    "minutes": 50,
+    "climbLevel": "moderate",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 83,
+    "snapMeters": 115,
+    "roads": [
+      "西貢萬宜路 Sai Kung Man Yee Road",
+      "萬宜地質步道-破邊洲段 High Island Geo Trail - Po Pin Chau Section",
+      "麥理浩徑第1段 MacLehose Trail Section 1",
+      "麥理浩徑第2段 MacLehose Trail Section 2"
+    ]
+  },
+  {
+    "id": "route-maclehose-2",
+    "vertices": 1253,
+    "meters": 10505,
+    "minutes": 140,
+    "climbLevel": "moderate",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 117,
+    "snapMeters": 39.7,
+    "roads": [
+      "西貢西灣路 Sai Kung Sai Wan Road",
+      "麥理浩徑第2段 MacLehose Trail Section 2",
+      "牛湖墩東脊",
+      "北潭路 Pak Tam Road"
+    ]
+  },
+  {
+    "id": "route-maclehose-4",
+    "vertices": 1169,
+    "meters": 10724,
+    "minutes": 143,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 115,
+    "snapMeters": 66.1,
+    "roads": [
+      "企嶺下林道 Kei Ling Ha Forest Track",
+      "Rainbow Trout",
+      "Trout",
+      "竹洋路 Chuk Yeung Road",
+      "ACTV",
+      "馬騮頭脊",
+      "麥理浩徑第4段 MacLehose Trail Section 4",
+      "馬鞍山郊遊徑 Ma On Shan Country Trail",
+      "大水坑北街 Tai Shui Hang North Street",
+      "恆信街 Hang Shun Street"
+    ]
+  },
+  {
+    "id": "route-maclehose-5",
+    "vertices": 427,
+    "meters": 6595,
+    "minutes": 89,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 198,
+    "snapMeters": 21.1,
+    "roads": [
+      "衛奕信徑第5段 Wilson Trail Section 5",
+      "沙田坳道 Shatin Pass Road",
+      "麥理浩徑第5段 MacLehose Trail Section 5",
+      "龍欣道 Lung Yan Road",
+      "鷹巢山自然教育徑 Eagle's Nest Nature Trail",
+      "衛奕信徑第6段 Wilson Trail Section 6",
+      "大埔公路－沙田嶺段 Tai Po Road – Sha Tin Heights"
+    ]
+  },
+  {
+    "id": "route-maclehose-8",
+    "vertices": 1608,
+    "meters": 12856,
+    "minutes": 171,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 104,
+    "snapMeters": 29.7,
+    "roads": [
+      "荃錦公路 Route Twisk",
+      "麥理浩徑第8段 MacLehose Trail Section 8",
+      "大帽山道 Tai Mo Shan Road",
+      "大帽山林道 Tai Mo Shan Forest Track",
+      "城門林道－鉛礦坳段 Shing Mun Forest Track – Lead Mine Pass Section",
+      "衛奕信徑第7段 Wilson Trail Section 7",
+      "城門林道－水塘段 Shing Mun Forest Track – Reservoir Section",
+      "​菠蘿壩自然教育徑 Pinapple Dam Nature Trail"
+    ]
+  },
+  {
+    "id": "route-maclehose-10",
+    "vertices": 537,
+    "meters": 6854,
+    "minutes": 94,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 84,
+    "snapMeters": 8.3,
+    "roads": [
+      "掃管笏村路 So Kwun Wat Tsuen Road",
+      "麥理浩徑第10段 MacLehose Trail Section 10",
+      "大欖涌水塘越野單車徑",
+      "清景脊",
+      "Reservoir Islands",
+      "大欖林道 - 伯公坳段 Tai Lam Forest Track – Pak Kung Au Section",
+      "大欖林道－大棠段 Tai Lam Forest Track – Tai Tong Section",
+      "大棠自然教育徑 Tai Tong Nature Trail",
+      "大棠山道 Tai Tong Shan Road"
+    ]
+  },
+  {
+    "id": "route-lantau-sunset-peak",
+    "vertices": 480,
+    "meters": 7275,
+    "minutes": 98,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 70,
+    "snapMeters": 20.2,
+    "roads": [
+      "東涌道 Tung Chung Road",
+      "鳳凰徑第2段 Lantau Trail Section 2  /  南大嶼郊遊徑 South Lantau Country Trail",
+      "鳳凰徑第2段 Lantau Trail Section 2",
+      "嶼南道 South Lantau Road",
+      "鳳凰徑第12段 Lantau Trail Section 12"
+    ]
+  },
+  {
+    "id": "route-wilson-1",
+    "vertices": 727,
+    "meters": 5498,
+    "minutes": 75,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 108,
+    "snapMeters": 31.6,
+    "roads": [
+      "黃泥涌峽道 Wong Nai Chung Gap Road",
+      "大潭水塘道 Tai Tam Reservoir Road",
+      "大潭郊遊徑 Tai Tam Country Trail",
+      "衛奕信徑第1段 Wilson Trail Section 1",
+      "赤柱峽道 Stanley Gap Road"
+    ]
+  },
+  {
+    "id": "route-maclehose-3",
+    "vertices": 858,
+    "meters": 9938,
+    "minutes": 133,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 143,
+    "snapMeters": 66.1,
+    "roads": [
+      "北潭路 Pak Tam Road",
+      "麥理浩徑第3段 MacLehose Trail Section 3",
+      "高塘古道",
+      "嶂上郊遊徑 Cheung Sheung Country Trail",
+      "榕北走廊",
+      "麥理浩徑第4段 MacLehose Trail Section 4"
+    ]
+  },
+  {
+    "id": "route-maclehose-6",
+    "vertices": 772,
+    "meters": 7434,
+    "minutes": 99,
+    "climbLevel": "flat",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 70,
+    "snapMeters": 72.6,
+    "roads": [
+      "石梨貝水塘緩跑徑 Shek Lei Pui Reservoir Jogging Trail",
+      "金山路 Golden Hill Road",
+      "衛奕信徑第6段 Wilson Trail Section 6",
+      "孖指徑",
+      "麥理浩徑第6段 MacLehose Trail Section 6",
+      "城門道 Shing Mun Road",
+      "​菠蘿壩自然教育徑 Pinapple Dam Nature Trail"
+    ]
+  },
+  {
+    "id": "route-maclehose-7",
+    "vertices": 1239,
+    "meters": 8802,
+    "minutes": 117,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 154,
+    "snapMeters": 29.7,
+    "roads": [
+      "​菠蘿壩自然教育徑 Pinapple Dam Nature Trail",
+      "城門道 Shing Mun Road",
+      "麥理浩徑第6段 MacLehose Trail Section 6",
+      "衛奕信徑第6段 Wilson Trail Section 6",
+      "城門林道－水塘段 Shing Mun Forest Track – Reservoir Section",
+      "麥理浩徑第7段 MacLehose Trail Section 7",
+      "城門林道－針山段 Shing Mun Forest Track – Needle Hill Section",
+      "城門林道－草山段 Shing Mun Forest Track – Grass Hill Section",
+      "大埔滘林道－滘鉛段 Tai Po Kau Forest Track – Kau Lead Section",
+      "城門林道－鉛礦坳段 Shing Mun Forest Track – Lead Mine Pass Section",
+      "衛奕信徑第7段 Wilson Trail Section 7"
+    ]
+  },
+  {
+    "id": "route-lantau-3",
+    "vertices": 423,
+    "meters": 5539,
+    "minutes": 74,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 129,
+    "snapMeters": 13.1,
+    "roads": [
+      "東涌道 Tung Chung Road",
+      "鳳凰徑第3段 Lantau Trail Section 3  /  南大嶼郊遊徑 South Lantau Country Trail",
+      "鳳凰徑第3段 Lantau Trail Section 3"
+    ]
+  },
+  {
+    "id": "route-hk-trail-1-2",
+    "vertices": 426,
+    "meters": 4113,
+    "minutes": 55,
+    "climbLevel": "moderate",
+    "effortLevel": "easy",
+    "maxSegmentMeters": 154,
+    "snapMeters": 56.6,
+    "roads": [
+      "山頂道 Peak Road",
+      "夏力道 Harlech Road",
+      "港島徑第1段 Hong Kong Trail Section 1",
+      "薄扶林水塘道 Pok Fu Lam Reservoir Road",
+      "薄扶林道 Pok Fu Lam Road",
+      "置富道 Chi Fu Road"
+    ]
+  },
+  {
+    "id": "route-wilson-2",
+    "vertices": 885,
+    "meters": 6531,
+    "minutes": 92,
+    "climbLevel": "steep",
+    "effortLevel": "moderate",
+    "maxSegmentMeters": 134,
+    "snapMeters": 81.8,
+    "roads": [
+      "黃泥涌峽道 Wong Nai Chung Gap Road",
+      "大潭水塘道 Tai Tam Reservoir Road",
+      "港島徑第5段 Hong Kong Trail Section 5",
+      "柏架山道 Mount Parker Road",
+      "柏架山吊車徑 Mount Parker Cable Car Trail",
+      "康柏郊遊徑 Hong Pak Country Trail",
+      "鰂魚涌樹木研習徑 Quarry Bay Tree Walk",
+      "衛奕信徑第2段 Wilson Trail Section 2",
+      "祐民街 Yau Man Street",
+      "英皇道 King's Road"
+    ]
+  },
+  {
+    "id": "route-sharp-peak",
+    "vertices": 952,
+    "meters": 10708,
+    "minutes": 149,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 164,
+    "snapMeters": 39.7,
+    "roads": [
+      "北潭路 Pak Tam Road",
+      "牛湖墩東脊",
+      "麥理浩徑第2段 MacLehose Trail Section 2"
+    ]
+  },
+  {
+    "id": "route-sz-wutong-summit",
+    "vertices": 338,
+    "meters": 6936,
+    "minutes": 92,
+    "climbLevel": "steep",
+    "effortLevel": "challenging",
+    "maxSegmentMeters": 308,
+    "snapMeters": 6.9,
+    "roads": [
+      "国威路",
+      "畔山路",
+      "登云道",
+      "山茶径",
+      "十里杜鹃",
+      "梧桐山北路",
+      "好汉坡"
+    ]
+  }
+]

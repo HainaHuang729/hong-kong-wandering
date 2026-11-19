@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 239052206,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 261637357,
+    "lat": "22.3771043",
+    "lon": "113.9799346",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "嘉道理碼頭 Kadoorie Pier",
+    "display_name": "嘉道理碼頭 Kadoorie Pier, 青碧街 Tsing Bik Street, 三聖 Sam Shing, 青山灣 Castle Peak Bay, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3769995",
+      "22.3772054",
+      "113.9797687",
+      "113.9802361"
+    ]
+  }
+]

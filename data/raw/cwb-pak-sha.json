@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237586429,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26469055,
+    "lat": "22.2790426",
+    "lon": "114.1840514",
+    "class": "highway",
+    "type": "living_street",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "living_street",
+    "name": "白沙道 Pak Sha Road",
+    "display_name": "白沙道 Pak Sha Road, 利園山 Lee Gardens Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2788920",
+      "22.2791941",
+      "114.1836427",
+      "114.1844598"
+    ]
+  },
+  {
+    "place_id": 237676744,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1310372974,
+    "lat": "22.2790210",
+    "lon": "114.1840653",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04008643091477835,
+    "addresstype": "road",
+    "name": "白沙道 Pak Sha Road",
+    "display_name": "白沙道 Pak Sha Road, 利園山 Lee Gardens Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2788871",
+      "22.2791548",
+      "114.1836994",
+      "114.1844312"
+    ]
+  }
+]

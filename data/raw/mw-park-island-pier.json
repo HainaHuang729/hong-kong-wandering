@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236882350,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 351115246,
+    "lat": "22.3528824",
+    "lon": "114.0644105",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "珀麗灣碼頭 Park Island Ferry Pier",
+    "display_name": "珀麗灣碼頭 Park Island Ferry Pier, 珀麗路 Pak Lai Road, 馬灣大街村北 Ma Wan Main Street Village North, 馬灣 Ma Wan, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3525359",
+      "22.3531949",
+      "114.0637971",
+      "114.0649745"
+    ]
+  }
+]

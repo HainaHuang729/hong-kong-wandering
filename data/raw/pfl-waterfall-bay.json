@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236908220,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1357180251,
+    "lat": "22.2507693",
+    "lon": "114.1347530",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.3469896344052328,
+    "addresstype": "park",
+    "name": "瀑布灣公園 Waterfall Bay Park",
+    "display_name": "瀑布灣公園 Waterfall Bay Park, 水菜田村 Shui Choi Tin Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2489881",
+      "22.2524774",
+      "114.1334985",
+      "114.1362885"
+    ]
+  }
+]

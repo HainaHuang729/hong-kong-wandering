@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 234290303,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11455834335,
+    "lat": "22.5969907",
+    "lon": "114.3030268",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3863874290870923,
+    "addresstype": "railway",
+    "name": "大梅沙",
+    "display_name": "大梅沙, 大梅沙海滨公园隧道, 大梅沙社区, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5919907",
+      "22.6019907",
+      "114.2980268",
+      "114.3080268"
+    ]
+  },
+  {
+    "place_id": 234304669,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 192579211,
+    "lat": "22.5943615",
+    "lon": "114.3026411",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.322688475709118,
+    "addresstype": "beach",
+    "name": "大梅沙",
+    "display_name": "大梅沙, 大梅沙社区, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5901670",
+      "22.5986174",
+      "114.2994088",
+      "114.3085591"
+    ]
+  }
+]

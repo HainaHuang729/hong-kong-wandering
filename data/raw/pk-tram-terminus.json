@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 234136739,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 143716612,
+    "lat": "22.2712551",
+    "lon": "114.1499858",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "shop",
+    "name": "凌霄閣 Peak Tower",
+    "display_name": "凌霄閣 Peak Tower, 128, 舊山頂道 Old Peak Road, 爐峰峽 Victoria Gap, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2710968",
+      "22.2714134",
+      "114.1496411",
+      "114.1503306"
+    ]
+  },
+  {
+    "place_id": 237198702,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2140982561,
+    "lat": "22.2713400",
+    "lon": "114.1495700",
+    "class": "amenity",
+    "type": "toilets",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "amenity",
+    "name": "凌霄閣公廁 The Peak Tower Public Toilet",
+    "display_name": "凌霄閣公廁 The Peak Tower Public Toilet, 盧吉道 Lugard Road, 爐峰峽 Victoria Gap, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2712900",
+      "22.2713900",
+      "114.1495200",
+      "114.1496200"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237706837,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 248181064,
+    "lat": "22.6124683",
+    "lon": "114.1334767",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.04539457909600718,
+    "addresstype": "tourism",
+    "name": "大芬美术馆",
+    "display_name": "大芬美术馆, 大芬油画街, 大芬社区, 布吉街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6121921",
+      "22.6130422",
+      "114.1329701",
+      "114.1339880"
+    ]
+  }
+]

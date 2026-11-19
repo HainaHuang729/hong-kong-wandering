@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 235312202,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8850126747,
+    "lat": "22.2182980",
+    "lon": "114.2125370",
+    "class": "place",
+    "type": "quarter",
+    "place_rank": 20,
+    "importance": 0.13341976424811167,
+    "addresstype": "quarter",
+    "name": "赤柱村 Stanley Village",
+    "display_name": "赤柱村 Stanley Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2082980",
+      "22.2282980",
+      "114.2025370",
+      "114.2225370"
+    ]
+  },
+  {
+    "place_id": 235314496,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1122164722,
+    "lat": "22.2181952",
+    "lon": "114.2125152",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "tourism",
+    "name": "赤柱市集 Stanley Market",
+    "display_name": "赤柱市集 Stanley Market, 赤柱大街 Stanley Main Street, 赤柱村 Stanley Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2181452",
+      "22.2182452",
+      "114.2124652",
+      "114.2125652"
+    ]
+  },
+  {
+    "place_id": 238368447,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 439019970,
+    "lat": "22.2191085",
+    "lon": "114.2131118",
+    "class": "amenity",
+    "type": "bus_station",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "amenity",
+    "name": "赤柱村 Stanley Village",
+    "display_name": "赤柱村 Stanley Village, 赤柱灘道 Stanley Beach Road, 赤柱村 Stanley Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2188418",
+      "22.2194079",
+      "114.2129917",
+      "114.2132126"
+    ]
+  }
+]

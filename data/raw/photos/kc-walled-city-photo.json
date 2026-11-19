@@ -1,0 +1,838 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "92162324": {
+        "pageid": 92162324,
+        "ns": 6,
+        "title": "File:Agricultural trade highlights (IA CAT10401061092).pdf",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1340581,
+            "width": 1239,
+            "height": 1602,
+            "pagecount": 20,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Agricultural_trade_highlights_%28IA_CAT10401061092%29.pdf/page1-960px-Agricultural_trade_highlights_%28IA_CAT10401061092%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1241,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Agricultural_trade_highlights_%28IA_CAT10401061092%29.pdf/page1-960px-Agricultural_trade_highlights_%28IA_CAT10401061092%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1241
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Agricultural_trade_highlights_%28IA_CAT10401061092%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agricultural_trade_highlights_(IA_CAT10401061092).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92162324",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-20 18:09:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nAgricultural trade highlights</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Internet Archive (redundant cover page removed)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnited States. Foreign Agricultural Service</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>Description based on: Oct. 1989; title from caption</dd>\n<dd>Vols. for Jan. 1990- has numeric designation: ATH -90-</dd></dl>\n<br>Subjects: Produce trade United States Statistics Periodicals; Exports United States Statistics Periodicals</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/CAT10401061092\" class=\"extiw\" title=\"iarchive:CAT10401061092\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> CAT10401061092</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT10401061092/CAT10401061092.pdf\">https://archive.org/download/CAT10401061092/CAT10401061092.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97724763": {
+        "pageid": 97724763,
+        "ns": 6,
+        "title": "File:Cornell University Library digitization (IA cu31924020416487).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 19956986,
+            "width": 893,
+            "height": 1325,
+            "pagecount": 448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Cornell_University_Library_digitization_%28IA_cu31924020416487%29.pdf/page1-500px-Cornell_University_Library_digitization_%28IA_cu31924020416487%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1424,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Cornell_University_Library_digitization_%28IA_cu31924020416487%29.pdf/page1-500px-Cornell_University_Library_digitization_%28IA_cu31924020416487%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1424
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cornell_University_Library_digitization_%28IA_cu31924020416487%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cornell_University_Library_digitization_(IA_cu31924020416487).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97724763",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-17 21:41:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nAdmiral Dewey at Manila and the complete story of the Philippines : life and glorious deeds of Admiral George Dewey, including a thrilling account of our conflict with the Spaniards and Filipinos in the Orient</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nStickney, Joseph L</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>\"Poems of Dewey and the Philippines\": [15] p. at end</dd>\n<dd>Published also under title: Life and glorious deeds of Admiral George Dewey</dd></dl>\n<br>Subjects: Dewey, George, 1837-1917</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/cu31924020416487\" class=\"extiw\" title=\"iarchive:cu31924020416487\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> cu31924020416487</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924020416487/cu31924020416487.pdf\">https://archive.org/download/cu31924020416487/cu31924020416487.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98507930": {
+        "pageid": 98507930,
+        "ns": 6,
+        "title": "File:Glendale Daily Press 1923-07-07 (IA cgl 002154).pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 49050698,
+            "width": 2629,
+            "height": 3341,
+            "pagecount": 16,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf/page1-960px-Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1220,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf/page1-1920px-Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf/page1-960px-Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1220,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf/page1-1920px-Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Glendale_Daily_Press_1923-07-07_%28IA_cgl_002154%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Glendale_Daily_Press_1923-07-07_(IA_cgl_002154).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98507930",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-04 02:50:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nGlendale Daily Press 1923-07-07</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "California Revealed|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nGlendale Pub. and Print. Co.</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p><b>Note for IA</b>: Image may appear dark or faded due to the nature of microfilm. Some text runs off the page, inherent to the original.<br><br><b>Series Title</b>: Glendale Daily Press<br><br><b>Description</b>: Daily edition of the Weekly Press. These newspapers document the earliest history of Glendale as an incorporated city and the later-annexed community of Tropico.<br><br><b>Additional Description</b>: Source material provided by the California Newspaper Microfilm Archive in conjunction with Glendale Library, Arts, and Culture\n</p>\n<br>Subjects: californiarevealed; Glendale (Calif.)--Newspapers</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/cgl_002154\" class=\"extiw\" title=\"iarchive:cgl 002154\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> cgl_002154</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cgl_002154/cgl_002154_access.pdf\">https://archive.org/download/cgl_002154/cgl_002154_access.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Public Domain. No restrictions on use.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "176076145": {
+        "pageid": 176076145,
+        "ns": 6,
+        "title": "File:HK KCD 九龍城 Kln City 九龍寨城公園 Kowloon Walled City Park n 賈炳達道公園 Carpenter Road Park June 2025 R12S 202.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7074397,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg/960px-HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg/1920px-HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg/960px-HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg/1920px-HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E%E5%85%AC%E5%9C%92_Kowloon_Walled_City_Park_n_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_June_2025_R12S_202.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176076145",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-04 16:03:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK KCD 九龍城 Kln City 九龍寨城公園 Kowloon Walled City Park n 賈炳達道公園 Carpenter Road Park June 2025 R12S 202",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Carpenter Road Park|Self-published work|Files with coordinates missing SDC location of creation|2025 in Kowloon City District|Hong Kong photographs taken on 2025-06-19|June 2025 in Kowloon City|2025 in Carpenter Road Park|2025 in Kowloon Walled City Park|Long Corridor in China",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.332680",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.189621",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK KCD 九龍城 Kln City 九龍寨城公園 Kowloon Walled City Park n 賈炳達道公園 Carpenter Road Park in June 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-06-19 15:03:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hzam_M93008_TWCKMMOU\" title=\"User:Hzam M93008 TWCKMMOU\">Hzam M93008 TWCKMMOU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "176125078": {
+        "pageid": 176125078,
+        "ns": 6,
+        "title": "File:HK KCD 九龍城 Kln City 賈炳達道公園 Carpenter Road Park 九龍城塞 光影之旅 Kowloon Walled City A Cinematic Journey movie set exhibition June 2025 R12S 202.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3866485,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%A1%9E_%E5%85%89%E5%BD%B1%E4%B9%8B%E6%97%85_Kowloon_Walled_City_A_Cinematic_Journey_movie_set_exhibition_June_2025_R12S_202.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%A1%9E_%E5%85%89%E5%BD%B1%E4%B9%8B%E6%97%85_Kowloon_Walled_City_A_Cinematic_Journey_movie_set_exhibition_June_2025_R12S_202.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%A1%9E_%E5%85%89%E5%BD%B1%E4%B9%8B%E6%97%85_Kowloon_Walled_City_A_Cinematic_Journey_movie_set_exhibition_June_2025_R12S_202.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%A1%9E_%E5%85%89%E5%BD%B1%E4%B9%8B%E6%97%85_Kowloon_Walled_City_A_Cinematic_Journey_movie_set_exhibition_June_2025_R12S_202.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%A1%9E_%E5%85%89%E5%BD%B1%E4%B9%8B%E6%97%85_Kowloon_Walled_City_A_Cinematic_Journey_movie_set_exhibition_June_2025_R12S_202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_KCD_%E4%B9%9D%E9%BE%8D%E5%9F%8E_Kln_City_%E8%B3%88%E7%82%B3%E9%81%94%E9%81%93%E5%85%AC%E5%9C%92_Carpenter_Road_Park_%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%A1%9E_%E5%85%89%E5%BD%B1%E4%B9%8B%E6%97%85_Kowloon_Walled_City_A_Cinematic_Journey_movie_set_exhibition_June_2025_R12S_202.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176125078",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-05 09:44:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK KCD 九龍城 Kln City 賈炳達道公園 Carpenter Road Park 九龍城塞 光影之旅 Kowloon Walled City A Cinematic Journey movie set exhibition June 2025 R12S 202",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Exhibitions in Hong Kong|Carpenter Road Park|Self-published work|Files with coordinates missing SDC location of creation|2025 in Kowloon City District|Hong Kong photographs taken on 2025-06-19|June 2025 in Kowloon City|2025 in Carpenter Road Park|2025 in Kowloon Walled City Park|Kowloon Walled City A Cinematic Journey Exhibition in 2025|Exhibitions in Kowloon City",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.332178",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.190473",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK KCD 九龍城 Kln City 賈炳達道公園 Carpenter Road Park 九龍城塞 光影之旅 Kowloon Walled City A Cinematic Journey movie set exhibition in June 2025 \n<a rel=\"nofollow\" class=\"external text\" href=\"https://www.discoverhongkong.com/eng/what-s-new/events/kowloon-walled-city-cinematic-journey-exhibition.html\">九龍城塞 光影之旅 Kowloon Walled City A Cinematic Journey movie set exhibition</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-06-19 15:27:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hzam_M93008_TWCKMMOU\" title=\"User:Hzam M93008 TWCKMMOU\">Hzam M93008 TWCKMMOU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "193790208": {
+        "pageid": 193790208,
+        "ns": 6,
+        "title": "File:Life and glorious deeds of Admiral Dewey, including a thrilling account of our conflicts with the Spaniards and the Filipinos in the Orient (IA lifegloriousdeed00stic).pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 25270647,
+            "width": 716,
+            "height": 1020,
+            "pagecount": 476,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Life_and_glorious_deeds_of_Admiral_Dewey%2C_including_a_thrilling_account_of_our_conflicts_with_the_Spaniards_and_the_Filipinos_in_the_Orient_%28IA_lifegloriousdeed00stic%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1368,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Life_and_glorious_deeds_of_Admiral_Dewey%2C_including_a_thrilling_account_of_our_conflicts_with_the_Spaniards_and_the_Filipinos_in_the_Orient_%28IA_lifegloriousdeed00stic%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1368
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Life_and_glorious_deeds_of_Admiral_Dewey%2C_including_a_thrilling_account_of_our_conflicts_with_the_Spaniards_and_the_Filipinos_in_the_Orient_%28IA_lifegloriousdeed00stic%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Life_and_glorious_deeds_of_Admiral_Dewey,_including_a_thrilling_account_of_our_conflicts_with_the_Spaniards_and_the_Filipinos_in_the_Orient_(IA_lifegloriousdeed00stic).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193790208",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-13 13:43:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nLife and glorious deeds of Admiral Dewey, including a thrilling account of our conflicts with the Spaniards and the Filipinos in the Orient, and the complete story of the Philippine islands, historical and descriptive</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|IA uploads needing categories|Scans sponsored by Sloan Foundation|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nStickney, Joseph L</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>2 p.l., 9-434, [16] p. incl. plates, ports. 25 cm\n</p>\n<br>Subjects: Dewey, George, 1837-1917; Admirals -- United States Biography; Philippines -- History</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/lifegloriousdeed00stic\" class=\"extiw\" title=\"iarchive:lifegloriousdeed00stic\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> lifegloriousdeed00stic</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/lifegloriousdeed00stic/lifegloriousdeed00stic.pdf\">https://archive.org/download/lifegloriousdeed00stic/lifegloriousdeed00stic.pdf</a></dd></dl>\n<ul><li>IA contributor: The Library of Congress</li>\n<li>IA digitizing sponsor: Sloan Foundation</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "100535118": {
+        "pageid": 100535118,
+        "ns": 6,
+        "title": "File:The life of Sir Harry Parkes, sometime Her Majesty's minister to China & Japan (IA lifeofsirharrypa01lane).pdf",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 30389664,
+            "width": 816,
+            "height": 1308,
+            "pagecount": 556,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_life_of_Sir_Harry_Parkes%2C_sometime_Her_Majesty%27s_minister_to_China_%26_Japan_%28IA_lifeofsirharrypa01lane%29.pdf/page1-500px-The_life_of_Sir_Harry_Parkes%2C_sometime_Her_Majesty%27s_minister_to_China_%26_Japan_%28IA_lifeofsirharrypa01lane%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1539,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_life_of_Sir_Harry_Parkes%2C_sometime_Her_Majesty%27s_minister_to_China_%26_Japan_%28IA_lifeofsirharrypa01lane%29.pdf/page1-500px-The_life_of_Sir_Harry_Parkes%2C_sometime_Her_Majesty%27s_minister_to_China_%26_Japan_%28IA_lifeofsirharrypa01lane%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1539
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_life_of_Sir_Harry_Parkes%2C_sometime_Her_Majesty%27s_minister_to_China_%26_Japan_%28IA_lifeofsirharrypa01lane%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_life_of_Sir_Harry_Parkes,_sometime_Her_Majesty%27s_minister_to_China_%26_Japan_(IA_lifeofsirharrypa01lane).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100535118",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-02-28 13:11:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThe life of Sir Harry Parkes, sometime Her Majesty's minister to China &amp; Japan</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Books about China|Books about Japan|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|IA books harmonization|PD-US missing SDC copyright status|The life of Sir Harry Parkes, sometime Her Majesty's minister to China and Japan (1894)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>Lane-Poole, Stanley, 1854-1931</dd>\n<dd>Dickins, Frederick Victor, 1838-1915</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>26\n</p>\n<br>Subjects: Parkes, Harry Smith, (Sir) 1828-1885</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/lifeofsirharrypa01lane\" class=\"extiw\" title=\"iarchive:lifeofsirharrypa01lane\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> lifeofsirharrypa01lane</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/lifeofsirharrypa01lane/lifeofsirharrypa01lane.pdf\">https://archive.org/download/lifeofsirharrypa01lane/lifeofsirharrypa01lane.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192380922": {
+        "pageid": 192380922,
+        "ns": 6,
+        "title": "File:WHSF- Returned, 2-27 - DPLA - 5b016479512f4d578aa45e8953bdf1c6.pdf",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7872657,
+            "width": 1275,
+            "height": 1650,
+            "pagecount": 36,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/WHSF-_Returned%2C_2-27_-_DPLA_-_5b016479512f4d578aa45e8953bdf1c6.pdf/page1-960px-WHSF-_Returned%2C_2-27_-_DPLA_-_5b016479512f4d578aa45e8953bdf1c6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1242,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/WHSF-_Returned%2C_2-27_-_DPLA_-_5b016479512f4d578aa45e8953bdf1c6.pdf/page1-960px-WHSF-_Returned%2C_2-27_-_DPLA_-_5b016479512f4d578aa45e8953bdf1c6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1242
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/WHSF-_Returned%2C_2-27_-_DPLA_-_5b016479512f4d578aa45e8953bdf1c6.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_2-27_-_DPLA_-_5b016479512f4d578aa45e8953bdf1c6.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192380922",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-19 10:00:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "WHSF- Returned, 2-27 - DPLA - 5b016479512f4d578aa45e8953bdf1c6",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US|Media contributed by the National Archives and Records Administration|Media contributed by the Digital Public Library of America|Media contributed by Richard Nixon Presidential Library and Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "This file contains: Copy of a letter from Marilyn R. Parent to Rose Mary Woods regarding an enclosed check. 1 pg. [Letter], 5/24/1971 From Rose Mary Woods to Herb Kalmbach regarding RN's personal account. Also present are financial records sent to Woods by David C. Hoopes. 1 pg. [Letter], 5/19/1971 From Rose Mary Woods to Herb Helmbach regarding a bill for air travel. 1 pg. [Letter], 5/27/1971 From Rose Mary Woods to Marilyn regarding a check. 1 pg. [Letter], 8/6/1971 From Rose Mary Woods to Neal Lang thanking him for his previous letter. 1 pg. [Letter], 6/4/1971 From Neal Lang to Rose Mary Woods inviting Tricia Nixon and her fiance to the Xanadu Yacht and Tennis Club. 1 pg. [Letter], 5/21/1971 From Rose Mary Woods to Edwin P. Hoyt regarding the addresses of RN's siblings. 1 pg. [Letter], 5/15/1971 Paper detailing the addresses of RN's siblings. 1 pg. [Other Document], N.D. List of people compiled by Rose Mary Woods whom Edwin P. Hoyt may wish to contact. 2 pgs. [Other Document], N.D. From Robert C. Odle, Jr. to Rose Mary Woods regarding Edwin P. Hoyt. 1 pg. [Memo], 5/17/1971 From Rose Mary Woods to Rob Odle regarding a letter from Edwin P. Hoyt. 1 pg. [Memo], 5/6/1971 From Rose Mary Woods to Gloria Walls Seelye regarding countries visited by RN and PN. 1 pg. [Letter], 5/10/1971 From Gloria Walls Seelye to Rose Mary Woods regarding trips taken by RN and PN. 1 pg. [Letter], 5/2/1971 Envelope from Gloria Walls Seelye to Rose Mary Woods. 2 pgs. [Photograph], 5/6/1971 Itinerary of RN's trip, as vice president, to other nations. 8 pgs. [Other Document], N.D. From Rose Mary Woods to Bob Haldeman regarding an oral history project from Whittier. 1 pg. [Memo], 6/3/1971 From Thomas W. Bewley to Rose Mary Woods regarding an enclosed letter. 1 pg. [Letter], 5/28/1971 From Thomas Bewley to RN regarding Whittier College. An unknown pary has written a bracket around information concerning the Presidential Oral History Program. 2 pgs. [Letter], 5/28/1971 From unknown to Lucy regarding giving Tricia an attached letter. 1 pg. [Memo], 5/26/1971 Envelope from unknown to RN. 1 pg. [Other Document], N.D. From unknown to RN RE: an associate of the letter's author. 2 pgs. [Letter], 5/12/1971 From RN to Alice regarding Bernie. 1 pg. (duplicate not scanned) [Letter], 6/1/1971",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://nara-media.s3.amazonaws.com/presidential-libraries/nixon/RN-RET/3599958/WHSF_Box_02/WHSF2-27.pdf\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a href=\"https://catalog.archives.gov/id/26125946\" class=\"extiw\" title=\"nara:26125946\">Catalog record</a></span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

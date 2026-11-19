@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236825263,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2065212817,
+    "lat": "22.2914251",
+    "lon": "114.2377915",
+    "class": "natural",
+    "type": "water",
+    "place_rank": 22,
+    "importance": 0.21337448257116948,
+    "addresstype": "water",
+    "name": "三家村避風塘 Sam Ka Tsuen Typhoon Shelter",
+    "display_name": "三家村避風塘 Sam Ka Tsuen Typhoon Shelter, 觀塘區 Kwun Tong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2913751",
+      "22.2914751",
+      "114.2377415",
+      "114.2378415"
+    ]
+  },
+  {
+    "place_id": 236972477,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11070452045,
+    "lat": "22.2919194",
+    "lon": "114.2372098",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "三家村避風塘 Sam Ka Tsuen Typhoon Shelter",
+    "display_name": "三家村避風塘 Sam Ka Tsuen Typhoon Shelter, 崇信街 Shung Shun Street, 油塘工業區 Yau Tong Industrial Area, 觀塘區 Kwun Tong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2918694",
+      "22.2919694",
+      "114.2371598",
+      "114.2372598"
+    ]
+  }
+]

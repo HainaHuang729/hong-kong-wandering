@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237568631,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6715085273,
+    "lat": "22.4914656",
+    "lon": "113.9148170",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4077792123453851,
+    "addresstype": "railway",
+    "name": "水湾",
+    "display_name": "水湾, 太子路, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.4864656",
+      "22.4964656",
+      "113.9098170",
+      "113.9198170"
+    ]
+  },
+  {
+    "place_id": 235653054,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6673765421,
+    "lat": "22.4914168",
+    "lon": "113.9148232",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "水湾",
+    "display_name": "水湾, 太子路, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.4913668",
+      "22.4914668",
+      "113.9147732",
+      "113.9148732"
+    ]
+  }
+]

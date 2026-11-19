@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 236848584,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 37517508,
+    "lat": "22.3214448",
+    "lon": "114.1764277",
+    "class": "highway",
+    "type": "unclassified",
+    "place_rank": 26,
+    "importance": 0.05339935225452045,
+    "addresstype": "unclassified",
+    "name": "嘉道理道 Kadoorie Avenue",
+    "display_name": "嘉道理道 Kadoorie Avenue, 加多利山 Kadoorie Hill, 何文田 Ho Man Tin, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3209829",
+      "22.3224683",
+      "114.1750574",
+      "114.1771737"
+    ]
+  },
+  {
+    "place_id": 236560458,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1060527556,
+    "lat": "22.3229205",
+    "lon": "114.1755134",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339935225452045,
+    "addresstype": "residential",
+    "name": "嘉道理道 Kadoorie Avenue",
+    "display_name": "嘉道理道 Kadoorie Avenue, 加多利山 Kadoorie Hill, 何文田 Ho Man Tin, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3219698",
+      "22.3235820",
+      "114.1754930",
+      "114.1761128"
+    ]
+  },
+  {
+    "place_id": 236679417,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 106149940,
+    "lat": "22.3201289",
+    "lon": "114.1739652",
+    "class": "highway",
+    "type": "primary_link",
+    "place_rank": 27,
+    "importance": 0.04006601892118714,
+    "addresstype": "road",
+    "name": "嘉道理道 Kadoorie Avenue",
+    "display_name": "嘉道理道 Kadoorie Avenue, 窩打老道山 Waterloo Hill, 何文田 Ho Man Tin, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3201214",
+      "22.3201889",
+      "114.1738783",
+      "114.1740720"
+    ]
+  },
+  {
+    "place_id": 237009825,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10936958196,
+    "lat": "22.3203503",
+    "lon": "114.1743877",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "嘉道理道 Kadoorie Avenue",
+    "display_name": "嘉道理道 Kadoorie Avenue, 亞皆老街 Argyle Street, 窩打老道山 Waterloo Hill, 何文田 Ho Man Tin, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3203003",
+      "22.3204003",
+      "114.1743377",
+      "114.1744377"
+    ]
+  }
+]

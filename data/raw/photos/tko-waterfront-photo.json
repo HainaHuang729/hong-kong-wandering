@@ -1,0 +1,1318 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "144774226": {
+        "pageid": 144774226,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park 30-01-2024(3).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8294244,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg/960px-Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg/960px-Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tseung_Kwan_O_Waterfront_Park_30-01-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_30-01-2024(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144774226",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-30 13:50:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park 30-01-2024(3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-01-30",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301669",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.261572",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在將軍澳南拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-01-30 16:49:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "144826286": {
+        "pageid": 144826286,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park 31-01-2024(1).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10918123,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg/960px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg/960px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tseung_Kwan_O_Waterfront_Park_31-01-2024%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_31-01-2024(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144826286",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-31 15:22:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park 31-01-2024(1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-01-31",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301536",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.261422",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在將軍澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-01-31 19:38:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "144826291": {
+        "pageid": 144826291,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park 31-01-2024(2).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8714619,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg/960px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg/960px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tseung_Kwan_O_Waterfront_Park_31-01-2024%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_31-01-2024(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144826291",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-31 15:22:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park 31-01-2024(2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-01-31",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301522",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.261231",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在將軍澳拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-01-31 19:38:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84260165": {
+        "pageid": 84260165,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park Rebuild 201911.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3286580,
+            "width": 2736,
+            "height": 1824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg/960px-Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg/960px-Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_Rebuild_201911.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84260165",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-23 02:26:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park Rebuild 201911",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Park rebuild",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "72881748": {
+        "pageid": 72881748,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park Seawall destroy after Typhoon Mangkhut 201809.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3016943,
+            "width": 2736,
+            "height": 1824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg/960px-Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg/960px-Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_Seawall_destroy_after_Typhoon_Mangkhut_201809.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72881748",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-09-20 02:37:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park Seawall destroy after Typhoon Mangkhut 201809",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Effects of Typhoon Mangkhut in Hong Kong|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Park Seawall destroy after Typhoon Mangkhut",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-09-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "72881758": {
+        "pageid": 72881758,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park cycle path destroy after Typhoon Mangkhut 201809.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4313590,
+            "width": 2736,
+            "height": 1824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg/960px-Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg/960px-Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_cycle_path_destroy_after_Typhoon_Mangkhut_201809.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72881758",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-09-20 02:40:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park cycle path destroy after Typhoon Mangkhut 201809",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Effects of Typhoon Mangkhut in Hong Kong|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Park cycle path destroy after Typhoon Mangkhut",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-09-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "72881747": {
+        "pageid": 72881747,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park planter destroy after Typhoon Mangkhut 20180918.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4838206,
+            "width": 2736,
+            "height": 1824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg/960px-Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg/960px-Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_planter_destroy_after_Typhoon_Mangkhut_20180918.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72881747",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-09-20 02:37:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park planter destroy after Typhoon Mangkhut 20180918",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Effects of Typhoon Mangkhut in Hong Kong|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Park planter destroy after Typhoon Mangkhut",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-09-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "72881771": {
+        "pageid": 72881771,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Park sidewalk destroy after Typhoon Mangkhut 201809.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3120082,
+            "width": 2736,
+            "height": 1824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg/960px-Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg/960px-Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg/1920px-Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Park_sidewalk_destroy_after_Typhoon_Mangkhut_201809.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72881771",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-09-20 02:41:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Park sidewalk destroy after Typhoon Mangkhut 201809",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Effects of Typhoon Mangkhut in Hong Kong|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Park sidewalk destroy after Typhoon Mangkhut",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-09-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110171972": {
+        "pageid": 110171972,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Promenade.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 112005,
+            "width": 879,
+            "height": 659,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tseung_Kwan_O_Waterfront_Promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tseung_Kwan_O_Waterfront_Promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tseung_Kwan_O_Waterfront_Promenade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Promenade.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110171972",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-18 15:21:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Promenade",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tseung Kwan O Waterfront Park|Tseung Kwan O|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Facing Chai Wan across the harbour",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-05-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Leila_Izachi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Leila Izachi (page does not exist)\">Leila Izachi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34933191": {
+        "pageid": 34933191,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Promenade Pet Garden 2014.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1722159,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg/960px-Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg/960px-Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Promenade_Pet_Garden_2014.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34933191",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-25 04:11:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Promenade Pet Garden 2014",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G16|Tseung Kwan O Waterfront Park|Tseung Kwan O|Self-published work|Pet gardens in Hong Kong|Hong Kong photographs taken on 2014-08-22",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Promenade Pet Garden",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34933139": {
+        "pageid": 34933139,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Promenade View 201408.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3126042,
+            "width": 2271,
+            "height": 1698,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg/960px-Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 718,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg/1920px-Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg/960px-Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 718,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg/1920px-Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Promenade_View_201408.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34933139",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-25 04:10:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Promenade View 201408",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G16|Tseung Kwan O Waterfront Park|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Promenade",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34933138": {
+        "pageid": 34933138,
+        "ns": 6,
+        "title": "File:Tseung Kwan O Waterfront Promenade Viewing Platform 201408.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3115771,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg/960px-Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg/1920px-Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg/960px-Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg/1920px-Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tseung_Kwan_O_Waterfront_Promenade_Viewing_Platform_201408.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34933138",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-25 04:09:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tseung Kwan O Waterfront Promenade Viewing Platform 201408",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G16|Tseung Kwan O Waterfront Park|Scenic overlooks|Self-published work|Clouds and blue sky",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tseung Kwan O Waterfront Promenade Viewing Platform",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

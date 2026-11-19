@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237981364,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1473802567,
+    "lat": "22.5576744",
+    "lon": "114.0931968",
+    "class": "landuse",
+    "type": "residential",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "residential",
+    "name": "园岭新村-北1区",
+    "display_name": "园岭新村-北1区, 红荔社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5570732",
+      "22.5582415",
+      "114.0918042",
+      "114.0945933"
+    ]
+  },
+  {
+    "place_id": 238038269,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1473802571,
+    "lat": "22.5566979",
+    "lon": "114.0958523",
+    "class": "landuse",
+    "type": "residential",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "residential",
+    "name": "园岭新村-中1区",
+    "display_name": "园岭新村-中1区, 园东社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5556972",
+      "22.5570635",
+      "114.0947476",
+      "114.0969542"
+    ]
+  },
+  {
+    "place_id": 237964771,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1473802569,
+    "lat": "22.5577265",
+    "lon": "114.0960697",
+    "class": "landuse",
+    "type": "residential",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "residential",
+    "name": "园岭新村-北2区",
+    "display_name": "园岭新村-北2区, 园东社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5571726",
+      "22.5582895",
+      "114.0947462",
+      "114.0974009"
+    ]
+  },
+  {
+    "place_id": 237951652,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1473802575,
+    "lat": "22.5558419",
+    "lon": "114.0980956",
+    "class": "landuse",
+    "type": "residential",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "residential",
+    "name": "园岭新村-东2区",
+    "display_name": "园岭新村-东2区, 园东社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5551251",
+      "22.5565142",
+      "114.0970331",
+      "114.0991562"
+    ]
+  },
+  {
+    "place_id": 237668562,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1473802573,
+    "lat": "22.5569832",
+    "lon": "114.0984771",
+    "class": "landuse",
+    "type": "residential",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "residential",
+    "name": "园岭新村-东1区",
+    "display_name": "园岭新村-东1区, 园东社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5566018",
+      "22.5574321",
+      "114.0975251",
+      "114.0991532"
+    ]
+  }
+]

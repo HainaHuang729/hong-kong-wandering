@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237433012,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1238852261,
+    "lat": "22.5482890",
+    "lon": "114.1143397",
+    "class": "landuse",
+    "type": "retail",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "retail",
+    "name": "东门商业步行街",
+    "display_name": "东门商业步行街, 东门社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5459261",
+      "22.5505569",
+      "114.1105156",
+      "114.1169011"
+    ]
+  }
+]

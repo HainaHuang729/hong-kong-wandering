@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237894466,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11071400328,
+    "lat": "22.3188701",
+    "lon": "114.1606361",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "奧運站 Olympic Station",
+    "display_name": "奧運站 Olympic Station, 深旺道 Sham Mong Road, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3188201",
+      "22.3189201",
+      "114.1605861",
+      "114.1606861"
+    ]
+  },
+  {
+    "place_id": 237864298,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3230273786,
+    "lat": "22.3181180",
+    "lon": "114.1614718",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "奧運站 Olympic Station",
+    "display_name": "奧運站 Olympic Station, 櫻桃街 Cherry Street, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3180680",
+      "22.3181680",
+      "114.1614218",
+      "114.1615218"
+    ]
+  },
+  {
+    "place_id": 237592693,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 288996425,
+    "lat": "22.3190135",
+    "lon": "114.1606828",
+    "class": "amenity",
+    "type": "bus_station",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "amenity",
+    "name": "奧運站 Olympic Station",
+    "display_name": "奧運站 Olympic Station, 深旺道 Sham Mong Road, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3189635",
+      "22.3190635",
+      "114.1606328",
+      "114.1607328"
+    ]
+  }
+]

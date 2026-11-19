@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 238164645,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 546798557,
+    "lat": "22.5853577",
+    "lon": "113.8321837",
+    "category": "highway",
+    "type": "secondary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "secondary",
+    "name": "金湾大道",
+    "display_name": "金湾大道, 福中福社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5723217",
+      "22.6021708",
+      "113.8286390",
+      "113.8419934"
+    ]
+  },
+  {
+    "place_id": 238156344,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1301765278,
+    "lat": "22.5932537",
+    "lon": "113.8307662",
+    "category": "highway",
+    "type": "secondary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "secondary",
+    "name": "金湾大道",
+    "display_name": "金湾大道, 南昌社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5885875",
+      "22.5986505",
+      "113.8296610",
+      "113.8336914"
+    ]
+  },
+  {
+    "place_id": 237377498,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1359775771,
+    "lat": "22.6022710",
+    "lon": "113.8287319",
+    "category": "highway",
+    "type": "secondary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "secondary",
+    "name": "金湾大道",
+    "display_name": "金湾大道, 航城街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6022223",
+      "22.6023196",
+      "113.8286923",
+      "113.8287715"
+    ]
+  }
+]

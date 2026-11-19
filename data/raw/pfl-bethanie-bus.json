@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 234136478,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 695937040,
+    "lat": "22.2659133",
+    "lon": "114.1375556",
+    "class": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "pedestrian",
+    "name": "薄扶林水塘道 Pok Fu Lam Reservoir Road",
+    "display_name": "薄扶林水塘道 Pok Fu Lam Reservoir Road, 薄扶林 Pok Fu Lam, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2653911",
+      "22.2664713",
+      "114.1364712",
+      "114.1386225"
+    ]
+  },
+  {
+    "place_id": 237231640,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 899194795,
+    "lat": "22.2637583",
+    "lon": "114.1359109",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "residential",
+    "name": "薄扶林水塘道 Pok Fu Lam Reservoir Road",
+    "display_name": "薄扶林水塘道 Pok Fu Lam Reservoir Road, 薄扶林 Pok Fu Lam, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2628328",
+      "22.2646756",
+      "114.1354474",
+      "114.1364162"
+    ]
+  },
+  {
+    "place_id": 234933838,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 660072905,
+    "lat": "22.2648014",
+    "lon": "114.1363841",
+    "class": "highway",
+    "type": "service",
+    "place_rank": 27,
+    "importance": 0.04008643091477835,
+    "addresstype": "road",
+    "name": "薄扶林水塘道 Pok Fu Lam Reservoir Road",
+    "display_name": "薄扶林水塘道 Pok Fu Lam Reservoir Road, 薄扶林 Pok Fu Lam, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2646756",
+      "22.2649272",
+      "114.1363520",
+      "114.1364162"
+    ]
+  },
+  {
+    "place_id": 237141392,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6311932091,
+    "lat": "22.2627000",
+    "lon": "114.1354904",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "薄扶林水塘道 Pok Fu Lam Reservoir Road",
+    "display_name": "薄扶林水塘道 Pok Fu Lam Reservoir Road, 薄扶林道 Pok Fu Lam Road, 薄扶林 Pok Fu Lam, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2626500",
+      "22.2627500",
+      "114.1354404",
+      "114.1355404"
+    ]
+  }
+]

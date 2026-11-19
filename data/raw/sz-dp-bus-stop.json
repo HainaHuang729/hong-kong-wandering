@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 238715185,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 404249608,
+    "lat": "22.5978742",
+    "lon": "114.5076920",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 0.43561499490559125,
+    "addresstype": "tourism",
+    "name": "大鹏所城",
+    "display_name": "大鹏所城, 东门街, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5962434",
+      "22.5997751",
+      "114.5057377",
+      "114.5095036"
+    ]
+  },
+  {
+    "place_id": 236843260,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9073862358,
+    "lat": "22.5956402",
+    "lon": "114.5099648",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "大鹏所城",
+    "display_name": "大鹏所城, 鹏飞路, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5955902",
+      "22.5956902",
+      "114.5099148",
+      "114.5100148"
+    ]
+  }
+]

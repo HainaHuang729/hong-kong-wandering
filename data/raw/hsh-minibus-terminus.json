@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237525092,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5116381556,
+    "lat": "22.5120317",
+    "lon": "114.1083384",
+    "class": "place",
+    "type": "village",
+    "place_rank": 19,
+    "importance": 0.14673215762569614,
+    "addresstype": "village",
+    "name": "河上鄉 Ho Sheung Heung",
+    "display_name": "河上鄉 Ho Sheung Heung, 香港 Hong Kong, 518010, 中国",
+    "boundingbox": [
+      "22.4920317",
+      "22.5320317",
+      "114.0883384",
+      "114.1283384"
+    ]
+  }
+]

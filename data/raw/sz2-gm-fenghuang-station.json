@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 238029095,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8601667023,
+    "lat": "22.7504601",
+    "lon": "113.9280264",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.38867939096549164,
+    "addresstype": "railway",
+    "name": "凤凰城",
+    "display_name": "凤凰城, 光明大道, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7454601",
+      "22.7554601",
+      "113.9230264",
+      "113.9330264"
+    ]
+  },
+  {
+    "place_id": 426272903,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 14137759355,
+    "lat": "22.7514372",
+    "lon": "113.9288958",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.38867939096549164,
+    "addresstype": "railway",
+    "name": "凤凰城",
+    "display_name": "凤凰城, 观光路, 塘家社区, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7464372",
+      "22.7564372",
+      "113.9238958",
+      "113.9338958"
+    ]
+  },
+  {
+    "place_id": 237097550,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062180001,
+    "lat": "22.7504316",
+    "lon": "113.9280760",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "凤凰城",
+    "display_name": "凤凰城, 光明大道, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7503816",
+      "22.7504816",
+      "113.9280260",
+      "113.9281260"
+    ]
+  },
+  {
+    "place_id": 238187757,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11842947082,
+    "lat": "22.7514797",
+    "lon": "113.9289519",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "凤凰城",
+    "display_name": "凤凰城, 观光路, 光明社区, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7514297",
+      "22.7515297",
+      "113.9289019",
+      "113.9290019"
+    ]
+  },
+  {
+    "place_id": 238084999,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11842947083,
+    "lat": "22.7513946",
+    "lon": "113.9288397",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "凤凰城",
+    "display_name": "凤凰城, 观光路, 塘家社区, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7513446",
+      "22.7514446",
+      "113.9287897",
+      "113.9288897"
+    ]
+  }
+]

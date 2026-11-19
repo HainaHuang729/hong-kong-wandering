@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237166222,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 86463847,
+    "lat": "22.2827395",
+    "lon": "114.2249283",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.3514206354333152,
+    "addresstype": "park",
+    "name": "愛秩序灣公園 Aldrich Bay Park",
+    "display_name": "愛秩序灣公園 Aldrich Bay Park, 西灣河 Sai Wan Ho, 東區 Eastern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2818008",
+      "22.2835503",
+      "114.2231760",
+      "114.2257327"
+    ]
+  }
+]

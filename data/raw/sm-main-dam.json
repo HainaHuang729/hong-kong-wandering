@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 236693762,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 301782168,
+    "lat": "22.3843398",
+    "lon": "114.1515701",
+    "class": "highway",
+    "type": "track",
+    "place_rank": 26,
+    "importance": 0.053398824292362826,
+    "addresstype": "track",
+    "name": "城門林道－水塘段 Shing Mun Forest Track – Reservoir Section",
+    "display_name": "城門林道－水塘段 Shing Mun Forest Track – Reservoir Section, 和宜合 Wo Yi Hop, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3803673",
+      "22.3903476",
+      "114.1483836",
+      "114.1554549"
+    ]
+  },
+  {
+    "place_id": 236930579,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 46714010,
+    "lat": "22.3801205",
+    "lon": "114.1493411",
+    "class": "highway",
+    "type": "track",
+    "place_rank": 26,
+    "importance": 0.053398824292362826,
+    "addresstype": "track",
+    "name": "城門林道－水塘段 Shing Mun Forest Track – Reservoir Section",
+    "display_name": "城門林道－水塘段 Shing Mun Forest Track – Reservoir Section, 沙田區 Sha Tin District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3801202",
+      "22.3803673",
+      "114.1490663",
+      "114.1493744"
+    ]
+  },
+  {
+    "place_id": 236920373,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12852398614,
+    "lat": "22.3787757",
+    "lon": "114.1475960",
+    "class": "historic",
+    "type": "memorial",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "historic",
+    "name": "Memorial Stone of Shing Mun Reservoir",
+    "display_name": "Memorial Stone of Shing Mun Reservoir, 城門道 Shing Mun Road, 葵涌 Kwai Chung, 葵青區 Kwai Tsing District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3787257",
+      "22.3788257",
+      "114.1475460",
+      "114.1476460"
+    ]
+  },
+  {
+    "place_id": 237087707,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 113768737,
+    "lat": "22.3752763",
+    "lon": "114.1498014",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04006549095902952,
+    "addresstype": "road",
+    "name": "沙田郊野徑 Sha Tin Country Trail",
+    "display_name": "沙田郊野徑 Sha Tin Country Trail, 沙田區 Sha Tin District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3739872",
+      "22.3776107",
+      "114.1491500",
+      "114.1508262"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237844606,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13452687740,
+    "lat": "22.5850344",
+    "lon": "113.9602375",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4080375579827476,
+    "addresstype": "railway",
+    "name": "大学城",
+    "display_name": "大学城, 留仙大道, 丽山社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5800344",
+      "22.5900344",
+      "113.9552375",
+      "113.9652375"
+    ]
+  },
+  {
+    "place_id": 238060152,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2300682656,
+    "lat": "22.5849872",
+    "lon": "113.9602548",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "大学城",
+    "display_name": "大学城, 留仙大道, 丽山社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5849372",
+      "22.5850372",
+      "113.9602048",
+      "113.9603048"
+    ]
+  }
+]

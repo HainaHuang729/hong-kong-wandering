@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 238235332,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062205659,
+    "lat": "22.5771019",
+    "lon": "113.9494436",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4050032141000227,
+    "addresstype": "railway",
+    "name": "茶光",
+    "display_name": "茶光, 沙河西路, 西丽, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5721019",
+      "22.5821019",
+      "113.9444436",
+      "113.9544436"
+    ]
+  },
+  {
+    "place_id": 238159242,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3424535425,
+    "lat": "22.5771360",
+    "lon": "113.9495020",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 0.4050032141000227,
+    "addresstype": "railway",
+    "name": "茶光",
+    "display_name": "茶光, 沙河西路, 西丽, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5770860",
+      "22.5771860",
+      "113.9494520",
+      "113.9495520"
+    ]
+  }
+]

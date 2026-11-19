@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237717099,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 224604996,
+    "lat": "22.3505338",
+    "lon": "114.0615458",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.3508056963223209,
+    "addresstype": "beach",
+    "name": "馬灣東灣泳灘 Ma Wan Tung Wan Beach",
+    "display_name": "馬灣東灣泳灘 Ma Wan Tung Wan Beach, 馬灣 Ma Wan, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3487322",
+      "22.3524821",
+      "114.0613782",
+      "114.0635327"
+    ]
+  }
+]

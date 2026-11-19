@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237021288,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 42293414,
+    "lat": "22.2809120",
+    "lon": "114.1603575",
+    "class": "amenity",
+    "type": "courthouse",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "amenity",
+    "name": "終審法院 The Court of Final Appeal",
+    "display_name": "終審法院 The Court of Final Appeal, 8, 德輔道中 Des Voeux Road Central, 政府山 Government Hill, 中環 Central, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2805596",
+      "22.2812645",
+      "114.1600848",
+      "114.1606301"
+    ]
+  },
+  {
+    "place_id": 422560638,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 85320697,
+    "lat": "22.2794311",
+    "lon": "114.1596765",
+    "class": "building",
+    "type": "office",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "building",
+    "name": "法國外方傳道會大樓 French Mission Building",
+    "display_name": "法國外方傳道會大樓 French Mission Building, 1, 炮台里 Battery Path, 政府山 Government Hill, 中環 Central, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2792486",
+      "22.2796522",
+      "114.1594850",
+      "114.1598706"
+    ]
+  }
+]

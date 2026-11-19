@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236904542,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 42255430,
+    "lat": "22.2774180",
+    "lon": "114.1615078",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.40893382561531794,
+    "addresstype": "park",
+    "name": "香港公園 Hong Kong Park",
+    "display_name": "香港公園 Hong Kong Park, 19, 金鐘 Admiralty, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2759500",
+      "22.2789022",
+      "114.1589766",
+      "114.1640075"
+    ]
+  }
+]

@@ -1,0 +1,1600 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 15,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "126243297": {
+        "pageid": 126243297,
+        "ns": 6,
+        "title": "File:CADAL11102312 雙尾蠍.djvu",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11624489,
+            "width": 3040,
+            "height": 4315,
+            "pagecount": 213,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu/page1-960px-CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1363,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu/page1-1920px-CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu/page1-960px-CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1363,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu/page1-1920px-CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:CADAL11102312_%E9%9B%99%E5%B0%BE%E8%A0%8D.djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126243297",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-03 00:31:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n雙尾蠍</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|CC-PD-Mark|Books without Wikidata item|Scans from the China Academic Digital Associative Library|雙尾蠍",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n徐仲年</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sichuan_University\" class=\"extiw\" title=\"w:en:Sichuan University\"><span title=\"university in Chengdu, Sichuan, China\">Sichuan University</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "85491030": {
+        "pageid": 85491030,
+        "ns": 6,
+        "title": "File:CADAL13030502 古板新造龍井渡頭殘尾記（卷一至卷四）.djvu",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9216124,
+            "width": 3504,
+            "height": 4961,
+            "pagecount": 95,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu/page1-960px-CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1359,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu/page1-1920px-CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu/page1-960px-CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1359,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu/page1-1920px-CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:CADAL13030502_%E5%8F%A4%E6%9D%BF%E6%96%B0%E9%80%A0%E9%BE%8D%E4%BA%95%E6%B8%A1%E9%A0%AD%E6%AE%98%E5%B0%BE%E8%A8%98%EF%BC%88%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%B7%E5%9B%9B%EF%BC%89.djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85491030",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-01 01:18:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n古板新造龍井渡頭殘尾記（卷一至卷四）</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|PD Old|CC-PD-Mark|Books without Wikidata item|Scans from the China Academic Digital Associative Library|古板新造龍井渡頭殘尾記",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Beijing_Normal_University\" class=\"extiw\" title=\"w:en:Beijing Normal University\"><span title=\"public research university in Beijing, China\">Beijing Normal University</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "164794688": {
+        "pageid": 164794688,
+        "ns": 6,
+        "title": "File:CNTS-00130489533 羅巖隨錄. 4.pdf",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 425285477,
+            "width": 1189,
+            "height": 2237,
+            "pagecount": 124,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/CNTS-00130489533_%E7%BE%85%E5%B7%96%E9%9A%A8%E9%8C%84._4.pdf/page1-960px-CNTS-00130489533_%E7%BE%85%E5%B7%96%E9%9A%A8%E9%8C%84._4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1806,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/CNTS-00130489533_%E7%BE%85%E5%B7%96%E9%9A%A8%E9%8C%84._4.pdf/page1-960px-CNTS-00130489533_%E7%BE%85%E5%B7%96%E9%9A%A8%E9%8C%84._4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1806
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/CNTS-00130489533_%E7%BE%85%E5%B7%96%E9%9A%A8%E9%8C%84._4.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:CNTS-00130489533_%E7%BE%85%E5%B7%96%E9%9A%A8%E9%8C%84._4.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164794688",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-06 02:50:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n羅巖隨錄. 4</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-South Korea|Books without Wikidata item|PD-scan (PD-South Korea)|PD-old missing SDC copyright status|Books in the Digital Library of the National Library of Korea|羅巖隨錄",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n朴周大 編</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n필사원고본</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Digital_Library_of_Korea\" class=\"extiw\" title=\"w:en:National Digital Library of Korea\"><span title=\"Digital Library in Korea\">National Digital Library of Korea</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "164798468": {
+        "pageid": 164798468,
+        "ns": 6,
+        "title": "File:CNTS-00130489639 東國通志. 卷7.pdf",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 552241683,
+            "width": 1416,
+            "height": 2547,
+            "pagecount": 96,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf/page1-960px-CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1727,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf/page1-1280px-CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf/page1-960px-CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1727,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf/page1-1280px-CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:CNTS-00130489639_%E6%9D%B1%E5%9C%8B%E9%80%9A%E5%BF%97._%E5%8D%B77.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164798468",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-06 04:07:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n東國通志. 卷7</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-South Korea|Books without Wikidata item|PD-scan (PD-South Korea)|PD-old missing SDC copyright status|Books in the Digital Library of the National Library of Korea|東國通志",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n朴周鍾</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n필사원고본</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Digital_Library_of_Korea\" class=\"extiw\" title=\"w:en:National Digital Library of Korea\"><span title=\"Digital Library in Korea\">National Digital Library of Korea</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "67571905": {
+        "pageid": 67571905,
+        "ns": 6,
+        "title": "File:儀禮彙說(四).djvu",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4092776,
+            "width": 2000,
+            "height": 3000,
+            "pagecount": 205,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu/page1-960px-%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu/page1-1920px-%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu/page1-960px-%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu/page1-1920px-%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA%28%E5%9B%9B%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%84%80%E7%A6%AE%E5%BD%99%E8%AA%AA(%E5%9B%9B).djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67571905",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-03-22 01:07:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n儀禮彙說(四)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|DjVu files in Chinese|Scans from the Internet Archive|Books without Wikidata item",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n(清)焦以恕撰</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n原書有些字跡不清、有些頁殘</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//archive.org/details/02073780.cn\" class=\"extiw\" title=\"iarchive:02073780.cn\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> 02073780.cn</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "67733274": {
+        "pageid": 67733274,
+        "ns": 6,
+        "title": "File:東華續錄(王先謙)(一百二十三).djvu",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3707540,
+            "width": 1900,
+            "height": 3000,
+            "pagecount": 108,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu/page1-960px-%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1516,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu/page1-1280px-%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu/page1-960px-%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1516,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu/page1-1280px-%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84%28%E7%8E%8B%E5%85%88%E8%AC%99%29%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E8%8F%AF%E7%BA%8C%E9%8C%84(%E7%8E%8B%E5%85%88%E8%AC%99)(%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B8%89).djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67733274",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-03-27 04:15:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n東華續錄(一百二十三)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|DjVu files in Chinese|Scans from the Internet Archive|Books without Wikidata item|PD-old missing SDC copyright status|東華續錄",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n王先謙撰</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n原書有些字跡不清、有些頁殘</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//archive.org/details/02080297.cn\" class=\"extiw\" title=\"iarchive:02080297.cn\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> 02080297.cn</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142072907": {
+        "pageid": 142072907,
+        "ns": 6,
+        "title": "File:深圳大鹏较场尾欢乐海湾NC9637右前侧.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3331333,
+            "width": 4096,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142072907",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 12:45:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "深圳大鹏较场尾欢乐海湾NC9637右前侧",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Taken with Xiaomi 13 Ultra|Ford 5-AT at Shenzhen Happy Bay Resort",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.595363",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.514247",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ford Trimotor 5-AT-B (NC9637) at Shenzhen Dapeng Happy Bay Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-10-26 17:52:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E8%91%A3%E8%BE%B0%E5%85%B4\" title=\"User:董辰兴\">董辰兴</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142072905": {
+        "pageid": 142072905,
+        "ns": 6,
+        "title": "File:深圳大鹏较场尾欢乐海湾NC9637后侧.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4493699,
+            "width": 4096,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142072905",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 12:45:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "深圳大鹏较场尾欢乐海湾NC9637后侧",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Taken with Xiaomi 13 Ultra|Ford 5-AT at Shenzhen Happy Bay Resort",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.595126",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.514047",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ford Trimotor 5-AT-B (NC9637) at Shenzhen Dapeng Happy Bay Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-10-26 17:38:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E8%91%A3%E8%BE%B0%E5%85%B4\" title=\"User:董辰兴\">董辰兴</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142072900": {
+        "pageid": 142072900,
+        "ns": 6,
+        "title": "File:深圳大鹏较场尾欢乐海湾NC9637左侧尾翼.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4280665,
+            "width": 4096,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142072900",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 12:44:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "深圳大鹏较场尾欢乐海湾NC9637左侧尾翼",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Taken with Xiaomi 13 Ultra|Ford 5-AT at Shenzhen Happy Bay Resort",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.595240",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.514004",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ford Trimotor 5-AT-B (NC9637) at Shenzhen Dapeng Happy Bay Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-10-26 17:37:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E8%91%A3%E8%BE%B0%E5%85%B4\" title=\"User:董辰兴\">董辰兴</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142072899": {
+        "pageid": 142072899,
+        "ns": 6,
+        "title": "File:深圳大鹏较场尾欢乐海湾NC9637左前侧.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5669376,
+            "width": 4096,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142072899",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 12:44:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "深圳大鹏较场尾欢乐海湾NC9637左前侧",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Taken with Xiaomi 13 Ultra|Ford 5-AT at Shenzhen Happy Bay Resort",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.595499",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.513961",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ford Trimotor 5-AT-B (NC9637) at Shenzhen Dapeng Happy Bay Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-10-26 17:36:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E8%91%A3%E8%BE%B0%E5%85%B4\" title=\"User:董辰兴\">董辰兴</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142072901": {
+        "pageid": 142072901,
+        "ns": 6,
+        "title": "File:深圳大鹏较场尾欢乐海湾NC9637左前侧特写.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3749624,
+            "width": 4096,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%89%8D%E4%BE%A7%E7%89%B9%E5%86%99.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142072901",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 12:44:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "深圳大鹏较场尾欢乐海湾NC9637左前侧特写",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Taken with Xiaomi 13 Ultra|Ford 5-AT at Shenzhen Happy Bay Resort",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.595430",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.514032",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ford Trimotor 5-AT-B (NC9637) at Shenzhen Dapeng Happy Bay Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-10-26 17:37:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E8%91%A3%E8%BE%B0%E5%85%B4\" title=\"User:董辰兴\">董辰兴</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "142072904": {
+        "pageid": 142072904,
+        "ns": 6,
+        "title": "File:深圳大鹏较场尾欢乐海湾NC9637左后侧.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4243815,
+            "width": 4096,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg/1920px-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E5%90%8E%E4%BE%A7.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142072904",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-12 12:45:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "深圳大鹏较场尾欢乐海湾NC9637左后侧",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Taken with Xiaomi 13 Ultra|Ford 5-AT at Shenzhen Happy Bay Resort",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.595240",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.514004",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ford Trimotor 5-AT-B (NC9637) at Shenzhen Dapeng Happy Bay Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-10-26 17:37:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E8%91%A3%E8%BE%B0%E5%85%B4\" title=\"User:董辰兴\">董辰兴</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "67571830": {
+        "pageid": 67571830,
+        "ns": 6,
+        "title": "File:義禮紃解(十).djvu",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2611785,
+            "width": 2000,
+            "height": 3000,
+            "pagecount": 111,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu/page1-960px-%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu/page1-1920px-%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu/page1-960px-%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu/page1-1920px-%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3%28%E5%8D%81%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E7%BE%A9%E7%A6%AE%E7%B4%83%E8%A7%A3(%E5%8D%81).djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67571830",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-03-22 01:02:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n義禮紃解(十)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|DjVu files in Chinese|Scans from the Internet Archive|Books without Wikidata item",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n(清)王士讓撰</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n原書有些字跡不清、有些頁殘</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//archive.org/details/02073763.cn\" class=\"extiw\" title=\"iarchive:02073763.cn\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> 02073763.cn</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "68099821": {
+        "pageid": 68099821,
+        "ns": 6,
+        "title": "File:钦定科場條例(二十七).djvu",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2407314,
+            "width": 2000,
+            "height": 3000,
+            "pagecount": 118,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu/page1-960px-%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu/page1-1920px-%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu/page1-960px-%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu/page1-1920px-%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B%28%E4%BA%8C%E5%8D%81%E4%B8%83%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%92%A6%E5%AE%9A%E7%A7%91%E5%A0%B4%E6%A2%9D%E4%BE%8B(%E4%BA%8C%E5%8D%81%E4%B8%83).djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68099821",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-04-07 03:05:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n钦定科場條例(二十七)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|DjVu files in Chinese|Scans from the Internet Archive|Books without Wikidata item|PD-old missing SDC copyright status|欽定科場條例",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n(清)杜受田等修</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n原書有些字跡不清、有些頁殘</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//archive.org/details/02089167.cn\" class=\"extiw\" title=\"iarchive:02089167.cn\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> 02089167.cn</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "68519744": {
+        "pageid": 68519744,
+        "ns": 6,
+        "title": "File:駱臨海集(八).djvu",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6454717,
+            "width": 2000,
+            "height": 3000,
+            "pagecount": 87,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu/page1-960px-%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu/page1-1920px-%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu/page1-960px-%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu/page1-1920px-%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86%28%E5%85%AB%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A7%B1%E8%87%A8%E6%B5%B7%E9%9B%86(%E5%85%AB).djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68519744",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-04-24 02:57:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n駱臨海集(八)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|DjVu files in Chinese|Scans from the Internet Archive|Books without Wikidata item|駱臨海集",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n(唐)駱賓王撰</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n原書有些字跡不清、有些頁殘</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//archive.org/details/02099471.cn\" class=\"extiw\" title=\"iarchive:02099471.cn\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> 02099471.cn</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

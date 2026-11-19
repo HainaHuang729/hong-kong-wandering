@@ -1,0 +1,2974 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "28724254": {
+        "pageid": 28724254,
+        "ns": 6,
+        "title": "File:M0026 The Exterior of the Old Supreme Court 01.JPG",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 586875,
+            "width": 1280,
+            "height": 960,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG/960px-M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/39/M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG/960px-M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/39/M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:M0026_The_Exterior_of_the_Old_Supreme_Court_01.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28724254",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-09-29 22:21:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "M0026 The Exterior of the Old Supreme Court 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Panasonic Lumix DMC-F1|Exterior of the Court of Final Appeal Building|Self-published work|Images from Wiki Loves Monuments 2013|Pools and fountains of Statue Square|Declared monuments of Hong Kong with known IDs|Images from Wiki Loves Monuments 2013 in Hong Kong|Facade of Lippo Centre, Hong Kong|Uploaded via Campaign:wlm-hk-declared|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2006-06-05|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Wiki Loves Monuments 2013 by Katie Chan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280996",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160116",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is a photo of a declared monument in Hong Kong identified by the ID",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-06-05 15:57:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:KTC\" title=\"User:KTC\">Katie Chan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28724255": {
+        "pageid": 28724255,
+        "ns": 6,
+        "title": "File:M0026 The Exterior of the Old Supreme Court 02.JPG",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 526589,
+            "width": 1280,
+            "height": 960,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG/960px-M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/72/M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG/960px-M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/72/M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:M0026_The_Exterior_of_the_Old_Supreme_Court_02.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28724255",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-09-29 22:21:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "M0026 The Exterior of the Old Supreme Court 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Panasonic Lumix DMC-F1|Exterior of Cheung Kong Center|Exterior of the Court of Final Appeal Building|Jackson Road, Hong Kong|Self-published work|Images from Wiki Loves Monuments 2013|Declared monuments of Hong Kong with known IDs|Images from Wiki Loves Monuments 2013 in Hong Kong|Uploaded via Campaign:wlm-hk-declared|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2006-06-05|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Wiki Loves Monuments 2013 by Katie Chan|2006 in Jackson Road, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280996",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160116",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is a photo of a declared monument in Hong Kong identified by the ID",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-06-05 16:01:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:KTC\" title=\"User:KTC\">Katie Chan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "70286295": {
+        "pageid": 70286295,
+        "ns": 6,
+        "title": "File:WWII Allied Monument (Hong Kong).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1584411,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/WWII_Allied_Monument_%28Hong_Kong%29.jpg/960px-WWII_Allied_Monument_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/WWII_Allied_Monument_%28Hong_Kong%29.jpg/1920px-WWII_Allied_Monument_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/WWII_Allied_Monument_%28Hong_Kong%29.jpg/960px-WWII_Allied_Monument_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/WWII_Allied_Monument_%28Hong_Kong%29.jpg/1920px-WWII_Allied_Monument_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/WWII_Allied_Monument_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:WWII_Allied_Monument_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70286295",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-27 12:34:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "WWII Allied Monument (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cenotaph, Hong Kong|Exterior of Hong Kong Club Building|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280900",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160350",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This photograph is mainly about WWII Allied Monument (HK).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-01-31 18:21:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%A0%EF%BC%8A%E3%81%9C\" title=\"User:だ＊ぜ\">だ＊ぜ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "70286296": {
+        "pageid": 70286296,
+        "ns": 6,
+        "title": "File:The Court of Final Appeal & WWII Allied Monument.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1872243,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg/960px-The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg/1920px-The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg/960px-The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg/1920px-The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Court_of_Final_Appeal_%26_WWII_Allied_Monument.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70286296",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-27 12:34:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "The Court of Final Appeal & WWII Allied Monument",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cenotaph, Hong Kong|Exterior of Bank of China Building|Exterior of Cheung Kong Center|Exterior of the Court of Final Appeal Building|Exterior of HSBC Hong Kong headquarters building|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280900",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160350",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This photograph is mainly about The Court of Final Appeal (HK) &amp; WWII Allied Monument (HK).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-01-31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%A0%EF%BC%8A%E3%81%9C\" title=\"User:だ＊ぜ\">だ＊ぜ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "70286297": {
+        "pageid": 70286297,
+        "ns": 6,
+        "title": "File:The Court of Final Appeal & The Bank of China Tower.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2802187,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg/960px-The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg/1920px-The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg/960px-The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg/1920px-The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Court_of_Final_Appeal_%26_The_Bank_of_China_Tower.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70286297",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-27 12:34:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "The Court of Final Appeal & The Bank of China Tower",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Exterior of Bank of China Tower|Cenotaph, Hong Kong|Exterior of Bank of China Building|Exterior of Cheung Kong Center|Exterior of the Court of Final Appeal Building|Exterior of Hong Kong Club Building|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280900",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160350",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This photograph is mainly about The Court of Final Appeal (HK) &amp; The Bank of China Tower.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-01-31 18:21:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%A0%EF%BC%8A%E3%81%9C\" title=\"User:だ＊ぜ\">だ＊ぜ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "73486901": {
+        "pageid": 73486901,
+        "ns": 6,
+        "title": "File:Central station in Hong Kong.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4463295,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Central_station_in_Hong_Kong.jpg/960px-Central_station_in_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Central_station_in_Hong_Kong.jpg/1920px-Central_station_in_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Central_station_in_Hong_Kong.jpg/960px-Central_station_in_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Central_station_in_Hong_Kong.jpg/1920px-Central_station_in_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Central_station_in_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Central_station_in_Hong_Kong.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73486901",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-10-09 06:50:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Central station in Hong Kong",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "China photographs taken on 2018-06-18|CC-Zero|Self-published work|Central Station (MTR) exits and entrances|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Nov 2017-Aug 2019)|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280849",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160427",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "MTR",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "18 June 2018 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Qqhhss&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Qqhhss (page does not exist)\">Qqhhss</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82761897": {
+        "pageid": 82761897,
+        "ns": 6,
+        "title": "File:2019-09-08 Hong Kong anti-extradition bill protest 34.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8652380,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg/960px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg/1920px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg/960px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg/1920px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-08_Hong_Kong_anti-extradition_bill_protest_34.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82761897",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 11:34:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-08 Hong Kong anti-extradition bill protest 34",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 8 September 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281042",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160622",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190908 Hong Kong anti-extradition bill protest",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-08 16:52:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48704402071/\">https://www.flickr.com/photos/29418416@N08/48704402071/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82761898": {
+        "pageid": 82761898,
+        "ns": 6,
+        "title": "File:2019-09-08 Hong Kong anti-extradition bill protest 33.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7843884,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg/960px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg/1920px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg/960px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg/1920px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-08_Hong_Kong_anti-extradition_bill_protest_33.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82761898",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 11:34:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-08 Hong Kong anti-extradition bill protest 33",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 8 September 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281042",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160622",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190908 Hong Kong anti-extradition bill protest",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-08 16:50:52",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48704067858/\">https://www.flickr.com/photos/29418416@N08/48704067858/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82761899": {
+        "pageid": 82761899,
+        "ns": 6,
+        "title": "File:2019-09-08 Hong Kong anti-extradition bill protest 36.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6933913,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg/960px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg/1920px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg/960px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg/1920px-2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-08_Hong_Kong_anti-extradition_bill_protest_36.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82761899",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 11:34:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-08 Hong Kong anti-extradition bill protest 36",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 8 September 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281042",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160622",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190908 Hong Kong anti-extradition bill protest",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-08 16:51:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48721428632/\">https://www.flickr.com/photos/29418416@N08/48721428632/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83444934": {
+        "pageid": 83444934,
+        "ns": 6,
+        "title": "File:Hong Kong IMG 20191026 203055 (48963010131).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7668784,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg/960px-Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg/1920px-Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg/960px-Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg/1920px-Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hong_Kong_IMG_20191026_203055_%2848963010131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_IMG_20191026_203055_(48963010131).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83444934",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-28 00:06:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong IMG 20191026 203055 (48963010131)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 26 October 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281013",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160608",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "IMG_20191026_203055",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-10-26 20:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/studiokanu/48963010131/\">IMG_20191026_203055</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29418416@N08\">Studio Incendo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83444953": {
+        "pageid": 83444953,
+        "ns": 6,
+        "title": "File:Hong Kong IMG 20191026 202704-edit (48966009941).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10355131,
+            "width": 4200,
+            "height": 3150,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg/960px-Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg/1920px-Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg/960px-Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg/1920px-Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hong_Kong_IMG_20191026_202704-edit_%2848966009941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_IMG_20191026_202704-edit_(48966009941).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83444953",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-28 00:06:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong IMG 20191026 202704-edit (48966009941)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 26 October 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280997",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160652",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "IMG_20191026_202704-edit",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-10-26 20:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/studiokanu/48966009941/\">IMG_20191026_202704-edit</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29418416@N08\">Studio Incendo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83645001": {
+        "pageid": 83645001,
+        "ns": 6,
+        "title": "File:Hong Kong IMG 20191102 172914 (49002121627).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12028631,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg/960px-Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg/1920px-Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg/960px-Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg/1920px-Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Hong_Kong_IMG_20191102_172914_%2849002121627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_IMG_20191102_172914_(49002121627).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83645001",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-04 03:04:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong IMG 20191102 172914 (49002121627)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 2 November 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281050",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160541",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "IMG_20191102_172914",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-02 17:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/studiokanu/49002121627/\">IMG_20191102_172914</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29418416@N08\">Studio Incendo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83645002": {
+        "pageid": 83645002,
+        "ns": 6,
+        "title": "File:Hong Kong IMG 20191102 173236 (49001919946).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6412095,
+            "width": 3664,
+            "height": 2443,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg/960px-Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg/1920px-Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg/960px-Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg/1920px-Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hong_Kong_IMG_20191102_173236_%2849001919946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_IMG_20191102_173236_(49001919946).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83645002",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-04 03:04:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong IMG 20191102 173236 (49001919946)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 2 November 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281044",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160552",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "IMG_20191102_173236",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-02 17:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/studiokanu/49001919946/\">IMG_20191102_173236</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29418416@N08\">Studio Incendo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84056604": {
+        "pageid": 84056604,
+        "ns": 6,
+        "title": "File:Hong Kong IMG 20191115 171054 (49069764811).jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10086209,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg/960px-Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg/1920px-Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg/960px-Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg/1920px-Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hong_Kong_IMG_20191115_171054_%2849069764811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_IMG_20191115_171054_(49069764811).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84056604",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-17 09:49:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong IMG 20191115 171054 (49069764811)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 15 November 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281186",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160447",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "IMG_20191115_171054",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-15 17:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/studiokanu/49069764811/\">IMG_20191115_171054</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29418416@N08\">Studio Incendo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84056606": {
+        "pageid": 84056606,
+        "ns": 6,
+        "title": "File:Hong Kong IMG 20191115 171116 (49069764576).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10822933,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg/960px-Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg/1920px-Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg/960px-Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg/1920px-Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Hong_Kong_IMG_20191115_171116_%2849069764576%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_IMG_20191115_171116_(49069764576).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84056606",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-17 09:49:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong IMG 20191115 171116 (49069764576)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Demonstration against extradition bill, 15 November 2019|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281186",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160447",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "IMG_20191115_171116",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-11-15 17:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/studiokanu/49069764576/\">IMG_20191115_171116</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29418416@N08\">Studio Incendo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "96142185": {
+        "pageid": 96142185,
+        "ns": 6,
+        "title": "File:HK 中環 Central Des Voeux Road 昃臣道 8 Jackson Road map sign November 2020 SS2.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3534802,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg/960px-HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg/1920px-HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg/960px-HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg/1920px-HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_Des_Voeux_Road_%E6%98%83%E8%87%A3%E9%81%93_8_Jackson_Road_map_sign_November_2020_SS2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96142185",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-15 04:46:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 中環 Central Des Voeux Road 昃臣道 8 Jackson Road map sign November 2020 SS2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "The Court of Final Appeal Building|Jackson Road, Hong Kong|Self-published work|Hong Kong photographs taken on 2020-11-13|Files with coordinates missing SDC location of creation|Signs in Central, Hong Kong|2020 in Jackson Road, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280765",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160514",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 中環 Central Des Voeux Road <a href=\"https://zh.wikipedia.org/wiki/%E6%98%83%E8%87%A3%E9%81%93\" class=\"extiw\" title=\"zh:昃臣道\">zh:昃臣道</a> 8 Jackson Road in November 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-11-13 17:43:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:GKOACOIT_menuso\" title=\"User:GKOACOIT menuso\">GKOACOIT menuso</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102780547": {
+        "pageid": 102780547,
+        "ns": 6,
+        "title": "File:HK 中環 Central 遮打花園 Chater Garden flora n green leaves n trees March 2020 SS2 03 green leaves palm.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7147270,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg/960px-HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg/1920px-HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg/960px-HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg/1920px-HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92_Chater_Garden_flora_n_green_leaves_n_trees_March_2020_SS2_03_green_leaves_palm.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102780547",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-01 08:05:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 中環 Central 遮打花園 Chater Garden flora n green leaves n trees March 2020 SS2 03 green leaves palm",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2021-03-27|March 2021 in Central, Hong Kong|2021 Hong Kong Flower Show|Flora of Chater Garden|2020 in Chater Garden|2021 in Chater Garden",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280797",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160240",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 中環 Central <a href=\"https://zh.wikipedia.org/wiki/%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92\" class=\"extiw\" title=\"zh:遮打花園\">zh:遮打花園</a> Chater Garden flora n green leaves n trees in March 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-27 16:07:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:KUSNGWOO_Menaumi\" title=\"User:KUSNGWOO Menaumi\">KUSNGWOO Menaumi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "114553327": {
+        "pageid": 114553327,
+        "ns": 6,
+        "title": "File:Windmill in Admiralty 風車 金鐘 (5804464985).jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 361892,
+            "width": 846,
+            "height": 303,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Windmill_in_Admiralty_%E9%A2%A8%E8%BB%8A_%E9%87%91%E9%90%98_%285804464985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 344,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Windmill_in_Admiralty_%E9%A2%A8%E8%BB%8A_%E9%87%91%E9%90%98_%285804464985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 344
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Windmill_in_Admiralty_%E9%A2%A8%E8%BB%8A_%E9%87%91%E9%90%98_%285804464985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Windmill_in_Admiralty_%E9%A2%A8%E8%BB%8A_%E9%87%91%E9%90%98_(5804464985).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114553327",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-01-23 07:11:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Windmill in Admiralty 風車 金鐘 (5804464985)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Exterior of Bank of China Tower|Smock mills in China|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|November 2007 in Admiralty, Hong Kong|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280808",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160383",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>A Dutch fair outside the Bank of China. I even got to meet Miffy (Nijntje)!\n香港 2007.\n</p>\nToy panoramic camera.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-11-01 00:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joybot/5804464985/\">Windmill in Admiralty 風車:金鐘</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62559061@N06\">Joybot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "114553358": {
+        "pageid": 114553358,
+        "ns": 6,
+        "title": "File:View from Bank of China, with telephoto (5805106520).jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 388293,
+            "width": 1092,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/View_from_Bank_of_China%2C_with_telephoto_%285805106520%29.jpg/960px-View_from_Bank_of_China%2C_with_telephoto_%285805106520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1407,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/bd/View_from_Bank_of_China%2C_with_telephoto_%285805106520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/View_from_Bank_of_China%2C_with_telephoto_%285805106520%29.jpg/960px-View_from_Bank_of_China%2C_with_telephoto_%285805106520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1407,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bd/View_from_Bank_of_China%2C_with_telephoto_%285805106520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/View_from_Bank_of_China%2C_with_telephoto_%285805106520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_from_Bank_of_China,_with_telephoto_(5805106520).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114553358",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-24 00:50:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "View from Bank of China, with telephoto (5805106520)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "November 2007 in Hong Kong|Road markings in Hong Kong|Public light buses, Hong Kong|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Red taxis in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280808",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160383",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View from Bank of China, with telephoto",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-11-01 00:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joybot/5805106520/\">View from Bank of China, with telephoto</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62559061@N06\">Joybot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "114553391": {
+        "pageid": 114553391,
+        "ns": 6,
+        "title": "File:Holland 荷蘭 in Admiralty 金鐘 (6701739365).jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 416029,
+            "width": 1092,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_%286701739365%29.jpg/960px-Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_%286701739365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1407,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/65/Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_%286701739365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_%286701739365%29.jpg/960px-Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_%286701739365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1407,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/65/Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_%286701739365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_%286701739365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Holland_%E8%8D%B7%E8%98%AD_in_Admiralty_%E9%87%91%E9%90%98_(6701739365).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114553391",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-24 14:50:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Holland 荷蘭 in Admiralty 金鐘 (6701739365)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Smock mills in China|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|November 2007 in Admiralty, Hong Kong|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280808",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160383",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Holland 荷蘭 in Admiralty 金鐘",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-11-01 00:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joybot/6701739365/\">Holland 荷蘭 in Admiralty 金鐘</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62559061@N06\">Joybot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "114553413": {
+        "pageid": 114553413,
+        "ns": 6,
+        "title": "File:View from the Bank of China 中國銀行景 (6707471381).jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2149537,
+            "width": 1688,
+            "height": 1622,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_%286707471381%29.jpg/960px-View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_%286707471381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 922,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c3/View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_%286707471381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_%286707471381%29.jpg/960px-View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_%286707471381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 922,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c3/View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_%286707471381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_%286707471381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_from_the_Bank_of_China_%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%99%AF_(6707471381).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114553413",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-01-23 07:13:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "View from the Bank of China 中國銀行景 (6707471381)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "General Post Office, Hong Kong|Statue Square|Exterior of Mandarin Oriental, Hong Kong|Exterior of HSBC Hong Kong headquarters building|Court of Final Appeal (Hong Kong)|Central Ferry Piers|Stitched images|November 2007 in Central, Hong Kong|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Footbridges in Central, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280808",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160383",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View from the Bank of China 中國銀行景",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-11-01 00:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joybot/6707471381/\">View from the Bank of China 中國銀行景</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62559061@N06\">Joybot</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "123281368": {
+        "pageid": 123281368,
+        "ns": 6,
+        "title": "File:HK 中環 Central 德輔道中 Des Voeux Road Central red KMBus September 2022 Px3 02.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6460718,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg/960px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg/1920px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg/960px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg/1920px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD_Des_Voeux_Road_Central_red_KMBus_September_2022_Px3_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123281368",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-23 07:19:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 中環 Central 德輔道中 Des Voeux Road Central red KMBus September 2022 Px3 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2022-09-18|Files with coordinates missing SDC location of creation|September 2022 in Central, Hong Kong|Des Voeux Road Central, Central|2022 in Des Voeux Road Central|Photographs of road signs in Hong Kong for further categorisation|593 (road sign, Hong Kong)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280909",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160076",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 中環 Central <a href=\"https://zh.wikipedia.org/wiki/%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD\" class=\"extiw\" title=\"zh:德輔道中\">zh:德輔道中</a> Des Voeux Road Central in September 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-18 17:34:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LEUSMA_MOK_SHAUIM\" title=\"User:LEUSMA MOK SHAUIM\">LEUSMA MOK SHAUIM</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163284870": {
+        "pageid": 163284870,
+        "ns": 6,
+        "title": "File:Hong Kong Court of Final Appeal 2019.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4749665,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hong_Kong_Court_of_Final_Appeal_2019.jpg/960px-Hong_Kong_Court_of_Final_Appeal_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hong_Kong_Court_of_Final_Appeal_2019.jpg/1920px-Hong_Kong_Court_of_Final_Appeal_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hong_Kong_Court_of_Final_Appeal_2019.jpg/960px-Hong_Kong_Court_of_Final_Appeal_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hong_Kong_Court_of_Final_Appeal_2019.jpg/1920px-Hong_Kong_Court_of_Final_Appeal_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hong_Kong_Court_of_Final_Appeal_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Court_of_Final_Appeal_2019.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163284870",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-07 13:17:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong Court of Final Appeal 2019",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Buildings in Hong Kong|Uploads using Flickypedia|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280867",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160408",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Judiciary - Court of Final Appeal <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Hong_Kong_Court_of_Final_Appeal_2019.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-06-09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/kevinkrejci/48044430271/\">Flickr</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Hong_Kong_Court_of_Final_Appeal_2019.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/kevinkrejci/\">Kevin Krejci</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Hong_Kong_Court_of_Final_Appeal_2019.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165272830": {
+        "pageid": 165272830,
+        "ns": 6,
+        "title": "File:HK Central Charter Road The Court of Final Appeal Building facade n Statue Square May 2025 R12S.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4928976,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg/960px-HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg/1920px-HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg/960px-HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg/1920px-HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Central_Charter_Road_The_Court_of_Final_Appeal_Building_facade_n_Statue_Square_May_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165272830",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-15 01:18:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Central Charter Road The Court of Final Appeal Building facade n Statue Square May 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Exterior of the Court of Final Appeal Building|The Court of Final Appeal Building|Self-published work|Files with coordinates missing SDC location of creation|May 2025 in Central, Hong Kong|Chater Road - Buildings|2025 in Chater Road, Hong Kong|2025 in Statue Square Gardens",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.281007",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160099",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Central Charter Road The Court of Final Appeal Building facade n Statue Square in May 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-14 17:09:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BasieeG_MIEE\" title=\"User:BasieeG MIEE\">BasieeG MIEE</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "173374989": {
+        "pageid": 173374989,
+        "ns": 6,
+        "title": "File:CTB 40M HV 8123 (22708618415).png",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 25230865,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/CTB_40M_HV_8123_%2822708618415%29.png/960px-CTB_40M_HV_8123_%2822708618415%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/CTB_40M_HV_8123_%2822708618415%29.png/1920px-CTB_40M_HV_8123_%2822708618415%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/CTB_40M_HV_8123_%2822708618415%29.png/960px-CTB_40M_HV_8123_%2822708618415%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/CTB_40M_HV_8123_%2822708618415%29.png/1920px-CTB_40M_HV_8123_%2822708618415%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/CTB_40M_HV_8123_%2822708618415%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:CTB_40M_HV_8123_(22708618415).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173374989",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-08-23 14:50:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "CTB 40M HV 8123 (22708618415)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|PD-author-FlickrPDM|Buses of Citybus (Hong Kong)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.280707",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.160212",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Fleet No.: 9028\n</p><p>Manufacturer: Citybus Limited\nModel: Alexander RH\nChassis: Volvo Olympian\nEngine: Volvo D10A-245\n</p>\nDes Voeux Road Central, 31st October 2015, behind The Court of Final Appeal Building.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-10-31 16:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/136279851@N05/22708618415/\">CTB 40M HV 8123</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/136279851@N05\">KS3790</a> from Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

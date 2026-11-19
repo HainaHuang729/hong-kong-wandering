@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 242474957,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8068967622,
+    "lat": "22.2606831",
+    "lon": "114.1375074",
+    "class": "place",
+    "type": "village",
+    "place_rank": 19,
+    "importance": 0.45589899638849074,
+    "addresstype": "village",
+    "name": "薄扶林村 Pok Fu Lam Village",
+    "display_name": "薄扶林村 Pok Fu Lam Village, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2406831",
+      "22.2806831",
+      "114.1175074",
+      "114.1575074"
+    ]
+  }
+]

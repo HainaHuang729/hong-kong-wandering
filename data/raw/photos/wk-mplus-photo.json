@@ -1,0 +1,963 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "162943187": {
+        "pageid": 162943187,
+        "ns": 6,
+        "title": "File:HK Kln West Austin Road West West Kowloon Cultural District M+ Administration Building life lobby floors sign March 2025 R12S.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2213712,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg/960px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg/1920px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg/960px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg/1920px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_floors_sign_March_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162943187",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-29 13:44:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Kln West Austin Road West West Kowloon Cultural District M+ Administration Building life lobby floors sign March 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Phillips (auctioneers) in Hong Kong|March 2025 in Kowloon West|March 2025 in West Kowloon Cultural District|2025 in M+ Administration Building, Hong Kong|Phillips Auction at West Kowloon",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301714",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159415",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 西九龍 Kln West 柯士甸道西 Austin Road West 西九文化區 West Kowloon Cultural District 行政大樓 M+ Administration Building Phillips Auction in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-29 11:42:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BAMAA_Nai_Kamiao\" title=\"User:BAMAA Nai Kamiao\">BAMAA Nai Kamiao</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162943185": {
+        "pageid": 162943185,
+        "ns": 6,
+        "title": "File:HK Kln West Austin Road West West Kowloon Cultural District M+ Administration Building life lobby n Phillips Auction March 2025 R12S.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2731526,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg/960px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg/1920px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg/960px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg/1920px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_life_lobby_n_Phillips_Auction_March_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162943185",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-29 13:44:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Kln West Austin Road West West Kowloon Cultural District M+ Administration Building life lobby n Phillips Auction March 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Phillips (auctioneers) in Hong Kong|March 2025 in Kowloon West|March 2025 in West Kowloon Cultural District|2025 in M+ Administration Building, Hong Kong|Phillips Auction in 2025|Phillips Auction at West Kowloon",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301750",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159469",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 西九龍 Kln West 柯士甸道西 Austin Road West 西九文化區 West Kowloon Cultural District 行政大樓 M+ Administration Building Phillips Auction preview exhibition in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-29 11:56:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BAMAA_Nai_Kamiao\" title=\"User:BAMAA Nai Kamiao\">BAMAA Nai Kamiao</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162943186": {
+        "pageid": 162943186,
+        "ns": 6,
+        "title": "File:HK Kln West Austin Road West West Kowloon Cultural District M+ Administration Building view nearby construction sites March 2025 R12S.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4379539,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg/960px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg/1920px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg/960px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg/1920px-HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Kln_West_Austin_Road_West_West_Kowloon_Cultural_District_M%2B_Administration_Building_view_nearby_construction_sites_March_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162943186",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-29 13:44:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Kln West Austin Road West West Kowloon Cultural District M+ Administration Building view nearby construction sites March 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|March 2025 in Kowloon West|March 2025 in West Kowloon Cultural District|2025 in M+ Administration Building, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301750",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159469",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 西九龍 Kln West 柯士甸道西 Austin Road West 西九文化區 West Kowloon Cultural District 行政大樓 M+ Administration Building in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-29 11:55:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BAMAA_Nai_Kamiao\" title=\"User:BAMAA Nai Kamiao\">BAMAA Nai Kamiao</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165610385": {
+        "pageid": 165610385,
+        "ns": 6,
+        "title": "File:HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum May 2025 R12S 01.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3083555,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg/960px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg/1920px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg/960px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg/1920px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165610385",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-19 17:21:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum May 2025 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2025 in Kowloon West|M+ Hong Kong in 2025|May 2025 in West Kowloon Cultural District|M+ Hong Kong in May 2025",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301072",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159094",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum in May 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-17 10:49:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BGOOLAEDI_Hailwimu\" title=\"User:BGOOLAEDI Hailwimu\">BGOOLAEDI Hailwimu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165610386": {
+        "pageid": 165610386,
+        "ns": 6,
+        "title": "File:HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum May 2025 R12S 02.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3068942,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg/960px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg/1920px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg/960px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg/1920px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165610386",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-19 17:21:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum May 2025 R12S 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2025 in Kowloon West|M+ Hong Kong in 2025|May 2025 in West Kowloon Cultural District|M+ Hong Kong in May 2025",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301020",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159116",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum in May 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-17 11:04:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BGOOLAEDI_Hailwimu\" title=\"User:BGOOLAEDI Hailwimu\">BGOOLAEDI Hailwimu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165610387": {
+        "pageid": 165610387,
+        "ns": 6,
+        "title": "File:HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum May 2025 R12S 03.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3346642,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg/960px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg/1920px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg/960px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg/1920px-HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Kln_West_Austin_Road_West_%E8%A5%BF%E4%B9%9D%E9%BE%8D_West_Kowloon_Cultural_District_M%2B_Art_Museum_May_2025_R12S_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165610387",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-19 17:21:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum May 2025 R12S 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2025 in Kowloon West|M+ Hong Kong in 2025|May 2025 in West Kowloon Cultural District|M+ Hong Kong in May 2025",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301020",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159116",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Kln West Austin Road West 西九龍 West Kowloon Cultural District M+ Art Museum in May 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-17 11:04:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BGOOLAEDI_Hailwimu\" title=\"User:BGOOLAEDI Hailwimu\">BGOOLAEDI Hailwimu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162941103": {
+        "pageid": 162941103,
+        "ns": 6,
+        "title": "File:HK Kln West Museum Drive West Kowloon Cultural District M+ Plus Art Museum Cinema March 2025 R12S.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2529041,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg/960px-HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg/1920px-HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg/960px-HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg/1920px-HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Kln_West_Museum_Drive_West_Kowloon_Cultural_District_M%2B_Plus_Art_Museum_Cinema_March_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162941103",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-29 12:23:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Kln West Museum Drive West Kowloon Cultural District M+ Plus Art Museum Cinema March 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|2025 in Kowloon West|M+ Hong Kong in 2025|March 2025 in Kowloon West",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.300503",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.159190",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 西九龍 Kln West 博物館道 Museum Drive 西九文化區 West Kowloon Cultural District M+ Plus Art Museum in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-29 12:19:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:BAMAA_Nai_Kamiao\" title=\"User:BAMAA Nai Kamiao\">BAMAA Nai Kamiao</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "73761386": {
+        "pageid": 73761386,
+        "ns": 6,
+        "title": "File:Hong Kong West Kowloon Station view 201810.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2006203,
+            "width": 1600,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hong_Kong_West_Kowloon_Station_view_201810.jpg/960px-Hong_Kong_West_Kowloon_Station_view_201810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hong_Kong_West_Kowloon_Station_view_201810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hong_Kong_West_Kowloon_Station_view_201810.jpg/960px-Hong_Kong_West_Kowloon_Station_view_201810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hong_Kong_West_Kowloon_Station_view_201810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hong_Kong_West_Kowloon_Station_view_201810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_West_Kowloon_Station_view_201810.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73761386",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-10-21 09:04:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong West Kowloon Station view 201810",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hong Kong West Kowloon Station exterior|Self-published work|2018 at Hong Kong West Kowloon Station|Files with coordinates missing SDC location of creation|October 2018 in rail transport in Hong Kong|Aerial photographs of Kowloon",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.301637",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.164207",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong West Kowloon Station",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wpcpey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wpcpey (page does not exist)\">Wpcpey</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

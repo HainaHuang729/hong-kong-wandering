@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236650897,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6610130700,
+    "lat": "22.2977882",
+    "lon": "114.2371593",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4433474690348318,
+    "addresstype": "railway",
+    "name": "油塘 Yau Tong",
+    "display_name": "油塘 Yau Tong, 茶果嶺道 Cha Kwo Ling Road, 油塘 Yau Tong, 觀塘區 Kwun Tong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2927882",
+      "22.3027882",
+      "114.2321593",
+      "114.2421593"
+    ]
+  }
+]

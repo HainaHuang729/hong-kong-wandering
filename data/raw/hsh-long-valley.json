@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236851327,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 11580943,
+    "lat": "22.5083434",
+    "lon": "114.1136160",
+    "class": "boundary",
+    "type": "national_park",
+    "place_rank": 25,
+    "importance": 0.06673215762569619,
+    "addresstype": "national_park",
+    "name": "塱原自然生態公園 Long Valley Nature Park",
+    "display_name": "塱原自然生態公園 Long Valley Nature Park, 北區 North District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.5043511",
+      "22.5123181",
+      "114.1085267",
+      "114.1172876"
+    ]
+  }
+]

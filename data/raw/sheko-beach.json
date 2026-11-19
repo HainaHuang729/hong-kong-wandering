@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236797311,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 97700177,
+    "lat": "22.2286302",
+    "lon": "114.2506291",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.30289193994832775,
+    "addresstype": "beach",
+    "name": "石澳泳灘 Shek O Beach",
+    "display_name": "石澳泳灘 Shek O Beach, 石澳山仔 Shek O Headland, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2274508",
+      "22.2297673",
+      "114.2495168",
+      "114.2525451"
+    ]
+  }
+]

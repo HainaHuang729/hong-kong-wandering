@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237888317,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 238466890,
+    "lat": "22.7257571",
+    "lon": "114.2376471",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "龙潭公园",
+    "display_name": "龙潭公园, 31, 龙城街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.7232998",
+      "22.7282287",
+      "114.2356307",
+      "114.2404517"
+    ]
+  }
+]

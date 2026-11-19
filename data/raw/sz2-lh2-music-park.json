@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237337306,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 705356238,
+    "lat": "22.5978940",
+    "lon": "114.0350218",
+    "category": "tourism",
+    "type": "artwork",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "白石龙音乐公园",
+    "display_name": "白石龙音乐公园, 龙华环城绿道－绿廊公园段, 白石龙, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.5978611",
+      "22.5979324",
+      "114.0349829",
+      "114.0350603"
+    ]
+  },
+  {
+    "place_id": 239472539,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6633052403,
+    "lat": "22.5979904",
+    "lon": "114.0363102",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "白石龙音乐公园",
+    "display_name": "白石龙音乐公园, 金龙路, 白石龙, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.5979404",
+      "22.5980404",
+      "114.0362602",
+      "114.0363602"
+    ]
+  },
+  {
+    "place_id": 237315467,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6633052402,
+    "lat": "22.5982377",
+    "lon": "114.0363217",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "白石龙音乐公园",
+    "display_name": "白石龙音乐公园, 龙华环城绿道－绿廊公园段, 民乐社区, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.5981877",
+      "22.5982877",
+      "114.0362717",
+      "114.0363717"
+    ]
+  }
+]

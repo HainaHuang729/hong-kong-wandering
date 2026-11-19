@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237369400,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 945818167,
+    "lat": "22.3739071",
+    "lon": "114.1155094",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "荃灣站 Tsuen Wan Station",
+    "display_name": "荃灣站 Tsuen Wan Station, 328-350, 青山公路－荃灣段 Castle Peak Road – Tsuen Wan, 荃灣市中心 Tsuen Wan Town Centre, 荃灣區 Tsuen Wan District, 荃灣 Tsuen Wan, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3738571",
+      "22.3739571",
+      "114.1154594",
+      "114.1155594"
+    ]
+  },
+  {
+    "place_id": 236281639,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3048004366,
+    "lat": "22.3740307",
+    "lon": "114.1176731",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "荃灣站 Tsuen Wan Station",
+    "display_name": "荃灣站 Tsuen Wan Station, 101-137, 西路 West Road, 石圍角 Shek Wai Kok, 海壩村南台 Hoi Pa Village South Terrace, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3739807",
+      "22.3740807",
+      "114.1176231",
+      "114.1177231"
+    ]
+  },
+  {
+    "place_id": 237131568,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9840463632,
+    "lat": "22.3743570",
+    "lon": "114.1160121",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "荃灣站 Tsuen Wan Station",
+    "display_name": "荃灣站 Tsuen Wan Station, 西樓角路 Sai Lau Kok Road, 荃灣市中心 Tsuen Wan Town Centre, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3743070",
+      "22.3744070",
+      "114.1159621",
+      "114.1160621"
+    ]
+  },
+  {
+    "place_id": 237099020,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3048004365,
+    "lat": "22.3739009",
+    "lon": "114.1176075",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "荃灣站 Tsuen Wan Station",
+    "display_name": "荃灣站 Tsuen Wan Station, 101-137, 大河道北 Tai Ho Road North, 海壩村南台 Hoi Pa Village South Terrace, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3738509",
+      "22.3739509",
+      "114.1175575",
+      "114.1176575"
+    ]
+  },
+  {
+    "place_id": 237397347,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9778552616,
+    "lat": "22.3739562",
+    "lon": "114.1162632",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "荃灣站 Tsuen Wan Station",
+    "display_name": "荃灣站 Tsuen Wan Station, 264-298, 西樓角路 Sai Lau Kok Road, 荃灣市中心 Tsuen Wan Town Centre, 荃灣區 Tsuen Wan District, 荃灣 Tsuen Wan, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3739062",
+      "22.3740062",
+      "114.1162132",
+      "114.1163132"
+    ]
+  }
+]

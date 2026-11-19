@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237043320,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 946653742,
+    "lat": "22.2606726",
+    "lon": "114.1352250",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "tourism",
+    "name": "薄鳧林牧場 The Pokfulam Farm",
+    "display_name": "薄鳧林牧場 The Pokfulam Farm, 141A, 舊薄扶林道 Old Pok Fu Lam Road, 裕仁大廈 Y.Y. Mansions, 堅尼地城 Kennedy Town, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2604108",
+      "22.2610020",
+      "114.1349515",
+      "114.1355132"
+    ]
+  }
+]

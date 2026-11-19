@@ -1,0 +1,35 @@
+[
+  {
+    "place_id": 237139868,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6610342222,
+    "lat": "22.2892449",
+    "lon": "113.9413739",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.44439175935963043,
+    "addresstype": "railway",
+    "name": "東涌 Tung Chung",
+    "display_name": "東涌 Tung Chung, 達東路 Tat Tung Road, 東涌市中心 Tung Chung Town Centre, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "address": {
+      "railway": "東涌 Tung Chung",
+      "road": "達東路 Tat Tung Road",
+      "quarter": "東涌市中心 Tung Chung Town Centre",
+      "borough": "大嶼山 Lantau",
+      "suburb": "離島區 Islands District",
+      "region": "新界 New Territories",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2842449",
+      "22.2942449",
+      "113.9363739",
+      "113.9463739"
+    ]
+  }
+]

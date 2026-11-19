@@ -1,0 +1,34 @@
+[
+  {
+    "place_id": 235366433,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 109743814,
+    "lat": "22.3406734",
+    "lon": "114.2053653",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.33711216279521466,
+    "addresstype": "amenity",
+    "name": "志蓮淨苑 Chi Lin Nunnery",
+    "display_name": "志蓮淨苑 Chi Lin Nunnery, 大老山隧道 Tate's Cairn Tunnel, 大磡 Tai Hom, 鑽石山 Diamond Hill, 黃大仙區 Wong Tai Sin District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "address": {
+      "amenity": "志蓮淨苑 Chi Lin Nunnery",
+      "road": "大老山隧道 Tate's Cairn Tunnel",
+      "neighbourhood": "大磡 Tai Hom",
+      "suburb": "鑽石山 Diamond Hill",
+      "region": "九龍 Kowloon",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.3397135",
+      "22.3416345",
+      "114.2041808",
+      "114.2066519"
+    ]
+  }
+]

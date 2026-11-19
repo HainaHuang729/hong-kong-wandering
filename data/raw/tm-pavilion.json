@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237877219,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1691360459,
+    "lat": "22.4740550",
+    "lon": "114.3645600",
+    "class": "amenity",
+    "type": "shelter",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "龍景亭 Dragon View Pavilion",
+    "display_name": "龍景亭 Dragon View Pavilion, 塔門海旁街 Tap Mun Hoi Pong, 榕樹村 Yung Shu Village, 大埔區 Tai Po District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4740050",
+      "22.4741050",
+      "114.3645100",
+      "114.3646100"
+    ]
+  }
+]

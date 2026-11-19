@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237916360,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 540340500,
+    "lat": "22.5498456",
+    "lon": "114.0166182",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "香蜜公园",
+    "display_name": "香蜜公园, 30, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5444836",
+      "22.5551805",
+      "114.0126854",
+      "114.0210851"
+    ]
+  }
+]

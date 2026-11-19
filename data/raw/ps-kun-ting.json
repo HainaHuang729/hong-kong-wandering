@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 423621822,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 114395929,
+    "lat": "22.4443468",
+    "lon": "114.0074564",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "覲廷書室 Kun Ting Study Hall",
+    "display_name": "覲廷書室 Kun Ting Study Hall, 屏廈路 Ping Ha Road, 屏山 Ping Shan, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4442503",
+      "22.4444432",
+      "114.0073036",
+      "114.0076092"
+    ]
+  }
+]

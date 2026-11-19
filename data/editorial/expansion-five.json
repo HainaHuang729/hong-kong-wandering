@@ -1,0 +1,400 @@
+{
+  "sources": {
+    "mtr": "https://www.mtr.com.hk/en/customer/services/system_map.html",
+    "sk": "https://www.discoverhongkong.com/eng/neighbourhoods/sai-kung/a-scenic-and-satiating-day-in-sai-kung.html",
+    "skt": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-tin-hau-temple-at-sai-kung-town.html",
+    "bus": "https://search.kmb.hk/KMBWebSite/?action=routesearch&route=92&lang=en",
+    "st": "https://www.lcsd.gov.hk/en/parks/stp/index.html",
+    "staccess": "https://www.lcsd.gov.hk/en/fitnesswalking/",
+    "kt": "https://www.lcsd.gov.hk/en/parks/ktp/index.html",
+    "ktaccess": "https://www.kwuntong.org.hk/en/c3_1.html",
+    "pc": "https://www.islands.gov.hk/en/routes-peng-chau.php",
+    "pct": "https://www.islands.gov.hk/en/explores-peng-chau-tin-hau-temple.php",
+    "pch": "https://www.islands.gov.hk/en/explores-peng-chau-finger-hill.php",
+    "mw": "https://www.islands.gov.hk/en/explores-mui-wo.php",
+    "falls": "https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Silvermine+Cave+and+Silvermine+Waterfalls",
+    "ferry": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html"
+  },
+  "areas": [
+    {
+      "id": "saikung",
+      "nameZh": "西贡",
+      "nameEn": "Sai Kung",
+      "title": "西贡旧墟与海滨",
+      "description": "从海边总站走进旧墟，再沿海滨公园慢慢看船。",
+      "duration": "半天",
+      "visitMinutes": 180,
+      "source": "sk",
+      "transportSource": "bus",
+      "transport": "港铁钻石山站转九巴 92 到西贡巴士总站；沿镇内街道步行，最后回同一总站乘 92 往钻石山。候车及往返车程另计。",
+      "categories": {
+        "山海之间": "海滨公园与西贡海湾组成主要看海停留。",
+        "小店闲逛": "从普通道附近旧墟街道经过，店铺与用餐由你现场选择。",
+        "历史建筑": "沿途停留西贡墟天后庙，不预设庙内开放。"
+      },
+      "placeIds": [
+        "sk-bus",
+        "sk-temple",
+        "sk-promenade",
+        "sk-bus"
+      ],
+      "interests": [
+        "看海",
+        "散步",
+        "逛老街",
+        "逛小店",
+        "文化探索"
+      ],
+      "preferences": [
+        "公共交通方便"
+      ],
+      "notes": "镇内步行，不含西贡离岸小岛或郊野山径。周末巴士可能候车较久；不写死车程，海旁留意船只作业和栏杆。"
+    },
+    {
+      "id": "shatin",
+      "nameZh": "沙田—城门河",
+      "nameEn": "Sha Tin & Shing Mun River",
+      "title": "沙田公园到城门河两岸",
+      "description": "从沙田站走入绿荫，过沥源桥看看河面，再从沙田围站离开。",
+      "duration": "2 小时",
+      "visitMinutes": 120,
+      "source": "st",
+      "transportSource": "mtr",
+      "transport": "港铁东铁线沙田站进入，经沙田公园及沥源桥，港铁屯马线沙田围站离开。沙田公园官方步行接入参考沙田站 A3；地图车站标记为代表点。",
+      "categories": {
+        "城市街巷": "两个港铁站之间，以城市公园和河畔公共空间串联社区。",
+        "山海之间": "在城门河边停留看水与远处山势，并非郊野徒步。"
+      },
+      "placeIds": [
+        "st-station",
+        "st-park",
+        "st-bridge",
+        "stw-station"
+      ],
+      "interests": [
+        "散步",
+        "看建筑"
+      ],
+      "preferences": [
+        "公共交通方便"
+      ],
+      "notes": "过桥及站口可能有楼梯或坡道，未核实全程无障碍；骑行道与行人道请分清。雷雨或大雨后避免靠近河边。"
+    },
+    {
+      "id": "kwuntong",
+      "nameZh": "观塘海滨",
+      "nameEn": "Kwun Tong Promenade",
+      "title": "观塘海滨，沿着城市看海",
+      "description": "从牛头角走向海滨长廊，看对岸启德与维港，再走到观塘站。",
+      "duration": "半天",
+      "visitMinutes": 180,
+      "source": "kt",
+      "transportSource": "mtr",
+      "transport": "港铁观塘线牛头角站进入，观塘站离开。海滨官方接入参考牛头角站 B6 经励业街；观塘码头提供可选渡轮离开点，另查运输署当日服务。",
+      "categories": {
+        "高楼与海港": "海滨可看启德、维港和对岸城市轮廓。",
+        "城市街巷": "从工业与商业街区步行接到海滨，再回港铁网络。"
+      },
+      "placeIds": [
+        "ntk-station",
+        "kt-promenade",
+        "kt-pier",
+        "kt-station"
+      ],
+      "interests": [
+        "看海",
+        "散步",
+        "看天际线",
+        "看日落"
+      ],
+      "preferences": [
+        "公共交通方便"
+      ],
+      "notes": "站到海滨的接入包含市区道路、过街和工业街景，不是全程海滨。码头班次需另查；不将渡轮航迹画成未经核实的直线。"
+    },
+    {
+      "id": "pengchau",
+      "nameZh": "坪洲",
+      "nameEn": "Peng Chau",
+      "title": "坪洲庙前小街与手指山",
+      "description": "下船看老庙，再上手指山换一个角度看海，最后回码头。",
+      "duration": "半天",
+      "visitMinutes": 240,
+      "source": "pc",
+      "transportSource": "ferry",
+      "transport": "中环六号码头西侧乘港九小轮往坪洲，在坪洲渡轮码头开始与结束。回程选择往中环服务，别与公众码头其他街渡混淆。",
+      "categories": {
+        "离岛慢游": "以坪洲渡轮码头为起终点，串起岛上街道。",
+        "山海之间": "手指山有上落坡与阶梯，可从高处看周边海域。",
+        "历史建筑": "在坪洲天后宫停留，参观以现场开放为准。"
+      },
+      "placeIds": [
+        "pc-pier",
+        "pc-temple",
+        "pc-hill",
+        "pc-pier"
+      ],
+      "interests": [
+        "看海",
+        "散步",
+        "坐船",
+        "轻徒步",
+        "文化探索"
+      ],
+      "preferences": [
+        "公共交通方便"
+      ],
+      "notes": "手指山路段有爬坡和阶梯，不推荐给要求少爬坡的用户。准备水和防晒，雨后石级湿滑，白天完成山径；候船和往返船程另计。"
+    },
+    {
+      "id": "muiwo",
+      "nameZh": "梅窝",
+      "nameEn": "Mui Wo",
+      "title": "梅窝银矿湾与瀑布花园",
+      "description": "从码头沿海湾走向沙滩，再去瀑布花园听水，回码头结束。",
+      "duration": "半天",
+      "visitMinutes": 240,
+      "source": "mw",
+      "transportSource": "ferry",
+      "transport": "中环六号码头东侧乘新渡轮往梅窝，梅窝渡轮码头进入及离开；与巴士站同名，地图使用渡轮客运点。往返船程和候船另计。",
+      "categories": {
+        "山海之间": "把银矿湾海岸与瀑布花园连接在同一次步行里。",
+        "离岛慢游": "从梅窝渡轮码头出发，在大屿山村落与海湾之间慢走。"
+      },
+      "placeIds": [
+        "mw-pier",
+        "mw-beach",
+        "mw-falls",
+        "mw-pier"
+      ],
+      "interests": [
+        "看海",
+        "散步",
+        "坐船",
+        "轻徒步"
+      ],
+      "preferences": [
+        "公共交通方便"
+      ],
+      "notes": "到瀑布花园有内陆步道及坡段；不到矿洞内探险，不涉水攀石。水量随降雨变化，暴雨及雷暴不推荐；路线可能有折返，留足回码头时间。"
+    }
+  ],
+  "sights": [
+    [
+      "sk-temple",
+      "西贡墟天后庙",
+      "Tin Hau Temple, Sai Kung",
+      404352757,
+      "sk-temple",
+      "skt",
+      [
+        15,
+        25
+      ],
+      [
+        "看庙宇外墙、屋顶与门面装饰",
+        "观察旧墟与海上信仰的联系，尊重现场祭祀"
+      ]
+    ],
+    [
+      "sk-promenade",
+      "西贡海滨公园",
+      "Sai Kung Waterfront Park",
+      266586309,
+      "sk-promenade",
+      "sk",
+      [
+        30,
+        50
+      ],
+      [
+        "沿海滨看停泊船只与海湾",
+        "在公园坐下休息，感受小镇海旁日常"
+      ]
+    ],
+    [
+      "st-park",
+      "沙田公园",
+      "Sha Tin Park",
+      32559006,
+      "st-park",
+      "st",
+      [
+        30,
+        45
+      ],
+      [
+        "在树荫与园景步道慢走",
+        "从公园走向城门河，观察城市与河岸的连接"
+      ]
+    ],
+    [
+      "st-bridge",
+      "沥源桥",
+      "Lek Yuen Bridge",
+      159044468,
+      "st-bridge",
+      null,
+      [
+        10,
+        20
+      ],
+      [
+        "从行人桥上看城门河两岸",
+        "比较河畔公园、楼宇与远山的不同层次"
+      ]
+    ],
+    [
+      "kt-promenade",
+      "观塘海滨花园",
+      "Kwun Tong Promenade",
+      205719186,
+      "kt-promenade",
+      "kt",
+      [
+        40,
+        60
+      ],
+      [
+        "沿海滨长廊看对岸启德邮轮码头与海港",
+        "观察公共艺术与昔日货物装卸区的城市记忆"
+      ]
+    ],
+    [
+      "pc-temple",
+      "坪洲天后宫",
+      "Tin Hau Temple, Peng Chau",
+      3652970907,
+      "pc-temple",
+      "pct",
+      [
+        15,
+        25
+      ],
+      [
+        "欣赏天后宫门面与屋顶细部",
+        "在永安街一带感受岛上旧街尺度"
+      ]
+    ],
+    [
+      "pc-hill",
+      "手指山",
+      "Finger Hill",
+      1115154315,
+      "pc-hill",
+      "pch",
+      [
+        20,
+        35
+      ],
+      [
+        "从岛上高点看海湾与周边岛屿",
+        "在山顶附近休息，观察坪洲村落与海岸形态"
+      ]
+    ],
+    [
+      "mw-beach",
+      "银矿湾泳滩",
+      "Silver Mine Bay Beach",
+      null,
+      "mw-beach-refined",
+      "mw",
+      [
+        30,
+        50
+      ],
+      [
+        "沿沙滩及海旁欣赏银矿湾",
+        "停下来看看海面和山坡，不必下水也能游览"
+      ]
+    ],
+    [
+      "mw-falls",
+      "银矿湾瀑布花园",
+      "Silvermine Bay Waterfall Garden",
+      204795748,
+      "mw-falls",
+      "falls",
+      [
+        20,
+        35
+      ],
+      [
+        "在花园与凉亭附近欣赏瀑布景观",
+        "观察村落转入山边绿地的变化，不进入矿洞"
+      ]
+    ]
+  ],
+  "transport": [
+    [
+      "st-station",
+      "沙田站",
+      "Sha Tin Station",
+      223848687,
+      "st-station",
+      "metro",
+      "港铁东铁线",
+      "mtr"
+    ],
+    [
+      "stw-station",
+      "沙田围站",
+      "Sha Tin Wai Station",
+      187405865,
+      "stw-station",
+      "metro",
+      "港铁屯马线",
+      "mtr"
+    ],
+    [
+      "ntk-station",
+      "牛头角站",
+      "Ngau Tau Kok Station",
+      39950659,
+      "ntk-station",
+      "metro",
+      "港铁观塘线",
+      "mtr"
+    ],
+    [
+      "kt-station",
+      "观塘站",
+      "Kwun Tong Station",
+      199004441,
+      "kt-station",
+      "metro",
+      "港铁观塘线",
+      "mtr"
+    ],
+    [
+      "kt-pier",
+      "观塘渡轮码头",
+      "Kwun Tong Ferry Pier",
+      228400796,
+      "kt-pier",
+      "ferry",
+      "渡轮 · 北角—观塘—启德（按运营方当日服务）",
+      "ferry"
+    ],
+    [
+      "pc-pier",
+      "坪洲渡轮码头",
+      "Peng Chau Ferry Pier",
+      2512178963,
+      "pc-pier",
+      "ferry",
+      "港九小轮 · 坪洲 ↔ 中环六号码头",
+      "ferry"
+    ],
+    [
+      "mw-pier",
+      "梅窝渡轮码头",
+      "Mui Wo Ferry Pier",
+      35900294,
+      "mw-pier",
+      "ferry",
+      "新渡轮 · 梅窝 ↔ 中环六号码头",
+      "ferry"
+    ]
+  ]
+}

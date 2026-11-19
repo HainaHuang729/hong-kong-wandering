@@ -1,0 +1,34 @@
+[
+  {
+    "place_id": 236865902,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3412669362,
+    "lat": "22.2574713",
+    "lon": "114.1932227",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "黃泥涌水塘公園 Wong Nai Chung Reservoir Park",
+    "display_name": "黃泥涌水塘公園 Wong Nai Chung Reservoir Park, 黃泥涌峽道 Wong Nai Chung Gap Road, 黃泥涌峽 Wong Nai Chung Gap, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "address": {
+      "highway": "黃泥涌水塘公園 Wong Nai Chung Reservoir Park",
+      "road": "黃泥涌峽道 Wong Nai Chung Gap Road",
+      "suburb": "黃泥涌峽 Wong Nai Chung Gap",
+      "city_district": "香港島 Hong Kong Island",
+      "city": "香港 Hong Kong",
+      "region": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2574213",
+      "22.2575213",
+      "114.1931727",
+      "114.1932727"
+    ]
+  }
+]

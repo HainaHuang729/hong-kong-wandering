@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237986105,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214053378,
+    "lat": "22.5474858",
+    "lon": "114.5663819",
+    "class": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "hamlet",
+    "name": "杨梅坑",
+    "display_name": "杨梅坑, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5274858",
+      "22.5674858",
+      "114.5463819",
+      "114.5863819"
+    ]
+  },
+  {
+    "place_id": 237964957,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13452977098,
+    "lat": "22.5480726",
+    "lon": "114.5654340",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "杨梅坑",
+    "display_name": "杨梅坑, 南澳新东路, 东山社区, 南澳街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5480226",
+      "22.5481226",
+      "114.5653840",
+      "114.5654840"
+    ]
+  }
+]

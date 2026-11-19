@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237198285,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10095666552,
+    "lat": "22.6939867",
+    "lon": "114.3387403",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3922202821662208,
+    "addresstype": "railway",
+    "name": "坪山围",
+    "display_name": "坪山围, 坪山大道, 坪山围, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6889867",
+      "22.6989867",
+      "114.3337403",
+      "114.3437403"
+    ]
+  },
+  {
+    "place_id": 236817603,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10293033264,
+    "lat": "22.6940392",
+    "lon": "114.3374248",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3922202821662208,
+    "addresstype": "railway",
+    "name": "坪山围",
+    "display_name": "坪山围, 深汕公路, 坪山围, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6890392",
+      "22.6990392",
+      "114.3324248",
+      "114.3424248"
+    ]
+  },
+  {
+    "place_id": 237059313,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7899996446,
+    "lat": "22.6932144",
+    "lon": "114.3362861",
+    "category": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "hamlet",
+    "name": "坪山围",
+    "display_name": "坪山围, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6732144",
+      "22.7132144",
+      "114.3162861",
+      "114.3562861"
+    ]
+  }
+]

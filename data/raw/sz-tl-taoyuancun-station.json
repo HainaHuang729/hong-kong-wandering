@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237511100,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7090437399,
+    "lat": "22.5628537",
+    "lon": "113.9769577",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40513810711196646,
+    "addresstype": "railway",
+    "name": "桃源村",
+    "display_name": "桃源村, 龙珠大道, 景和社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5578537",
+      "22.5678537",
+      "113.9719577",
+      "113.9819577"
+    ]
+  }
+]

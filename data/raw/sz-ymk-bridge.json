@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237346646,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1205839003,
+    "lat": "22.5471845",
+    "lon": "114.5692347",
+    "class": "highway",
+    "type": "secondary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "secondary",
+    "name": "南澳新东路",
+    "display_name": "南澳新东路, 南澳街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5471352",
+      "22.5472517",
+      "114.5682232",
+      "114.5702565"
+    ]
+  }
+]

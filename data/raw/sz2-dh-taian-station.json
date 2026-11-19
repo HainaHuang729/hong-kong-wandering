@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 234358005,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6516267187,
+    "lat": "22.5769690",
+    "lon": "114.1322063",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4094405247320548,
+    "addresstype": "railway",
+    "name": "太安",
+    "display_name": "太安, 布心路辅路, 翠湖社区, 翠竹街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5719690",
+      "22.5819690",
+      "114.1272063",
+      "114.1372063"
+    ]
+  },
+  {
+    "place_id": 236916733,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062211262,
+    "lat": "22.5769648",
+    "lon": "114.1322183",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "太安",
+    "display_name": "太安, 布心路辅路, 翠湖社区, 东湖街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5769148",
+      "22.5770148",
+      "114.1321683",
+      "114.1322683"
+    ]
+  },
+  {
+    "place_id": 237305728,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1842737574,
+    "lat": "22.5769557",
+    "lon": "114.1322445",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "太安",
+    "display_name": "太安, 东晓路, 翠湖社区, 东湖街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5769057",
+      "22.5770057",
+      "114.1321945",
+      "114.1322945"
+    ]
+  },
+  {
+    "place_id": 237324594,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6516267188,
+    "lat": "22.5769792",
+    "lon": "114.1321570",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "太安",
+    "display_name": "太安, 布心路辅路, 翠湖社区, 翠竹街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5769292",
+      "22.5770292",
+      "114.1321070",
+      "114.1322070"
+    ]
+  }
+]

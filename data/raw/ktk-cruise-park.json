@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237672721,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 814810482,
+    "lat": "22.3059481",
+    "lon": "114.2134818",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.35293318613167857,
+    "addresstype": "park",
+    "name": "啓德郵輪碼頭公園 Kai Tak Cruise Terminal Park",
+    "display_name": "啓德郵輪碼頭公園 Kai Tak Cruise Terminal Park, 啟德跑道區 Kai Tak Runway Area, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3041693",
+      "22.3077275",
+      "114.2115140",
+      "114.2154490"
+    ]
+  }
+]

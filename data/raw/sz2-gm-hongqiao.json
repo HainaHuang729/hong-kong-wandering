@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 239659607,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 17497367,
+    "lat": "22.7482039",
+    "lon": "113.9532991",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "leisure",
+    "name": "虹桥公园",
+    "display_name": "虹桥公园, 科泰路, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7424904",
+      "22.7539202",
+      "113.9448307",
+      "113.9663075"
+    ]
+  },
+  {
+    "place_id": 237586795,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11842947073,
+    "lat": "22.7531957",
+    "lon": "113.9451853",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "虹桥公园",
+    "display_name": "虹桥公园, 光侨路, 白圩坜, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7531457",
+      "22.7532457",
+      "113.9451353",
+      "113.9452353"
+    ]
+  },
+  {
+    "place_id": 237004628,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13100064713,
+    "lat": "22.7531861",
+    "lon": "113.9452587",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "虹桥公园",
+    "display_name": "虹桥公园, 光侨路, 白圩坜, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7481861",
+      "22.7581861",
+      "113.9402587",
+      "113.9502587"
+    ]
+  }
+]

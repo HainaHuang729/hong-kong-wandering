@@ -1,0 +1,33 @@
+[
+  {
+    "place_id": 236969695,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 531363790,
+    "lat": "22.2573927",
+    "lon": "114.2080744",
+    "category": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "pedestrian",
+    "name": "大潭水塘道 Tai Tam Reservoir Road",
+    "display_name": "大潭水塘道 Tai Tam Reservoir Road, 大潭 Tai Tam, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "address": {
+      "road": "大潭水塘道 Tai Tam Reservoir Road",
+      "suburb": "大潭 Tai Tam",
+      "city_district": "香港島 Hong Kong Island",
+      "city": "香港 Hong Kong",
+      "region": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2566617",
+      "22.2583261",
+      "114.2056193",
+      "114.2102555"
+    ]
+  }
+]

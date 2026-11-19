@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237152347,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 186494535,
+    "lat": "22.3386216",
+    "lon": "114.1422864",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.319279276758968,
+    "addresstype": "tourism",
+    "name": "饒宗頤文化館 Jao Tsung-I Academy",
+    "display_name": "饒宗頤文化館 Jao Tsung-I Academy, 800, 呈祥道 Ching Cheung Road, 蝴蝶谷 Butterfly Valley, 葵涌 Kwai Chung, 葵青區 Kwai Tsing District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3369823",
+      "22.3401402",
+      "114.1414677",
+      "114.1431462"
+    ]
+  },
+  {
+    "place_id": 237218851,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13344689122,
+    "lat": "22.3372028",
+    "lon": "114.1420376",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "饒宗頤文化館 Jao Tsung-I Academy",
+    "display_name": "饒宗頤文化館 Jao Tsung-I Academy, 青山道 Castle Peak Road, 荔枝角山 Lai Chi Kok Hill, 荔枝角 Lai Chi Kok, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3371528",
+      "22.3372528",
+      "114.1419876",
+      "114.1420876"
+    ]
+  }
+]

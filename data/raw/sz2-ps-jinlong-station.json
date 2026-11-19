@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 238024533,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10095666557,
+    "lat": "22.6829134",
+    "lon": "114.3289793",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.38780733368428255,
+    "addresstype": "railway",
+    "name": "锦龙",
+    "display_name": "锦龙, 体育二路, 牛角龙, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6779134",
+      "22.6879134",
+      "114.3239793",
+      "114.3339793"
+    ]
+  },
+  {
+    "place_id": 237976146,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8172990079,
+    "lat": "22.6831016",
+    "lon": "114.3288588",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "锦龙",
+    "display_name": "锦龙, 荣昌路, 丰田, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6830516",
+      "22.6831516",
+      "114.3288088",
+      "114.3289088"
+    ]
+  },
+  {
+    "place_id": 237976212,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12032139400,
+    "lat": "22.6829280",
+    "lon": "114.3289280",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "锦龙",
+    "display_name": "锦龙, 体育二路, 洋母帐, 坪山街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6828780",
+      "22.6829780",
+      "114.3288780",
+      "114.3289780"
+    ]
+  },
+  {
+    "place_id": 238121655,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10095666556,
+    "lat": "22.6827165",
+    "lon": "114.3291246",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "锦龙",
+    "display_name": "锦龙, 体育二路, 牛角龙, 马峦街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+    "boundingbox": [
+      "22.6826665",
+      "22.6827665",
+      "114.3290746",
+      "114.3291746"
+    ]
+  }
+]

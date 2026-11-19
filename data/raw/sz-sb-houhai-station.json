@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 238787046,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10304802985,
+    "lat": "22.5210140",
+    "lon": "113.9353489",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "后海地铁站",
+    "display_name": "后海地铁站, 后海滨路, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5209640",
+      "22.5210640",
+      "113.9352989",
+      "113.9353989"
+    ]
+  },
+  {
+    "place_id": 235740548,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9196799310,
+    "lat": "22.5220652",
+    "lon": "113.9362152",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "后海地铁站J出口 (招呼站)",
+    "display_name": "后海地铁站J出口 (招呼站), 后海滨路, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5220152",
+      "22.5221152",
+      "113.9361652",
+      "113.9362652"
+    ]
+  }
+]

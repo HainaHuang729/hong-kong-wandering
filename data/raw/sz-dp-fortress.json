@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237512165,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1227358548,
+    "lat": "22.5982443",
+    "lon": "114.5083527",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "深圳大鹏新区古城博物馆",
+    "display_name": "深圳大鹏新区古城博物馆, 东门街, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5980594",
+      "22.5984291",
+      "114.5081123",
+      "114.5085930"
+    ]
+  },
+  {
+    "place_id": 237523702,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9073862391,
+    "lat": "22.5963615",
+    "lon": "114.5039132",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "古城小区",
+    "display_name": "古城小区, 鹏飞路, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5963115",
+      "22.5964115",
+      "114.5038632",
+      "114.5039632"
+    ]
+  }
+]

@@ -1,0 +1,2992 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "57442006": {
+        "pageid": 57442006,
+        "ns": 6,
+        "title": "File:鳳德公園 - panoramio.jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2601187,
+            "width": 4000,
+            "height": 2250,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg/960px-%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg/1920px-%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg/960px-%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg/1920px-%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57442006",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-03-27 09:13:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "鳳德公園 - panoramio",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fung Tak Park|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Artificial waterfalls in Hong Kong|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342601",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197483",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "鳳德公園",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "25 October 2013 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161027233303/http://www.panoramio.com/photo/98280321\">https://web.archive.org/web/20161027233303/http://www.panoramio.com/photo/98280321</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161027233309/http://www.panoramio.com/user/6037213?with_photo_id=98280321\">ken93110</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">ken93110</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 27 March 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "ken93110",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97582786": {
+        "pageid": 97582786,
+        "ns": 6,
+        "title": "File:HK 鑽石山 Diamond Hill 鳳德道 Fung Tak Road December 2020 SS2 02.jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4108942,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg/960px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg/1920px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg/960px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg/1920px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97582786",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-15 05:41:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 鑽石山 Diamond Hill 鳳德道 Fung Tak Road December 2020 SS2 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Buses in Hong Kong|Fung Tak Road|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2020-12-11|December 2020 in Diamond Hill",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342653",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.198370",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 鑽石山 Diamond Hill 鳳德道 Fung Tak Road in December 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-12-11 13:26:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Domust_Jellifrea\" title=\"User:Domust Jellifrea\">Domust Jellifrea</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97582803": {
+        "pageid": 97582803,
+        "ns": 6,
+        "title": "File:HK 鑽石山 Diamond Hill 鳳德道 Fung Tak Road December 2020 SS2 07.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3897202,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg/960px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg/1920px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg/960px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg/1920px-HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E9%B3%B3%E5%BE%B7%E9%81%93_Fung_Tak_Road_December_2020_SS2_07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97582803",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-15 05:41:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 鑽石山 Diamond Hill 鳳德道 Fung Tak Road December 2020 SS2 07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fung Tak Road|Self-published work|Unidentified plants in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2020-12-11|December 2020 in Diamond Hill",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342342",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.198227",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK 鑽石山 Diamond Hill 鳳德道 Fung Tak Road in December 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-12-11 13:32:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Domust_Jellifrea\" title=\"User:Domust Jellifrea\">Domust Jellifrea</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97583572": {
+        "pageid": 97583572,
+        "ns": 6,
+        "title": "File:HK WTS 彩虹 Choi Hung 蒲崗村道 Po Kong Village Road near 龍翔道 Lung Cheung Road December 2020 SS2 06.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3966249,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg/960px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg/1920px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg/960px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg/1920px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_near_%E9%BE%8D%E7%BF%94%E9%81%93_Lung_Cheung_Road_December_2020_SS2_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97583572",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-15 06:03:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 彩虹 Choi Hung 蒲崗村道 Po Kong Village Road near 龍翔道 Lung Cheung Road December 2020 SS2 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2020-12-11|December 2020 in Wong Tai Sin District|December 2020 in Diamond Hill|Red taxis in Wong Tai Sin District|2020 in Choi Hung|2020 in Lung Cheung Road|2020 in Po Kong Village Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342166",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.198169",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 彩虹 Choi Hung 蒲崗村道 Po Kong Village Road near 龍翔道 Lung Cheung Road in December 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-12-11 13:37:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Domust_Jellifrea\" title=\"User:Domust Jellifrea\">Domust Jellifrea</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97591495": {
+        "pageid": 97591495,
+        "ns": 6,
+        "title": "File:HK WTS 彩虹 Choi Hung 蒲崗村道 Po Kong Village Road December 2020 SS2 06.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4046710,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg/960px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg/1920px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg/960px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg/1920px-HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E5%BD%A9%E8%99%B9_Choi_Hung_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_December_2020_SS2_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97591495",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-15 09:45:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 彩虹 Choi Hung 蒲崗村道 Po Kong Village Road December 2020 SS2 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2020-12-11|December 2020 in Wong Tai Sin District|2020 in Choi Hung|2020 in Po Kong Village Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342805",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197344",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 彩虹 Choi Hung 蒲崗村道 Po Kong Village Road in December 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-12-11 13:41:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Domust_Jellifrea\" title=\"User:Domust Jellifrea\">Domust Jellifrea</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110064904": {
+        "pageid": 110064904,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 黃大仙祠 Temple 嗇色園 Sik Sik Yuen tour September 2021 SS2 034.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3078033,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_034.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110064904",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 05:46:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 黃大仙祠 Temple 嗇色園 Sik Sik Yuen tour September 2021 SS2 034",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Main Altar (Wong Tai Sin Temple, Hong Kong)|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342692",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197997",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0\" class=\"extiw\" title=\"zh:黃大仙祠\">zh:黃大仙祠</a> Temple <a href=\"https://zh.wikipedia.org/wiki/%E5%97%87%E8%89%B2%E5%9C%92\" class=\"extiw\" title=\"zh:嗇色園\">zh:嗇色園</a> Sik Sik Yuen in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 15:30:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110064907": {
+        "pageid": 110064907,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 黃大仙祠 Temple 嗇色園 Sik Sik Yuen tour September 2021 SS2 035.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4293146,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0_Temple_%E5%97%87%E8%89%B2%E5%9C%92_Sik_Sik_Yuen_tour_September_2021_SS2_035.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110064907",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 05:46:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 黃大仙祠 Temple 嗇色園 Sik Sik Yuen tour September 2021 SS2 035",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|Caishen Palace (Wong Tai Sin Temple, Hong Kong)|September 2021 in Wong Tai Sin",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342692",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197997",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0\" class=\"extiw\" title=\"zh:黃大仙祠\">zh:黃大仙祠</a> Temple <a href=\"https://zh.wikipedia.org/wiki/%E5%97%87%E8%89%B2%E5%9C%92\" class=\"extiw\" title=\"zh:嗇色園\">zh:嗇色園</a> Sik Sik Yuen in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 15:30:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066046": {
+        "pageid": 110066046,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 鳳德道 38 Fung Tak Road 盈鳳里 Ying Fung Lane 嗇色園社會服務大樓 Sik Sik Yuen Social Services Complex September 2021 SS2 08.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4192412,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%B3%B3%E5%BE%B7%E9%81%93_38_Fung_Tak_Road_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E5%97%87%E8%89%B2%E5%9C%92%E7%A4%BE%E6%9C%83%E6%9C%8D%E5%8B%99%E5%A4%A7%E6%A8%93_Sik_Sik_Yuen_Social_Services_Complex_September_2021_SS2_08.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%B3%B3%E5%BE%B7%E9%81%93_38_Fung_Tak_Road_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E5%97%87%E8%89%B2%E5%9C%92%E7%A4%BE%E6%9C%83%E6%9C%8D%E5%8B%99%E5%A4%A7%E6%A8%93_Sik_Sik_Yuen_Social_Services_Complex_September_2021_SS2_08.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%B3%B3%E5%BE%B7%E9%81%93_38_Fung_Tak_Road_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E5%97%87%E8%89%B2%E5%9C%92%E7%A4%BE%E6%9C%83%E6%9C%8D%E5%8B%99%E5%A4%A7%E6%A8%93_Sik_Sik_Yuen_Social_Services_Complex_September_2021_SS2_08.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%B3%B3%E5%BE%B7%E9%81%93_38_Fung_Tak_Road_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E5%97%87%E8%89%B2%E5%9C%92%E7%A4%BE%E6%9C%83%E6%9C%8D%E5%8B%99%E5%A4%A7%E6%A8%93_Sik_Sik_Yuen_Social_Services_Complex_September_2021_SS2_08.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%B3%B3%E5%BE%B7%E9%81%93_38_Fung_Tak_Road_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E5%97%87%E8%89%B2%E5%9C%92%E7%A4%BE%E6%9C%83%E6%9C%8D%E5%8B%99%E5%A4%A7%E6%A8%93_Sik_Sik_Yuen_Social_Services_Complex_September_2021_SS2_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%B3%B3%E5%BE%B7%E9%81%93_38_Fung_Tak_Road_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E5%97%87%E8%89%B2%E5%9C%92%E7%A4%BE%E6%9C%83%E6%9C%8D%E5%8B%99%E5%A4%A7%E6%A8%93_Sik_Sik_Yuen_Social_Services_Complex_September_2021_SS2_08.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066046",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:42:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 鳳德道 38 Fung Tak Road 盈鳳里 Ying Fung Lane 嗇色園社會服務大樓 Sik Sik Yuen Social Services Complex September 2021 SS2 08",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|Sik Sik Yuen Social Services Complex, No.38 Fung Tak Road|2021 in Fung Tak Road|2021 in Ying Fung Lane",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342497",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197367",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E9%81%93\" class=\"extiw\" title=\"zh:鳳德道\">zh:鳳德道</a> 38 Fung Tak Road <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane 嗇色園社會服務大樓 Sik Sik Yuen Social Services Complex in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:55:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066086": {
+        "pageid": 110066086,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane September 2021 SS2 03.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3824916,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_September_2021_SS2_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066086",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:46:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane September 2021 SS2 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|Tropicana Gardens|2021 in Ying Fung Lane|Cheung Ying Alley Shopping mall 翔盈里",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342899",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197501",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:56:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066189": {
+        "pageid": 110066189,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 09.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5154593,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066189",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:52:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Characters in Journey to the West|Fung Tak Park|Self-published work|Flying Nimbus|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342792",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197285",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:57:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066195": {
+        "pageid": 110066195,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 10.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4962005,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_10.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066195",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:52:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 10",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Characters in Journey to the West|Fung Tak Park|Self-published work|Flying Nimbus|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|Human hands in art|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342612",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197760",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:57:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066197": {
+        "pageid": 110066197,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 12.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4299049,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_12.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066197",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:52:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 12",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Characters in Journey to the West|Fung Tak Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342663",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197653",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:58:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066202": {
+        "pageid": 110066202,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 15.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3769335,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_15.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066202",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:52:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 15",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fung Tak Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342657",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197696",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:58:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066204": {
+        "pageid": 110066204,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 17.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4266159,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_17.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066204",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:52:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 17",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Characters in Journey to the West|Fung Tak Park|Self-published work|Flying Nimbus|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342494",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197542",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:58:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066209": {
+        "pageid": 110066209,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 20.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4600278,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_20.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066209",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:52:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 20",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Characters in Journey to the West|Fung Tak Park|Self-published work|Flying Nimbus|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342596",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197313",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:59:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066211": {
+        "pageid": 110066211,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 18.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4284367,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_18.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066211",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:52:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 18",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Characters in Journey to the West|Fung Tak Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342934",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.198058",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:59:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110066217": {
+        "pageid": 110066217,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 22.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3882924,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E7%9B%88%E9%B3%B3%E9%87%8C_Ying_Fung_Lane_%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92_Fung_Tak_Park_September_2021_SS2_22.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110066217",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 06:53:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 盈鳳里 Ying Fung Lane 鳳德公園 Fung Tak Park September 2021 SS2 22",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fung Tak Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Ying Fung Lane|2021 in Fung Tak Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342760",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197315",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E7%9B%88%E9%B3%B3%E9%87%8C\" class=\"extiw\" title=\"zh:盈鳳里\">zh:盈鳳里</a> Ying Fung Lane <a href=\"https://zh.wikipedia.org/wiki/%E9%B3%B3%E5%BE%B7%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:鳳德公園\">zh:鳳德公園</a> Fung Tak Park in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:59:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110067352": {
+        "pageid": 110067352,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 雙鳳街 Sheung Fung Street shop 家家美食 Ka Ka Cuisine Restaurant food September 2021 SS2 01.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3226055,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110067352",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 07:34:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 雙鳳街 Sheung Fung Street shop 家家美食 Ka Ka Cuisine Restaurant food September 2021 SS2 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Food menus in Hong Kong|Food products of restaurants in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|Ka Ka Cuisine|September 2021 in Wong Tai Sin|Restaurants in Wong Tai Sin|Food shops in Wong Tai Sin District|2021 in Sheung Fung Street|Cooked food shops in Wong Tai Sin District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342692",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197997",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS <a href=\"https://zh.wikipedia.org/wiki/%E9%BB%83%E5%A4%A7%E4%BB%99\" class=\"extiw\" title=\"zh:黃大仙\">zh:黃大仙</a> Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E9%9B%99%E9%B3%B3%E8%A1%97\" class=\"extiw\" title=\"zh:雙鳳街\">zh:雙鳳街</a> Sheung Fung Street shop 家家美食 Ka Ka Cuisine Restaurant food September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:12:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110067357": {
+        "pageid": 110067357,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 雙鳳街 Sheung Fung Street shop 家家美食 Ka Ka Cuisine Restaurant food September 2021 SS2 04.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3984573,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_shop_%E5%AE%B6%E5%AE%B6%E7%BE%8E%E9%A3%9F_Ka_Ka_Cuisine_Restaurant_food_September_2021_SS2_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110067357",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 07:34:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 雙鳳街 Sheung Fung Street shop 家家美食 Ka Ka Cuisine Restaurant food September 2021 SS2 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Egg-based food|Pan-fried food|Self-published work|Food products of restaurants in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|Ka Ka Cuisine|September 2021 in Wong Tai Sin|Restaurants in Wong Tai Sin|Food shops in Wong Tai Sin District|2021 in Sheung Fung Street|Cooked food shops in Wong Tai Sin District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342692",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197997",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS <a href=\"https://zh.wikipedia.org/wiki/%E9%BB%83%E5%A4%A7%E4%BB%99\" class=\"extiw\" title=\"zh:黃大仙\">zh:黃大仙</a> Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E9%9B%99%E9%B3%B3%E8%A1%97\" class=\"extiw\" title=\"zh:雙鳳街\">zh:雙鳳街</a> Sheung Fung Street shop 家家美食 Ka Ka Cuisine Restaurant food September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:12:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110068102": {
+        "pageid": 110068102,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 雙鳳街 Sheung Fung Street 紅車厘 Red Cherry Breads & Cake Shop September 2021 SS2 12.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4381086,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%9B%99%E9%B3%B3%E8%A1%97_Sheung_Fung_Street_%E7%B4%85%E8%BB%8A%E5%8E%98_Red_Cherry_Breads_%26_Cake_Shop_September_2021_SS2_12.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110068102",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 07:56:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 雙鳳街 Sheung Fung Street 紅車厘 Red Cherry Breads & Cake Shop September 2021 SS2 12",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|Egg tarts in Hong Kong|Red Cherry Breads & Cake Shop|Bakeries in Wong Tai Sin District|Red Cherry Breads & Cake Shop in 2021|2021 in Sheung Fung Street|Red Cherry Breads & Cake Shop at Sheung Fung Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.343041",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197997",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS <a href=\"https://zh.wikipedia.org/wiki/%E9%BB%83%E5%A4%A7%E4%BB%99\" class=\"extiw\" title=\"zh:黃大仙\">zh:黃大仙</a> Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E9%9B%99%E9%B3%B3%E8%A1%97\" class=\"extiw\" title=\"zh:雙鳳街\">zh:雙鳳街</a> Sheung Fung Street 紅車厘 Red Cherry Breads &amp; Cake Shop in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:15:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110068239": {
+        "pageid": 110068239,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 09.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3810557,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110068239",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 08:00:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Po Kong Village Road|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Po Kong Village Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342402",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197626",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:蒲崗村道\">zh:蒲崗村道</a> Po Kong Village Road in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:35:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110068243": {
+        "pageid": 110068243,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 10.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4099424,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_10.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110068243",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 08:00:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 10",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Po Kong Village Road|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Po Kong Village Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342402",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.197626",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:蒲崗村道\">zh:蒲崗村道</a> Po Kong Village Road in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:35:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110068246": {
+        "pageid": 110068246,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 12.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3401685,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_12.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110068246",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 08:00:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 12",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Po Kong Village Road|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|2021 in Po Kong Village Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342285",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.198369",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:蒲崗村道\">zh:蒲崗村道</a> Po Kong Village Road in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:37:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "110068251": {
+        "pageid": 110068251,
+        "ns": 6,
+        "title": "File:HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 13.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3507212,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg/960px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg/1920px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93_Po_Kong_Village_Road_September_2021_SS2_13.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110068251",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-15 08:00:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin 蒲崗村道 Po Kong Village Road September 2021 SS2 13",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Po Kong Village Road|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-09-14|September 2021 in Wong Tai Sin|Footbridges in Wong Tai Sin District|2021 in Po Kong Village Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.342285",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.198369",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WTS 黃大仙 Wong Tai Sin <a href=\"https://zh.wikipedia.org/wiki/%E8%92%B2%E5%B4%97%E6%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:蒲崗村道\">zh:蒲崗村道</a> Po Kong Village Road in September 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-14 17:37:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fraxaer_SI38F8\" title=\"User:Fraxaer SI38F8\">Fraxaer SI38F8</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "146989018": {
+        "pageid": 146989018,
+        "ns": 6,
+        "title": "File:Five Finger Mountain, Fung Tak Park 2023.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3328522,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg/960px-Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg/1920px-Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg/960px-Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg/1920px-Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Five_Finger_Mountain%2C_Fung_Tak_Park_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Five_Finger_Mountain,_Fung_Tak_Park_2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146989018",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-01 13:16:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Five Finger Mountain, Fung Tak Park 2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fung Tak Park|Self-published work|Files with coordinates missing SDC location of creation|November 2023 in Wong Tai Sin District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.343019",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.198158",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​在鳳德公園的五指山建築。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-11 16:02:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tombus20032000&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tombus20032000 (page does not exist)\">Tombus20032000</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

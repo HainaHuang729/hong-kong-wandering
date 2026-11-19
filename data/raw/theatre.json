@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236856101,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 446811353,
+    "lat": "22.3124819",
+    "lon": "114.1691783",
+    "class": "amenity",
+    "type": "theatre",
+    "place_rank": 30,
+    "importance": 0.37462627372624707,
+    "addresstype": "amenity",
+    "name": "油麻地戲院 Yau Ma Tei Theatre",
+    "display_name": "油麻地戲院 Yau Ma Tei Theatre, 6, 新填地街 Reclamation Street, 渡船角 Ferry Point, 油麻地 Yau Ma Tei, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3121889",
+      "22.3126180",
+      "114.1690692",
+      "114.1693193"
+    ]
+  },
+  {
+    "place_id": 236820287,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 694530941,
+    "lat": "22.3124381",
+    "lon": "114.1693593",
+    "class": "landuse",
+    "type": "construction",
+    "place_rank": 24,
+    "importance": 0.08006601892118712,
+    "addresstype": "construction",
+    "name": "油麻地戲院（第二期）Yau Ma Tei Theatre (Phase 2)",
+    "display_name": "油麻地戲院（第二期）Yau Ma Tei Theatre (Phase 2), 油麻地 Yau Ma Tei, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3122313",
+      "22.3126437",
+      "114.1692595",
+      "114.1694585"
+    ]
+  }
+]

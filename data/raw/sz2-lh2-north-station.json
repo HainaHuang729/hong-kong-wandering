@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237950756,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5369745039,
+    "lat": "22.6120365",
+    "lon": "114.0239469",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4712657726361444,
+    "addresstype": "railway",
+    "name": "深圳北",
+    "display_name": "深圳北, 新区大道, 白石龙, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.6070365",
+      "22.6170365",
+      "114.0189469",
+      "114.0289469"
+    ]
+  },
+  {
+    "place_id": 426272897,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 14137759349,
+    "lat": "22.6131112",
+    "lon": "114.0252378",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.38867939096549164,
+    "addresstype": "railway",
+    "name": "深圳北站",
+    "display_name": "深圳北站, 新区大道, 白石龙, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.6081112",
+      "22.6181112",
+      "114.0202378",
+      "114.0302378"
+    ]
+  },
+  {
+    "place_id": 237542387,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 370233869,
+    "lat": "22.6131465",
+    "lon": "114.0252465",
+    "category": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "深圳北站",
+    "display_name": "深圳北站, 深圳北站东广场, 樟坑, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.6123482",
+      "22.6139447",
+      "114.0244255",
+      "114.0260676"
+    ]
+  },
+  {
+    "place_id": 237549456,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214753197,
+    "lat": "22.6131652",
+    "lon": "114.0252952",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "深圳北站",
+    "display_name": "深圳北站, 深圳北站东广场, 樟坑, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.6131152",
+      "22.6132152",
+      "114.0252452",
+      "114.0253452"
+    ]
+  },
+  {
+    "place_id": 237029738,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7822253164,
+    "lat": "22.6129359",
+    "lon": "114.0250290",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "深圳北站",
+    "display_name": "深圳北站, 新区大道, 白石龙, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.6128859",
+      "22.6129859",
+      "114.0249790",
+      "114.0250790"
+    ]
+  }
+]

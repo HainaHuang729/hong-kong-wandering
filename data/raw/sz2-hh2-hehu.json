@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237339570,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1088961704,
+    "lat": "22.7308850",
+    "lon": "114.2610725",
+    "category": "landuse",
+    "type": "residential",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "residential",
+    "name": "鹤湖新居",
+    "display_name": "鹤湖新居, 南联社区, 龙岗街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.7297185",
+      "22.7313317",
+      "114.2604222",
+      "114.2621044"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 236860638,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2957737056,
+    "lat": "22.2774280",
+    "lon": "114.1858321",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "加路連山道 Caroline Hill Road",
+    "display_name": "加路連山道 Caroline Hill Road, 禮頓道 Leighton Road, 加路連山 Caroline Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2773780",
+      "22.2774780",
+      "114.1857821",
+      "114.1858821"
+    ]
+  },
+  {
+    "place_id": 236867036,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2957737057,
+    "lat": "22.2774451",
+    "lon": "114.1858506",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "加路連山道 Caroline Hill Road",
+    "display_name": "加路連山道 Caroline Hill Road, L5, 利園區 Lee Gardens, 掃桿埔 So Kon Po, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2773951",
+      "22.2774951",
+      "114.1858006",
+      "114.1859006"
+    ]
+  },
+  {
+    "place_id": 236756753,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26469039,
+    "lat": "22.2772402",
+    "lon": "114.1868081",
+    "class": "highway",
+    "type": "unclassified",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "unclassified",
+    "name": "加路連山道 Caroline Hill Road",
+    "display_name": "加路連山道 Caroline Hill Road, 加路連山 Caroline Hill, 掃桿埔 So Kon Po, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2767397",
+      "22.2777983",
+      "114.1860679",
+      "114.1875905"
+    ]
+  },
+  {
+    "place_id": 236772841,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 149397259,
+    "lat": "22.2765184",
+    "lon": "114.1853767",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "tertiary",
+    "name": "加路連山道 Caroline Hill Road",
+    "display_name": "加路連山道 Caroline Hill Road, 加路連山 Caroline Hill, 掃桿埔 So Kon Po, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2762434",
+      "22.2767888",
+      "114.1853096",
+      "114.1854106"
+    ]
+  },
+  {
+    "place_id": 237232113,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 292229750,
+    "lat": "22.2770670",
+    "lon": "114.1851652",
+    "class": "highway",
+    "type": "secondary_link",
+    "place_rank": 27,
+    "importance": 0.04008643091477835,
+    "addresstype": "road",
+    "name": "加路連山道 Caroline Hill Road",
+    "display_name": "加路連山道 Caroline Hill Road, 加路連山 Caroline Hill, 掃桿埔 So Kon Po, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2769462",
+      "22.2771848",
+      "114.1850664",
+      "114.1852595"
+    ]
+  }
+]

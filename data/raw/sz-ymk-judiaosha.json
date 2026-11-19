@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238007561,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 538730361,
+    "lat": "22.5601434",
+    "lon": "114.5499911",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.10673696574349582,
+    "addresstype": "beach",
+    "name": "桔钓沙",
+    "display_name": "桔钓沙, 南澳街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5580446",
+      "22.5622658",
+      "114.5485088",
+      "114.5527091"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237222908,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 771513760,
+    "lat": "22.5463106",
+    "lon": "113.8810110",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "欢乐港湾",
+    "display_name": "欢乐港湾, 金科路, 海裕社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5435591",
+      "22.5490853",
+      "113.8721143",
+      "113.8851027"
+    ]
+  },
+  {
+    "place_id": 237328826,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11527396448,
+    "lat": "22.5460619",
+    "lon": "113.8833046",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "欢乐港湾",
+    "display_name": "欢乐港湾, 海府路, 海裕社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5460119",
+      "22.5461119",
+      "113.8832546",
+      "113.8833546"
+    ]
+  }
+]

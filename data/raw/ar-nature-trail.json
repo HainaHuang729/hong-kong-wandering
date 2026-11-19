@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236854143,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 7932947,
+    "lat": "22.2599282",
+    "lon": "114.1655250",
+    "class": "boundary",
+    "type": "national_park",
+    "place_rank": 25,
+    "importance": 0.34188389141160974,
+    "addresstype": "national_park",
+    "name": "香港仔郊野公園 Aberdeen Country Park",
+    "display_name": "香港仔郊野公園 Aberdeen Country Park, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2507116",
+      "22.2691070",
+      "114.1503358",
+      "114.1884745"
+    ]
+  }
+]

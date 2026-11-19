@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237244883,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 31355768,
+    "lat": "22.5561355",
+    "lon": "114.1115514",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.2521482229732802,
+    "addresstype": "park",
+    "name": "人民公园",
+    "display_name": "人民公园, 立新社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5540117",
+      "22.5583400",
+      "114.1099200",
+      "114.1140403"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237741860,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 342540425,
+    "lat": "22.2621163",
+    "lon": "114.1353916",
+    "class": "historic",
+    "type": "church",
+    "place_rank": 30,
+    "importance": 0.40567491777443077,
+    "addresstype": "historic",
+    "name": "伯大尼修院 Béthanie",
+    "display_name": "伯大尼修院 Béthanie, 薄扶林道 Pok Fu Lam Road, 薄扶林 Pok Fu Lam, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2618010",
+      "22.2624363",
+      "114.1351292",
+      "114.1355519"
+    ]
+  }
+]

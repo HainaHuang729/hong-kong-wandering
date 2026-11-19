@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237368517,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1302652254,
+    "lat": "22.5363803",
+    "lon": "113.9802463",
+    "class": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 0.33557113795112237,
+    "addresstype": "building",
+    "name": "华侨城站",
+    "display_name": "华侨城站, 深南大道, 中新街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5360122",
+      "22.5368336",
+      "113.9791066",
+      "113.9813860"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236009486,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 317200055,
+    "lat": "22.5458200",
+    "lon": "113.9155803",
+    "class": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "pedestrian",
+    "name": "中山南街",
+    "display_name": "中山南街, 南头城社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5448935",
+      "22.5467512",
+      "113.9155442",
+      "113.9156715"
+    ]
+  }
+]

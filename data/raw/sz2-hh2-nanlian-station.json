@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 238857355,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9061791683,
+    "lat": "22.7243994",
+    "lon": "114.2605127",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "南联地铁站",
+    "display_name": "南联地铁站, 龙岗大道, 三家村, 龙岗街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.7243494",
+      "22.7244494",
+      "114.2604627",
+      "114.2605627"
+    ]
+  },
+  {
+    "place_id": 239527633,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10296761035,
+    "lat": "22.7344974",
+    "lon": "114.2599819",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "龙园地铁站",
+    "display_name": "龙园地铁站, 龙平东路, 隔水村, 龙岗街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.7344474",
+      "22.7345474",
+      "114.2599319",
+      "114.2600319"
+    ]
+  }
+]

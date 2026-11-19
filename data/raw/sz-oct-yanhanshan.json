@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237341882,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 181234743,
+    "lat": "22.5432764",
+    "lon": "113.9832435",
+    "class": "landuse",
+    "type": "forest",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "forest",
+    "name": "燕晗山郊野公园",
+    "display_name": "燕晗山郊野公园, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5394915",
+      "22.5471361",
+      "113.9777930",
+      "113.9853126"
+    ]
+  }
+]

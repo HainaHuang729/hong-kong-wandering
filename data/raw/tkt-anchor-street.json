@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 236602312,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 102411823,
+    "lat": "22.3199595",
+    "lon": "114.1641937",
+    "class": "amenity",
+    "type": "recycling",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "amenity",
+    "name": "晏架街垃圾收集站 Anchor Street Refuse Collection Point",
+    "display_name": "晏架街垃圾收集站 Anchor Street Refuse Collection Point, 55, 晏架街 Anchor Street, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3198754",
+      "22.3200435",
+      "114.1640913",
+      "114.1642961"
+    ]
+  },
+  {
+    "place_id": 236795530,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 406182432,
+    "lat": "22.3198639",
+    "lon": "114.1646939",
+    "class": "amenity",
+    "type": "toilets",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "amenity",
+    "name": "晏架街遊樂場公廁 Anchor Street Playground Public Toilet",
+    "display_name": "晏架街遊樂場公廁 Anchor Street Playground Public Toilet, 晏架街 Anchor Street, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3198153",
+      "22.3199169",
+      "114.1645849",
+      "114.1648029"
+    ]
+  },
+  {
+    "place_id": 242396312,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1182677926,
+    "lat": "22.3199607",
+    "lon": "114.1641911",
+    "class": "amenity",
+    "type": "shower",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "amenity",
+    "name": "晏架街公共浴室 Anchor Street Public Bathhouse",
+    "display_name": "晏架街公共浴室 Anchor Street Public Bathhouse, 晏架街 Anchor Street, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3199107",
+      "22.3200107",
+      "114.1641411",
+      "114.1642411"
+    ]
+  }
+]

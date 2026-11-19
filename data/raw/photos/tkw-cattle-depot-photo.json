@@ -1,0 +1,1071 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "128901551": {
+        "pageid": 128901551,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village, Hong Kong.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9469530,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg/960px-Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg/1920px-Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg/960px-Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg/1920px-Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cattle_Depot_Artist_Village%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village,_Hong_Kong.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128901551",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-20 17:37:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village, Hong Kong",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cattle Depot Artist Village, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-15 10:59:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/84292292@N00/14012385730/\">https://www.flickr.com/photos/84292292@N00/14012385730/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Aleksandr Zykov",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102744087": {
+        "pageid": 102744087,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village 001.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1010115,
+            "width": 1191,
+            "height": 865,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cattle_Depot_Artist_Village_001.jpg/960px-Cattle_Depot_Artist_Village_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 697,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cattle_Depot_Artist_Village_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cattle_Depot_Artist_Village_001.jpg/960px-Cattle_Depot_Artist_Village_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 697,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cattle_Depot_Artist_Village_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cattle_Depot_Artist_Village_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_001.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102744087",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-31 20:24:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village 001",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place: Kowloon, Hong Kong\n<p>Cattle Depot Artist Village (牛棚藝術村) is located on 63 Ma Tau Kok Road, Ma Tau Kok, Kowloon, Hong Kong. The site was originally used as a slaughterhouse from 1908 to 1999. It was renovated and developed into a village for artists in 2001. It is now home to around 20 art groups.\n</p><p>The slaughterhouse was originally located in Hung Hom, occupying 1.7 acres (0.69 ha) which could hold 120 head of cattle, 200 lambs and 400 pigs. It was moved to Ma Tau Kok in To Kwa Wan due to the construction of Kowloon-Canton Railway. The former Ma Tau Kok Quarantine Depot (馬頭角牛畜檢疫站,又名馬頭角牛房) was built in 1908. It was owned by the government and was used as a cattle quarantine and slaughter centre for more than 90 years. Central planning and development occurred throughout the years and people started to reside at Ma Tau Kok. In 1999, the old Ma Tau Kok Cattle Depot was finally closed down due to expressed concerns by the neighbouring residents about hygiene problems deriving from a slaughterhouse in the urban area. It was replaced by a new slaughterhouse in Sheung Shui.\n</p>\nSource: en.wikipedia.org/wiki/Cattle_Depot_Artist_Village",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-20 10:51:12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rutgervandermaar/37626431202/\">https://www.flickr.com/photos/rutgervandermaar/37626431202/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rutger van der Maar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102744137": {
+        "pageid": 102744137,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village 002.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1301892,
+            "width": 1200,
+            "height": 871,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Cattle_Depot_Artist_Village_002.jpg/960px-Cattle_Depot_Artist_Village_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 697,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cattle_Depot_Artist_Village_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Cattle_Depot_Artist_Village_002.jpg/960px-Cattle_Depot_Artist_Village_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 697,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cattle_Depot_Artist_Village_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cattle_Depot_Artist_Village_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_002.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102744137",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-31 20:24:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village 002",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place: Kowloon, Hong Kong\n<p>Cattle Depot Artist Village (牛棚藝術村) is located on 63 Ma Tau Kok Road, Ma Tau Kok, Kowloon, Hong Kong. The site was originally used as a slaughterhouse from 1908 to 1999. It was renovated and developed into a village for artists in 2001. It is now home to around 20 art groups.\n</p><p>The slaughterhouse was originally located in Hung Hom, occupying 1.7 acres (0.69 ha) which could hold 120 head of cattle, 200 lambs and 400 pigs. It was moved to Ma Tau Kok in To Kwa Wan due to the construction of Kowloon-Canton Railway. The former Ma Tau Kok Quarantine Depot (馬頭角牛畜檢疫站,又名馬頭角牛房) was built in 1908. It was owned by the government and was used as a cattle quarantine and slaughter centre for more than 90 years. Central planning and development occurred throughout the years and people started to reside at Ma Tau Kok. In 1999, the old Ma Tau Kok Cattle Depot was finally closed down due to expressed concerns by the neighbouring residents about hygiene problems deriving from a slaughterhouse in the urban area. It was replaced by a new slaughterhouse in Sheung Shui.\n</p>\nSource: en.wikipedia.org/wiki/Cattle_Depot_Artist_Village",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-20 10:41:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rutgervandermaar/37609721806/\">https://www.flickr.com/photos/rutgervandermaar/37609721806/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rutger van der Maar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102744169": {
+        "pageid": 102744169,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village 003.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1146140,
+            "width": 1200,
+            "height": 871,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cattle_Depot_Artist_Village_003.jpg/960px-Cattle_Depot_Artist_Village_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 697,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cattle_Depot_Artist_Village_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cattle_Depot_Artist_Village_003.jpg/960px-Cattle_Depot_Artist_Village_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 697,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cattle_Depot_Artist_Village_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cattle_Depot_Artist_Village_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_003.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102744169",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-31 20:25:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village 003",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place: Kowloon, Hong Kong\n<p>Cattle Depot Artist Village (牛棚藝術村) is located on 63 Ma Tau Kok Road, Ma Tau Kok, Kowloon, Hong Kong. The site was originally used as a slaughterhouse from 1908 to 1999. It was renovated and developed into a village for artists in 2001. It is now home to around 20 art groups.\n</p><p>The slaughterhouse was originally located in Hung Hom, occupying 1.7 acres (0.69 ha) which could hold 120 head of cattle, 200 lambs and 400 pigs. It was moved to Ma Tau Kok in To Kwa Wan due to the construction of Kowloon-Canton Railway. The former Ma Tau Kok Quarantine Depot (馬頭角牛畜檢疫站,又名馬頭角牛房) was built in 1908. It was owned by the government and was used as a cattle quarantine and slaughter centre for more than 90 years. Central planning and development occurred throughout the years and people started to reside at Ma Tau Kok. In 1999, the old Ma Tau Kok Cattle Depot was finally closed down due to expressed concerns by the neighbouring residents about hygiene problems deriving from a slaughterhouse in the urban area. It was replaced by a new slaughterhouse in Sheung Shui.\n</p>\nSource: en.wikipedia.org/wiki/Cattle_Depot_Artist_Village",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-20 10:39:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rutgervandermaar/36948261134/\">https://www.flickr.com/photos/rutgervandermaar/36948261134/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rutger van der Maar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102744207": {
+        "pageid": 102744207,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village 004.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1107091,
+            "width": 1200,
+            "height": 871,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Cattle_Depot_Artist_Village_004.jpg/960px-Cattle_Depot_Artist_Village_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 697,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cattle_Depot_Artist_Village_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Cattle_Depot_Artist_Village_004.jpg/960px-Cattle_Depot_Artist_Village_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 697,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cattle_Depot_Artist_Village_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cattle_Depot_Artist_Village_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_004.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102744207",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-31 20:26:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village 004",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place: Kowloon, Hong Kong\n<p>Cattle Depot Artist Village (牛棚藝術村) is located on 63 Ma Tau Kok Road, Ma Tau Kok, Kowloon, Hong Kong. The site was originally used as a slaughterhouse from 1908 to 1999. It was renovated and developed into a village for artists in 2001. It is now home to around 20 art groups.\n</p><p>The slaughterhouse was originally located in Hung Hom, occupying 1.7 acres (0.69 ha) which could hold 120 head of cattle, 200 lambs and 400 pigs. It was moved to Ma Tau Kok in To Kwa Wan due to the construction of Kowloon-Canton Railway. The former Ma Tau Kok Quarantine Depot (馬頭角牛畜檢疫站,又名馬頭角牛房) was built in 1908. It was owned by the government and was used as a cattle quarantine and slaughter centre for more than 90 years. Central planning and development occurred throughout the years and people started to reside at Ma Tau Kok. In 1999, the old Ma Tau Kok Cattle Depot was finally closed down due to expressed concerns by the neighbouring residents about hygiene problems deriving from a slaughterhouse in the urban area. It was replaced by a new slaughterhouse in Sheung Shui.\n</p>\nSource: en.wikipedia.org/wiki/Cattle_Depot_Artist_Village",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-20 10:39:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rutgervandermaar/37609677656/\">https://www.flickr.com/photos/rutgervandermaar/37609677656/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rutger van der Maar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102744238": {
+        "pageid": 102744238,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village 005.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1225505,
+            "width": 1200,
+            "height": 871,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cattle_Depot_Artist_Village_005.jpg/960px-Cattle_Depot_Artist_Village_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 697,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Cattle_Depot_Artist_Village_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cattle_Depot_Artist_Village_005.jpg/960px-Cattle_Depot_Artist_Village_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 697,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Cattle_Depot_Artist_Village_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Cattle_Depot_Artist_Village_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_005.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102744238",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-31 20:26:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village 005",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place: Kowloon, Hong Kong\n<p>Cattle Depot Artist Village (牛棚藝術村) is located on 63 Ma Tau Kok Road, Ma Tau Kok, Kowloon, Hong Kong. The site was originally used as a slaughterhouse from 1908 to 1999. It was renovated and developed into a village for artists in 2001. It is now home to around 20 art groups.\n</p><p>The slaughterhouse was originally located in Hung Hom, occupying 1.7 acres (0.69 ha) which could hold 120 head of cattle, 200 lambs and 400 pigs. It was moved to Ma Tau Kok in To Kwa Wan due to the construction of Kowloon-Canton Railway. The former Ma Tau Kok Quarantine Depot (馬頭角牛畜檢疫站,又名馬頭角牛房) was built in 1908. It was owned by the government and was used as a cattle quarantine and slaughter centre for more than 90 years. Central planning and development occurred throughout the years and people started to reside at Ma Tau Kok. In 1999, the old Ma Tau Kok Cattle Depot was finally closed down due to expressed concerns by the neighbouring residents about hygiene problems deriving from a slaughterhouse in the urban area. It was replaced by a new slaughterhouse in Sheung Shui.\n</p>\nSource: en.wikipedia.org/wiki/Cattle_Depot_Artist_Village",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-20 10:38:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rutgervandermaar/43952301981/\">https://www.flickr.com/photos/rutgervandermaar/43952301981/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rutger van der Maar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102744272": {
+        "pageid": 102744272,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village 006.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 963699,
+            "width": 1200,
+            "height": 857,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cattle_Depot_Artist_Village_006.jpg/960px-Cattle_Depot_Artist_Village_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 686,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cattle_Depot_Artist_Village_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cattle_Depot_Artist_Village_006.jpg/960px-Cattle_Depot_Artist_Village_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 686,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cattle_Depot_Artist_Village_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cattle_Depot_Artist_Village_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_006.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102744272",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-31 20:27:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village 006",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place: Kowloon, Hong Kong\n<p>Cattle Depot Artist Village (牛棚藝術村) is located on 63 Ma Tau Kok Road, Ma Tau Kok, Kowloon, Hong Kong. The site was originally used as a slaughterhouse from 1908 to 1999. It was renovated and developed into a village for artists in 2001. It is now home to around 20 art groups.\n</p><p>The slaughterhouse was originally located in Hung Hom, occupying 1.7 acres (0.69 ha) which could hold 120 head of cattle, 200 lambs and 400 pigs. It was moved to Ma Tau Kok in To Kwa Wan due to the construction of Kowloon-Canton Railway. The former Ma Tau Kok Quarantine Depot (馬頭角牛畜檢疫站,又名馬頭角牛房) was built in 1908. It was owned by the government and was used as a cattle quarantine and slaughter centre for more than 90 years. Central planning and development occurred throughout the years and people started to reside at Ma Tau Kok. In 1999, the old Ma Tau Kok Cattle Depot was finally closed down due to expressed concerns by the neighbouring residents about hygiene problems deriving from a slaughterhouse in the urban area. It was replaced by a new slaughterhouse in Sheung Shui.\n</p>\nSource: en.wikipedia.org/wiki/Cattle_Depot_Artist_Village",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-20 10:36:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rutgervandermaar/36988065553/\">https://www.flickr.com/photos/rutgervandermaar/36988065553/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rutger van der Maar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102744304": {
+        "pageid": 102744304,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village 007.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1359444,
+            "width": 1200,
+            "height": 871,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Cattle_Depot_Artist_Village_007.jpg/960px-Cattle_Depot_Artist_Village_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 697,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cattle_Depot_Artist_Village_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Cattle_Depot_Artist_Village_007.jpg/960px-Cattle_Depot_Artist_Village_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 697,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cattle_Depot_Artist_Village_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cattle_Depot_Artist_Village_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_007.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102744304",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-31 20:28:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village 007",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cattle Depot Artists Village|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place: Kowloon, Hong Kong\n<p>Cattle Depot Artist Village (牛棚藝術村) is located on 63 Ma Tau Kok Road, Ma Tau Kok, Kowloon, Hong Kong. The site was originally used as a slaughterhouse from 1908 to 1999. It was renovated and developed into a village for artists in 2001. It is now home to around 20 art groups.\n</p><p>The slaughterhouse was originally located in Hung Hom, occupying 1.7 acres (0.69 ha) which could hold 120 head of cattle, 200 lambs and 400 pigs. It was moved to Ma Tau Kok in To Kwa Wan due to the construction of Kowloon-Canton Railway. The former Ma Tau Kok Quarantine Depot (馬頭角牛畜檢疫站,又名馬頭角牛房) was built in 1908. It was owned by the government and was used as a cattle quarantine and slaughter centre for more than 90 years. Central planning and development occurred throughout the years and people started to reside at Ma Tau Kok. In 1999, the old Ma Tau Kok Cattle Depot was finally closed down due to expressed concerns by the neighbouring residents about hygiene problems deriving from a slaughterhouse in the urban area. It was replaced by a new slaughterhouse in Sheung Shui.\n</p>\nSource: en.wikipedia.org/wiki/Cattle_Depot_Artist_Village",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-20 10:23:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/rutgervandermaar/36988069463/\">https://www.flickr.com/photos/rutgervandermaar/36988069463/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rutger van der Maar",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "11071938": {
+        "pageid": 11071938,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village Building Interior.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2526869,
+            "width": 2816,
+            "height": 2112,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cattle_Depot_Artist_Village_Building_Interior.jpg/960px-Cattle_Depot_Artist_Village_Building_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cattle_Depot_Artist_Village_Building_Interior.jpg/1920px-Cattle_Depot_Artist_Village_Building_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cattle_Depot_Artist_Village_Building_Interior.jpg/960px-Cattle_Depot_Artist_Village_Building_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cattle_Depot_Artist_Village_Building_Interior.jpg/1920px-Cattle_Depot_Artist_Village_Building_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Cattle_Depot_Artist_Village_Building_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_Building_Interior.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11071938",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-08-02 14:26:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village Building Interior",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G11|Cattle Depot Artists Village|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cattle Depot Artist Village 牛棚藝術村",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-07-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:WiNG\" title=\"User:WiNG\">WiNG</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "16048765": {
+        "pageid": 16048765,
+        "ns": 6,
+        "title": "File:Cattle Depot Artist Village View 5.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3258419,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cattle_Depot_Artist_Village_View_5.jpg/960px-Cattle_Depot_Artist_Village_View_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cattle_Depot_Artist_Village_View_5.jpg/1920px-Cattle_Depot_Artist_Village_View_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cattle_Depot_Artist_Village_View_5.jpg/960px-Cattle_Depot_Artist_Village_View_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cattle_Depot_Artist_Village_View_5.jpg/1920px-Cattle_Depot_Artist_Village_View_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cattle_Depot_Artist_Village_View_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cattle_Depot_Artist_Village_View_5.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16048765",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-08-10 03:53:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cattle Depot Artist Village View 5",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G11|Cattle Depot Artists Village|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cattle Depot Artist Village 牛棚藝術村",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-08-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:WiNG\" title=\"User:WiNG\">WiNG</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

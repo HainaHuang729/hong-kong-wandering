@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237856381,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 134396009,
+    "lat": "22.4713725",
+    "lon": "114.3599413",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "天后廟 Tin Hau Temple",
+    "display_name": "天后廟 Tin Hau Temple, 塔門海旁街 Tap Mun Hoi Pong, 榕樹村 Yung Shu Village, 大埔區 Tai Po District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4712806",
+      "22.4714644",
+      "114.3598696",
+      "114.3600131"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237539348,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 532810269,
+    "lat": "22.5403875",
+    "lon": "113.9884976",
+    "class": "building",
+    "type": "retail",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "Loft F1",
+    "display_name": "Loft F1, 恩平街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5400729",
+      "22.5406862",
+      "113.9877882",
+      "113.9892115"
+    ]
+  },
+  {
+    "place_id": 237717464,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 333871652,
+    "lat": "22.5417944",
+    "lon": "113.9876767",
+    "class": "building",
+    "type": "commercial",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "Loft A3",
+    "display_name": "Loft A3, 香山东街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+    "boundingbox": [
+      "22.5416106",
+      "22.5419167",
+      "113.9871909",
+      "113.9881684"
+    ]
+  },
+  {
+    "place_id": 237525176,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 532810257,
+    "lat": "22.5434178",
+    "lon": "113.9876427",
+    "class": "building",
+    "type": "commercial",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "Loft C3",
+    "display_name": "Loft C3, 文昌街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+    "boundingbox": [
+      "22.5430200",
+      "22.5438157",
+      "113.9874669",
+      "113.9878185"
+    ]
+  },
+  {
+    "place_id": 237565213,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 532810262,
+    "lat": "22.5418596",
+    "lon": "113.9896713",
+    "class": "building",
+    "type": "commercial",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "Loft B3",
+    "display_name": "Loft B3, 香山东街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+    "boundingbox": [
+      "22.5417165",
+      "22.5420008",
+      "113.9892029",
+      "113.9901398"
+    ]
+  },
+  {
+    "place_id": 237466944,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 532810322,
+    "lat": "22.5412758",
+    "lon": "113.9897931",
+    "class": "building",
+    "type": "commercial",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "Loft G2",
+    "display_name": "Loft G2, 香山东街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+    "boundingbox": [
+      "22.5411373",
+      "22.5414143",
+      "113.9893781",
+      "113.9902082"
+    ]
+  }
+]

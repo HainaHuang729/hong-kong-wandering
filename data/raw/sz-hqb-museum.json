@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237691035,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 223876513,
+    "lat": "22.5491863",
+    "lon": "114.0836516",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "tertiary",
+    "name": "振兴路",
+    "display_name": "振兴路, 深铁汇坊（华强北站）, 荔村社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5490630",
+      "22.5492693",
+      "114.0759992",
+      "114.0911868"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238201475,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 114393168,
+    "lat": "22.4488060",
+    "lon": "114.0061192",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 0.348606766793213,
+    "addresstype": "tourism",
+    "name": "聚星樓 Tsui Sing Lau Pagoda",
+    "display_name": "聚星樓 Tsui Sing Lau Pagoda, 聚星路 Tsui Sing Road, 橋頭圍 Kiu Tau Wai, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4487708",
+      "22.4488414",
+      "114.0060853",
+      "114.0061531"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237632336,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 102640409,
+    "lat": "22.3042299",
+    "lon": "114.1696932",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.35585735640848576,
+    "addresstype": "residential",
+    "name": "廟街 Temple Street",
+    "display_name": "廟街 Temple Street, 官涌 Kwun Chung, 油麻地 Yau Ma Tei, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3031570",
+      "22.3052836",
+      "114.1696177",
+      "114.1697705"
+    ]
+  },
+  {
+    "place_id": 237612794,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4780310523,
+    "lat": "22.3041789",
+    "lon": "114.1697182",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 0.35585735640848576,
+    "addresstype": "tourism",
+    "name": "廟街 Temple Street",
+    "display_name": "廟街 Temple Street, 官涌 Kwun Chung, 油麻地 Yau Ma Tei, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3041289",
+      "22.3042289",
+      "114.1696682",
+      "114.1697682"
+    ]
+  },
+  {
+    "place_id": 237575742,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3912037746,
+    "lat": "22.3054292",
+    "lon": "114.1699088",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "佐敦廟街 Temple Street Jordan",
+    "display_name": "佐敦廟街 Temple Street Jordan, 佐敦道 Jordan Road, 官涌 Kwun Chung, 油麻地 Yau Ma Tei, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3053792",
+      "22.3054792",
+      "114.1698588",
+      "114.1699588"
+    ]
+  }
+]

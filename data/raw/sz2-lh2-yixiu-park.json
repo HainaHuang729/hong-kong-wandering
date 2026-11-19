@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238479424,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 701096492,
+    "lat": "22.6044466",
+    "lon": "114.0293089",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "逸秀公园",
+    "display_name": "逸秀公园, 100, 白石龙, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.6026673",
+      "22.6066087",
+      "114.0280169",
+      "114.0303455"
+    ]
+  }
+]

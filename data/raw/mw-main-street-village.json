@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 235329214,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4589241085,
+    "lat": "22.3514290",
+    "lon": "114.0578485",
+    "class": "place",
+    "type": "village",
+    "place_rank": 19,
+    "importance": 0.14673215762569614,
+    "addresstype": "village",
+    "name": "馬灣大街村 Ma Wan Main Street Village",
+    "display_name": "馬灣大街村 Ma Wan Main Street Village, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3314290",
+      "22.3714290",
+      "114.0378485",
+      "114.0778485"
+    ]
+  },
+  {
+    "place_id": 235313117,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12753660597,
+    "lat": "22.3487012",
+    "lon": "114.0558820",
+    "class": "place",
+    "type": "neighbourhood",
+    "place_rank": 24,
+    "importance": 0.0800654909590295,
+    "addresstype": "neighbourhood",
+    "name": "馬灣大街村 Ma Wan Main Street Village",
+    "display_name": "馬灣大街村 Ma Wan Main Street Village, 馬灣 Ma Wan, 荃灣區 Tsuen Wan District, 馬灣大街村 Ma Wan Main Street Village, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3387012",
+      "22.3587012",
+      "114.0458820",
+      "114.0658820"
+    ]
+  }
+]

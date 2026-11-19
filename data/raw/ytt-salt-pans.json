@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237204094,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 141710416,
+    "lat": "22.3763160",
+    "lon": "114.3024861",
+    "class": "landuse",
+    "type": "farmland",
+    "place_rank": 24,
+    "importance": 0.0800654909590295,
+    "addresstype": "farmland",
+    "name": "鹽田 Saltpans",
+    "display_name": "鹽田 Saltpans, 鹽田梓 Yim Tin Tsai, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3758299",
+      "22.3767128",
+      "114.3019148",
+      "114.3030682"
+    ]
+  }
+]

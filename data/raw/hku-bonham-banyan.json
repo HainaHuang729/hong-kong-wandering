@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236891046,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 181770893,
+    "lat": "22.2845360",
+    "lon": "114.1402816",
+    "class": "amenity",
+    "type": "school",
+    "place_rank": 30,
+    "importance": 0.4067355164056416,
+    "addresstype": "amenity",
+    "name": "英皇書院 King's College",
+    "display_name": "英皇書院 King's College, 63A, 般咸道 Bonham Road, 西營盤 Sai Ying Pun, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2841082",
+      "22.2848255",
+      "114.1399538",
+      "114.1406107"
+    ]
+  },
+  {
+    "place_id": 236780743,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3296355754,
+    "lat": "22.2842907",
+    "lon": "114.1397785",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "英皇書院 King's College",
+    "display_name": "英皇書院 King's College, 般咸道 Bonham Road, 西營盤 Sai Ying Pun, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2842407",
+      "22.2843407",
+      "114.1397285",
+      "114.1398285"
+    ]
+  }
+]

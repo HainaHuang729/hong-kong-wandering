@@ -1,0 +1,869 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "40267245": {
+        "pageid": 40267245,
+        "ns": 6,
+        "title": "File:Mei Ho House Function Room 201505.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2351438,
+            "width": 2112,
+            "height": 1408,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mei_Ho_House_Function_Room_201505.jpg/960px-Mei_Ho_House_Function_Room_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mei_Ho_House_Function_Room_201505.jpg/1920px-Mei_Ho_House_Function_Room_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mei_Ho_House_Function_Room_201505.jpg/960px-Mei_Ho_House_Function_Room_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mei_Ho_House_Function_Room_201505.jpg/1920px-Mei_Ho_House_Function_Room_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mei_Ho_House_Function_Room_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House_Function_Room_201505.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40267245",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-17 15:24:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mei Ho House Function Room 201505",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|YHA Mei Ho House Youth Hostel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mei Ho House Function Room",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "40267448": {
+        "pageid": 40267448,
+        "ns": 6,
+        "title": "File:Mei Ho House Hostel Bed 201505.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1956072,
+            "width": 1408,
+            "height": 2112,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Mei_Ho_House_Hostel_Bed_201505.jpg/960px-Mei_Ho_House_Hostel_Bed_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mei_Ho_House_Hostel_Bed_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Mei_Ho_House_Hostel_Bed_201505.jpg/960px-Mei_Ho_House_Hostel_Bed_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1440,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mei_Ho_House_Hostel_Bed_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mei_Ho_House_Hostel_Bed_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House_Hostel_Bed_201505.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40267448",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-17 15:35:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mei Ho House Hostel Bed 201505",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|YHA Mei Ho House Youth Hostel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mei Ho House Hostel Bed",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "40267213": {
+        "pageid": 40267213,
+        "ns": 6,
+        "title": "File:Mei Ho House Reception 201505.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2181367,
+            "width": 2112,
+            "height": 1408,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mei_Ho_House_Reception_201505.jpg/960px-Mei_Ho_House_Reception_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mei_Ho_House_Reception_201505.jpg/1920px-Mei_Ho_House_Reception_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mei_Ho_House_Reception_201505.jpg/960px-Mei_Ho_House_Reception_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mei_Ho_House_Reception_201505.jpg/1920px-Mei_Ho_House_Reception_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mei_Ho_House_Reception_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House_Reception_201505.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40267213",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-17 15:22:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mei Ho House Reception 201505",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|YHA Mei Ho House Youth Hostel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mei Ho House Reception",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "7375011": {
+        "pageid": 7375011,
+        "ns": 6,
+        "title": "File:Mei Ho House Stairs 200907.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1523941,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mei_Ho_House_Stairs_200907.jpg/960px-Mei_Ho_House_Stairs_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mei_Ho_House_Stairs_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mei_Ho_House_Stairs_200907.jpg/960px-Mei_Ho_House_Stairs_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mei_Ho_House_Stairs_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mei_Ho_House_Stairs_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House_Stairs_200907.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7375011",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-12-20 02:54:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mei Ho House Stairs 200907",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G7|Self-published work|Mei Ho House before renovation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mei Ho House 美荷樓",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-07-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:WiNG\" title=\"User:WiNG\">WiNG</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"clear:both; padding:5px;\">  \n<table align=\"CENTER\" style=\"width:100%; border:3px solid #F87431; background-color: #FDD017;\" cellspacing=\"10\">\n<tbody><tr>\n<td>以上作品由<a href=\"//commons.wikimedia.org/wiki/User:WiNG\" title=\"User:WiNG\">Wpcpey</a>製作，並採用創作共用「CC-BY 3.0版本」授權方式保護。\n<div style=\"font-size:120%\"><b>任何人使用及轉載此圖片，前提是您遵守「許可」的所有條款。請尊重作者的勞動成果，謝謝您的諒解！您須在刊登位置的旁邊明確顯示本人，即「維基百科用戶-Wpcpey 或 Wikipedia user -Wpcpey」為圖片原作者。謝謝你們的合作！</b>\n<p>若您需要索取此圖片的原本、或因為不能遵守「許可」而要求條款較寬鬆的使用條件，也請先向本人提出。\n您可以在<a href=\"//commons.wikimedia.org/wiki/User_talk:Wpcpey\" title=\"User talk:Wpcpey\">本人對話頁</a>與我聯繫。\n</p>\n</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "40267323": {
+        "pageid": 40267323,
+        "ns": 6,
+        "title": "File:Mei Ho House Twin Bedroom 201505.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1873455,
+            "width": 2085,
+            "height": 1382,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mei_Ho_House_Twin_Bedroom_201505.jpg/960px-Mei_Ho_House_Twin_Bedroom_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 636,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mei_Ho_House_Twin_Bedroom_201505.jpg/1920px-Mei_Ho_House_Twin_Bedroom_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mei_Ho_House_Twin_Bedroom_201505.jpg/960px-Mei_Ho_House_Twin_Bedroom_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 636,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mei_Ho_House_Twin_Bedroom_201505.jpg/1920px-Mei_Ho_House_Twin_Bedroom_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mei_Ho_House_Twin_Bedroom_201505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House_Twin_Bedroom_201505.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40267323",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-05-17 15:28:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mei Ho House Twin Bedroom 201505",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|YHA Mei Ho House Youth Hostel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mei Ho House Twin Bedroom",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "7375007": {
+        "pageid": 7375007,
+        "ns": 6,
+        "title": "File:Mei Ho House View3 200907.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1961797,
+            "width": 1587,
+            "height": 1185,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mei_Ho_House_View3_200907.jpg/960px-Mei_Ho_House_View3_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 717,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mei_Ho_House_View3_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mei_Ho_House_View3_200907.jpg/960px-Mei_Ho_House_View3_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 717,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mei_Ho_House_View3_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mei_Ho_House_View3_200907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House_View3_200907.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7375007",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-07-24 06:42:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mei Ho House View3 200907",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot G7|Self-published work|Mei Ho House before renovation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mei Ho House 美荷樓",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-07-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:WiNG\" title=\"User:WiNG\">WiNG</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"clear:both; padding:5px;\">  \n<table align=\"CENTER\" style=\"width:100%; border:3px solid #F87431; background-color: #FDD017;\" cellspacing=\"10\">\n<tbody><tr>\n<td>以上作品由<a href=\"//commons.wikimedia.org/wiki/User:WiNG\" title=\"User:WiNG\">Wpcpey</a>製作，並採用創作共用「CC-BY 3.0版本」授權方式保護。\n<div style=\"font-size:120%\"><b>任何人使用及轉載此圖片，前提是您遵守「許可」的所有條款。請尊重作者的勞動成果，謝謝您的諒解！您須在刊登位置的旁邊明確顯示本人，即「維基百科用戶-Wpcpey 或 Wikipedia user -Wpcpey」為圖片原作者。謝謝你們的合作！</b>\n<p>若您需要索取此圖片的原本、或因為不能遵守「許可」而要求條款較寬鬆的使用條件，也請先向本人提出。\n您可以在<a href=\"//commons.wikimedia.org/wiki/User_talk:Wpcpey\" title=\"User talk:Wpcpey\">本人對話頁</a>與我聯繫。\n</p>\n</div>\n</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192663930": {
+        "pageid": 192663930,
+        "ns": 6,
+        "title": "File:Mei Ho House in 2024.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2118986,
+            "width": 3429,
+            "height": 2564,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mei_Ho_House_in_2024.jpg/960px-Mei_Ho_House_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 718,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mei_Ho_House_in_2024.jpg/1920px-Mei_Ho_House_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mei_Ho_House_in_2024.jpg/960px-Mei_Ho_House_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 718,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mei_Ho_House_in_2024.jpg/1920px-Mei_Ho_House_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mei_Ho_House_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House_in_2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192663930",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-23 11:37:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mei Ho House in 2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mei Ho House|Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mei Ho House, Shek Kip Mei Estate",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-26 12:40:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E5%A7%92%E5%A7%93%E8%B3%A2%E5%AF%A7\" title=\"User:姒姓賢寧\">姒姓賢寧</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "26365585": {
+        "pageid": 26365585,
+        "ns": 6,
+        "title": "File:Shek Kip Mei Estate 2013 part6.JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3444179,
+            "width": 4912,
+            "height": 3678,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Shek_Kip_Mei_Estate_2013_part6.JPG/960px-Shek_Kip_Mei_Estate_2013_part6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 719,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Shek_Kip_Mei_Estate_2013_part6.JPG/1920px-Shek_Kip_Mei_Estate_2013_part6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Shek_Kip_Mei_Estate_2013_part6.JPG/960px-Shek_Kip_Mei_Estate_2013_part6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 719,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Shek_Kip_Mei_Estate_2013_part6.JPG/1920px-Shek_Kip_Mei_Estate_2013_part6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Shek_Kip_Mei_Estate_2013_part6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_Kip_Mei_Estate_2013_part6.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26365585",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-28 06:08:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek Kip Mei Estate 2013 part6",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony NEX-3N|Shek Kip Mei Estate|Self-published work|YHA Mei Ho House Youth Hostel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​石硤尾邨美荷樓",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-05-24 11:11:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Qwer132477&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Qwer132477 (page does not exist)\">Qwer132477</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

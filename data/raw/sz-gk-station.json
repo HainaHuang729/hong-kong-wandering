@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237360681,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7828966416,
+    "lat": "22.6503232",
+    "lon": "114.1009526",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.39862612808608605,
+    "addresstype": "railway",
+    "name": "甘坑",
+    "display_name": "甘坑, 甘李路, 甘坑, 吉华街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6453232",
+      "22.6553232",
+      "114.0959526",
+      "114.1059526"
+    ]
+  },
+  {
+    "place_id": 237322568,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9063423491,
+    "lat": "22.6503521",
+    "lon": "114.1009654",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "甘坑",
+    "display_name": "甘坑, 甘李路, 甘坑, 吉华街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.6503021",
+      "22.6504021",
+      "114.1009154",
+      "114.1010154"
+    ]
+  }
+]

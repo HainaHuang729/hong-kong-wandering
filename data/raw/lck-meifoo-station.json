@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 236738055,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 355013183,
+    "lat": "22.3388556",
+    "lon": "114.1364961",
+    "class": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 0.43786060464304577,
+    "addresstype": "building",
+    "name": "美孚站 Mei Foo Station",
+    "display_name": "美孚站 Mei Foo Station, 葵涌道 Kwai Chung Road, 荔灣 Lai Wan, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3376304",
+      "22.3400732",
+      "114.1362372",
+      "114.1387696"
+    ]
+  },
+  {
+    "place_id": 236737923,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 354979579,
+    "lat": "22.3377614",
+    "lon": "114.1395721",
+    "class": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 0.43786060464304577,
+    "addresstype": "building",
+    "name": "美孚站 Mei Foo Station",
+    "display_name": "美孚站 Mei Foo Station, 葵涌道 Kwai Chung Road, 荔枝角山 Lai Chi Kok Hill, 荔枝角 Lai Chi Kok, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3366421",
+      "22.3384205",
+      "114.1382620",
+      "114.1404701"
+    ]
+  },
+  {
+    "place_id": 236243273,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1420098826,
+    "lat": "22.3387457",
+    "lon": "114.1365515",
+    "class": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "building",
+    "name": "美孚站 Mei Foo Station",
+    "display_name": "美孚站 Mei Foo Station, 呈祥道 Ching Cheung Road, 荔灣 Lai Wan, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3378705",
+      "22.3399313",
+      "114.1363418",
+      "114.1367847"
+    ]
+  },
+  {
+    "place_id": 235350712,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2430222392,
+    "lat": "22.3364750",
+    "lon": "114.1414702",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "美孚轉車站 Mei Foo BBI",
+    "display_name": "美孚轉車站 Mei Foo BBI, 荔枝角道 Lai Chi Kok Road, 荔枝角山 Lai Chi Kok Hill, 荔枝角 Lai Chi Kok, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3364250",
+      "22.3365250",
+      "114.1414202",
+      "114.1415202"
+    ]
+  },
+  {
+    "place_id": 235356854,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3606630975,
+    "lat": "22.3371242",
+    "lon": "114.1415887",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "美孚轉車站 Mei Foo BBI",
+    "display_name": "美孚轉車站 Mei Foo BBI, 長沙灣道 Cheung Sha Wan Road, 荔枝角山 Lai Chi Kok Hill, 荔枝角 Lai Chi Kok, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3370742",
+      "22.3371742",
+      "114.1415387",
+      "114.1416387"
+    ]
+  }
+]

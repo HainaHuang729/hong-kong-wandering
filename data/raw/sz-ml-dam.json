@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 238675922,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 72240969,
+    "lat": "22.5751127",
+    "lon": "114.0239471",
+    "class": "water",
+    "type": "reservoir",
+    "place_rank": 20,
+    "importance": 0.1679799034751623,
+    "addresstype": "reservoir",
+    "name": "梅林水库",
+    "display_name": "梅林水库, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5722050",
+      "22.5779526",
+      "114.0131856",
+      "114.0322947"
+    ]
+  },
+  {
+    "place_id": 237033675,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 72241235,
+    "lat": "22.5731412",
+    "lon": "114.0302561",
+    "class": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "dam",
+    "name": "梅林水库",
+    "display_name": "梅林水库, 梅林一村社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5717559",
+      "22.5759231",
+      "114.0285719",
+      "114.0321288"
+    ]
+  }
+]

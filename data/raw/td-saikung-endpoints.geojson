@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.273997,
+          22.38198
+        ]
+      },
+      "properties": {
+        "routeId": 1399,
+        "companyCode": "KMB",
+        "district": "",
+        "routeNameC": "92",
+        "routeNameS": "92",
+        "routeNameE": "92",
+        "routeType": 1,
+        "serviceMode": "R",
+        "specialType": 0,
+        "journeyTime": 43,
+        "locStartNameC": "西貢",
+        "locStartNameS": "西贡",
+        "locStartNameE": "SAI KUNG",
+        "locEndNameC": "鑽石山站",
+        "locEndNameS": "钻石山站",
+        "locEndNameE": "DIAMOND HILL STATION",
+        "hyperlinkC": "https://search.kmb.hk/KMBWebSite/?action=routesearch&route=92&lang=zh-hk",
+        "hyperlinkS": "https://search.kmb.hk/KMBWebSite/?action=routesearch&route=92&lang=zh-cn",
+        "hyperlinkE": "https://search.kmb.hk/KMBWebSite/?action=routesearch&route=92&lang=en",
+        "fullFare": 7.8,
+        "lastUpdateDate": "2026-05-05T00:00:00",
+        "routeSeq": 1,
+        "stopSeq": 1,
+        "stopId": 10000183,
+        "stopPickDrop": 2,
+        "stopNameC": "西貢巴士總站",
+        "stopNameS": "西贡巴士总站",
+        "stopNameE": "SAI KUNG BUS TERMINUS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.273997,
+          22.38198
+        ]
+      },
+      "properties": {
+        "routeId": 1399,
+        "companyCode": "KMB",
+        "district": "",
+        "routeNameC": "92",
+        "routeNameS": "92",
+        "routeNameE": "92",
+        "routeType": 1,
+        "serviceMode": "R",
+        "specialType": 0,
+        "journeyTime": 43,
+        "locStartNameC": "西貢",
+        "locStartNameS": "西贡",
+        "locStartNameE": "SAI KUNG",
+        "locEndNameC": "鑽石山站",
+        "locEndNameS": "钻石山站",
+        "locEndNameE": "DIAMOND HILL STATION",
+        "hyperlinkC": "https://search.kmb.hk/KMBWebSite/?action=routesearch&route=92&lang=zh-hk",
+        "hyperlinkS": "https://search.kmb.hk/KMBWebSite/?action=routesearch&route=92&lang=zh-cn",
+        "hyperlinkE": "https://search.kmb.hk/KMBWebSite/?action=routesearch&route=92&lang=en",
+        "fullFare": 7.8,
+        "lastUpdateDate": "2026-05-05T00:00:00",
+        "routeSeq": 2,
+        "stopSeq": 29,
+        "stopId": 10000183,
+        "stopPickDrop": 1,
+        "stopNameC": "西貢巴士總站",
+        "stopNameS": "西贡巴士总站",
+        "stopNameE": "SAI KUNG BUS TERMINUS"
+      }
+    }
+  ],
+  "sourceUrl": "https://static.data.gov.hk/td/routes-fares-geojson/JSON_BUS.json"
+}

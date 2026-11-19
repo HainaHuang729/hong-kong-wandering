@@ -1,0 +1,2922 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.15772,
+        22.284152
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 1,
+      "stopId": 1441,
+      "stopPickDrop": 2,
+      "stopNameC": "中環 (交易廣場)",
+      "stopNameS": "中环 (交易广场)",
+      "stopNameE": "Central (Exchange Square)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.161252,
+        22.281958
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 2,
+      "stopId": 647,
+      "stopPickDrop": 3,
+      "stopNameC": "大會堂, 干諾道中",
+      "stopNameS": "大会堂, 干诺道中",
+      "stopNameE": "City Hall, Connaught Road Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.164163,
+        22.278662
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 3,
+      "stopId": 130,
+      "stopPickDrop": 3,
+      "stopNameC": "金鐘 - 金鐘花園, 金鐘道",
+      "stopNameS": "金钟 - 金钟花园, 金钟道",
+      "stopNameE": "Admiralty - Admiralty Garden, Queensway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.173071,
+        22.279485
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 4,
+      "stopId": 31,
+      "stopPickDrop": 3,
+      "stopNameC": "入境事務大樓, 告士打道",
+      "stopNameS": "入境事务大楼, 告士打道",
+      "stopNameE": "Immigration Tower, Gloucester Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.176331,
+        22.248636
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 5,
+      "stopId": 430,
+      "stopPickDrop": 3,
+      "stopNameC": "黃竹坑新圍, 黃竹坑道",
+      "stopNameS": "黄竹坑新围, 黄竹坑道",
+      "stopNameE": "Wong Chuk Hang San Wai, Wong Chuk Hang Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.178727,
+        22.245791
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 6,
+      "stopId": 431,
+      "stopPickDrop": 3,
+      "stopNameC": "鄉村俱樂部, 黃竹坑道",
+      "stopNameS": "乡村俱乐部, 黄竹坑道",
+      "stopNameE": "Hong Kong Country Club, Wong Chuk Hang Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.188069,
+        22.244527
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 7,
+      "stopId": 3113,
+      "stopPickDrop": 3,
+      "stopNameC": "深水灣, 香島道",
+      "stopNameS": "深水湾, 香岛道",
+      "stopNameE": "Deep Water Bay, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.187312,
+        22.240174
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 8,
+      "stopId": 3091,
+      "stopPickDrop": 3,
+      "stopNameC": "蒲苑, 香島道",
+      "stopNameS": "蒲苑, 香岛道",
+      "stopNameE": "Deepdene, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.18964,
+        22.237573
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 9,
+      "stopId": 434,
+      "stopPickDrop": 3,
+      "stopNameC": "香島小築, 香島道",
+      "stopNameS": "香岛小筑, 香岛道",
+      "stopNameE": "Island Club, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.192996,
+        22.238394
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 10,
+      "stopId": 435,
+      "stopPickDrop": 3,
+      "stopNameC": "麗景道, 淺水灣道",
+      "stopNameS": "丽景道, 浅水湾道",
+      "stopNameE": "Belleview Drive, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.195315,
+        22.23862
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 11,
+      "stopId": 436,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣海灘, 淺水灣道",
+      "stopNameS": "浅水湾海滩, 浅水湾道",
+      "stopNameE": "Repulse Bay Beach, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.198739,
+        22.238448
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 12,
+      "stopId": 437,
+      "stopPickDrop": 3,
+      "stopNameC": "保華大廈, 淺水灣道",
+      "stopNameS": "保华大厦, 浅水湾道",
+      "stopNameE": "Repulse Bay Towers, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.199427,
+        22.236669
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 13,
+      "stopId": 716,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣道 127 號, 淺水灣道",
+      "stopNameS": "浅水湾道 127 号, 浅水湾道",
+      "stopNameE": "127 Repulse Bay Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.202983,
+        22.22665
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 14,
+      "stopId": 440,
+      "stopPickDrop": 3,
+      "stopNameC": "赫蘭道, 淺水灣道",
+      "stopNameS": "赫兰道, 浅水湾道",
+      "stopNameE": "Headland Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.20529,
+        22.225004
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 15,
+      "stopId": 8065,
+      "stopPickDrop": 3,
+      "stopNameC": "舂磡角道, 赤柱峽道",
+      "stopNameS": "舂磡角道, 赤柱峡道",
+      "stopNameE": "Chung Hom Kok Road, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.208649,
+        22.223699
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 16,
+      "stopId": 12932,
+      "stopPickDrop": 3,
+      "stopNameC": "衛奕信徑, 赤柱峽道",
+      "stopNameS": "卫奕信径, 赤柱峡道",
+      "stopNameE": "Wilson Trail, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.209329,
+        22.225153
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 17,
+      "stopId": 441,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱峽道",
+      "stopNameS": "赤柱峡道",
+      "stopNameE": "Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.212403,
+        22.224764
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 18,
+      "stopId": 443,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱崗抽水站, 赤柱峽道",
+      "stopNameS": "赤柱岗抽水站, 赤柱峡道",
+      "stopNameE": "Stanley Mound Pumping Station, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.213752,
+        22.224764
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 19,
+      "stopId": 444,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱峽道交匯處, 赤柱峽道",
+      "stopNameS": "赤柱峡道交汇处, 赤柱峡道",
+      "stopNameE": "Stanley Gap Road Interchange, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.213412,
+        22.223951
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 20,
+      "stopId": 3008,
+      "stopPickDrop": 3,
+      "stopNameC": "旭逸居, 赤柱村道",
+      "stopNameS": "旭逸居, 赤柱村道",
+      "stopNameE": "Stanford Villa, Stanley Village Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.211746,
+        22.221133
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 21,
+      "stopId": 446,
+      "stopPickDrop": 3,
+      "stopNameC": "海灣園, 赤柱村道",
+      "stopNameS": "海湾园, 赤柱村道",
+      "stopNameE": "Stanley Court, Stanley Village Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.212945,
+        22.21912
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 22,
+      "stopId": 13331,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱村, 赤柱村道",
+      "stopNameS": "赤柱村, 赤柱村道",
+      "stopNameE": "Stanley Village, Stanley Village Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.214206,
+        22.218216
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 23,
+      "stopId": 10001,
+      "stopPickDrop": 3,
+      "stopNameC": "香港航海學校, 東頭灣道",
+      "stopNameS": "香港航海学校, 东头湾道",
+      "stopNameE": "Hong Kong Sea School, Tung Tau Wan Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.217076,
+        22.216671
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 24,
+      "stopId": 84,
+      "stopPickDrop": 3,
+      "stopNameC": "聖士提反書院, 東頭灣道",
+      "stopNameS": "圣士提反书院, 东头湾道",
+      "stopNameE": "St. Stephen's College, Tung Tau Wan Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.217648,
+        22.215488
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 25,
+      "stopId": 3225,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱監獄, 東頭灣道",
+      "stopNameS": "赤柱监狱, 东头湾道",
+      "stopNameE": "Stanley Prison, Tung Tau Wan Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.217028,
+        22.216626
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 26,
+      "stopId": 87,
+      "stopPickDrop": 3,
+      "stopNameC": "聖士提反書院, 東頭灣道",
+      "stopNameS": "圣士提反书院, 东头湾道",
+      "stopNameE": "St. Stephen's College, Tung Tau Wan Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.2131,
+        22.219156
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 27,
+      "stopId": 82,
+      "stopPickDrop": 1,
+      "stopNameC": "赤柱村",
+      "stopNameS": "赤柱村",
+      "stopNameE": "Stanley Village"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.2131,
+        22.219156
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 1,
+      "stopId": 82,
+      "stopPickDrop": 2,
+      "stopNameC": "赤柱村",
+      "stopNameS": "赤柱村",
+      "stopNameE": "Stanley Village"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.211252,
+        22.221898
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 2,
+      "stopId": 89,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱崗道, 赤柱村道",
+      "stopNameS": "赤柱岗道, 赤柱村道",
+      "stopNameE": "Stanley Mound Road, Stanley Village Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.213431,
+        22.224077
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 3,
+      "stopId": 90,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱灘道, 赤柱村道",
+      "stopNameS": "赤柱滩道, 赤柱村道",
+      "stopNameE": "Stanley Beach Road, Stanley Village Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.214256,
+        22.224836
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 4,
+      "stopId": 406,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱峽道交匯處, 赤柱峽道",
+      "stopNameS": "赤柱峡道交汇处, 赤柱峡道",
+      "stopNameE": "Stanley Gap Road Interchange, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.210008,
+        22.225117
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 5,
+      "stopId": 10312,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱峽道",
+      "stopNameS": "赤柱峡道",
+      "stopNameE": "Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.208523,
+        22.223546
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 6,
+      "stopId": 407,
+      "stopPickDrop": 3,
+      "stopNameC": "衛奕信徑, 赤柱峽道",
+      "stopNameS": "卫奕信径, 赤柱峡道",
+      "stopNameE": "Wilson Trail, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.203141,
+        22.22585
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 7,
+      "stopId": 408,
+      "stopPickDrop": 3,
+      "stopNameC": "赫蘭道, 淺水灣道",
+      "stopNameS": "赫兰道, 浅水湾道",
+      "stopNameE": "Headland Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.20094,
+        22.233971
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 8,
+      "stopId": 13330,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣道 102 號, 淺水灣道",
+      "stopNameS": "浅水湾道 102 号, 浅水湾道",
+      "stopNameE": "102 Repulse Bay Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.199699,
+        22.235468
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 9,
+      "stopId": 409,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣道 90 號, 淺水灣道",
+      "stopNameS": "浅水湾道 90 号, 浅水湾道",
+      "stopNameE": "90 Repulse Bay Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.197992,
+        22.238042
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 10,
+      "stopId": 3110,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣別墅, 淺水灣道",
+      "stopNameS": "浅水湾别墅, 浅水湾道",
+      "stopNameE": "Repulse Bay Villas, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.195169,
+        22.23853
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 11,
+      "stopId": 411,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣海灘, 淺水灣道",
+      "stopNameS": "浅水湾海滩, 浅水湾道",
+      "stopNameE": "Repulse Bay Beach, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.192666,
+        22.237374
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 12,
+      "stopId": 412,
+      "stopPickDrop": 3,
+      "stopNameC": "麗景道, 淺水灣道",
+      "stopNameS": "丽景道, 浅水湾道",
+      "stopNameE": "Belleview Drive, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.189436,
+        22.2376
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 13,
+      "stopId": 413,
+      "stopPickDrop": 3,
+      "stopNameC": "香島小築, 香島道",
+      "stopNameS": "香岛小筑, 香岛道",
+      "stopNameE": "Island Club, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.187225,
+        22.239939
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 14,
+      "stopId": 3112,
+      "stopPickDrop": 3,
+      "stopNameC": "蒲苑, 香島道",
+      "stopNameS": "蒲苑, 香岛道",
+      "stopNameE": "Deepdene, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.186566,
+        22.245665
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 15,
+      "stopId": 3114,
+      "stopPickDrop": 3,
+      "stopNameC": "深水灣, 香島道",
+      "stopNameS": "深水湾, 香岛道",
+      "stopNameE": "Deep Water Bay, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.177883,
+        22.246035
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 16,
+      "stopId": 416,
+      "stopPickDrop": 3,
+      "stopNameC": "鄉村俱樂部, 黃竹坑道",
+      "stopNameS": "乡村俱乐部, 黄竹坑道",
+      "stopNameE": "Hong Kong Country Club, Wong Chuk Hang Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.176137,
+        22.248121
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 17,
+      "stopId": 417,
+      "stopPickDrop": 3,
+      "stopNameC": "海洋公園停車場, 黃竹坑道",
+      "stopNameS": "海洋公园停车场, 黄竹坑道",
+      "stopNameE": "Ocean Park Carpark, Wong Chuk Hang Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.174934,
+        22.279376
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 18,
+      "stopId": 18,
+      "stopPickDrop": 3,
+      "stopNameC": "國際調解院, 告士打道",
+      "stopNameS": "国际调解院, 告士打道",
+      "stopNameE": "International Organization for Mediation, Gloucester Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.17082,
+        22.27916
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 19,
+      "stopId": 19,
+      "stopPickDrop": 3,
+      "stopNameC": "分域街, 告士打道",
+      "stopNameS": "分域街, 告士打道",
+      "stopNameE": "Fenwick Street, Gloucester Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.165192,
+        22.27953
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 20,
+      "stopId": 8050,
+      "stopPickDrop": 3,
+      "stopNameC": "金鐘 - 海富中心, 夏慤道",
+      "stopNameS": "金钟 - 海富中心, 夏悫道",
+      "stopNameE": "Admiralty - Admiralty Centre, Harcourt Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.160136,
+        22.281958
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 21,
+      "stopId": 21,
+      "stopPickDrop": 3,
+      "stopNameC": "皇后像廣場, 干諾道中",
+      "stopNameS": "皇后像广场, 干诺道中",
+      "stopNameE": "Statue Square, Connaught Road Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.15772,
+        22.284152
+      ]
+    },
+    "properties": {
+      "routeId": 1526,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "R",
+      "specialType": 0,
+      "journeyTime": 46,
+      "locStartNameC": "中環(交易廣場)",
+      "locStartNameS": "中环(交易广场)",
+      "locStartNameE": "Central (Exchange Square)",
+      "locEndNameC": "赤柱市場",
+      "locEndNameS": "赤柱市场",
+      "locEndNameE": "Stanley Market Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 2,
+      "stopSeq": 22,
+      "stopId": 1441,
+      "stopPickDrop": 1,
+      "stopNameC": "中環 (交易廣場)",
+      "stopNameS": "中环 (交易广场)",
+      "stopNameE": "Central (Exchange Square)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.217648,
+        22.215488
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 1,
+      "stopId": 3225,
+      "stopPickDrop": 2,
+      "stopNameC": "赤柱監獄, 東頭灣道",
+      "stopNameS": "赤柱监狱, 东头湾道",
+      "stopNameE": "Stanley Prison, Tung Tau Wan Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.217028,
+        22.216626
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 2,
+      "stopId": 87,
+      "stopPickDrop": 3,
+      "stopNameC": "聖士提反書院, 東頭灣道",
+      "stopNameS": "圣士提反书院, 东头湾道",
+      "stopNameE": "St. Stephen's College, Tung Tau Wan Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.2131,
+        22.219156
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 3,
+      "stopId": 82,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱村",
+      "stopNameS": "赤柱村",
+      "stopNameE": "Stanley Village"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.211252,
+        22.221898
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 4,
+      "stopId": 89,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱崗道, 赤柱村道",
+      "stopNameS": "赤柱岗道, 赤柱村道",
+      "stopNameE": "Stanley Mound Road, Stanley Village Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.213431,
+        22.224077
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 5,
+      "stopId": 90,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱灘道, 赤柱村道",
+      "stopNameS": "赤柱滩道, 赤柱村道",
+      "stopNameE": "Stanley Beach Road, Stanley Village Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.214256,
+        22.224836
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 6,
+      "stopId": 406,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱峽道交匯處, 赤柱峽道",
+      "stopNameS": "赤柱峡道交汇处, 赤柱峡道",
+      "stopNameE": "Stanley Gap Road Interchange, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.210008,
+        22.225117
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 7,
+      "stopId": 10312,
+      "stopPickDrop": 3,
+      "stopNameC": "赤柱峽道",
+      "stopNameS": "赤柱峡道",
+      "stopNameE": "Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.208523,
+        22.223546
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 8,
+      "stopId": 407,
+      "stopPickDrop": 3,
+      "stopNameC": "衛奕信徑, 赤柱峽道",
+      "stopNameS": "卫奕信径, 赤柱峡道",
+      "stopNameE": "Wilson Trail, Stanley Gap Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.203141,
+        22.22585
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 9,
+      "stopId": 408,
+      "stopPickDrop": 3,
+      "stopNameC": "赫蘭道, 淺水灣道",
+      "stopNameS": "赫兰道, 浅水湾道",
+      "stopNameE": "Headland Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.20094,
+        22.233971
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 10,
+      "stopId": 13330,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣道 102 號, 淺水灣道",
+      "stopNameS": "浅水湾道 102 号, 浅水湾道",
+      "stopNameE": "102 Repulse Bay Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.199699,
+        22.235468
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 11,
+      "stopId": 409,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣道 90 號, 淺水灣道",
+      "stopNameS": "浅水湾道 90 号, 浅水湾道",
+      "stopNameE": "90 Repulse Bay Road, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.197992,
+        22.238042
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 12,
+      "stopId": 3110,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣別墅, 淺水灣道",
+      "stopNameS": "浅水湾别墅, 浅水湾道",
+      "stopNameE": "Repulse Bay Villas, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.195169,
+        22.23853
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 13,
+      "stopId": 411,
+      "stopPickDrop": 3,
+      "stopNameC": "淺水灣海灘, 淺水灣道",
+      "stopNameS": "浅水湾海滩, 浅水湾道",
+      "stopNameE": "Repulse Bay Beach, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.192666,
+        22.237374
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 14,
+      "stopId": 412,
+      "stopPickDrop": 3,
+      "stopNameC": "麗景道, 淺水灣道",
+      "stopNameS": "丽景道, 浅水湾道",
+      "stopNameE": "Belleview Drive, Repulse Bay Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.189436,
+        22.2376
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 15,
+      "stopId": 413,
+      "stopPickDrop": 3,
+      "stopNameC": "香島小築, 香島道",
+      "stopNameS": "香岛小筑, 香岛道",
+      "stopNameE": "Island Club, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.187225,
+        22.239939
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 16,
+      "stopId": 3112,
+      "stopPickDrop": 3,
+      "stopNameC": "蒲苑, 香島道",
+      "stopNameS": "蒲苑, 香岛道",
+      "stopNameE": "Deepdene, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.186566,
+        22.245665
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 17,
+      "stopId": 3114,
+      "stopPickDrop": 3,
+      "stopNameC": "深水灣, 香島道",
+      "stopNameS": "深水湾, 香岛道",
+      "stopNameE": "Deep Water Bay, Island Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.177883,
+        22.246035
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 18,
+      "stopId": 416,
+      "stopPickDrop": 3,
+      "stopNameC": "鄉村俱樂部, 黃竹坑道",
+      "stopNameS": "乡村俱乐部, 黄竹坑道",
+      "stopNameE": "Hong Kong Country Club, Wong Chuk Hang Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.176137,
+        22.248121
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 19,
+      "stopId": 417,
+      "stopPickDrop": 3,
+      "stopNameC": "海洋公園停車場, 黃竹坑道",
+      "stopNameS": "海洋公园停车场, 黄竹坑道",
+      "stopNameE": "Ocean Park Carpark, Wong Chuk Hang Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.174934,
+        22.279376
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 20,
+      "stopId": 18,
+      "stopPickDrop": 3,
+      "stopNameC": "國際調解院, 告士打道",
+      "stopNameS": "国际调解院, 告士打道",
+      "stopNameE": "International Organization for Mediation, Gloucester Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.17082,
+        22.27916
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 21,
+      "stopId": 19,
+      "stopPickDrop": 3,
+      "stopNameC": "分域街, 告士打道",
+      "stopNameS": "分域街, 告士打道",
+      "stopNameE": "Fenwick Street, Gloucester Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.165192,
+        22.27953
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 22,
+      "stopId": 8050,
+      "stopPickDrop": 3,
+      "stopNameC": "金鐘 - 海富中心, 夏慤道",
+      "stopNameS": "金钟 - 海富中心, 夏悫道",
+      "stopNameE": "Admiralty - Admiralty Centre, Harcourt Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.160136,
+        22.281958
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 23,
+      "stopId": 21,
+      "stopPickDrop": 3,
+      "stopNameC": "皇后像廣場, 干諾道中",
+      "stopNameS": "皇后像广场, 干诺道中",
+      "stopNameE": "Statue Square, Connaught Road Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.15772,
+        22.284152
+      ]
+    },
+    "properties": {
+      "routeId": 8590,
+      "companyCode": "CTB",
+      "district": "",
+      "routeNameC": "260",
+      "routeNameS": "260",
+      "routeNameE": "260",
+      "routeType": 1,
+      "serviceMode": "T",
+      "specialType": 1,
+      "journeyTime": 49,
+      "locStartNameC": "赤柱監獄",
+      "locStartNameS": "赤柱监狱",
+      "locStartNameE": "Stanley Prison",
+      "locEndNameC": "中環(交易廣場)",
+      "locEndNameS": "中环(交易广场)",
+      "locEndNameE": "Central (Exchange Square) Please inquire with the operator about the payment arrangement of the two-way fare on this route.",
+      "hyperlinkC": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=0",
+      "hyperlinkS": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=2",
+      "hyperlinkE": "https://mobile.citybus.com.hk/nwp3/?f=1&ds=260&dsmode=1&l=1",
+      "fullFare": 15.1,
+      "lastUpdateDate": "2025-01-05T00:00:00",
+      "routeSeq": 1,
+      "stopSeq": 24,
+      "stopId": 1441,
+      "stopPickDrop": 1,
+      "stopNameC": "中環 (交易廣場)",
+      "stopNameS": "中环 (交易广场)",
+      "stopNameE": "Central (Exchange Square)"
+    }
+  }
+]

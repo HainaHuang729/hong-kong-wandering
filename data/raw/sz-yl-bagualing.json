@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236779185,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 393911183,
+    "lat": "22.5598314",
+    "lon": "114.0942469",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "tertiary",
+    "name": "八卦一路",
+    "display_name": "八卦一路, 鹏盛社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5598124",
+      "22.5619784",
+      "114.0905191",
+      "114.0992295"
+    ]
+  },
+  {
+    "place_id": 237161563,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 98998709,
+    "lat": "22.5632376",
+    "lon": "114.0898726",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "tertiary",
+    "name": "八卦一路",
+    "display_name": "八卦一路, 华林社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5619784",
+      "22.5644967",
+      "114.0892260",
+      "114.0905191"
+    ]
+  }
+]

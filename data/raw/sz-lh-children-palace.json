@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237696870,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9326930438,
+    "lat": "22.5512172",
+    "lon": "114.0549848",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4134776339011324,
+    "addresstype": "railway",
+    "name": "少年宫‎",
+    "display_name": "少年宫‎, 红荔路, 福中社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5462172",
+      "22.5562172",
+      "114.0499848",
+      "114.0599848"
+    ]
+  },
+  {
+    "place_id": 426835446,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 14137759350,
+    "lat": "22.5505521",
+    "lon": "114.0557715",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4134776339011324,
+    "addresstype": "railway",
+    "name": "少年宫‎",
+    "display_name": "少年宫‎, 鹏程四路, 福中社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5455521",
+      "22.5555521",
+      "114.0507715",
+      "114.0607715"
+    ]
+  },
+  {
+    "place_id": 236961732,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7962005206,
+    "lat": "22.5515936",
+    "lon": "114.0568894",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "少年宫",
+    "display_name": "少年宫, 红荔路, 福新社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5515436",
+      "22.5516436",
+      "114.0568394",
+      "114.0569394"
+    ]
+  },
+  {
+    "place_id": 236874648,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4140845984,
+    "lat": "22.5505539",
+    "lon": "114.0557428",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "少年宫",
+    "display_name": "少年宫, 鹏程四路, 福中社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5505039",
+      "22.5506039",
+      "114.0556928",
+      "114.0557928"
+    ]
+  },
+  {
+    "place_id": 237121156,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7962005207,
+    "lat": "22.5511507",
+    "lon": "114.0563260",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "少年宫",
+    "display_name": "少年宫, 红荔路, 福中社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5511007",
+      "22.5512007",
+      "114.0562760",
+      "114.0563760"
+    ]
+  }
+]

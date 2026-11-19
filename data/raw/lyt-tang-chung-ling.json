@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 242498898,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 146933495,
+    "lat": "22.4976486",
+    "lon": "114.1528404",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.3514206354333152,
+    "addresstype": "amenity",
+    "name": "松嶺鄧公祠 Tang Chung Ling Ancestral Hall",
+    "display_name": "松嶺鄧公祠 Tang Chung Ling Ancestral Hall, 萃雲路 Sui Wan Road, 祠堂村 Tsz Tong Tsuen, 北區 North District, 新界 New Territories, 香港 Hong Kong, 518010, 中国",
+    "boundingbox": [
+      "22.4974382",
+      "22.4980046",
+      "114.1525497",
+      "114.1529989"
+    ]
+  }
+]

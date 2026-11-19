@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236783788,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 996069451,
+    "lat": "22.3240919",
+    "lon": "114.1687253",
+    "class": "bridge",
+    "type": "viaduct",
+    "place_rank": 30,
+    "importance": 0.38584692642506985,
+    "addresstype": "bridge",
+    "name": "太子道西天橋 Prince Edward Road West Flyover",
+    "display_name": "太子道西天橋 Prince Edward Road West Flyover, 太子道西 Prince Edward Road West, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3237853",
+      "22.3243588",
+      "114.1672146",
+      "114.1702439"
+    ]
+  },
+  {
+    "place_id": 237253643,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 996069460,
+    "lat": "22.3244983",
+    "lon": "114.1710808",
+    "class": "bridge",
+    "type": "viaduct",
+    "place_rank": 30,
+    "importance": 0.38584692642506985,
+    "addresstype": "bridge",
+    "name": "太子道西天橋 Prince Edward Road West Flyover",
+    "display_name": "太子道西天橋 Prince Edward Road West Flyover, 洗衣街 Sai Yee Street, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3243588",
+      "22.3246356",
+      "114.1702439",
+      "114.1719181"
+    ]
+  }
+]

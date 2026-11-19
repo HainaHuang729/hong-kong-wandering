@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 234849850,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8629099369,
+    "lat": "22.5648405",
+    "lon": "114.1010462",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "笋岗艺展中心",
+    "display_name": "笋岗艺展中心, 梅园路, 笋西社区, 笋岗街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5647905",
+      "22.5648905",
+      "114.1009962",
+      "114.1010962"
+    ]
+  }
+]

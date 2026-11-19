@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 245374857,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1297392132,
+    "lat": "22.2834236",
+    "lon": "114.1485624",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.3807705141182751,
+    "addresstype": "tourism",
+    "name": "香港醫學博物館 Hong Kong Museum of Medical Sciences",
+    "display_name": "香港醫學博物館 Hong Kong Museum of Medical Sciences, 2, 堅巷 Caine Lane, 太平山 Tai Ping Shan, 西半山 Mid-Levels West, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2831977",
+      "22.2836351",
+      "114.1483475",
+      "114.1487774"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237027626,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 184158924,
+    "lat": "22.3409567",
+    "lon": "114.1566776",
+    "class": "landuse",
+    "type": "residential",
+    "place_rank": 24,
+    "importance": 0.4143029080783626,
+    "addresstype": "residential",
+    "name": "蘇屋邨 So Uk Estate",
+    "display_name": "蘇屋邨 So Uk Estate, 380, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3394925",
+      "22.3423498",
+      "114.1547238",
+      "114.1585694"
+    ]
+  }
+]

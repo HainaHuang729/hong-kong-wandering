@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237075403,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 141710336,
+    "lat": "22.3775501",
+    "lon": "114.3017418",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.35411856752696674,
+    "addresstype": "amenity",
+    "name": "聖若瑟小堂 St. Joseph's Chapel",
+    "display_name": "聖若瑟小堂 St. Joseph's Chapel, 玉帶橋, 鹽田梓 Yim Tin Tsai, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3774744",
+      "22.3776260",
+      "114.3016189",
+      "114.3018648"
+    ]
+  }
+]

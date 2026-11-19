@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236925318,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 141710346,
+    "lat": "22.3734423",
+    "lon": "114.3043774",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04006549095902952,
+    "addresstype": "road",
+    "name": "玉帶橋",
+    "display_name": "玉帶橋, 鹽田梓 Yim Tin Tsai, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3731182",
+      "22.3738525",
+      "114.3040997",
+      "114.3047560"
+    ]
+  }
+]

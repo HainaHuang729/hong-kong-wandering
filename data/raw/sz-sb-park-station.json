@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237193277,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3433943197,
+    "lat": "22.5245920",
+    "lon": "113.9879591",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 0.40350075847621186,
+    "addresstype": "railway",
+    "name": "深圳湾公园",
+    "display_name": "深圳湾公园, 滨海大道辅路, 金城社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5245420",
+      "22.5246420",
+      "113.9879091",
+      "113.9880091"
+    ]
+  },
+  {
+    "place_id": 237313705,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11091086550,
+    "lat": "22.5245110",
+    "lon": "113.9879908",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 0.40350075847621186,
+    "addresstype": "railway",
+    "name": "深圳湾公园",
+    "display_name": "深圳湾公园, 滨海大道, 金城社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5244610",
+      "22.5245610",
+      "113.9879408",
+      "113.9880408"
+    ]
+  },
+  {
+    "place_id": 237232916,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062301243,
+    "lat": "22.5244887",
+    "lon": "113.9879978",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40350075847621186,
+    "addresstype": "railway",
+    "name": "深圳湾公园",
+    "display_name": "深圳湾公园, 滨海大道, 金城社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5194887",
+      "22.5294887",
+      "113.9829978",
+      "113.9929978"
+    ]
+  }
+]

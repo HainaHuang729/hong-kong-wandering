@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237618755,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9457819506,
+    "lat": "22.2540885",
+    "lon": "113.8621134",
+    "class": "shop",
+    "type": "beverages",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "shop",
+    "name": "大噢 Tai Ohhh",
+    "display_name": "大噢 Tai Ohhh, 1, 大澳涌行人橋 Tai O Creek Pedestrian Bridge, 大澳市中心 Tai O Town Centre, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2540385",
+      "22.2541385",
+      "113.8620634",
+      "113.8621634"
+    ]
+  },
+  {
+    "place_id": 237533758,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4592843494,
+    "lat": "22.2539106",
+    "lon": "113.8621260",
+    "class": "tourism",
+    "type": "viewpoint",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "大澳橋",
+    "display_name": "大澳橋, 大澳涌行人橋 Tai O Creek Pedestrian Bridge, 大澳市中心 Tai O Town Centre, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2538606",
+      "22.2539606",
+      "113.8620760",
+      "113.8621760"
+    ]
+  }
+]

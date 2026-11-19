@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236916259,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 4339014,
+    "lat": "22.2719970",
+    "lon": "114.1431561",
+    "class": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "pedestrian",
+    "name": "夏力道 Harlech Road",
+    "display_name": "夏力道 Harlech Road, 爐峰峽 Victoria Gap, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2714926",
+      "22.2729238",
+      "114.1393810",
+      "114.1470163"
+    ]
+  },
+  {
+    "place_id": 236975640,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 155738201,
+    "lat": "22.2733795",
+    "lon": "114.1362509",
+    "class": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "pedestrian",
+    "name": "夏力道 Harlech Road",
+    "display_name": "夏力道 Harlech Road, 太平山 Victoria Peak, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2729238",
+      "22.2735646",
+      "114.1330870",
+      "114.1393810"
+    ]
+  }
+]

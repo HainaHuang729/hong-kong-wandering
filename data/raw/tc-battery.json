@@ -1,0 +1,35 @@
+[
+  {
+    "place_id": 238316019,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1167836696,
+    "lat": "22.2873195",
+    "lon": "113.9355937",
+    "category": "historic",
+    "type": "fort",
+    "place_rank": 30,
+    "importance": 0.3618648643770844,
+    "addresstype": "historic",
+    "name": "東涌小炮台 Tung Chung Battery",
+    "display_name": "東涌小炮台 Tung Chung Battery, 東涌道北 Tung Chung Road North, 東涌西 Tung Chung West, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "address": {
+      "historic": "東涌小炮台 Tung Chung Battery",
+      "road": "東涌道北 Tung Chung Road North",
+      "quarter": "東涌西 Tung Chung West",
+      "borough": "大嶼山 Lantau",
+      "suburb": "離島區 Islands District",
+      "region": "新界 New Territories",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2872695",
+      "22.2873695",
+      "113.9355437",
+      "113.9356437"
+    ]
+  }
+]

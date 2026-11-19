@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236873765,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 14944626,
+    "lat": "22.3011219",
+    "lon": "114.1902483",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "amenity",
+    "name": "紅磡碼頭 Hung Hom Pier",
+    "display_name": "紅磡碼頭 Hung Hom Pier, 華信街 Wa Shun Street, 大環 Tai Wan, 紅磡 Hung Hom, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3000927",
+      "22.3013161",
+      "114.1889959",
+      "114.1905489"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237906702,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3440552509,
+    "lat": "22.5242439",
+    "lon": "114.2163922",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "鹿頸 Luk Keng",
+    "display_name": "鹿頸 Luk Keng, 新娘潭路 Bride's Pool Road, 鹿頸黃屋 Luk Keng Wong Uk, 河瀝背 Ho Lek Pui, 北區 North District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.5241939",
+      "22.5242939",
+      "114.2163422",
+      "114.2164422"
+    ]
+  }
+]

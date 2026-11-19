@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 235647786,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 15626540,
+    "lat": "22.5602688",
+    "lon": "113.9566716",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "大沙河公园‎",
+    "display_name": "大沙河公园‎, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5567975",
+      "22.5630057",
+      "113.9538819",
+      "113.9592761"
+    ]
+  },
+  {
+    "place_id": 237563883,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4202068729,
+    "lat": "22.5569272",
+    "lon": "113.9579952",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "大沙河公园",
+    "display_name": "大沙河公园, 北环大沙河公园天桥, 龙悦社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5568772",
+      "22.5569772",
+      "113.9579452",
+      "113.9580452"
+    ]
+  },
+  {
+    "place_id": 237395477,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4202068111,
+    "lat": "22.5560450",
+    "lon": "113.9577618",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "大沙河公园",
+    "display_name": "大沙河公园, 北环大道辅路, 明珠街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5559950",
+      "22.5560950",
+      "113.9577118",
+      "113.9578118"
+    ]
+  }
+]

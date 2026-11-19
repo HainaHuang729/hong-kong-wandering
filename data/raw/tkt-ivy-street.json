@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237440566,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 951220107,
+    "lat": "22.3214179",
+    "lon": "114.1608558",
+    "class": "landuse",
+    "type": "highway",
+    "place_rank": 24,
+    "importance": 0.08006601892118712,
+    "addresstype": "highway",
+    "name": "埃華街 Ivy Street",
+    "display_name": "埃華街 Ivy Street, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3213666",
+      "22.3214700",
+      "114.1604139",
+      "114.1612915"
+    ]
+  },
+  {
+    "place_id": 237778094,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 151226304,
+    "lat": "22.3211142",
+    "lon": "114.1639024",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05339935225452045,
+    "addresstype": "tertiary",
+    "name": "埃華街 Ivy Street",
+    "display_name": "埃華街 Ivy Street, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3210266",
+      "22.3212262",
+      "114.1632740",
+      "114.1644987"
+    ]
+  },
+  {
+    "place_id": 237693125,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 101558250,
+    "lat": "22.3214132",
+    "lon": "114.1611879",
+    "class": "highway",
+    "type": "unclassified",
+    "place_rank": 26,
+    "importance": 0.05339935225452045,
+    "addresstype": "unclassified",
+    "name": "埃華街 Ivy Street",
+    "display_name": "埃華街 Ivy Street, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3214059",
+      "22.3214238",
+      "114.1603679",
+      "114.1620079"
+    ]
+  }
+]

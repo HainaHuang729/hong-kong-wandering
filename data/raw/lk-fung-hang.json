@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238031533,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 693544016,
+    "lat": "22.5280944",
+    "lon": "114.2257264",
+    "class": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.13339882429236283,
+    "addresstype": "hamlet",
+    "name": "鳳坑 Fung Hang",
+    "display_name": "鳳坑 Fung Hang, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.5278583",
+      "22.5283127",
+      "114.2251036",
+      "114.2263300"
+    ]
+  }
+]

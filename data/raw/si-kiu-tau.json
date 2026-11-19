@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237852438,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 15749568,
+    "lat": "22.3633344",
+    "lon": "114.2865918",
+    "class": "natural",
+    "type": "peninsula",
+    "place_rank": 22,
+    "importance": 0.10673215762569617,
+    "addresstype": "peninsula",
+    "name": "橋頭 Kiu Tau",
+    "display_name": "橋頭 Kiu Tau, 橋咀 Kiu Tsui, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3622596",
+      "22.3644103",
+      "114.2858781",
+      "114.2873757"
+    ]
+  }
+]

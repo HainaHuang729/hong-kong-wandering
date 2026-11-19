@@ -1,0 +1,3022 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "12532336": {
+        "pageid": 12532336,
+        "ns": 6,
+        "title": "File:Cosmopolitan Hotel.JPG",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1205113,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cosmopolitan_Hotel.JPG/960px-Cosmopolitan_Hotel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cosmopolitan_Hotel.JPG/1920px-Cosmopolitan_Hotel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cosmopolitan_Hotel.JPG/960px-Cosmopolitan_Hotel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cosmopolitan_Hotel.JPG/1920px-Cosmopolitan_Hotel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cosmopolitan_Hotel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cosmopolitan_Hotel.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12532336",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-01-02 07:58:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cosmopolitan Hotel",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Queen's Road East|Dorsett Wanchai Hong Kong Hotel|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274811",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179492",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Cosmopolitan Hotel, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-12-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Keka410\" title=\"User:Keka410\">Keka410</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12532396": {
+        "pageid": 12532396,
+        "ns": 6,
+        "title": "File:Wong Nai Chung Road near Queen's Road East.JPG",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 763622,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG/960px-Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG/1920px-Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG/960px-Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG/1920px-Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wong_Nai_Chung_Road_near_Queen%27s_Road_East.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12532396",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-01-02 08:11:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wong Nai Chung Road near Queen's Road East",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wong Nai Chung Road|Wong Nai Chung Gap Flyover|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274931",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179578",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wong Nai Chung Road near Queen's Road East",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-12-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Keka410\" title=\"User:Keka410\">Keka410</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "49734632": {
+        "pageid": 49734632,
+        "ns": 6,
+        "title": "File:Hong-Kong-Cemetery-2016.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4785921,
+            "width": 5184,
+            "height": 3888,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong-Kong-Cemetery-2016.jpg/960px-Hong-Kong-Cemetery-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong-Kong-Cemetery-2016.jpg/1920px-Hong-Kong-Cemetery-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong-Kong-Cemetery-2016.jpg/960px-Hong-Kong-Cemetery-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hong-Kong-Cemetery-2016.jpg/1920px-Hong-Kong-Cemetery-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hong-Kong-Cemetery-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong-Kong-Cemetery-2016.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49734632",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-06-26 17:48:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong-Kong-Cemetery-2016",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-HX400|St Michael's Cemetery|Self-published work|Files with coordinates missing SDC location of creation|St. Michael's Cemetery Chapel, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.273333",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179167",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong Cemetery in Happy Valley.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-02-29 05:46:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Own work by uploader, <a rel=\"nofollow\" class=\"external free\" href=\"https://bjornfree.com/\">https://bjornfree.com/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Uspn\" title=\"User:Uspn\">Bjørn Christian Tørrissen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "53928886": {
+        "pageid": 53928886,
+        "ns": 6,
+        "title": "File:香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (5).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5977973,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_(5).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53928886",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-12-09 20:03:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (5)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "China photographs taken on 2011-08-01|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|2011 in Wan Chai District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.273162",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179524",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome you to tour the, Китай Синьцзяна Урумчи приветствовать Вас на экскурсию, الصين ترحب زيارتك لاورومتشى فى شينجيانغ, 中国新疆のウルムチへの訪問を歓迎する, 中国新疆乌鲁木齐欢迎您来观光旅游",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 1 August 2011",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161019235623/http://www.panoramio.com/photo/58036017\">https://web.archive.org/web/20161019235623/http://www.panoramio.com/photo/58036017</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161019235624/http://www.panoramio.com/user/1767794?with_photo_id=58036017\">罗布泊</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">罗布泊</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 9 December 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "罗布泊",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "53928898": {
+        "pageid": 53928898,
+        "ns": 6,
+        "title": "File:香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (6).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6041214,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_(6).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53928898",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-12-09 20:03:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (6)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "China photographs taken on 2011-08-01|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|2011 in Wan Chai District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274823",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179683",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome you to tour the, Китай Синьцзяна Урумчи приветствовать Вас на экскурсию, الصين ترحب زيارتك لاورومتشى فى شينجيانغ, 中国新疆のウルムチへの訪問を歓迎する, 中国新疆乌鲁木齐欢迎您来观光旅游",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 1 August 2011",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161022020937/http://www.panoramio.com/photo/58036100\">https://web.archive.org/web/20161022020937/http://www.panoramio.com/photo/58036100</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161022020940/http://www.panoramio.com/user/1767794?with_photo_id=58036100\">罗布泊</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">罗布泊</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 9 December 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "罗布泊",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "53928951": {
+        "pageid": 53928951,
+        "ns": 6,
+        "title": "File:香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (7).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6149315,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_(7).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53928951",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-12-09 20:05:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (7)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "China photographs taken on 2011-08-01|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|2011 in Wan Chai District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274767",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179608",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome you to tour the, Китай Синьцзяна Урумчи приветствовать Вас на экскурсию, الصين ترحب زيارتك لاورومتشى فى شينجيانغ, 中国新疆のウルムチへの訪問を歓迎する, 中国新疆乌鲁木齐欢迎您来观光旅游",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 1 August 2011",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161024001121/http://www.panoramio.com/photo/58036190\">https://web.archive.org/web/20161024001121/http://www.panoramio.com/photo/58036190</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161024001124/http://www.panoramio.com/user/1767794?with_photo_id=58036190\">罗布泊</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">罗布泊</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 9 December 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "罗布泊",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "53928960": {
+        "pageid": 53928960,
+        "ns": 6,
+        "title": "File:香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (8).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5535607,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg/960px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg/1920px-%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF%E6%B9%BE%E4%BB%94%E5%8C%BA_Hong_Kong_Wan_Chai_Area_China_Xinjiang_Urumqi_Welcome_yo_-_panoramio_(8).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53928960",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-12-09 20:05:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome yo - panoramio (8)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Panoramio files uploaded by Panoramio upload bot|Hong Kong photographs taken on 2011-08-01|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|2011 in Wan Chai District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275057",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179777",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "香港湾仔区 Hong Kong Wan Chai Area China Xinjiang Urumqi Welcome you to tour the, Китай Синьцзяна Урумчи приветствовать Вас на экскурсию, الصين ترحب زيارتك لاورومتشى فى شينجيانغ, 中国新疆のウルムチへの訪問を歓迎する, 中国新疆乌鲁木齐欢迎您来观光旅游",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 1 August 2011",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161021035744/http://www.panoramio.com/photo/58036257\">https://web.archive.org/web/20161021035744/http://www.panoramio.com/photo/58036257</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161021035747/http://www.panoramio.com/user/1767794?with_photo_id=58036257\">罗布泊</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">罗布泊</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 9 December 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "罗布泊",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82760756": {
+        "pageid": 82760756,
+        "ns": 6,
+        "title": "File:2019-09-26 Wan Chai 21.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9371018,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019-09-26_Wan_Chai_21.jpg/960px-2019-09-26_Wan_Chai_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019-09-26_Wan_Chai_21.jpg/1920px-2019-09-26_Wan_Chai_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019-09-26_Wan_Chai_21.jpg/960px-2019-09-26_Wan_Chai_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019-09-26_Wan_Chai_21.jpg/1920px-2019-09-26_Wan_Chai_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/2019-09-26_Wan_Chai_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-26_Wan_Chai_21.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82760756",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 10:26:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-26 Wan Chai 21",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Demonstration against extradition bill, 26 September 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274886",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179344",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190926 Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-26 21:25:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48799599828/\">https://www.flickr.com/photos/29418416@N08/48799599828/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82760765": {
+        "pageid": 82760765,
+        "ns": 6,
+        "title": "File:2019-09-26 Wan Chai 24.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8274740,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2019-09-26_Wan_Chai_24.jpg/960px-2019-09-26_Wan_Chai_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2019-09-26_Wan_Chai_24.jpg/1920px-2019-09-26_Wan_Chai_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2019-09-26_Wan_Chai_24.jpg/960px-2019-09-26_Wan_Chai_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2019-09-26_Wan_Chai_24.jpg/1920px-2019-09-26_Wan_Chai_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/2019-09-26_Wan_Chai_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-26_Wan_Chai_24.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82760765",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 10:26:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-26 Wan Chai 24",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Demonstration against extradition bill, 26 September 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274950",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178853",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190926 Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-26 21:56:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48799950936/\">https://www.flickr.com/photos/29418416@N08/48799950936/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82760772": {
+        "pageid": 82760772,
+        "ns": 6,
+        "title": "File:2019-09-26 Wan Chai 25.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7628291,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2019-09-26_Wan_Chai_25.jpg/960px-2019-09-26_Wan_Chai_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2019-09-26_Wan_Chai_25.jpg/1920px-2019-09-26_Wan_Chai_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2019-09-26_Wan_Chai_25.jpg/960px-2019-09-26_Wan_Chai_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2019-09-26_Wan_Chai_25.jpg/1920px-2019-09-26_Wan_Chai_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2019-09-26_Wan_Chai_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-26_Wan_Chai_25.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82760772",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 10:26:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-26 Wan Chai 25",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Demonstration against extradition bill, 26 September 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275161",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179356",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190926 Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-26 22:04:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48799598958/\">https://www.flickr.com/photos/29418416@N08/48799598958/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82760773": {
+        "pageid": 82760773,
+        "ns": 6,
+        "title": "File:2019-09-26 Wan Chai 26.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9349807,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2019-09-26_Wan_Chai_26.jpg/960px-2019-09-26_Wan_Chai_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2019-09-26_Wan_Chai_26.jpg/1920px-2019-09-26_Wan_Chai_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2019-09-26_Wan_Chai_26.jpg/960px-2019-09-26_Wan_Chai_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2019-09-26_Wan_Chai_26.jpg/1920px-2019-09-26_Wan_Chai_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/2019-09-26_Wan_Chai_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-26_Wan_Chai_26.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82760773",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 10:26:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-26 Wan Chai 26",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Demonstration against extradition bill, 26 September 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275161",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179356",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190926 Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-26 22:05:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48799598773/\">https://www.flickr.com/photos/29418416@N08/48799598773/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82760774": {
+        "pageid": 82760774,
+        "ns": 6,
+        "title": "File:2019-09-26 Wan Chai 27.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7924158,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2019-09-26_Wan_Chai_27.jpg/960px-2019-09-26_Wan_Chai_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2019-09-26_Wan_Chai_27.jpg/1920px-2019-09-26_Wan_Chai_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2019-09-26_Wan_Chai_27.jpg/960px-2019-09-26_Wan_Chai_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2019-09-26_Wan_Chai_27.jpg/1920px-2019-09-26_Wan_Chai_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/2019-09-26_Wan_Chai_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-26_Wan_Chai_27.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82760774",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 10:26:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-26 Wan Chai 27",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Demonstration against extradition bill, 26 September 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274675",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178947",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190926 Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-26 22:51:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48799598613/\">https://www.flickr.com/photos/29418416@N08/48799598613/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82760778": {
+        "pageid": 82760778,
+        "ns": 6,
+        "title": "File:2019-09-26 Wan Chai 28.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6888144,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2019-09-26_Wan_Chai_28.jpg/960px-2019-09-26_Wan_Chai_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2019-09-26_Wan_Chai_28.jpg/1920px-2019-09-26_Wan_Chai_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2019-09-26_Wan_Chai_28.jpg/960px-2019-09-26_Wan_Chai_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2019-09-26_Wan_Chai_28.jpg/1920px-2019-09-26_Wan_Chai_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2019-09-26_Wan_Chai_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-26_Wan_Chai_28.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82760778",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 10:26:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-26 Wan Chai 28",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Demonstration against extradition bill, 26 September 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274506",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178836",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190926 Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-26 22:54:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48800091697/\">https://www.flickr.com/photos/29418416@N08/48800091697/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82760780": {
+        "pageid": 82760780,
+        "ns": 6,
+        "title": "File:2019-09-26 Wan Chai 29.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5080626,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-09-26_Wan_Chai_29.jpg/960px-2019-09-26_Wan_Chai_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-09-26_Wan_Chai_29.jpg/1920px-2019-09-26_Wan_Chai_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-09-26_Wan_Chai_29.jpg/960px-2019-09-26_Wan_Chai_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-09-26_Wan_Chai_29.jpg/1920px-2019-09-26_Wan_Chai_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2019-09-26_Wan_Chai_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019-09-26_Wan_Chai_29.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82760780",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-01 10:26:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019-09-26 Wan Chai 29",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Demonstration against extradition bill, 26 September 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274506",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178836",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "20190926 Wan Chai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-26 22:54:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/29418416@N08/48799950046/\">https://www.flickr.com/photos/29418416@N08/48799950046/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Studio Incendo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "85891053": {
+        "pageid": 85891053,
+        "ns": 6,
+        "title": "File:Gu Yuting Liu Gaoyang 2012.jpeg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1239209,
+            "width": 1841,
+            "height": 1229,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Gu_Yuting_Liu_Gaoyang_2012.jpeg/960px-Gu_Yuting_Liu_Gaoyang_2012.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gu_Yuting_Liu_Gaoyang_2012.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Gu_Yuting_Liu_Gaoyang_2012.jpeg/960px-Gu_Yuting_Liu_Gaoyang_2012.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gu_Yuting_Liu_Gaoyang_2012.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gu_Yuting_Liu_Gaoyang_2012.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gu_Yuting_Liu_Gaoyang_2012.jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85891053",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-14 10:24:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gu Yuting Liu Gaoyang 2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gu Yuting|Liu Gaoyang|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275054",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178955",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Future Chinese stars of tomorrow wearing one half of a Partners Pendant each.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-08-19 13:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/vinqui/8019681441/\">Partners Pendant</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60908467@N02\">Vinqui</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "87081332": {
+        "pageid": 87081332,
+        "ns": 6,
+        "title": "File:Coiling Dragon Pendant (8019712310).jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4460544,
+            "width": 3776,
+            "height": 2520,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Coiling_Dragon_Pendant_%288019712310%29.jpg/960px-Coiling_Dragon_Pendant_%288019712310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Coiling_Dragon_Pendant_%288019712310%29.jpg/1920px-Coiling_Dragon_Pendant_%288019712310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Coiling_Dragon_Pendant_%288019712310%29.jpg/960px-Coiling_Dragon_Pendant_%288019712310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Coiling_Dragon_Pendant_%288019712310%29.jpg/1920px-Coiling_Dragon_Pendant_%288019712310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coiling_Dragon_Pendant_%288019712310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coiling_Dragon_Pendant_(8019712310).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87081332",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-02-15 16:23:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Coiling Dragon Pendant (8019712310)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Male table tennis players from Hong Kong|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275054",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178955",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Daryl Hung",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-08-17 12:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/vinqui/8019712310/\">Coiling Dragon Pendant</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60908467@N02\">Vinqui</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "87249752": {
+        "pageid": 87249752,
+        "ns": 6,
+        "title": "File:Players (8019701819).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4349952,
+            "width": 3776,
+            "height": 2520,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Players_%288019701819%29.jpg/960px-Players_%288019701819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 641,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Players_%288019701819%29.jpg/1920px-Players_%288019701819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Players_%288019701819%29.jpg/960px-Players_%288019701819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 641,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Players_%288019701819%29.jpg/1920px-Players_%288019701819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Players_%288019701819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Players_(8019701819).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87249752",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-02-19 18:49:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Players (8019701819)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Male table tennis players from Taiwan|Liao Cheng-ting|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275054",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178955",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A couple of players showing of their new Vinqui Jewelry.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-08-17 14:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/vinqui/8019701819/\">Players</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60908467@N02\">Vinqui</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122894632": {
+        "pageid": 122894632,
+        "ns": 6,
+        "title": "File:Queen Elizabeth Stadium 11-09-2022.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3799581,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Queen_Elizabeth_Stadium_11-09-2022.jpg/960px-Queen_Elizabeth_Stadium_11-09-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Queen_Elizabeth_Stadium_11-09-2022.jpg/1920px-Queen_Elizabeth_Stadium_11-09-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Queen_Elizabeth_Stadium_11-09-2022.jpg/960px-Queen_Elizabeth_Stadium_11-09-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Queen_Elizabeth_Stadium_11-09-2022.jpg/1920px-Queen_Elizabeth_Stadium_11-09-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Queen_Elizabeth_Stadium_11-09-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_Stadium_11-09-2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122894632",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-11 15:11:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Queen Elizabeth Stadium 11-09-2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Queen Elizabeth Stadium|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274682",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179509",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​This photo is taken in Happy Valley.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-11 16:00:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147274856": {
+        "pageid": 147274856,
+        "ns": 6,
+        "title": "File:HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium April 2024 R12S 01.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2125117,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg/960px-HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg/1920px-HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg/960px-HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg/1920px-HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_April_2024_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147274856",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-11 02:23:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium April 2024 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Queen Elizabeth Stadium|Self-published work|Files with coordinates missing SDC location of creation|April 2024 in Wan Chai|Hong Kong photographs taken on 2024-04-08|2024 in Queen Elizabeth Stadium",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275045",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179028",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium in April 2024",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-04-08 17:54:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:YAOLUN_EEIY_TAEWWLA\" title=\"User:YAOLUN EEIY TAEWWLA\">YAOLUN EEIY TAEWWLA</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147274863": {
+        "pageid": 147274863,
+        "ns": 6,
+        "title": "File:HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 09.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3762010,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_09.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_09.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_09.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_09.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147274863",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-11 02:24:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Queen Elizabeth Stadium|Self-published work|Files with coordinates missing SDC location of creation|April 2024 in Wan Chai|Hong Kong photographs taken on 2024-04-08|Xue Long 2 (ship, 2019) in Hong Kong 2024|2024 in Queen Elizabeth Stadium",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275136",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178938",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show in April 2024",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-04-08 17:14:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:YAOLUN_EEIY_TAEWWLA\" title=\"User:YAOLUN EEIY TAEWWLA\">YAOLUN EEIY TAEWWLA</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147274869": {
+        "pageid": 147274869,
+        "ns": 6,
+        "title": "File:HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 11.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2806109,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_11.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_11.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_11.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_11.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_11.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147274869",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-11 02:24:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Queen Elizabeth Stadium|Self-published work|Files with coordinates missing SDC location of creation|April 2024 in Wan Chai|Hong Kong photographs taken on 2024-04-08|Xue Long 2 (ship, 2019) in Hong Kong 2024|2024 in Queen Elizabeth Stadium",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275136",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178938",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show in April 2024",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-04-08 17:14:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:YAOLUN_EEIY_TAEWWLA\" title=\"User:YAOLUN EEIY TAEWWLA\">YAOLUN EEIY TAEWWLA</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147274870": {
+        "pageid": 147274870,
+        "ns": 6,
+        "title": "File:HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 12.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3025209,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_12.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_12.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_12.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_12.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_12.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147274870",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-11 02:24:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 12",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Queen Elizabeth Stadium|Self-published work|Files with coordinates missing SDC location of creation|April 2024 in Wan Chai|Hong Kong photographs taken on 2024-04-08|Xue Long 2 (ship, 2019) in Hong Kong 2024|2024 in Queen Elizabeth Stadium",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275136",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178938",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show in April 2024",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-04-08 17:14:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:YAOLUN_EEIY_TAEWWLA\" title=\"User:YAOLUN EEIY TAEWWLA\">YAOLUN EEIY TAEWWLA</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147274874": {
+        "pageid": 147274874,
+        "ns": 6,
+        "title": "File:HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 13.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2976654,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_13.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_13.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_13.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_13.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%84%9B%E7%BE%A4%E9%81%93_Oi_Kwan_Road_%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8_Queen_Elizabeth_Stadium_%E7%A0%B4%E5%86%B0%E8%88%B9_Icebreakers_%E9%9B%AA%E9%BE%8D2%E8%99%9F_Xue_Long_2_ship_%E8%A8%AA%E6%B8%AF%E6%AD%A1%E8%BF%8E%E5%8C%AF%E6%BC%94_visiting_Hong_Kong_show_April_2024_R12S_13.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147274874",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-11 02:24:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show April 2024 R12S 13",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Queen Elizabeth Stadium|Self-published work|Files with coordinates missing SDC location of creation|April 2024 in Wan Chai|Hong Kong photographs taken on 2024-04-08|Xue Long 2 (ship, 2019) in Hong Kong 2024|2024 in Queen Elizabeth Stadium",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.275136",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.178938",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WC 灣仔 Wan Chai 愛群道 Oi Kwan Road 伊利沙伯體育館 Queen Elizabeth Stadium 破冰船 Icebreakers 雪龍2號 Xue Long 2 ship 訪港歡迎匯演 visiting Hong Kong show in April 2024",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-04-08 17:14:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:YAOLUN_EEIY_TAEWWLA\" title=\"User:YAOLUN EEIY TAEWWLA\">YAOLUN EEIY TAEWWLA</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "197929435": {
+        "pageid": 197929435,
+        "ns": 6,
+        "title": "File:Happy Valley Racecourse 21-08-2026.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11238612,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Happy_Valley_Racecourse_21-08-2026.jpg/960px-Happy_Valley_Racecourse_21-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Happy_Valley_Racecourse_21-08-2026.jpg/1920px-Happy_Valley_Racecourse_21-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Happy_Valley_Racecourse_21-08-2026.jpg/960px-Happy_Valley_Racecourse_21-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Happy_Valley_Racecourse_21-08-2026.jpg/1920px-Happy_Valley_Racecourse_21-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Happy_Valley_Racecourse_21-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Happy_Valley_Racecourse_21-08-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197929435",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-21 06:09:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Happy Valley Racecourse 21-08-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Happy Valley Racecourse|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-08-21",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274914",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179817",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在巴士上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-08-21 13:26:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "198536053": {
+        "pageid": 198536053,
+        "ns": 6,
+        "title": "File:Queen Elizabeth Stadium 31-08-2026.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7430611,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Queen_Elizabeth_Stadium_31-08-2026.jpg/960px-Queen_Elizabeth_Stadium_31-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Queen_Elizabeth_Stadium_31-08-2026.jpg/1920px-Queen_Elizabeth_Stadium_31-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Queen_Elizabeth_Stadium_31-08-2026.jpg/960px-Queen_Elizabeth_Stadium_31-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Queen_Elizabeth_Stadium_31-08-2026.jpg/1920px-Queen_Elizabeth_Stadium_31-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Queen_Elizabeth_Stadium_31-08-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_Stadium_31-08-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198536053",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-31 07:41:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Queen Elizabeth Stadium 31-08-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Queen Elizabeth Stadium|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-08-31",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.274969",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.179581",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在巴士上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-08-31 15:36:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

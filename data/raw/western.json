@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 235961766,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26599372,
+    "lat": "22.2873085",
+    "lon": "114.1503653",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "shop",
+    "name": "西港城 Western Market",
+    "display_name": "西港城 Western Market, 323, 安泰街 On Tai Street, 太平山 Tai Ping Shan, 上環 Sheung Wan, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2870650",
+      "22.2875521",
+      "114.1501806",
+      "114.1505500"
+    ]
+  },
+  {
+    "place_id": 237942056,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3112114537,
+    "lat": "22.2868599",
+    "lon": "114.1507667",
+    "class": "railway",
+    "type": "tram_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "railway",
+    "name": "上環街市 Western Market",
+    "display_name": "上環街市 Western Market, 德輔道中 Des Voeux Road Central, 太平山 Tai Ping Shan, 上環 Sheung Wan, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2868099",
+      "22.2869099",
+      "114.1507167",
+      "114.1508167"
+    ]
+  },
+  {
+    "place_id": 237408866,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3141194054,
+    "lat": "22.2877120",
+    "lon": "114.1497600",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "西港城 Western Market",
+    "display_name": "西港城 Western Market, 干諾道西 Connaught Road West, 太平山 Tai Ping Shan, 上環 Sheung Wan, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2876620",
+      "22.2877620",
+      "114.1497100",
+      "114.1498100"
+    ]
+  }
+]

@@ -1,0 +1,849 @@
+[
+  {
+    "route_no": 0,
+    "route_name": "起點總圖",
+    "map_title": "《香港散步學》路線起點",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1noTAwDV4rAI3Y8dnpdf_zGR02uCjNRI",
+    "map_description": "",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "【路線1】另一種「文青」行街視角：大坑",
+        "lat": 22.2813209,
+        "lng": 114.1914514,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1YvjvO86sNeO1AwiAQPDQYnOwf8vDhAw&usp=sharing",
+        "note": "對應路線1起點；description 連結：https://www.google.com/maps/d/edit?mid=1YvjvO86sNeO1AwiAQPDQYnOwf8vDhAw&usp=sharing"
+      },
+      {
+        "order": 2,
+        "name": "【路線2】夾在山與海之間的奇觀巡禮：寶馬山➡️北角",
+        "lat": 22.2827156,
+        "lng": 114.1993439,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1-PKEa9uMRb0M21jfSMogsycJLpg8Zrc&usp=sharing",
+        "note": "對應路線2起點；description 連結：https://www.google.com/maps/d/edit?mid=1-PKEa9uMRb0M21jfSMogsycJLpg8Zrc&usp=sharing"
+      },
+      {
+        "order": 3,
+        "name": "【路線3】古宅與異世界：西半山",
+        "lat": 22.2809542,
+        "lng": 114.1383596,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1bDWxJ-adsvbjb7tu19LBbcUxuLLzp18&usp=sharing",
+        "note": "對應路線3起點；description 連結：https://www.google.com/maps/d/edit?mid=1bDWxJ-adsvbjb7tu19LBbcUxuLLzp18&usp=sharing"
+      },
+      {
+        "order": 4,
+        "name": "【路線4】漫步橋上橋下，看海與人流：鴨脷洲➡️香港仔",
+        "lat": 22.2451725,
+        "lng": 114.1581021,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1PvGfD9lGJ2pYwpz24uHVWBriKjbmG2U&usp=sharing",
+        "note": "對應路線4起點；description 連結：https://www.google.com/maps/d/edit?mid=1PvGfD9lGJ2pYwpz24uHVWBriKjbmG2U&usp=sharing"
+      },
+      {
+        "order": 5,
+        "name": "【路線5】休憩日常：牛池灣➡️新蒲崗",
+        "lat": 22.334033,
+        "lng": 114.209802,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1FCnx4qA9jwMSO2xIuedWbrBnI9qhkSA&usp=sharing",
+        "note": "對應路線5起點；description 連結：https://www.google.com/maps/d/edit?mid=1FCnx4qA9jwMSO2xIuedWbrBnI9qhkSA&usp=sharing"
+      },
+      {
+        "order": 6,
+        "name": "【路線6】那些被賦予靈魂的公共空間：石硤尾",
+        "lat": 22.328367,
+        "lng": 114.167673,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1bYIIr1QjFUxSB_OMKsjJ8q8IibvLn7E&usp=sharing",
+        "note": "對應路線6起點；description 連結：https://www.google.com/maps/d/edit?mid=1bYIIr1QjFUxSB_OMKsjJ8q8IibvLn7E&usp=sharing"
+      },
+      {
+        "order": 7,
+        "name": "【路線7】從海走到「山」：土瓜灣",
+        "lat": 22.3149168,
+        "lng": 114.1916105,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1dpF67s6miypnubDL-CcOMImYjBmZ71M&usp=sharing",
+        "note": "對應路線7起點；description 連結：https://www.google.com/maps/d/edit?mid=1dpF67s6miypnubDL-CcOMImYjBmZ71M&usp=sharing"
+      },
+      {
+        "order": 8,
+        "name": "【路線8】體會「新城市」之美：沙田",
+        "lat": 22.3741048,
+        "lng": 114.1804174,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1ME9TuLGUTTwd4XEGcT87c9J5jVR1YRM&usp=sharing",
+        "note": "對應路線8起點；description 連結：https://www.google.com/maps/d/edit?mid=1ME9TuLGUTTwd4XEGcT87c9J5jVR1YRM&usp=sharing"
+      },
+      {
+        "order": 9,
+        "name": "【路線9】在「無街之城」中散步：將軍澳",
+        "lat": 22.3062803,
+        "lng": 114.2551107,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=1-i7JbTzgYTR4JP374pz0zPEaLu13xsU&usp=sharing",
+        "note": "對應路線9起點；description 連結：https://www.google.com/maps/d/edit?mid=1-i7JbTzgYTR4JP374pz0zPEaLu13xsU&usp=sharing"
+      },
+      {
+        "order": 10,
+        "name": "【路線10】各種仰望天際的角度：荃灣➡️深井",
+        "lat": 22.3697176,
+        "lng": 114.0994619,
+        "alt": 0.0,
+        "description": "https://www.google.com/maps/d/edit?mid=13MetgOsITjaB6OtY06_dj3fHsJRgR6o&usp=sharing",
+        "note": "對應路線10起點；description 連結：https://www.google.com/maps/d/edit?mid=13MetgOsITjaB6OtY06_dj3fHsJRgR6o&usp=sharing"
+      }
+    ]
+  },
+  {
+    "route_no": 1,
+    "route_name": "另一種「文青」行街視角：大坑",
+    "map_title": "【路線1】另一種「文青」行街視角：大坑",
+    "layer_name": "未命名的图层",
+    "source": "https://www.google.com/maps/d/viewer?mid=1YvjvO86sNeO1AwiAQPDQYnOwf8vDhAw",
+    "map_description": "https://s2.loli.net/2023/03/26/SbLqCrEowvBR7t9.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.皇仁書院-八顆吉貝",
+        "lat": 22.2813209,
+        "lng": 114.1914514,
+        "alt": 0.0
+      },
+      {
+        "order": 2,
+        "name": "2.火龍徑",
+        "lat": 22.2803907,
+        "lng": 114.1915215,
+        "alt": 0.0
+      },
+      {
+        "order": 3,
+        "name": "3-4.第二巷4號",
+        "lat": 22.2786817,
+        "lng": 114.1923582,
+        "alt": 0.0,
+        "description": "四號屋外牆為「上海批盪」，以麻石粒及沙漿模仿石牆凹凸不平的質感<br><br>原文網址: 大坑三級歷史建築粉紅外牆惹爭議　專家：保育應與整體環境配合 | 香港01 https://www.hk01.com/article/56481?utm_source=01articlecopy&utm_medium=referral<br>這裡有藝文空間 the shophouse<br><br>第四點為大坑的一二三巷",
+        "note": "合併點（3-4）；description 註明：第四點為大坑的一二三巷，此處有藝文空間 the shophouse"
+      },
+      {
+        "order": 4,
+        "name": "5.融苑",
+        "lat": 22.2777713,
+        "lng": 114.1936288,
+        "alt": 0.0
+      },
+      {
+        "order": 5,
+        "name": "6.利群道建築",
+        "lat": 22.2766355,
+        "lng": 114.1940749,
+        "alt": 0.0
+      },
+      {
+        "order": 6,
+        "name": "7.虎豹別墅",
+        "lat": 22.2753375,
+        "lng": 114.1953278,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "8.勵德邨",
+        "lat": 22.2784253,
+        "lng": 114.19396,
+        "alt": 0.0
+      },
+      {
+        "order": 8,
+        "name": "9.通往蓮花宮公園的樓梯",
+        "lat": 22.2797441,
+        "lng": 114.1933064,
+        "alt": 0.0
+      },
+      {
+        "order": 9,
+        "name": "10.蓮花宮公廁",
+        "lat": 22.279164,
+        "lng": 114.192846,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 2,
+    "route_name": "夾在山與海之間的奇觀巡禮：寶馬山➡️北角",
+    "map_title": "【路線2】夾在山與海之間的奇觀巡禮：寶馬山➡️北角",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1-PKEa9uMRb0M21jfSMogsycJLpg8Zrc",
+    "map_description": "https://s2.loli.net/2023/03/26/8sUjHKpa5mPuD9o.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.寶馬山道盡頭",
+        "lat": 22.2827156,
+        "lng": 114.1993439,
+        "alt": 0.0
+      },
+      {
+        "order": 2,
+        "name": "2.寶馬山 商場",
+        "lat": 22.2847861,
+        "lng": 114.1998006,
+        "alt": 0.0
+      },
+      {
+        "order": 3,
+        "name": "3.賽西湖公園",
+        "lat": 22.2865076,
+        "lng": 114.2019833,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "4.百福道",
+        "lat": 22.2891351,
+        "lng": 114.2057373,
+        "alt": 0.0
+      },
+      {
+        "order": 5,
+        "name": "5.循道衛理聯合教會北角堂",
+        "lat": 22.2907512,
+        "lng": 114.2070613,
+        "alt": 0.0
+      },
+      {
+        "order": 6,
+        "name": "6.百福道交通安全城",
+        "lat": 22.290521,
+        "lng": 114.2067207,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "7.和富商場",
+        "lat": 22.2923384,
+        "lng": 114.1965379,
+        "alt": 0.0,
+        "note": "順序存疑（由百福道直接西跳約1公里至和富商場，隨後第8、9點又折返東南方向的錦屏街與明園西街，第10點再往北回北角碼頭）"
+      },
+      {
+        "order": 8,
+        "name": "8.探索錦屏街",
+        "lat": 22.2903249,
+        "lng": 114.2000115,
+        "alt": 0.0,
+        "note": "順序存疑（位於第7點和富商場東南側，見第7點說明）"
+      },
+      {
+        "order": 9,
+        "name": "9.明園西街43號「半邊樓」",
+        "lat": 22.2890897,
+        "lng": 114.1992634,
+        "alt": 0.0,
+        "note": "順序存疑（位於錦屏街再往南，之後第10點折返北角公共碼頭）"
+      },
+      {
+        "order": 10,
+        "name": "10.北角公共碼頭",
+        "lat": 22.2936405,
+        "lng": 114.1984829,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 3,
+    "route_name": "古宅與異世界：西半山",
+    "map_title": "【路線3】古宅與異世界：西半山",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1bDWxJ-adsvbjb7tu19LBbcUxuLLzp18",
+    "map_description": "https://s2.loli.net/2023/03/26/2RMq8ZFKbC6cYGB.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.龍虎山環境教育中心",
+        "lat": 22.2809542,
+        "lng": 114.1383596,
+        "alt": 0.0
+      },
+      {
+        "order": 2,
+        "name": "3.羅便臣道石牆",
+        "lat": 22.283405,
+        "lng": 114.1466924,
+        "alt": 0.0,
+        "note": "順序存疑（KML將「2.大學道一號附近的八角形鐵水箱」排在第8位，此處直接跳至第3點羅便臣道石牆）"
+      },
+      {
+        "order": 3,
+        "name": "4.羅便臣道停車場",
+        "lat": 22.2823509,
+        "lng": 114.1466653,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "5.羅便臣道69F號和G號",
+        "lat": 22.2809198,
+        "lng": 114.1496368,
+        "alt": 0.0
+      },
+      {
+        "order": 5,
+        "name": "6.燕貽大廈前的樓梯",
+        "lat": 22.280904,
+        "lng": 114.149651,
+        "alt": 0.0
+      },
+      {
+        "order": 6,
+        "name": "7.李星衛大宅",
+        "lat": 22.2789778,
+        "lng": 114.1525628,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "8-9.己連拿利行人天橋",
+        "lat": 22.2773049,
+        "lng": 114.1526759,
+        "alt": 0.0
+      },
+      {
+        "order": 8,
+        "name": "2.大學道一號附近的八角形鐵水箱",
+        "lat": 22.2814862,
+        "lng": 114.140047,
+        "alt": 0.0,
+        "description": "http://www.skywalker.autozine.org/Place/1034_Peak/P1.html",
+        "note": "順序存疑（地點名稱標號為2，座標緊鄰第1點龍虎山環境教育中心東側約180米，但在KML順序中被排在第8位，造成從中環己連拿利天橋往返西半山1.4公里的折返跳躍）"
+      },
+      {
+        "order": 9,
+        "name": "10.香港動植物公園",
+        "lat": 22.2777628,
+        "lng": 114.1563308,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 4,
+    "route_name": "漫步橋上橋下，看海與人流：鴨脷洲➡️香港仔",
+    "map_title": "【路線4】漫步橋上橋下，看海與人流：鴨脷洲➡️香港仔",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1PvGfD9lGJ2pYwpz24uHVWBriKjbmG2U",
+    "map_description": "https://s2.loli.net/2023/03/26/LFMuA3GUBEg4Wpn.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1-2.鴨脷洲公園",
+        "lat": 22.2451725,
+        "lng": 114.1581021,
+        "alt": 0.0,
+        "description": "公園最東盡頭處的「風之塔」、公園的街渡碼頭",
+        "note": "合併點（1-2）；description 註明：公園最東盡頭處的「風之塔」、公園的街渡碼頭"
+      },
+      {
+        "order": 2,
+        "name": "3-4.鴨脷洲大橋下的空間和海傍道、行走體驗",
+        "lat": 22.245604,
+        "lng": 114.159736,
+        "alt": 0.0,
+        "note": "合併點（3-4）"
+      },
+      {
+        "order": 3,
+        "name": "5.香葉道寵物公園",
+        "lat": 22.2469077,
+        "lng": 114.1611567,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "6.香港仔海濱公園及附近廟宇、蒲窩",
+        "lat": 22.2471807,
+        "lng": 114.1552881,
+        "alt": 0.0
+      },
+      {
+        "order": 5,
+        "name": "7.香港仔市政大廈",
+        "lat": 22.2493236,
+        "lng": 114.1544766,
+        "alt": 0.0
+      },
+      {
+        "order": 6,
+        "name": "8.海王古廟",
+        "lat": 22.2481519,
+        "lng": 114.1544878,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "9.香港仔中心噴泉池廣場",
+        "lat": 22.2478487,
+        "lng": 114.1545485,
+        "alt": 0.0
+      },
+      {
+        "order": 8,
+        "name": "10.避風塘堤壩",
+        "lat": 22.2471756,
+        "lng": 114.1442095,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 5,
+    "route_name": "休憩日常：牛池灣➡️新蒲崗",
+    "map_title": "【路線5】休憩日常：牛池灣➡️新蒲崗",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1FCnx4qA9jwMSO2xIuedWbrBnI9qhkSA",
+    "map_description": "https://s2.loli.net/2023/03/26/zfU985yP6HOVmBI.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.匯八坊小巴站平台空間",
+        "lat": 22.334033,
+        "lng": 114.209802,
+        "alt": 0.0
+      },
+      {
+        "order": 2,
+        "name": "2-3.牛池灣街市、牛池灣村",
+        "lat": 22.3345252,
+        "lng": 114.2092082,
+        "alt": 0.0,
+        "note": "合併點（2-3）"
+      },
+      {
+        "order": 3,
+        "name": "4.彩虹邨的公共空間",
+        "lat": 22.3360834,
+        "lng": 114.2056135,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "5-6.啟德變化中的住宅環境和新型公共空間",
+        "lat": 22.33057,
+        "lng": 114.199549,
+        "alt": 0.0,
+        "note": "合併點（5-6）"
+      },
+      {
+        "order": 5,
+        "name": "7.新蒲崗交匯處休憩花園",
+        "lat": 22.3322582,
+        "lng": 114.1966692,
+        "alt": 0.0
+      },
+      {
+        "order": 6,
+        "name": "8.啟德河景觀",
+        "lat": 22.3333238,
+        "lng": 114.1943404,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "9.彩虹道體育館及遊樂場",
+        "lat": 22.337071,
+        "lng": 114.196468,
+        "alt": 0.0
+      },
+      {
+        "order": 8,
+        "name": "10.鳳德公園",
+        "lat": 22.342613,
+        "lng": 114.19801,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 6,
+    "route_name": "那些被賦予靈魂的公共空間：石硤尾",
+    "map_title": "【路線6】那些被賦予靈魂的公共空間：石硤尾",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1bYIIr1QjFUxSB_OMKsjJ8q8IibvLn7E",
+    "map_description": "https://s2.loli.net/2023/03/26/DUoKv4qJjdEFcXz.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.碧翠樓連接大坑東遊樂場的山下小徑",
+        "lat": 22.328367,
+        "lng": 114.167673,
+        "alt": 0.0
+      },
+      {
+        "order": 2,
+        "name": "2.主教山社區自發營造社區",
+        "lat": 22.3305625,
+        "lng": 114.1688125,
+        "alt": 0.0
+      },
+      {
+        "order": 3,
+        "name": "3.大坑東遊樂場",
+        "lat": 22.3279276,
+        "lng": 114.1710667,
+        "alt": 0.0,
+        "note": "順序存疑（第2點主教山在北、第3點大坑東遊樂場在東南、第4點彩龍大酒樓及第5點南山邨在北、第6點大坑西新邨又折返西南，呈南北小幅來回）"
+      },
+      {
+        "order": 4,
+        "name": "4.彩龍大酒樓及大坑東村一帶",
+        "lat": 22.331948,
+        "lng": 114.1705935,
+        "alt": 0.0
+      },
+      {
+        "order": 5,
+        "name": "5.南山邨，特別是塔樓",
+        "lat": 22.3340555,
+        "lng": 114.1710941,
+        "alt": 0.0
+      },
+      {
+        "order": 6,
+        "name": "6.大坑西新邨",
+        "lat": 22.3319479,
+        "lng": 114.1696087,
+        "alt": 0.0,
+        "note": "順序存疑（由第5點南山邨折返西南的大坑西新邨，第7點再往西北至偉智里）"
+      },
+      {
+        "order": 7,
+        "name": "7.偉智里一帶的小社區",
+        "lat": 22.3345304,
+        "lng": 114.1673375,
+        "alt": 0.0
+      },
+      {
+        "order": 8,
+        "name": "8.賽馬會創意藝術中心高層及天台",
+        "lat": 22.3347807,
+        "lng": 114.1656077,
+        "alt": 0.0
+      },
+      {
+        "order": 9,
+        "name": "9.石硤尾美食平台",
+        "lat": 22.3318663,
+        "lng": 114.1664032,
+        "alt": 0.0
+      },
+      {
+        "order": 10,
+        "name": "10.耀東街排檔",
+        "lat": 22.3311239,
+        "lng": 114.1657542,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 7,
+    "route_name": "從海走到「山」：土瓜灣",
+    "map_title": "【路線7】從海走到「山」：土瓜灣",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1dpF67s6miypnubDL-CcOMImYjBmZ71M",
+    "map_description": "https://s2.loli.net/2023/03/26/mTeX7ZDQLb5B6ct.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.海心公園",
+        "lat": 22.3149168,
+        "lng": 114.1916105,
+        "alt": 0.0
+      },
+      {
+        "order": 2,
+        "name": "2.美華工業中心",
+        "lat": 22.31914,
+        "lng": 114.19214,
+        "alt": 0.0
+      },
+      {
+        "order": 3,
+        "name": "3.牛棚藝術村及公園",
+        "lat": 22.3208434,
+        "lng": 114.1915799,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "4.橫跨東九龍走廊的天橋及東九龍廊下街道和橋下空間",
+        "lat": 22.315697,
+        "lng": 114.18774,
+        "alt": 0.0,
+        "note": "缺「5.」編號（下一點直接為「6.土瓜灣（紅蘋果）街市」）；且由第3點牛棚往南折返約700米"
+      },
+      {
+        "order": 5,
+        "name": "6.土瓜灣（紅蘋果）街市",
+        "lat": 22.3172238,
+        "lng": 114.1880992,
+        "alt": 0.0,
+        "note": "原圖缺「5.」編號，此點名稱直接為「6.土瓜灣（紅蘋果）街市」"
+      },
+      {
+        "order": 6,
+        "name": "7.樂民新村",
+        "lat": 22.3171859,
+        "lng": 114.1858756,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "8.靠背壟道遊樂場",
+        "lat": 22.317665,
+        "lng": 114.185054,
+        "alt": 0.0
+      },
+      {
+        "order": 8,
+        "name": "9.高山劇場及公園",
+        "lat": 22.3135727,
+        "lng": 114.1855276,
+        "alt": 0.0,
+        "note": "順序存疑（第8點「9.高山劇場及公園」由靠背壟道遊樂場向南走約460米，第9點「10.新亞中學」又向北折返約786米回靠背壟道北側）"
+      },
+      {
+        "order": 9,
+        "name": "10.新亞中學",
+        "lat": 22.320621,
+        "lng": 114.186041,
+        "alt": 0.0,
+        "note": "順序存疑（由南側的高山劇場向北折返786米至新亞中學，越過第6、7點所在的樂民新村/靠背壟道一帶）"
+      }
+    ]
+  },
+  {
+    "route_no": 8,
+    "route_name": "體會「新城市」之美：沙田",
+    "map_title": "【路線8】體會「新城市」之美：沙田",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1ME9TuLGUTTwd4XEGcT87c9J5jVR1YRM",
+    "map_description": "https://s2.loli.net/2023/03/26/WjHXGAna51KQidN.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.城門河靠近大圍站的一端",
+        "lat": 22.3741048,
+        "lng": 114.1804174,
+        "alt": 0.0
+      },
+      {
+        "order": 2,
+        "name": "2.車公廟體育館",
+        "lat": 22.3722733,
+        "lng": 114.1859688,
+        "alt": 0.0
+      },
+      {
+        "order": 3,
+        "name": "3.秦石邨平台",
+        "lat": 22.3734582,
+        "lng": 114.1864793,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "4.博康邨商場及停車場",
+        "lat": 22.3751291,
+        "lng": 114.1931374,
+        "alt": 0.0
+      },
+      {
+        "order": 5,
+        "name": "5.沙田公園公共空間",
+        "lat": 22.3809542,
+        "lng": 114.1912481,
+        "alt": 0.0
+      },
+      {
+        "order": 6,
+        "name": "6.沙田大會堂的公共空間",
+        "lat": 22.3812484,
+        "lng": 114.1899337,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "7-8.沙田公園河畔的兩層路、看沙田規劃",
+        "lat": 22.3795777,
+        "lng": 114.1901434,
+        "alt": 0.0,
+        "note": "合併點（7-8）"
+      },
+      {
+        "order": 8,
+        "name": "9.瀝源禾輋行人天橋系統",
+        "lat": 22.3862471,
+        "lng": 114.1928077,
+        "alt": 0.0
+      },
+      {
+        "order": 9,
+        "name": "10.瀝源邨噴泉池",
+        "lat": 22.3856032,
+        "lng": 114.192601,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 9,
+    "route_name": "在「無街之城」中散步：將軍澳",
+    "map_title": "【路線9】在「無街之城」中散步：將軍澳",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=1-i7JbTzgYTR4JP374pz0zPEaLu13xsU",
+    "map_description": "https://s2.loli.net/2023/03/26/amuNgSqze9kj6VQ.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1-2.調景嶺體育館外的水泥乒乓球室及知專設計學院",
+        "lat": 22.3062803,
+        "lng": 114.2551107,
+        "alt": 0.0,
+        "note": "合併點（1-2）"
+      },
+      {
+        "order": 2,
+        "name": "3.法國國際學校 (將軍澳)",
+        "lat": 22.3037327,
+        "lng": 114.2575446,
+        "alt": 0.0
+      },
+      {
+        "order": 3,
+        "name": "4.將南空間，海濱公園及長廊",
+        "lat": 22.299333,
+        "lng": 114.2640276,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "5-6.灣畔徑：公共空間部分、前往清水灣的小路",
+        "lat": 22.3084807,
+        "lng": 114.2653276,
+        "alt": 0.0,
+        "note": "合併點（5-6）"
+      },
+      {
+        "order": 5,
+        "name": "7-8.常寧遊樂場、將軍澳各地帶的連接空間",
+        "lat": 22.315141,
+        "lng": 114.262458,
+        "alt": 0.0,
+        "note": "合併點（7-8）"
+      },
+      {
+        "order": 6,
+        "name": "9.香港單車館公園",
+        "lat": 22.3136695,
+        "lng": 114.2615736,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "10.唐明街公園",
+        "lat": 22.3100448,
+        "lng": 114.2589246,
+        "alt": 0.0
+      }
+    ]
+  },
+  {
+    "route_no": 10,
+    "route_name": "各種仰望天際的角度：荃灣➡️深井",
+    "map_title": "【路線10】各種仰望天際的角度：荃灣➡️深井",
+    "layer_name": "(未命名的圖層)",
+    "source": "https://www.google.com/maps/d/viewer?mid=13MetgOsITjaB6OtY06_dj3fHsJRgR6o",
+    "map_description": "https://s2.loli.net/2023/03/26/3LSeBZPvfzrt2iE.jpg",
+    "line_strings": [],
+    "points": [
+      {
+        "order": 1,
+        "name": "1.海安路隔音陣",
+        "lat": 22.369553,
+        "lng": 114.099956,
+        "alt": 0.0,
+        "note": "與起點總圖中路線10起點座標（22.3697176, 114.0994619）有約53米微小偏差"
+      },
+      {
+        "order": 2,
+        "name": "2-3.泳灘及泳屋建築",
+        "lat": 22.3692367,
+        "lng": 114.0804619,
+        "alt": 0.0,
+        "note": "合併點（2-3）"
+      },
+      {
+        "order": 3,
+        "name": "4.汀九村",
+        "lat": 22.369455,
+        "lng": 114.07923,
+        "alt": 0.0
+      },
+      {
+        "order": 4,
+        "name": "5.汀九休憩處",
+        "lat": 22.3672937,
+        "lng": 114.078997,
+        "alt": 0.0,
+        "note": "順序存疑（第3點「4.汀九村」在青山公路北側，第4點「5.汀九休憩處」向南下到海邊岬角，第5點「6-7.青山公路－汀九段」又回到北側公路，屬約240米垂直上下折返）"
+      },
+      {
+        "order": 5,
+        "name": "6-7.青山公路－汀九段：汀九橋與海進景觀、橋下空間",
+        "lat": 22.3693121,
+        "lng": 114.0780747,
+        "alt": 0.0,
+        "note": "合併點（6-7）；由海邊汀九休憩處折返青山公路"
+      },
+      {
+        "order": 6,
+        "name": "8.桂盧",
+        "lat": 22.368478,
+        "lng": 114.0752109,
+        "alt": 0.0
+      },
+      {
+        "order": 7,
+        "name": "9.機場核心計劃展覽中心",
+        "lat": 22.3640598,
+        "lng": 114.0704123,
+        "alt": 0.0
+      },
+      {
+        "order": 8,
+        "name": "10.嘉頓有限公司",
+        "lat": 22.3654002,
+        "lng": 114.0637349,
+        "alt": 0.0
+      }
+    ]
+  }
+]

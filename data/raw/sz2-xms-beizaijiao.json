@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237356126,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5434565483,
+    "lat": "22.6012439",
+    "lon": "114.3448238",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "背仔角",
+    "display_name": "背仔角, 盐葵路, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.6011939",
+      "22.6012939",
+      "114.3447738",
+      "114.3448738"
+    ]
+  },
+  {
+    "place_id": 234405380,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6062366346,
+    "lat": "22.5948074",
+    "lon": "114.3371295",
+    "category": "natural",
+    "type": "cape",
+    "place_rank": 22,
+    "importance": 0.10673696574349582,
+    "addresstype": "cape",
+    "name": "揹仔角",
+    "display_name": "揹仔角, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5947574",
+      "22.5948574",
+      "114.3370795",
+      "114.3371795"
+    ]
+  }
+]

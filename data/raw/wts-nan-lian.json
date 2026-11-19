@@ -1,0 +1,32 @@
+[
+  {
+    "place_id": 237525508,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 86041251,
+    "lat": "22.3393548",
+    "lon": "114.2048532",
+    "category": "leisure",
+    "type": "garden",
+    "place_rank": 25,
+    "importance": 0.35411856752696674,
+    "addresstype": "garden",
+    "name": "南蓮園池 Nan Lian Garden",
+    "display_name": "南蓮園池 Nan Lian Garden, 斧山 Hammer Hill, 黃大仙區 Wong Tai Sin District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "address": {
+      "garden": "南蓮園池 Nan Lian Garden",
+      "suburb": "斧山 Hammer Hill",
+      "region": "九龍 Kowloon",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.3384207",
+      "22.3402895",
+      "114.2028707",
+      "114.2060347"
+    ]
+  }
+]

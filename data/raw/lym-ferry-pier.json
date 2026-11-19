@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237878662,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 175259677,
+    "lat": "22.2907661",
+    "lon": "114.2364945",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "三家村碼頭 Sam Ka Tsuen Pier",
+    "display_name": "三家村碼頭 Sam Ka Tsuen Pier, 崇信街 Shung Shun Street, 油塘工業區 Yau Tong Industrial Area, 觀塘區 Kwun Tong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2906097",
+      "22.2909733",
+      "114.2362737",
+      "114.2366615"
+    ]
+  },
+  {
+    "place_id": 237815458,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2222493961,
+    "lat": "22.2922768",
+    "lon": "114.2365507",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "三家村碼頭 Sam Ka Tsuen Ferry",
+    "display_name": "三家村碼頭 Sam Ka Tsuen Ferry, 仁宇圍 Yan Yue Wai, 油塘工業區 Yau Tong Industrial Area, 觀塘區 Kwun Tong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2922268",
+      "22.2923268",
+      "114.2365007",
+      "114.2366007"
+    ]
+  }
+]

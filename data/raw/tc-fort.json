@@ -1,0 +1,35 @@
+[
+  {
+    "place_id": 238186404,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1956321762,
+    "lat": "22.2778889",
+    "lon": "113.9361578",
+    "category": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.36664364446418835,
+    "addresstype": "tourism",
+    "name": "東涌炮台 Tung Chung Fort",
+    "display_name": "東涌炮台 Tung Chung Fort, 東涌道 Tung Chung Road, 東涌西 Tung Chung West, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "address": {
+      "tourism": "東涌炮台 Tung Chung Fort",
+      "road": "東涌道 Tung Chung Road",
+      "quarter": "東涌西 Tung Chung West",
+      "borough": "大嶼山 Lantau",
+      "suburb": "離島區 Islands District",
+      "region": "新界 New Territories",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2778389",
+      "22.2779389",
+      "113.9361078",
+      "113.9362078"
+    ]
+  }
+]

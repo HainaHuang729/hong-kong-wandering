@@ -1,0 +1,4168 @@
+{
+  "code": "Ok",
+  "routes": [
+    {
+      "legs": [
+        {
+          "steps": [
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    59
+                  ],
+                  "location": [
+                    114.108794,
+                    22.226347
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    60,
+                    150,
+                    240
+                  ],
+                  "location": [
+                    114.108927,
+                    22.226422
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    60,
+                    210,
+                    240,
+                    285
+                  ],
+                  "location": [
+                    114.109251,
+                    22.226606
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    60,
+                    240,
+                    345
+                  ],
+                  "location": [
+                    114.109667,
+                    22.226834
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    60,
+                    240
+                  ],
+                  "location": [
+                    114.109949,
+                    22.226986
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.108794,
+                    22.226347
+                  ],
+                  [
+                    114.108927,
+                    22.226422
+                  ],
+                  [
+                    114.109251,
+                    22.226606
+                  ],
+                  [
+                    114.109667,
+                    22.226834
+                  ],
+                  [
+                    114.109949,
+                    22.226986
+                  ],
+                  [
+                    114.109993,
+                    22.227004
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 59,
+                "bearing_before": 0,
+                "location": [
+                  114.108794,
+                  22.226347
+                ],
+                "type": "depart"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 11.96,
+              "duration": 114.9,
+              "distance": 143.5
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    75,
+                    105,
+                    240
+                  ],
+                  "location": [
+                    114.109993,
+                    22.227004
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    105,
+                    240,
+                    285
+                  ],
+                  "location": [
+                    114.110219,
+                    22.226944
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    90,
+                    270,
+                    345
+                  ],
+                  "location": [
+                    114.110577,
+                    22.226889
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    0,
+                    105,
+                    285
+                  ],
+                  "location": [
+                    114.111196,
+                    22.226909
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.109993,
+                    22.227004
+                  ],
+                  [
+                    114.110082,
+                    22.226984
+                  ],
+                  [
+                    114.110219,
+                    22.226944
+                  ],
+                  [
+                    114.110508,
+                    22.226881
+                  ],
+                  [
+                    114.110577,
+                    22.226889
+                  ],
+                  [
+                    114.110689,
+                    22.226901
+                  ],
+                  [
+                    114.110841,
+                    22.226953
+                  ],
+                  [
+                    114.110907,
+                    22.226952
+                  ],
+                  [
+                    114.111196,
+                    22.226909
+                  ],
+                  [
+                    114.111236,
+                    22.2269
+                  ],
+                  [
+                    114.111393,
+                    22.226862
+                  ],
+                  [
+                    114.111493,
+                    22.226649
+                  ],
+                  [
+                    114.111674,
+                    22.226489
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 104,
+                "bearing_before": 66,
+                "location": [
+                  114.109993,
+                  22.227004
+                ],
+                "modifier": "right",
+                "type": "turn"
+              },
+              "name": "榕樹灣大街 Yung Shue Wan Main Street",
+              "mode": "walking",
+              "weight": 16.64,
+              "duration": 159.8,
+              "distance": 199.7
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    75,
+                    165,
+                    315
+                  ],
+                  "location": [
+                    114.111674,
+                    22.226489
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    180,
+                    345
+                  ],
+                  "location": [
+                    114.111716,
+                    22.225993
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.111674,
+                    22.226489
+                  ],
+                  [
+                    114.111689,
+                    22.226446
+                  ],
+                  [
+                    114.111704,
+                    22.226038
+                  ],
+                  [
+                    114.111708,
+                    22.226014
+                  ],
+                  [
+                    114.111716,
+                    22.225993
+                  ],
+                  [
+                    114.111723,
+                    22.225959
+                  ],
+                  [
+                    114.111718,
+                    22.225809
+                  ],
+                  [
+                    114.111683,
+                    22.225697
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 170,
+                "bearing_before": 132,
+                "location": [
+                  114.111674,
+                  22.226489
+                ],
+                "modifier": "slight right",
+                "type": "continue"
+              },
+              "name": "榕樹灣大街 Yung Shue Wan Main Street",
+              "mode": "walking",
+              "weight": 7.4,
+              "duration": 71.1,
+              "distance": 88.7
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    105,
+                    195
+                  ],
+                  "location": [
+                    114.111683,
+                    22.225697
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    195,
+                    345
+                  ],
+                  "location": [
+                    114.111825,
+                    22.225509
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    90,
+                    195
+                  ],
+                  "location": [
+                    114.111787,
+                    22.225392
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.111683,
+                    22.225697
+                  ],
+                  [
+                    114.111827,
+                    22.225662
+                  ],
+                  [
+                    114.11179,
+                    22.225555
+                  ],
+                  [
+                    114.111809,
+                    22.225547
+                  ],
+                  [
+                    114.111825,
+                    22.225509
+                  ],
+                  [
+                    114.111787,
+                    22.225392
+                  ],
+                  [
+                    114.111752,
+                    22.225272
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 104,
+                "bearing_before": 195,
+                "location": [
+                  114.111683,
+                  22.225697
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "榕樹灣後街 Yung Shue Wan Back Street",
+              "mode": "walking",
+              "weight": 5.16,
+              "duration": 49.4,
+              "distance": 61.8
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    105,
+                    195,
+                    285
+                  ],
+                  "location": [
+                    114.111752,
+                    22.225272
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    15,
+                    120,
+                    300
+                  ],
+                  "location": [
+                    114.112294,
+                    22.225091
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    15,
+                    120,
+                    285
+                  ],
+                  "location": [
+                    114.11264,
+                    22.224976
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 3,
+                  "entry": [
+                    true,
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    105,
+                    120,
+                    210,
+                    315
+                  ],
+                  "location": [
+                    114.113116,
+                    22.224548
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    75,
+                    120,
+                    300
+                  ],
+                  "location": [
+                    114.113489,
+                    22.224355
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    120,
+                    180,
+                    300
+                  ],
+                  "location": [
+                    114.113506,
+                    22.224345
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    104,
+                    281,
+                    289
+                  ],
+                  "location": [
+                    114.114245,
+                    22.224173
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.111752,
+                    22.225272
+                  ],
+                  [
+                    114.112168,
+                    22.225179
+                  ],
+                  [
+                    114.112294,
+                    22.225091
+                  ],
+                  [
+                    114.112342,
+                    22.225064
+                  ],
+                  [
+                    114.11264,
+                    22.224976
+                  ],
+                  [
+                    114.112767,
+                    22.224903
+                  ],
+                  [
+                    114.112896,
+                    22.224738
+                  ],
+                  [
+                    114.113116,
+                    22.224548
+                  ],
+                  [
+                    114.113183,
+                    22.224498
+                  ],
+                  [
+                    114.113398,
+                    22.224413
+                  ],
+                  [
+                    114.113489,
+                    22.224355
+                  ],
+                  [
+                    114.113506,
+                    22.224345
+                  ],
+                  [
+                    114.113648,
+                    22.224287
+                  ],
+                  [
+                    114.114245,
+                    22.224173
+                  ],
+                  [
+                    114.114506,
+                    22.224112
+                  ],
+                  [
+                    114.114637,
+                    22.224051
+                  ],
+                  [
+                    114.11472,
+                    22.223976
+                  ],
+                  [
+                    114.114729,
+                    22.223901
+                  ],
+                  [
+                    114.114713,
+                    22.223827
+                  ],
+                  [
+                    114.114673,
+                    22.223761
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 104,
+                "bearing_before": 194,
+                "location": [
+                  114.111752,
+                  22.225272
+                ],
+                "modifier": "left",
+                "type": "continue"
+              },
+              "name": "榕樹灣後街 Yung Shue Wan Back Street",
+              "mode": "walking",
+              "weight": 31.04,
+              "duration": 298,
+              "distance": 372.4
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    30,
+                    120,
+                    225
+                  ],
+                  "location": [
+                    114.114673,
+                    22.223761
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.114673,
+                    22.223761
+                  ],
+                  [
+                    114.1147,
+                    22.223729
+                  ],
+                  [
+                    114.114812,
+                    22.22372
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 115,
+                "bearing_before": 205,
+                "location": [
+                  114.114673,
+                  22.223761
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 1.35,
+              "duration": 12.9,
+              "distance": 16.1
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    30,
+                    135,
+                    270
+                  ],
+                  "location": [
+                    114.114812,
+                    22.22372
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.114812,
+                    22.22372
+                  ],
+                  [
+                    114.115098,
+                    22.223469
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 132,
+                "bearing_before": 94,
+                "location": [
+                  114.114812,
+                  22.22372
+                ],
+                "modifier": "slight right",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 3.38,
+              "duration": 32.4,
+              "distance": 40.5
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 3,
+                  "entry": [
+                    true,
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    45,
+                    165,
+                    180,
+                    315
+                  ],
+                  "location": [
+                    114.115098,
+                    22.223469
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    15,
+                    165,
+                    255
+                  ],
+                  "location": [
+                    114.115111,
+                    22.223252
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    135,
+                    315
+                  ],
+                  "location": [
+                    114.115299,
+                    22.222906
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 3,
+                  "entry": [
+                    true,
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    60,
+                    135,
+                    240,
+                    315
+                  ],
+                  "location": [
+                    114.115412,
+                    22.222813
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    150,
+                    195,
+                    330
+                  ],
+                  "location": [
+                    114.115709,
+                    22.222399
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    45,
+                    150,
+                    330
+                  ],
+                  "location": [
+                    114.116699,
+                    22.221025
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 3,
+                  "entry": [
+                    true,
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    15,
+                    150,
+                    240,
+                    285
+                  ],
+                  "location": [
+                    114.117921,
+                    22.220269
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    60,
+                    150,
+                    300
+                  ],
+                  "location": [
+                    114.118282,
+                    22.219901
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    135,
+                    240,
+                    330
+                  ],
+                  "location": [
+                    114.118285,
+                    22.219897
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    30,
+                    120,
+                    300
+                  ],
+                  "location": [
+                    114.118998,
+                    22.219181
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.115098,
+                    22.223469
+                  ],
+                  [
+                    114.115111,
+                    22.223252
+                  ],
+                  [
+                    114.115203,
+                    22.223006
+                  ],
+                  [
+                    114.115299,
+                    22.222906
+                  ],
+                  [
+                    114.115412,
+                    22.222813
+                  ],
+                  [
+                    114.115619,
+                    22.222605
+                  ],
+                  [
+                    114.115709,
+                    22.222399
+                  ],
+                  [
+                    114.115763,
+                    22.222336
+                  ],
+                  [
+                    114.115796,
+                    22.222285
+                  ],
+                  [
+                    114.115968,
+                    22.22211
+                  ],
+                  [
+                    114.116095,
+                    22.221803
+                  ],
+                  [
+                    114.116544,
+                    22.221381
+                  ],
+                  [
+                    114.116587,
+                    22.221228
+                  ],
+                  [
+                    114.116649,
+                    22.221119
+                  ],
+                  [
+                    114.116699,
+                    22.221025
+                  ],
+                  [
+                    114.116773,
+                    22.220872
+                  ],
+                  [
+                    114.116973,
+                    22.220659
+                  ],
+                  [
+                    114.11712,
+                    22.220528
+                  ],
+                  [
+                    114.117921,
+                    22.220269
+                  ],
+                  [
+                    114.118155,
+                    22.219973
+                  ],
+                  [
+                    114.118237,
+                    22.219939
+                  ],
+                  [
+                    114.118282,
+                    22.219901
+                  ],
+                  [
+                    114.118285,
+                    22.219897
+                  ],
+                  [
+                    114.118539,
+                    22.219623
+                  ],
+                  [
+                    114.118673,
+                    22.219498
+                  ],
+                  [
+                    114.118835,
+                    22.219316
+                  ],
+                  [
+                    114.118889,
+                    22.219243
+                  ],
+                  [
+                    114.118998,
+                    22.219181
+                  ],
+                  [
+                    114.119028,
+                    22.219164
+                  ],
+                  [
+                    114.119108,
+                    22.219121
+                  ],
+                  [
+                    114.119145,
+                    22.219104
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 175,
+                "bearing_before": 132,
+                "location": [
+                  114.115098,
+                  22.223469
+                ],
+                "modifier": "slight right",
+                "type": "fork"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 55.63,
+              "duration": 533.8,
+              "distance": 667.4
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    30,
+                    75,
+                    300
+                  ],
+                  "location": [
+                    114.119145,
+                    22.219104
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    105,
+                    270,
+                    300
+                  ],
+                  "location": [
+                    114.119564,
+                    22.219184
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.119145,
+                    22.219104
+                  ],
+                  [
+                    114.119449,
+                    22.219183
+                  ],
+                  [
+                    114.119564,
+                    22.219184
+                  ],
+                  [
+                    114.119772,
+                    22.219139
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 73,
+                "bearing_before": 116,
+                "location": [
+                  114.119145,
+                  22.219104
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 5.53,
+              "duration": 53.1,
+              "distance": 66.4
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    105,
+                    180,
+                    285
+                  ],
+                  "location": [
+                    114.119772,
+                    22.219139
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.119772,
+                    22.219139
+                  ],
+                  [
+                    114.119766,
+                    22.219022
+                  ],
+                  [
+                    114.119844,
+                    22.218974
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 182,
+                "bearing_before": 102,
+                "location": [
+                  114.119772,
+                  22.219139
+                ],
+                "modifier": "right",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 1.88,
+              "duration": 18.1,
+              "distance": 22.6
+            },
+            {
+              "intersections": [
+                {
+                  "in": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    300
+                  ],
+                  "location": [
+                    114.119844,
+                    22.218974
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.119844,
+                    22.218974
+                  ],
+                  [
+                    114.119844,
+                    22.218974
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 0,
+                "bearing_before": 123,
+                "location": [
+                  114.119844,
+                  22.218974
+                ],
+                "modifier": "right",
+                "type": "arrive"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 0,
+              "duration": 0,
+              "distance": 0
+            }
+          ],
+          "weight": 139.97,
+          "summary": "榕樹灣大街 Yung Shue Wan Main Street, 榕樹灣後街 Yung Shue Wan Back Street",
+          "duration": 1343.5,
+          "distance": 1679.1
+        },
+        {
+          "steps": [
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    114
+                  ],
+                  "location": [
+                    114.119844,
+                    22.218974
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    45,
+                    150,
+                    315
+                  ],
+                  "location": [
+                    114.120095,
+                    22.218829
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.119844,
+                    22.218974
+                  ],
+                  [
+                    114.11994,
+                    22.218934
+                  ],
+                  [
+                    114.120025,
+                    22.218884
+                  ],
+                  [
+                    114.120095,
+                    22.218829
+                  ],
+                  [
+                    114.120197,
+                    22.218639
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 114,
+                "bearing_before": 0,
+                "location": [
+                  114.119844,
+                  22.218974
+                ],
+                "modifier": "right",
+                "type": "depart"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 4.51,
+              "duration": 43.4,
+              "distance": 54.2
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    225,
+                    330
+                  ],
+                  "location": [
+                    114.120197,
+                    22.218639
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    165,
+                    210,
+                    315
+                  ],
+                  "location": [
+                    114.120353,
+                    22.217568
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    75,
+                    150,
+                    330
+                  ],
+                  "location": [
+                    114.121287,
+                    22.215803
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    30,
+                    120,
+                    300
+                  ],
+                  "location": [
+                    114.121804,
+                    22.21489
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    135,
+                    285,
+                    315
+                  ],
+                  "location": [
+                    114.122769,
+                    22.214309
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.120197,
+                    22.218639
+                  ],
+                  [
+                    114.120108,
+                    22.218541
+                  ],
+                  [
+                    114.120071,
+                    22.218434
+                  ],
+                  [
+                    114.120191,
+                    22.218074
+                  ],
+                  [
+                    114.120181,
+                    22.217907
+                  ],
+                  [
+                    114.120226,
+                    22.217718
+                  ],
+                  [
+                    114.120353,
+                    22.217568
+                  ],
+                  [
+                    114.120403,
+                    22.217454
+                  ],
+                  [
+                    114.120591,
+                    22.217321
+                  ],
+                  [
+                    114.120698,
+                    22.21719
+                  ],
+                  [
+                    114.120731,
+                    22.217101
+                  ],
+                  [
+                    114.120766,
+                    22.217022
+                  ],
+                  [
+                    114.120736,
+                    22.216802
+                  ],
+                  [
+                    114.120778,
+                    22.21664
+                  ],
+                  [
+                    114.12086,
+                    22.216525
+                  ],
+                  [
+                    114.120839,
+                    22.216345
+                  ],
+                  [
+                    114.121077,
+                    22.216002
+                  ],
+                  [
+                    114.121229,
+                    22.215892
+                  ],
+                  [
+                    114.121287,
+                    22.215803
+                  ],
+                  [
+                    114.121434,
+                    22.215595
+                  ],
+                  [
+                    114.121617,
+                    22.21552
+                  ],
+                  [
+                    114.121707,
+                    22.215415
+                  ],
+                  [
+                    114.121693,
+                    22.21533
+                  ],
+                  [
+                    114.121641,
+                    22.215215
+                  ],
+                  [
+                    114.121634,
+                    22.215165
+                  ],
+                  [
+                    114.121718,
+                    22.214951
+                  ],
+                  [
+                    114.121804,
+                    22.21489
+                  ],
+                  [
+                    114.121895,
+                    22.214854
+                  ],
+                  [
+                    114.121961,
+                    22.214796
+                  ],
+                  [
+                    114.122025,
+                    22.214581
+                  ],
+                  [
+                    114.12209,
+                    22.214529
+                  ],
+                  [
+                    114.122304,
+                    22.214439
+                  ],
+                  [
+                    114.122564,
+                    22.21438
+                  ],
+                  [
+                    114.122769,
+                    22.214309
+                  ],
+                  [
+                    114.122805,
+                    22.214268
+                  ],
+                  [
+                    114.122862,
+                    22.214248
+                  ],
+                  [
+                    114.122885,
+                    22.214193
+                  ],
+                  [
+                    114.122899,
+                    22.214145
+                  ],
+                  [
+                    114.122922,
+                    22.214112
+                  ],
+                  [
+                    114.122912,
+                    22.214066
+                  ],
+                  [
+                    114.122861,
+                    22.214014
+                  ],
+                  [
+                    114.122796,
+                    22.213943
+                  ],
+                  [
+                    114.12276,
+                    22.213869
+                  ],
+                  [
+                    114.122762,
+                    22.213819
+                  ],
+                  [
+                    114.122782,
+                    22.213783
+                  ],
+                  [
+                    114.122799,
+                    22.213757
+                  ],
+                  [
+                    114.122916,
+                    22.213642
+                  ],
+                  [
+                    114.122962,
+                    22.213593
+                  ],
+                  [
+                    114.122953,
+                    22.213563
+                  ],
+                  [
+                    114.122867,
+                    22.213522
+                  ],
+                  [
+                    114.122772,
+                    22.213423
+                  ],
+                  [
+                    114.122751,
+                    22.213339
+                  ],
+                  [
+                    114.122761,
+                    22.213101
+                  ],
+                  [
+                    114.122726,
+                    22.213015
+                  ],
+                  [
+                    114.12276,
+                    22.212931
+                  ],
+                  [
+                    114.122762,
+                    22.212793
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 219,
+                "bearing_before": 153,
+                "location": [
+                  114.120197,
+                  22.218639
+                ],
+                "modifier": "right",
+                "type": "end of road"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 67.91,
+              "duration": 652.1,
+              "distance": 814.8
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    0,
+                    75,
+                    135,
+                    225
+                  ],
+                  "location": [
+                    114.122762,
+                    22.212793
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    135,
+                    225,
+                    330
+                  ],
+                  "location": [
+                    114.123143,
+                    22.212534
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    45,
+                    225
+                  ],
+                  "location": [
+                    114.124055,
+                    22.210186
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    165,
+                    270,
+                    345
+                  ],
+                  "location": [
+                    114.124228,
+                    22.209106
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    45,
+                    195,
+                    330
+                  ],
+                  "location": [
+                    114.125681,
+                    22.207954
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.122762,
+                    22.212793
+                  ],
+                  [
+                    114.122831,
+                    22.212726
+                  ],
+                  [
+                    114.122957,
+                    22.212685
+                  ],
+                  [
+                    114.123077,
+                    22.212621
+                  ],
+                  [
+                    114.123123,
+                    22.21256
+                  ],
+                  [
+                    114.123143,
+                    22.212534
+                  ],
+                  [
+                    114.123174,
+                    22.212503
+                  ],
+                  [
+                    114.123221,
+                    22.21247
+                  ],
+                  [
+                    114.123319,
+                    22.212454
+                  ],
+                  [
+                    114.123391,
+                    22.212443
+                  ],
+                  [
+                    114.123484,
+                    22.212407
+                  ],
+                  [
+                    114.123546,
+                    22.212362
+                  ],
+                  [
+                    114.123643,
+                    22.212212
+                  ],
+                  [
+                    114.123674,
+                    22.212164
+                  ],
+                  [
+                    114.123737,
+                    22.212115
+                  ],
+                  [
+                    114.123774,
+                    22.212077
+                  ],
+                  [
+                    114.123806,
+                    22.211994
+                  ],
+                  [
+                    114.123825,
+                    22.211975
+                  ],
+                  [
+                    114.123879,
+                    22.211935
+                  ],
+                  [
+                    114.123911,
+                    22.211867
+                  ],
+                  [
+                    114.124043,
+                    22.211566
+                  ],
+                  [
+                    114.124207,
+                    22.211386
+                  ],
+                  [
+                    114.124225,
+                    22.21134
+                  ],
+                  [
+                    114.124216,
+                    22.211281
+                  ],
+                  [
+                    114.124198,
+                    22.211219
+                  ],
+                  [
+                    114.12418,
+                    22.211172
+                  ],
+                  [
+                    114.124164,
+                    22.211068
+                  ],
+                  [
+                    114.124201,
+                    22.210991
+                  ],
+                  [
+                    114.124268,
+                    22.210899
+                  ],
+                  [
+                    114.12429,
+                    22.210857
+                  ],
+                  [
+                    114.124303,
+                    22.21081
+                  ],
+                  [
+                    114.124306,
+                    22.210749
+                  ],
+                  [
+                    114.124221,
+                    22.210506
+                  ],
+                  [
+                    114.124121,
+                    22.210345
+                  ],
+                  [
+                    114.124055,
+                    22.210186
+                  ],
+                  [
+                    114.123925,
+                    22.210079
+                  ],
+                  [
+                    114.123906,
+                    22.210023
+                  ],
+                  [
+                    114.123934,
+                    22.209939
+                  ],
+                  [
+                    114.123976,
+                    22.209864
+                  ],
+                  [
+                    114.124022,
+                    22.209619
+                  ],
+                  [
+                    114.124035,
+                    22.209576
+                  ],
+                  [
+                    114.124201,
+                    22.2093
+                  ],
+                  [
+                    114.124228,
+                    22.209106
+                  ],
+                  [
+                    114.124294,
+                    22.208786
+                  ],
+                  [
+                    114.12433,
+                    22.208729
+                  ],
+                  [
+                    114.124381,
+                    22.208681
+                  ],
+                  [
+                    114.124463,
+                    22.208648
+                  ],
+                  [
+                    114.124532,
+                    22.208605
+                  ],
+                  [
+                    114.124573,
+                    22.208562
+                  ],
+                  [
+                    114.124605,
+                    22.20853
+                  ],
+                  [
+                    114.124711,
+                    22.208485
+                  ],
+                  [
+                    114.124764,
+                    22.208473
+                  ],
+                  [
+                    114.124854,
+                    22.208408
+                  ],
+                  [
+                    114.124933,
+                    22.208375
+                  ],
+                  [
+                    114.125097,
+                    22.208357
+                  ],
+                  [
+                    114.125224,
+                    22.208312
+                  ],
+                  [
+                    114.125325,
+                    22.208257
+                  ],
+                  [
+                    114.1254,
+                    22.208181
+                  ],
+                  [
+                    114.12548,
+                    22.208133
+                  ],
+                  [
+                    114.125567,
+                    22.208087
+                  ],
+                  [
+                    114.125633,
+                    22.208021
+                  ],
+                  [
+                    114.125681,
+                    22.207954
+                  ],
+                  [
+                    114.125611,
+                    22.207647
+                  ],
+                  [
+                    114.125623,
+                    22.207567
+                  ],
+                  [
+                    114.125611,
+                    22.207403
+                  ],
+                  [
+                    114.125494,
+                    22.207192
+                  ],
+                  [
+                    114.125343,
+                    22.207005
+                  ],
+                  [
+                    114.125349,
+                    22.206906
+                  ],
+                  [
+                    114.125294,
+                    22.206766
+                  ],
+                  [
+                    114.1254,
+                    22.206517
+                  ],
+                  [
+                    114.125281,
+                    22.20621
+                  ],
+                  [
+                    114.125328,
+                    22.20605
+                  ],
+                  [
+                    114.125329,
+                    22.205802
+                  ],
+                  [
+                    114.125459,
+                    22.205334
+                  ],
+                  [
+                    114.125448,
+                    22.205264
+                  ],
+                  [
+                    114.125285,
+                    22.205222
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 136,
+                "bearing_before": 178,
+                "location": [
+                  114.122762,
+                  22.212793
+                ],
+                "modifier": "slight left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 87.25,
+              "duration": 837,
+              "distance": 1046.4
+            },
+            {
+              "intersections": [
+                {
+                  "out": 1,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    75,
+                    165,
+                    345
+                  ],
+                  "location": [
+                    114.125285,
+                    22.205222
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.125285,
+                    22.205222
+                  ],
+                  [
+                    114.125296,
+                    22.205172
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 167,
+                "bearing_before": 253,
+                "location": [
+                  114.125285,
+                  22.205222
+                ],
+                "modifier": "left",
+                "type": "end of road"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 0.47,
+              "duration": 4.5,
+              "distance": 5.7
+            },
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    105,
+                    270,
+                    345
+                  ],
+                  "location": [
+                    114.125296,
+                    22.205172
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    0,
+                    90,
+                    240
+                  ],
+                  "location": [
+                    114.126008,
+                    22.205443
+                  ]
+                },
+                {
+                  "out": 1,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    45,
+                    150,
+                    315
+                  ],
+                  "location": [
+                    114.126723,
+                    22.204857
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    135,
+                    300,
+                    330
+                  ],
+                  "location": [
+                    114.126998,
+                    22.204504
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    105,
+                    195,
+                    285
+                  ],
+                  "location": [
+                    114.127556,
+                    22.20426
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    90,
+                    180,
+                    300
+                  ],
+                  "location": [
+                    114.129976,
+                    22.2019
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.125296,
+                    22.205172
+                  ],
+                  [
+                    114.125343,
+                    22.205167
+                  ],
+                  [
+                    114.125466,
+                    22.205123
+                  ],
+                  [
+                    114.125548,
+                    22.205128
+                  ],
+                  [
+                    114.125608,
+                    22.205189
+                  ],
+                  [
+                    114.125713,
+                    22.205212
+                  ],
+                  [
+                    114.125781,
+                    22.205261
+                  ],
+                  [
+                    114.125866,
+                    22.205382
+                  ],
+                  [
+                    114.126008,
+                    22.205443
+                  ],
+                  [
+                    114.126079,
+                    22.205444
+                  ],
+                  [
+                    114.126116,
+                    22.205438
+                  ],
+                  [
+                    114.12616,
+                    22.205404
+                  ],
+                  [
+                    114.126178,
+                    22.205365
+                  ],
+                  [
+                    114.126267,
+                    22.205273
+                  ],
+                  [
+                    114.126311,
+                    22.205243
+                  ],
+                  [
+                    114.126359,
+                    22.20523
+                  ],
+                  [
+                    114.126434,
+                    22.205219
+                  ],
+                  [
+                    114.126503,
+                    22.205229
+                  ],
+                  [
+                    114.126551,
+                    22.205224
+                  ],
+                  [
+                    114.126591,
+                    22.205195
+                  ],
+                  [
+                    114.126592,
+                    22.205173
+                  ],
+                  [
+                    114.126584,
+                    22.205102
+                  ],
+                  [
+                    114.126602,
+                    22.205055
+                  ],
+                  [
+                    114.126628,
+                    22.204964
+                  ],
+                  [
+                    114.126723,
+                    22.204857
+                  ],
+                  [
+                    114.126998,
+                    22.204504
+                  ],
+                  [
+                    114.127122,
+                    22.20438
+                  ],
+                  [
+                    114.127556,
+                    22.20426
+                  ],
+                  [
+                    114.128288,
+                    22.204058
+                  ],
+                  [
+                    114.128596,
+                    22.20394
+                  ],
+                  [
+                    114.128944,
+                    22.203613
+                  ],
+                  [
+                    114.129151,
+                    22.203018
+                  ],
+                  [
+                    114.129463,
+                    22.202758
+                  ],
+                  [
+                    114.129547,
+                    22.202622
+                  ],
+                  [
+                    114.129628,
+                    22.202357
+                  ],
+                  [
+                    114.129737,
+                    22.202104
+                  ],
+                  [
+                    114.129893,
+                    22.201931
+                  ],
+                  [
+                    114.129976,
+                    22.2019
+                  ],
+                  [
+                    114.130182,
+                    22.201912
+                  ],
+                  [
+                    114.130337,
+                    22.201882
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 104,
+                "bearing_before": 167,
+                "location": [
+                  114.125296,
+                  22.205172
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 61.77,
+              "duration": 593.3,
+              "distance": 741.5
+            },
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    15,
+                    195,
+                    285
+                  ],
+                  "location": [
+                    114.130337,
+                    22.201882
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.130337,
+                    22.201882
+                  ],
+                  [
+                    114.13039,
+                    22.202114
+                  ],
+                  [
+                    114.130524,
+                    22.202359
+                  ],
+                  [
+                    114.130698,
+                    22.202964
+                  ],
+                  [
+                    114.130693,
+                    22.20302
+                  ],
+                  [
+                    114.130817,
+                    22.203211
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 11,
+                "bearing_before": 101,
+                "location": [
+                  114.130337,
+                  22.201882
+                ],
+                "modifier": "left",
+                "type": "end of road"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 13.09,
+              "duration": 125.7,
+              "distance": 157
+            },
+            {
+              "intersections": [
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    45,
+                    210,
+                    300
+                  ],
+                  "location": [
+                    114.130817,
+                    22.203211
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    0,
+                    120,
+                    195
+                  ],
+                  "location": [
+                    114.130845,
+                    22.203372
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    45,
+                    165,
+                    345
+                  ],
+                  "location": [
+                    114.130839,
+                    22.203661
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    180,
+                    195,
+                    285
+                  ],
+                  "location": [
+                    114.130807,
+                    22.204014
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.130817,
+                    22.203211
+                  ],
+                  [
+                    114.130845,
+                    22.203372
+                  ],
+                  [
+                    114.130863,
+                    22.203607
+                  ],
+                  [
+                    114.130839,
+                    22.203661
+                  ],
+                  [
+                    114.130797,
+                    22.20378
+                  ],
+                  [
+                    114.130782,
+                    22.203905
+                  ],
+                  [
+                    114.130807,
+                    22.204014
+                  ],
+                  [
+                    114.130823,
+                    22.204085
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 8,
+                "bearing_before": 30,
+                "location": [
+                  114.130817,
+                  22.203211
+                ],
+                "modifier": "slight left",
+                "type": "fork"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 8.24,
+              "duration": 79,
+              "distance": 98.8
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    60,
+                    195,
+                    300
+                  ],
+                  "location": [
+                    114.130823,
+                    22.204085
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    30,
+                    120
+                  ],
+                  "location": [
+                    114.130728,
+                    22.204147
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    15,
+                    105,
+                    195,
+                    285
+                  ],
+                  "location": [
+                    114.131341,
+                    22.205544
+                  ]
+                },
+                {
+                  "out": 0,
+                  "in": 2,
+                  "entry": [
+                    true,
+                    true,
+                    false
+                  ],
+                  "bearings": [
+                    15,
+                    105,
+                    195
+                  ],
+                  "location": [
+                    114.131513,
+                    22.205949
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.130823,
+                    22.204085
+                  ],
+                  [
+                    114.130728,
+                    22.204147
+                  ],
+                  [
+                    114.130844,
+                    22.204292
+                  ],
+                  [
+                    114.131001,
+                    22.20458
+                  ],
+                  [
+                    114.131341,
+                    22.205544
+                  ],
+                  [
+                    114.131513,
+                    22.205949
+                  ],
+                  [
+                    114.131552,
+                    22.206046
+                  ],
+                  [
+                    114.131574,
+                    22.206088
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 303,
+                "bearing_before": 11,
+                "location": [
+                  114.130823,
+                  22.204085
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "索罟灣第一街 Sok Kwu Wan First Street",
+              "mode": "walking",
+              "weight": 20.42,
+              "duration": 196,
+              "distance": 245
+            },
+            {
+              "intersections": [
+                {
+                  "out": 2,
+                  "in": 1,
+                  "entry": [
+                    true,
+                    false,
+                    true
+                  ],
+                  "bearings": [
+                    45,
+                    210,
+                    315
+                  ],
+                  "location": [
+                    114.131574,
+                    22.206088
+                  ]
+                },
+                {
+                  "out": 2,
+                  "in": 0,
+                  "entry": [
+                    false,
+                    true,
+                    true,
+                    true
+                  ],
+                  "bearings": [
+                    135,
+                    270,
+                    300,
+                    330
+                  ],
+                  "location": [
+                    114.131543,
+                    22.206113
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.131574,
+                    22.206088
+                  ],
+                  [
+                    114.131543,
+                    22.206113
+                  ],
+                  [
+                    114.131468,
+                    22.206158
+                  ],
+                  [
+                    114.131233,
+                    22.206292
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 310,
+                "bearing_before": 22,
+                "location": [
+                  114.131574,
+                  22.206088
+                ],
+                "modifier": "left",
+                "type": "turn"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 3.49,
+              "duration": 33.6,
+              "distance": 41.8
+            },
+            {
+              "intersections": [
+                {
+                  "in": 0,
+                  "entry": [
+                    true
+                  ],
+                  "bearings": [
+                    121
+                  ],
+                  "location": [
+                    114.131233,
+                    22.206292
+                  ]
+                }
+              ],
+              "driving_side": "right",
+              "geometry": {
+                "coordinates": [
+                  [
+                    114.131233,
+                    22.206292
+                  ],
+                  [
+                    114.131233,
+                    22.206292
+                  ]
+                ],
+                "type": "LineString"
+              },
+              "maneuver": {
+                "bearing_after": 0,
+                "bearing_before": 301,
+                "location": [
+                  114.131233,
+                  22.206292
+                ],
+                "type": "arrive"
+              },
+              "name": "",
+              "mode": "walking",
+              "weight": 0,
+              "duration": 0,
+              "distance": 0
+            }
+          ],
+          "weight": 267.15,
+          "summary": "索罟灣第一街 Sok Kwu Wan First Street",
+          "duration": 2564.6,
+          "distance": 3205.1
+        }
+      ],
+      "weight_name": "routability",
+      "geometry": {
+        "coordinates": [
+          [
+            114.108794,
+            22.226347
+          ],
+          [
+            114.108927,
+            22.226422
+          ],
+          [
+            114.109251,
+            22.226606
+          ],
+          [
+            114.109667,
+            22.226834
+          ],
+          [
+            114.109949,
+            22.226986
+          ],
+          [
+            114.109993,
+            22.227004
+          ],
+          [
+            114.110082,
+            22.226984
+          ],
+          [
+            114.110219,
+            22.226944
+          ],
+          [
+            114.110508,
+            22.226881
+          ],
+          [
+            114.110577,
+            22.226889
+          ],
+          [
+            114.110689,
+            22.226901
+          ],
+          [
+            114.110841,
+            22.226953
+          ],
+          [
+            114.110907,
+            22.226952
+          ],
+          [
+            114.111196,
+            22.226909
+          ],
+          [
+            114.111236,
+            22.2269
+          ],
+          [
+            114.111393,
+            22.226862
+          ],
+          [
+            114.111493,
+            22.226649
+          ],
+          [
+            114.111674,
+            22.226489
+          ],
+          [
+            114.111689,
+            22.226446
+          ],
+          [
+            114.111704,
+            22.226038
+          ],
+          [
+            114.111708,
+            22.226014
+          ],
+          [
+            114.111716,
+            22.225993
+          ],
+          [
+            114.111723,
+            22.225959
+          ],
+          [
+            114.111718,
+            22.225809
+          ],
+          [
+            114.111683,
+            22.225697
+          ],
+          [
+            114.111827,
+            22.225662
+          ],
+          [
+            114.11179,
+            22.225555
+          ],
+          [
+            114.111809,
+            22.225547
+          ],
+          [
+            114.111825,
+            22.225509
+          ],
+          [
+            114.111787,
+            22.225392
+          ],
+          [
+            114.111752,
+            22.225272
+          ],
+          [
+            114.112168,
+            22.225179
+          ],
+          [
+            114.112294,
+            22.225091
+          ],
+          [
+            114.112342,
+            22.225064
+          ],
+          [
+            114.11264,
+            22.224976
+          ],
+          [
+            114.112767,
+            22.224903
+          ],
+          [
+            114.112896,
+            22.224738
+          ],
+          [
+            114.113116,
+            22.224548
+          ],
+          [
+            114.113183,
+            22.224498
+          ],
+          [
+            114.113398,
+            22.224413
+          ],
+          [
+            114.113489,
+            22.224355
+          ],
+          [
+            114.113506,
+            22.224345
+          ],
+          [
+            114.113648,
+            22.224287
+          ],
+          [
+            114.114245,
+            22.224173
+          ],
+          [
+            114.114506,
+            22.224112
+          ],
+          [
+            114.114637,
+            22.224051
+          ],
+          [
+            114.11472,
+            22.223976
+          ],
+          [
+            114.114729,
+            22.223901
+          ],
+          [
+            114.114713,
+            22.223827
+          ],
+          [
+            114.114673,
+            22.223761
+          ],
+          [
+            114.1147,
+            22.223729
+          ],
+          [
+            114.114812,
+            22.22372
+          ],
+          [
+            114.115098,
+            22.223469
+          ],
+          [
+            114.115111,
+            22.223252
+          ],
+          [
+            114.115203,
+            22.223006
+          ],
+          [
+            114.115299,
+            22.222906
+          ],
+          [
+            114.115412,
+            22.222813
+          ],
+          [
+            114.115619,
+            22.222605
+          ],
+          [
+            114.115709,
+            22.222399
+          ],
+          [
+            114.115763,
+            22.222336
+          ],
+          [
+            114.115796,
+            22.222285
+          ],
+          [
+            114.115968,
+            22.22211
+          ],
+          [
+            114.116095,
+            22.221803
+          ],
+          [
+            114.116544,
+            22.221381
+          ],
+          [
+            114.116587,
+            22.221228
+          ],
+          [
+            114.116649,
+            22.221119
+          ],
+          [
+            114.116699,
+            22.221025
+          ],
+          [
+            114.116773,
+            22.220872
+          ],
+          [
+            114.116973,
+            22.220659
+          ],
+          [
+            114.11712,
+            22.220528
+          ],
+          [
+            114.117921,
+            22.220269
+          ],
+          [
+            114.118155,
+            22.219973
+          ],
+          [
+            114.118237,
+            22.219939
+          ],
+          [
+            114.118282,
+            22.219901
+          ],
+          [
+            114.118285,
+            22.219897
+          ],
+          [
+            114.118539,
+            22.219623
+          ],
+          [
+            114.118673,
+            22.219498
+          ],
+          [
+            114.118835,
+            22.219316
+          ],
+          [
+            114.118889,
+            22.219243
+          ],
+          [
+            114.118998,
+            22.219181
+          ],
+          [
+            114.119028,
+            22.219164
+          ],
+          [
+            114.119108,
+            22.219121
+          ],
+          [
+            114.119145,
+            22.219104
+          ],
+          [
+            114.119449,
+            22.219183
+          ],
+          [
+            114.119564,
+            22.219184
+          ],
+          [
+            114.119772,
+            22.219139
+          ],
+          [
+            114.119766,
+            22.219022
+          ],
+          [
+            114.119844,
+            22.218974
+          ],
+          [
+            114.11994,
+            22.218934
+          ],
+          [
+            114.120025,
+            22.218884
+          ],
+          [
+            114.120095,
+            22.218829
+          ],
+          [
+            114.120197,
+            22.218639
+          ],
+          [
+            114.120108,
+            22.218541
+          ],
+          [
+            114.120071,
+            22.218434
+          ],
+          [
+            114.120191,
+            22.218074
+          ],
+          [
+            114.120181,
+            22.217907
+          ],
+          [
+            114.120226,
+            22.217718
+          ],
+          [
+            114.120353,
+            22.217568
+          ],
+          [
+            114.120403,
+            22.217454
+          ],
+          [
+            114.120591,
+            22.217321
+          ],
+          [
+            114.120698,
+            22.21719
+          ],
+          [
+            114.120731,
+            22.217101
+          ],
+          [
+            114.120766,
+            22.217022
+          ],
+          [
+            114.120736,
+            22.216802
+          ],
+          [
+            114.120778,
+            22.21664
+          ],
+          [
+            114.12086,
+            22.216525
+          ],
+          [
+            114.120839,
+            22.216345
+          ],
+          [
+            114.121077,
+            22.216002
+          ],
+          [
+            114.121229,
+            22.215892
+          ],
+          [
+            114.121287,
+            22.215803
+          ],
+          [
+            114.121434,
+            22.215595
+          ],
+          [
+            114.121617,
+            22.21552
+          ],
+          [
+            114.121707,
+            22.215415
+          ],
+          [
+            114.121693,
+            22.21533
+          ],
+          [
+            114.121641,
+            22.215215
+          ],
+          [
+            114.121634,
+            22.215165
+          ],
+          [
+            114.121718,
+            22.214951
+          ],
+          [
+            114.121804,
+            22.21489
+          ],
+          [
+            114.121895,
+            22.214854
+          ],
+          [
+            114.121961,
+            22.214796
+          ],
+          [
+            114.122025,
+            22.214581
+          ],
+          [
+            114.12209,
+            22.214529
+          ],
+          [
+            114.122304,
+            22.214439
+          ],
+          [
+            114.122564,
+            22.21438
+          ],
+          [
+            114.122769,
+            22.214309
+          ],
+          [
+            114.122805,
+            22.214268
+          ],
+          [
+            114.122862,
+            22.214248
+          ],
+          [
+            114.122885,
+            22.214193
+          ],
+          [
+            114.122899,
+            22.214145
+          ],
+          [
+            114.122922,
+            22.214112
+          ],
+          [
+            114.122912,
+            22.214066
+          ],
+          [
+            114.122861,
+            22.214014
+          ],
+          [
+            114.122796,
+            22.213943
+          ],
+          [
+            114.12276,
+            22.213869
+          ],
+          [
+            114.122762,
+            22.213819
+          ],
+          [
+            114.122782,
+            22.213783
+          ],
+          [
+            114.122799,
+            22.213757
+          ],
+          [
+            114.122916,
+            22.213642
+          ],
+          [
+            114.122962,
+            22.213593
+          ],
+          [
+            114.122953,
+            22.213563
+          ],
+          [
+            114.122867,
+            22.213522
+          ],
+          [
+            114.122772,
+            22.213423
+          ],
+          [
+            114.122751,
+            22.213339
+          ],
+          [
+            114.122761,
+            22.213101
+          ],
+          [
+            114.122726,
+            22.213015
+          ],
+          [
+            114.12276,
+            22.212931
+          ],
+          [
+            114.122762,
+            22.212793
+          ],
+          [
+            114.122831,
+            22.212726
+          ],
+          [
+            114.122957,
+            22.212685
+          ],
+          [
+            114.123077,
+            22.212621
+          ],
+          [
+            114.123123,
+            22.21256
+          ],
+          [
+            114.123143,
+            22.212534
+          ],
+          [
+            114.123174,
+            22.212503
+          ],
+          [
+            114.123221,
+            22.21247
+          ],
+          [
+            114.123319,
+            22.212454
+          ],
+          [
+            114.123391,
+            22.212443
+          ],
+          [
+            114.123484,
+            22.212407
+          ],
+          [
+            114.123546,
+            22.212362
+          ],
+          [
+            114.123643,
+            22.212212
+          ],
+          [
+            114.123674,
+            22.212164
+          ],
+          [
+            114.123737,
+            22.212115
+          ],
+          [
+            114.123774,
+            22.212077
+          ],
+          [
+            114.123806,
+            22.211994
+          ],
+          [
+            114.123825,
+            22.211975
+          ],
+          [
+            114.123879,
+            22.211935
+          ],
+          [
+            114.123911,
+            22.211867
+          ],
+          [
+            114.124043,
+            22.211566
+          ],
+          [
+            114.124207,
+            22.211386
+          ],
+          [
+            114.124225,
+            22.21134
+          ],
+          [
+            114.124216,
+            22.211281
+          ],
+          [
+            114.124198,
+            22.211219
+          ],
+          [
+            114.12418,
+            22.211172
+          ],
+          [
+            114.124164,
+            22.211068
+          ],
+          [
+            114.124201,
+            22.210991
+          ],
+          [
+            114.124268,
+            22.210899
+          ],
+          [
+            114.12429,
+            22.210857
+          ],
+          [
+            114.124303,
+            22.21081
+          ],
+          [
+            114.124306,
+            22.210749
+          ],
+          [
+            114.124221,
+            22.210506
+          ],
+          [
+            114.124121,
+            22.210345
+          ],
+          [
+            114.124055,
+            22.210186
+          ],
+          [
+            114.123925,
+            22.210079
+          ],
+          [
+            114.123906,
+            22.210023
+          ],
+          [
+            114.123934,
+            22.209939
+          ],
+          [
+            114.123976,
+            22.209864
+          ],
+          [
+            114.124022,
+            22.209619
+          ],
+          [
+            114.124035,
+            22.209576
+          ],
+          [
+            114.124201,
+            22.2093
+          ],
+          [
+            114.124228,
+            22.209106
+          ],
+          [
+            114.124294,
+            22.208786
+          ],
+          [
+            114.12433,
+            22.208729
+          ],
+          [
+            114.124381,
+            22.208681
+          ],
+          [
+            114.124463,
+            22.208648
+          ],
+          [
+            114.124532,
+            22.208605
+          ],
+          [
+            114.124573,
+            22.208562
+          ],
+          [
+            114.124605,
+            22.20853
+          ],
+          [
+            114.124711,
+            22.208485
+          ],
+          [
+            114.124764,
+            22.208473
+          ],
+          [
+            114.124854,
+            22.208408
+          ],
+          [
+            114.124933,
+            22.208375
+          ],
+          [
+            114.125097,
+            22.208357
+          ],
+          [
+            114.125224,
+            22.208312
+          ],
+          [
+            114.125325,
+            22.208257
+          ],
+          [
+            114.1254,
+            22.208181
+          ],
+          [
+            114.12548,
+            22.208133
+          ],
+          [
+            114.125567,
+            22.208087
+          ],
+          [
+            114.125633,
+            22.208021
+          ],
+          [
+            114.125681,
+            22.207954
+          ],
+          [
+            114.125611,
+            22.207647
+          ],
+          [
+            114.125623,
+            22.207567
+          ],
+          [
+            114.125611,
+            22.207403
+          ],
+          [
+            114.125494,
+            22.207192
+          ],
+          [
+            114.125343,
+            22.207005
+          ],
+          [
+            114.125349,
+            22.206906
+          ],
+          [
+            114.125294,
+            22.206766
+          ],
+          [
+            114.1254,
+            22.206517
+          ],
+          [
+            114.125281,
+            22.20621
+          ],
+          [
+            114.125328,
+            22.20605
+          ],
+          [
+            114.125329,
+            22.205802
+          ],
+          [
+            114.125459,
+            22.205334
+          ],
+          [
+            114.125448,
+            22.205264
+          ],
+          [
+            114.125285,
+            22.205222
+          ],
+          [
+            114.125296,
+            22.205172
+          ],
+          [
+            114.125343,
+            22.205167
+          ],
+          [
+            114.125466,
+            22.205123
+          ],
+          [
+            114.125548,
+            22.205128
+          ],
+          [
+            114.125608,
+            22.205189
+          ],
+          [
+            114.125713,
+            22.205212
+          ],
+          [
+            114.125781,
+            22.205261
+          ],
+          [
+            114.125866,
+            22.205382
+          ],
+          [
+            114.126008,
+            22.205443
+          ],
+          [
+            114.126079,
+            22.205444
+          ],
+          [
+            114.126116,
+            22.205438
+          ],
+          [
+            114.12616,
+            22.205404
+          ],
+          [
+            114.126178,
+            22.205365
+          ],
+          [
+            114.126267,
+            22.205273
+          ],
+          [
+            114.126311,
+            22.205243
+          ],
+          [
+            114.126359,
+            22.20523
+          ],
+          [
+            114.126434,
+            22.205219
+          ],
+          [
+            114.126503,
+            22.205229
+          ],
+          [
+            114.126551,
+            22.205224
+          ],
+          [
+            114.126591,
+            22.205195
+          ],
+          [
+            114.126592,
+            22.205173
+          ],
+          [
+            114.126584,
+            22.205102
+          ],
+          [
+            114.126602,
+            22.205055
+          ],
+          [
+            114.126628,
+            22.204964
+          ],
+          [
+            114.126723,
+            22.204857
+          ],
+          [
+            114.126998,
+            22.204504
+          ],
+          [
+            114.127122,
+            22.20438
+          ],
+          [
+            114.127556,
+            22.20426
+          ],
+          [
+            114.128288,
+            22.204058
+          ],
+          [
+            114.128596,
+            22.20394
+          ],
+          [
+            114.128944,
+            22.203613
+          ],
+          [
+            114.129151,
+            22.203018
+          ],
+          [
+            114.129463,
+            22.202758
+          ],
+          [
+            114.129547,
+            22.202622
+          ],
+          [
+            114.129628,
+            22.202357
+          ],
+          [
+            114.129737,
+            22.202104
+          ],
+          [
+            114.129893,
+            22.201931
+          ],
+          [
+            114.129976,
+            22.2019
+          ],
+          [
+            114.130182,
+            22.201912
+          ],
+          [
+            114.130337,
+            22.201882
+          ],
+          [
+            114.13039,
+            22.202114
+          ],
+          [
+            114.130524,
+            22.202359
+          ],
+          [
+            114.130698,
+            22.202964
+          ],
+          [
+            114.130693,
+            22.20302
+          ],
+          [
+            114.130817,
+            22.203211
+          ],
+          [
+            114.130845,
+            22.203372
+          ],
+          [
+            114.130863,
+            22.203607
+          ],
+          [
+            114.130839,
+            22.203661
+          ],
+          [
+            114.130797,
+            22.20378
+          ],
+          [
+            114.130782,
+            22.203905
+          ],
+          [
+            114.130807,
+            22.204014
+          ],
+          [
+            114.130823,
+            22.204085
+          ],
+          [
+            114.130728,
+            22.204147
+          ],
+          [
+            114.130844,
+            22.204292
+          ],
+          [
+            114.131001,
+            22.20458
+          ],
+          [
+            114.131341,
+            22.205544
+          ],
+          [
+            114.131513,
+            22.205949
+          ],
+          [
+            114.131552,
+            22.206046
+          ],
+          [
+            114.131574,
+            22.206088
+          ],
+          [
+            114.131543,
+            22.206113
+          ],
+          [
+            114.131468,
+            22.206158
+          ],
+          [
+            114.131233,
+            22.206292
+          ]
+        ],
+        "type": "LineString"
+      },
+      "weight": 407.12,
+      "duration": 3908.1,
+      "distance": 4884.2
+    }
+  ],
+  "waypoints": [
+    {
+      "hint": "REVwizqZ15ypAAAAhgAAAAAAAAAAAAAAC9OiQZc_gEEAAAAAAAAAAKIAAACBAAAAAAAAAAAAAAB4AAAAeinNBqslUwGDKc0GnSVTAQAArwMAAAAA",
+      "location": [
+        114.108794,
+        22.226347
+      ],
+      "name": "",
+      "distance": 1.806737104
+    },
+    {
+      "hint": "spnUmrOZ1JqLAAAAAAAAAAAAAAAAAAAAzMqFQQAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAAAAAAB4AAAApFTNBt4IUwEhVM0G5wdTAQAA7w0AAAAAtJnUmvKf15wAAAAAUAAAAAAAAABsAAAAAAAAAGU7GkEAAAAAaIdPQQAAAABNAAAAAAAAAGgAAAB4AAAApFTNBt4IUwEhVM0G5wdTAQAA_xIAAAAAtZnUmj-Z15wAAAAAWgAAAAAAAAClAAAAAAAAAGx-LUEAAAAAKXmeQQAAAABXAAAAAAAAAJ8AAAB4AAAApFTNBt4IUwEhVM0G5wdTAQAALwcAAAAA",
+      "location": [
+        114.119844,
+        22.218974
+      ],
+      "name": "",
+      "distance": 30.50399372
+    },
+    {
+      "hint": "dQf8i4uQ0pWpAAAA7QAAAAAAAABNAAAAnJSiQXBJ40EAAAAAwy4TQaIAAADkAAAAAAAAAEoAAAB4AAAAIYHNBlTXUgEbgc0GS9dSAQAAnwcAAAAA",
+      "location": [
+        114.131233,
+        22.206292
+      ],
+      "name": "",
+      "distance": 1.172973102
+    }
+  ]
+}

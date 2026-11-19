@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237510972,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 27087165,
+    "lat": "22.2665855",
+    "lon": "114.1877600",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05341976424811166,
+    "addresstype": "tertiary",
+    "name": "成和道 Sing Woo Road",
+    "display_name": "成和道 Sing Woo Road, 跑馬地 Happy Valley, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2661549",
+      "22.2673646",
+      "114.1871065",
+      "114.1886875"
+    ]
+  }
+]

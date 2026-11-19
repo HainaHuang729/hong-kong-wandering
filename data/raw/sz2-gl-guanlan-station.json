@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237960859,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6222320418,
+    "lat": "22.7179901",
+    "lon": "114.0498690",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.20813244289121335,
+    "addresstype": "railway",
+    "name": "观澜",
+    "display_name": "观澜, 平安路, 河东, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7129901",
+      "22.7229901",
+      "114.0448690",
+      "114.0548690"
+    ]
+  },
+  {
+    "place_id": 238125848,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 10660744,
+    "lat": "22.7332896",
+    "lon": "114.0538984",
+    "category": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.3263790596244939,
+    "addresstype": "suburb",
+    "name": "观澜街道",
+    "display_name": "观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7072648",
+      "22.7746034",
+      "114.0152548",
+      "114.1084677"
+    ]
+  },
+  {
+    "place_id": 237705859,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11422513311,
+    "lat": "22.7216257",
+    "lon": "114.0491039",
+    "category": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "hamlet",
+    "name": "观澜",
+    "display_name": "观澜, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7016257",
+      "22.7416257",
+      "114.0291039",
+      "114.0691039"
+    ]
+  }
+]

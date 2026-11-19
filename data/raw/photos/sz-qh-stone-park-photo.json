@@ -1,0 +1,2982 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "60724123": {
+        "pageid": 60724123,
+        "ns": 6,
+        "title": "File:View near Qianhai Stone 3.jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1932859,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/View_near_Qianhai_Stone_3.jpg/960px-View_near_Qianhai_Stone_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/View_near_Qianhai_Stone_3.jpg/1920px-View_near_Qianhai_Stone_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/View_near_Qianhai_Stone_3.jpg/960px-View_near_Qianhai_Stone_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/View_near_Qianhai_Stone_3.jpg/1920px-View_near_Qianhai_Stone_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/View_near_Qianhai_Stone_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_near_Qianhai_Stone_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60724123",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-07-07 08:19:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "View near Qianhai Stone 3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shenzhen Bay|Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|March 2016 in Qianhai, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530211",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885842",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "中国広東自由貿易試験区深圳前海蛇口片区",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-03-04 12:10:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF\" title=\"User:そらみみ\">そらみみ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203232551": {
+        "pageid": 203232551,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 01.jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4896716,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203232551",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-14 15:41:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|Qianhai Promenade, Shenzhen|Outdoor car parks in Nanshan District, Shenzhen|November 2026 in Qianhai, Shenzhen|November 2026 in Nanshan District, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Stone Park, Shenzhen|Outdoor car parks in Qianhai, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528168",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.884545",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:19:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203232552": {
+        "pageid": 203232552,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 02.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5102583,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203232552",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-14 15:41:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|Qianhai Promenade, Shenzhen|Outdoor car parks in Nanshan District, Shenzhen|November 2026 in Qianhai, Shenzhen|November 2026 in Nanshan District, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Stone Park, Shenzhen|Outdoor car parks in Qianhai, Shenzhen|Jin'an Middle Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528183",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.884565",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:19:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203232554": {
+        "pageid": 203232554,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 03.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5669114,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203232554",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-14 15:41:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|Qianhai Promenade, Shenzhen|Outdoor car parks in Nanshan District, Shenzhen|November 2026 in Qianhai, Shenzhen|November 2026 in Nanshan District, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Stone Park, Shenzhen|Outdoor car parks in Qianhai, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528247",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.884688",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:19:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203232555": {
+        "pageid": 203232555,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 04.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5294844,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_parking_space_November_2026_R12S_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203232555",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-14 15:41:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space November 2026 R12S 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|Qianhai Promenade, Shenzhen|Outdoor car parks in Nanshan District, Shenzhen|November 2026 in Qianhai, Shenzhen|November 2026 in Nanshan District, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Stone Park, Shenzhen|Outdoor car parks in Qianhai, Shenzhen|Jin'an Middle Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528440",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.884818",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:20:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203232556": {
+        "pageid": 203232556,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark November 2026 R12S 01.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4759729,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203232556",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-14 15:41:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|Metal fences in Shenzhen|Qianhai Promenade, Shenzhen|Outdoor car parks in Nanshan District, Shenzhen|November 2026 in Qianhai, Shenzhen|November 2026 in Nanshan District, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Stone Park, Shenzhen|Outdoor car parks in Qianhai, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528562",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.884905",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:20:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203232558": {
+        "pageid": 203232558,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark November 2026 R12S 02.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5070551,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_outdoor_carpark_November_2026_R12S_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203232558",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-14 15:41:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark November 2026 R12S 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|Qianhai Promenade, Shenzhen|Outdoor car parks in Nanshan District, Shenzhen|November 2026 in Qianhai, Shenzhen|November 2026 in Nanshan District, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Stone Park, Shenzhen|Outdoor car parks in Qianhai, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528927",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.884988",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海石公園 Qianhai Stone Park outdoor carpark parking space in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:20:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268573": {
+        "pageid": 203268573,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park public toilet air fan machine November 2026 R12S.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1806403,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_public_toilet_air_fan_machine_November_2026_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268573",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park public toilet air fan machine November 2026 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528927",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.884988",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:21:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268575": {
+        "pageid": 203268575,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park office building n blue carpark sign November 2026 R12S 01.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4354102,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_office_building_n_blue_carpark_sign_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268575",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park office building n blue carpark sign November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528720",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885480",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:23:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268576": {
+        "pageid": 203268576,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park red pink flower tree November 2026 R12S 01.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4424033,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_red_pink_flower_tree_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268576",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park red pink flower tree November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.529028",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885037",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:22:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268577": {
+        "pageid": 203268577,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park beverage vending machine November 2026 R12S 01.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3543916,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_beverage_vending_machine_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268577",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park beverage vending machine November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528963",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885147",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:22:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268579": {
+        "pageid": 203268579,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park map sign November 2026 R12S 06.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3498645,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268579",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park map sign November 2026 R12S 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528732",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885467",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:24:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268580": {
+        "pageid": 203268580,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park map sign November 2026 R12S 01.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4342790,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_map_sign_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268580",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park map sign November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528732",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885467",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:24:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268581": {
+        "pageid": 203268581,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev van car November 2026 R12S 01.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2440737,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_car_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268581",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev van car November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.528980",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885178",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:25:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268582": {
+        "pageid": 203268582,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev car rental November 2026 R12S 08.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4831203,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_rental_November_2026_R12S_08.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268582",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev car rental November 2026 R12S 08",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.529375",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885345",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:25:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268583": {
+        "pageid": 203268583,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev car ven November 2026 R12S 03.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4658539,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_car_ven_November_2026_R12S_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268583",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev car ven November 2026 R12S 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.529375",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885345",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:25:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268587": {
+        "pageid": 203268587,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev van rental intro November 2026 R12S 07.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1535507,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_ev_van_rental_intro_November_2026_R12S_07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268587",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park ev van rental intro November 2026 R12S 07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.529375",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885345",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:25:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268588": {
+        "pageid": 203268588,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park November 2026 R12S 310.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4216245,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_310.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268588",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park November 2026 R12S 310",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530428",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885573",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:27:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268589": {
+        "pageid": 203268589,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park November 2026 R12S 311.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3872398,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_November_2026_R12S_311.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268589",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park November 2026 R12S 311",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530428",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885573",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:28:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268590": {
+        "pageid": 203268590,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park stone sign November 2026 R12S 300.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3955170,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_stone_sign_November_2026_R12S_300.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268590",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park stone sign November 2026 R12S 300",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530428",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885573",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:28:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268591": {
+        "pageid": 203268591,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park intro sign November 2026 R12S 01.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2972223,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268591",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park intro sign November 2026 R12S 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530428",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885573",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:28:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268592": {
+        "pageid": 203268592,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park intro sign November 2026 R12S 02.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2703369,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268592",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park intro sign November 2026 R12S 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530428",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885573",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:28:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268604": {
+        "pageid": 203268604,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park rock sign November 2026 R12S 320.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2666086,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_320.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268604",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park rock sign November 2026 R12S 320",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530513",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885370",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:30:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268605": {
+        "pageid": 203268605,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park rock sign November 2026 R12S 321.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2688189,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_rock_sign_November_2026_R12S_321.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268605",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park rock sign November 2026 R12S 321",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530513",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885370",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:30:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "203268606": {
+        "pageid": 203268606,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park intro sign November 2026 R12S 322.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2556777,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_131_Qianhai_Blvd_%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9C%92_Qianhai_Stone_Park_intro_sign_November_2026_R12S_322.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=203268606",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-15 16:53:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park intro sign November 2026 R12S 322",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Qianhai Stone Park, Shenzhen|November 2026 in Qianhai, Shenzhen|Shenzhen photographs taken on 2026-11-02|2026 in Qianhai Blvd, Shenzhen|2026 in Qianhai Stone Park, Shenzhen|Jin'an North Street, Shenzhen|2026 in Jin'an North Street, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.530513",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "113.885370",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 南山 Nanshan 前海大道 131 Qianhai Blvd 前海石公園 Qianhai Stone Park in November 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-11-02 17:30:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LGUD_dwMWSHUM_MWMO\" title=\"User:LGUD dwMWSHUM MWMO\">LGUD dwMWSHUM MWMO</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237314052,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 100507096,
+    "lat": "22.3251055",
+    "lon": "114.1713237",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339935225452045,
+    "addresstype": "residential",
+    "name": "花墟道 Flower Market Road",
+    "display_name": "花墟道 Flower Market Road, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3249701",
+      "22.3252409",
+      "114.1705609",
+      "114.1720864"
+    ]
+  },
+  {
+    "place_id": 234174203,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 710581914,
+    "lat": "22.3250496",
+    "lon": "114.1713592",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04006601892118714,
+    "addresstype": "road",
+    "name": "花墟道 Flower Market Road",
+    "display_name": "花墟道 Flower Market Road, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3249203",
+      "22.3251683",
+      "114.1706954",
+      "114.1720274"
+    ]
+  }
+]

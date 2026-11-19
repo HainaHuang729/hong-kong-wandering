@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 234883111,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3064088812,
+    "lat": "22.4459530",
+    "lon": "114.0050457",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "上章圍 Sheung Cheung Wai",
+    "display_name": "上章圍 Sheung Cheung Wai, 屏廈路 Ping Ha Road, 橋頭圍 Kiu Tau Wai, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4459030",
+      "22.4460030",
+      "114.0049957",
+      "114.0050957"
+    ]
+  }
+]

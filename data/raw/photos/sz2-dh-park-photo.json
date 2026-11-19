@@ -1,0 +1,1426 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "160749631": {
+        "pageid": 160749631,
+        "ns": 6,
+        "title": "File:DONGHU PARK, SHENZHEN (7).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17115956,
+            "width": 8192,
+            "height": 4872,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/DONGHU_PARK%2C_SHENZHEN_%287%29.jpg/960px-DONGHU_PARK%2C_SHENZHEN_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 571,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/DONGHU_PARK%2C_SHENZHEN_%287%29.jpg/1920px-DONGHU_PARK%2C_SHENZHEN_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/DONGHU_PARK%2C_SHENZHEN_%287%29.jpg/960px-DONGHU_PARK%2C_SHENZHEN_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 571,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/DONGHU_PARK%2C_SHENZHEN_%287%29.jpg/1920px-DONGHU_PARK%2C_SHENZHEN_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/DONGHU_PARK%2C_SHENZHEN_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:DONGHU_PARK,_SHENZHEN_(7).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160749631",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 12:16:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "DONGHU PARK, SHENZHEN (7)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shenzhen|East Lake Park|Taken with Canon EOS R5|Luohu District|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|2025 in Donghu Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.570223",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.139282",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DONGHU PARK, SHENZHEN",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-27 13:25:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160749632": {
+        "pageid": 160749632,
+        "ns": 6,
+        "title": "File:DONGHU PARK, SHENZHEN (8).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14899064,
+            "width": 8028,
+            "height": 4849,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/DONGHU_PARK%2C_SHENZHEN_%288%29.jpg/960px-DONGHU_PARK%2C_SHENZHEN_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 580,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/DONGHU_PARK%2C_SHENZHEN_%288%29.jpg/1920px-DONGHU_PARK%2C_SHENZHEN_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/DONGHU_PARK%2C_SHENZHEN_%288%29.jpg/960px-DONGHU_PARK%2C_SHENZHEN_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 580,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/DONGHU_PARK%2C_SHENZHEN_%288%29.jpg/1920px-DONGHU_PARK%2C_SHENZHEN_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/DONGHU_PARK%2C_SHENZHEN_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:DONGHU_PARK,_SHENZHEN_(8).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160749632",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 12:16:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "DONGHU PARK, SHENZHEN (8)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shenzhen|East Lake Park|Taken with Canon EOS R5|Luohu District|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|2025 in Donghu Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.556400",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.142173",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DONGHU PARK, SHENZHEN",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-27 14:03:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128325583": {
+        "pageid": 128325583,
+        "ns": 6,
+        "title": "File:DONGHU PARK SHENZHEN MAIN GATE (4).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11692115,
+            "width": 8192,
+            "height": 4727,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 554,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 554,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/DONGHU_PARK_SHENZHEN_MAIN_GATE_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:DONGHU_PARK_SHENZHEN_MAIN_GATE_(4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128325583",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-02 01:55:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE (4)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shenzhen|East Lake Park|Taken with Canon EOS R5|Luohu District|China photographs taken on 2023-02-01|Self-published work|Files with coordinates missing SDC location of creation|2023 in Donghu Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.569070",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.137627",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-01 16:07:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128325581": {
+        "pageid": 128325581,
+        "ns": 6,
+        "title": "File:DONGHU PARK SHENZHEN MAIN GATE (5).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11815564,
+            "width": 7775,
+            "height": 4802,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 593,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 593,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/DONGHU_PARK_SHENZHEN_MAIN_GATE_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:DONGHU_PARK_SHENZHEN_MAIN_GATE_(5).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128325581",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-02 01:55:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE (5)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shenzhen|East Lake Park|Taken with Canon EOS R5|Luohu District|China photographs taken on 2023-02-01|Self-published work|Files with coordinates missing SDC location of creation|2023 in Donghu Park, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.569088",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.137565",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-01 16:06:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "202507432": {
+        "pageid": 202507432,
+        "ns": 6,
+        "title": "File:DONGHU PARK SHENZHEN MAIN GATE (6).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14332102,
+            "width": 5464,
+            "height": 8192,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1439,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1439,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/DONGHU_PARK_SHENZHEN_MAIN_GATE_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:DONGHU_PARK_SHENZHEN_MAIN_GATE_(6).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202507432",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-31 02:36:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE (6)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shenzhen|East Lake Park|Taken with Canon EOS R5|Luohu District|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.569330",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.138207",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-10-27 11:36:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "202507431": {
+        "pageid": 202507431,
+        "ns": 6,
+        "title": "File:DONGHU PARK SHENZHEN MAIN GATE (7).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13411093,
+            "width": 8192,
+            "height": 4259,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 499,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg/960px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 499,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg/1920px-DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/DONGHU_PARK_SHENZHEN_MAIN_GATE_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:DONGHU_PARK_SHENZHEN_MAIN_GATE_(7).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202507431",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-31 02:36:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE (7)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shenzhen|East Lake Park|Taken with Canon EOS R5|Luohu District|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.569180",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.138123",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DONGHU PARK SHENZHEN MAIN GATE",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-10-27 11:38:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162661218": {
+        "pageid": 162661218,
+        "ns": 6,
+        "title": "File:SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park children's playground evening March 2025 R12S.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4144237,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_children%27s_playground_evening_March_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162661218",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-23 04:56:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park children's playground evening March 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "East Lake Park|CC-Zero|Aiguo Road, Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|2025 in Donghu Park, Shenzhen|2025 in Shawan Road, Shenzhen|2025 in Aiguo Road, Shenzhen|Shenzhen Children's Park",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.570290",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.139810",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-21 18:42:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiaMOOA_Mukazz\" title=\"User:MiaMOOA Mukazz\">MiaMOOA Mukazz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162661201": {
+        "pageid": 162661201,
+        "ns": 6,
+        "title": "File:SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening March 2025 R12S 03.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5057459,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162661201",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-23 04:55:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening March 2025 R12S 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "East Lake Park|CC-Zero|Aiguo Road, Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|2025 in Donghu Park, Shenzhen|2025 in Shawan Road, Shenzhen|2025 in Aiguo Road, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.567855",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.138173",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-21 18:37:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiaMOOA_Mukazz\" title=\"User:MiaMOOA Mukazz\">MiaMOOA Mukazz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162661207": {
+        "pageid": 162661207,
+        "ns": 6,
+        "title": "File:SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening March 2025 R12S 04.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4787806,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_evening_March_2025_R12S_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162661207",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-23 04:56:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening March 2025 R12S 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "East Lake Park|CC-Zero|Aiguo Road, Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|2025 in Donghu Park, Shenzhen|2025 in Shawan Road, Shenzhen|2025 in Aiguo Road, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.567855",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.138173",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-21 18:38:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiaMOOA_Mukazz\" title=\"User:MiaMOOA Mukazz\">MiaMOOA Mukazz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162661209": {
+        "pageid": 162661209,
+        "ns": 6,
+        "title": "File:SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park food shop evening March 2025 R12S.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2916960,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_food_shop_evening_March_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162661209",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-23 04:56:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park food shop evening March 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "East Lake Park|CC-Zero|Aiguo Road, Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|2025 in Donghu Park, Shenzhen|2025 in Shawan Road, Shenzhen|2025 in Aiguo Road, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.567855",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.138173",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-21 18:40:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiaMOOA_Mukazz\" title=\"User:MiaMOOA Mukazz\">MiaMOOA Mukazz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "162661208": {
+        "pageid": 162661208,
+        "ns": 6,
+        "title": "File:SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park map sign evening March 2025 R12S.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3617061,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg/960px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg/1920px-SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Luohu_Shawan_Road_Aiguo_Road_Donghu_Park_map_sign_evening_March_2025_R12S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162661208",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-23 04:56:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park map sign evening March 2025 R12S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "East Lake Park|CC-Zero|Aiguo Road, Shenzhen|Self-published work|Files with coordinates missing SDC location of creation|2025 in Donghu Park, Shenzhen|2025 in Shawan Road, Shenzhen|2025 in Aiguo Road, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.567855",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.138173",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ Shenzhen Luohu Shawan Road Aiguo Road Donghu Park evening in March 2025",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-21 18:38:52",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiaMOOA_Mukazz\" title=\"User:MiaMOOA Mukazz\">MiaMOOA Mukazz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "53018496": {
+        "pageid": 53018496,
+        "ns": 6,
+        "title": "File:Statue of Confucius at East Lake Park3.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3038311,
+            "width": 3168,
+            "height": 4752,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Statue_of_Confucius_at_East_Lake_Park3.jpg/960px-Statue_of_Confucius_at_East_Lake_Park3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Statue_of_Confucius_at_East_Lake_Park3.jpg/1920px-Statue_of_Confucius_at_East_Lake_Park3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Statue_of_Confucius_at_East_Lake_Park3.jpg/960px-Statue_of_Confucius_at_East_Lake_Park3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Statue_of_Confucius_at_East_Lake_Park3.jpg/1920px-Statue_of_Confucius_at_East_Lake_Park3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Statue_of_Confucius_at_East_Lake_Park3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Statue_of_Confucius_at_East_Lake_Park3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53018496",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-11-10 11:31:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Statue of Confucius at East Lake Park3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "East Lake Park|Statues of Confucius in China|De minimis|Self-published work|FoP-China|Standing statues of Confucius",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bronze Standing Statue of Confucius at East Lake Park, in Shenzhen, Guangdong, China. The Bronze Standing Statue of Confucius at Donghu Park, Shenzhen was unveiled on October 11, 2009, the 2560th anniversary of Confucius' birth. It was fully funded and donated by Samwo International Group, and it is the first large outdoor statue of Confucius erected in a public urban park in Shenzhen. Cast entirely in bronze, the full-body statue stands nearly 6-metre (20 ft) tall. Confucius is depicted in traditional wide-sleeved Confucian robes with hands folded respectfully before his chest, bearing a gentle and solemn facial expression with detailed carved robe folds.\nThe statue rests on a red granite plinth engraved with golden characters \"Confucius\" and the inscription \"Erected with reverence at Donghu Park, Shenzhen\". In front of the plinth sits an antique bronze censer carved with ancient seal script \"The Eternal Teacher of All Ages\" and traditional bronze ritual patterns, reserved for citizens' sacrificial offerings. <b>Note: The carved calligraphy inscriptions on the granite plinth and bronze censer are not in the public domain.</b>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-03 16:27:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Huangdan2060\" title=\"User:Huangdan2060\">Huangdan2060</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

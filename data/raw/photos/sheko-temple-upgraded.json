@@ -1,0 +1,823 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "7762007": {
+        "pageid": 7762007,
+        "ns": 6,
+        "title": "File:HK ShekOTinHauTemple.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1667221,
+            "width": 2848,
+            "height": 2136,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/HK_ShekOTinHauTemple.JPG/960px-HK_ShekOTinHauTemple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/HK_ShekOTinHauTemple.JPG/1920px-HK_ShekOTinHauTemple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/HK_ShekOTinHauTemple.JPG/960px-HK_ShekOTinHauTemple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/HK_ShekOTinHauTemple.JPG/1920px-HK_ShekOTinHauTemple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/HK_ShekOTinHauTemple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_ShekOTinHauTemple.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7762007",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-09-08 14:25:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK ShekOTinHauTemple",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Fujifilm FinePix S6500fd|License migration redundant|Tin Hau Temple, Shek O|Self-published work|Hong Kong photographs taken on 2009-09-08|Chinese stone lions in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​石澳天后廟",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-09-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chong_Fat\" title=\"User:Chong Fat\">Chong Fat</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125441972": {
+        "pageid": 125441972,
+        "ns": 6,
+        "title": "File:NLC403-312001075006-105889 同安縣誌 清光緒12年(1886) 卷一十一.pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 908548,
+            "width": 1754,
+            "height": 1239,
+            "pagecount": 26,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf/page1-960px-NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 678,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf/page1-1280px-NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf/page1-960px-NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 678,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf/page1-1280px-NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4%281886%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:NLC403-312001075006-105889_%E5%90%8C%E5%AE%89%E7%B8%A3%E8%AA%8C_%E6%B8%85%E5%85%89%E7%B7%9212%E5%B9%B4(1886)_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125441972",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-14 15:53:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n同安縣誌</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Books without Wikidata item|Digitized Local Records in the National Library of China|PD-old missing SDC copyright status|同安縣誌",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n吴堂</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>\n卷十 <br>\n壇廟 <br>\n寺觀\n</p></div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Library_of_China\" class=\"extiw\" title=\"w:en:National Library of China\"><span title=\"library in Beijing, China\">National Library of China</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125630191": {
+        "pageid": 125630191,
+        "ns": 6,
+        "title": "File:NLC403-312001083582-111022 瓊州府志 清光緒16年(1890) 卷九.pdf",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 696229,
+            "width": 1754,
+            "height": 1239,
+            "pagecount": 33,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf/page1-960px-NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 678,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf/page1-1280px-NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf/page1-960px-NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 678,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf/page1-1280px-NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4%281890%29_%E5%8D%B7%E4%B9%9D.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:NLC403-312001083582-111022_%E7%93%8A%E5%B7%9E%E5%BA%9C%E5%BF%97_%E6%B8%85%E5%85%89%E7%B7%9216%E5%B9%B4(1890)_%E5%8D%B7%E4%B9%9D.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125630191",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-17 20:16:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n瓊州府志</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Books without Wikidata item|Digitized Local Records in the National Library of China|PD-old missing SDC copyright status|道光瓊州府志",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n明谊</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>\n卷之八 <br>\n建置志 <br>\n壇廟\n</p></div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Library_of_China\" class=\"extiw\" title=\"w:en:National Library of China\"><span title=\"library in Beijing, China\">National Library of China</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "132865970": {
+        "pageid": 132865970,
+        "ns": 6,
+        "title": "File:NLC416-07jh010086-20729 香港導遊，一名，香港通.pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9453966,
+            "width": 727,
+            "height": 1033,
+            "pagecount": 281,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/NLC416-07jh010086-20729_%E9%A6%99%E6%B8%AF%E5%B0%8E%E9%81%8A%EF%BC%8C%E4%B8%80%E5%90%8D%EF%BC%8C%E9%A6%99%E6%B8%AF%E9%80%9A.pdf/page1-500px-NLC416-07jh010086-20729_%E9%A6%99%E6%B8%AF%E5%B0%8E%E9%81%8A%EF%BC%8C%E4%B8%80%E5%90%8D%EF%BC%8C%E9%A6%99%E6%B8%AF%E9%80%9A.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1364,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/NLC416-07jh010086-20729_%E9%A6%99%E6%B8%AF%E5%B0%8E%E9%81%8A%EF%BC%8C%E4%B8%80%E5%90%8D%EF%BC%8C%E9%A6%99%E6%B8%AF%E9%80%9A.pdf/page1-500px-NLC416-07jh010086-20729_%E9%A6%99%E6%B8%AF%E5%B0%8E%E9%81%8A%EF%BC%8C%E4%B8%80%E5%90%8D%EF%BC%8C%E9%A6%99%E6%B8%AF%E9%80%9A.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1364
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/NLC416-07jh010086-20729_%E9%A6%99%E6%B8%AF%E5%B0%8E%E9%81%8A%EF%BC%8C%E4%B8%80%E5%90%8D%EF%BC%8C%E9%A6%99%E6%B8%AF%E9%80%9A.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:NLC416-07jh010086-20729_%E9%A6%99%E6%B8%AF%E5%B0%8E%E9%81%8A%EF%BC%8C%E4%B8%80%E5%90%8D%EF%BC%8C%E9%A6%99%E6%B8%AF%E9%80%9A.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132865970",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-06-10 09:22:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n香港導遊，一名，香港通</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD China|Images with watermarks|1940 books|PD-scan (PD-China)|Books without Wikidata item|Republican Era Books in the National Library of China|PD-old missing SDC copyright status|香港導遊|香港通",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n屠雲甫 江叔良編輯</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>分概況、本埠交通、旅館酒家茶樓及娛樂場所、旅行便覽、粵語簡譯、簡易行名錄、香港九龍街名表、澳門概要等8編。書前有香港九龍全圖、香港中區圖\n</p>\n                     <p>\n目錄 <br>\n輿圖 <br>\n香港九龍全圖 <br>\n香港中區圖 <br>\n第一編 概況 <br>\n香港海景 <br>\n香港之夜 <br>\n香港德輔道中之一 <br>\n香港德輔道中之二 <br>\n香港上山街道 <br>\n香港滙豐銀行 <br>\n香港中環街市 <br>\n香港堅尼地城 <br>\n九龍侯王廟一筆鵝 <br>\n九龍城故址 <br>\n九龍宋王臺 <br>\n香港簡史 <br>\n九龍及新界 <br>\n人口及屋宇 <br>\n氣候 <br>\n山峰高度 <br>\n公共假期及例假表 <br>\n古蹟與名勝 <br>\n宋王臺 <br>\n侯王廟 <br>\n真武大帝銅像 <br>\n九龍城 <br>\n青山禪院 <br>\n文武廟 <br>\n蟾蜍石 <br>\n姻緣石 <br>\n香港仔——天后廟 <br>\n東涌灣 <br>\n曹園 <br>\n利園 <br>\n張保仔故壘 <br>\n公園 <br>\n愉園 <br>\n虎豹別墅 <br>\n香港十景 <br>\n學校 <br>\n大學 <br>\n中學 <br>\n小學 <br>\n專門學校 <br>\n圖書館 <br>\n公立英文圖書館 <br>\n學海書樓 <br>\n華商總會圖書館 <br>\n馮平山圖書館 <br>\n青年會圖書館 <br>\n業餘聯誼社圖書館 <br>\n政府公署 <br>\n第二編 本埠交通 <br>\n香港油麻地碼頭巴士總站 <br>\n九龍碼頭 <br>\n九龍尖沙咀渡輪碼頭 <br>\n香港山頂纜車起站 <br>\n香港山頂纜車 <br>\n九龍廣九鐵路車站 <br>\n電車 <br>\n巴士 <br>\n香港方面 <br>\n九龍方面 <br>\n香港大酒店汽車 <br>\n輪渡 <br>\n天星小輪 <br>\n油麻地小輪（往來香港─佐敦道） <br>\n油麻地小輪（往來大澳青山等處） <br>\n山頂纜車 <br>\n出租汽車 <br>\n電船（附艇仔） <br>\n九廣鐵路 <br>\n手車 <br>\n肩輿 <br>\n交通機關 <br>\n第三編 旅館酒家茶樓及娛樂場所 <br>\n旅館 <br>\n西人茶廳 <br>\n酒家 <br>\n西餐室 <br>\n回教酒樓 <br>\n川菜館 <br>\n素食館 <br>\n電影院（附舞台） <br>\n跳舞場 <br>\n無線電播音台 <br>\n第四編 旅行便覽 <br>\n香港九龍碼頭及浮筒詳圖 <br>\n由香港天星及九龍尖沙咀碼頭至各地時間表 <br>\n印花稅簡則 <br>\n購物指南 <br>\n護照 <br>\n港澳交通表 <br>\n輪船與飛機 <br>\n風球 <br>\n醫院 <br>\n遊覽指南 <br>\n幣制 <br>\n兌換 <br>\n電報 <br>\n郵政 <br>\n衣服 <br>\n香港禁例 <br>\n碼頭 <br>\n體育館 <br>\n社團及公會 <br>\n第五編 粵語簡譚 <br>\n第一日 數目 <br>\n第二日 名詞 <br>\n第三日 名詞動詞 <br>\n第四日 稱呼 <br>\n第五日 形容詞 <br>\n第六日 雜用字 <br>\n第七日 造句 <br>\n第八日 虛詞及會話 <br>\n第六編 簡易行名錄 <br>\n報館類 <br>\n書店類 <br>\n五金類 <br>\n百貨類 <br>\n運輸類 <br>\n旅行類 <br>\n川菜類 <br>\n西餐類 <br>\n理髮類 <br>\n行情類 <br>\n拍賣類 <br>\n捲菸類 <br>\n公共汽車類 <br>\n國貨類 <br>\n客票代理類 <br>\n出租汽車類 <br>\n鐘錶類 <br>\n中藥類 <br>\n雀牌類 <br>\n銀行類 <br>\n進出口類 <br>\n皮件類 <br>\n西藥類 <br>\n照相店及材料公司類 <br>\n第七編 香港九龍街名表 <br>\n目錄 <br>\n香港方面三大幹道分區 <br>\n九龍方面三大幹道分區 <br>\n查路簡法 <br>\n一划二劃 <br>\n三劃 <br>\n四劃 <br>\n五劃 <br>\n六劃 <br>\n七劃 <br>\n八劃 <br>\n九劃 <br>\n十劃 <br>\n十一划 <br>\n十二劃 <br>\n十三劃 <br>\n十四劃 <br>\n十五劃 <br>\n十六劃 <br>\n十七劃 <br>\n十八劃 <br>\n十九劃 <br>\n二十劃 <br>\n廿一划 <br>\n廿五劃 <br>\n廿八劃 <br>\n大樓地址表 <br>\n第八編 澳門概要 <br>\n概論 <br>\n形勢 <br>\n沿革 <br>\n人口 <br>\n交通 <br>\n船隻 <br>\n人車行 <br>\n歧關長途汽車 <br>\n汽力車 <br>\n旅館 <br>\n餐館及菜館 <br>\n賭館 <br>\n娛樂 <br>\n幣制 <br>\n名勝 <br>\n簡易行名錄 <br>\n政府機關暨民辦機關一覽\n</p></div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Library_of_China\" class=\"extiw\" title=\"w:en:National Library of China\"><span title=\"library in Beijing, China\">National Library of China</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "132948977": {
+        "pageid": 132948977,
+        "ns": 6,
+        "title": "File:NLC416-13jh000058-44658 大南一統志.pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 39730311,
+            "width": 939,
+            "height": 1229,
+            "pagecount": 992,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/NLC416-13jh000058-44658_%E5%A4%A7%E5%8D%97%E4%B8%80%E7%B5%B1%E5%BF%97.pdf/page1-500px-NLC416-13jh000058-44658_%E5%A4%A7%E5%8D%97%E4%B8%80%E7%B5%B1%E5%BF%97.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1256,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/NLC416-13jh000058-44658_%E5%A4%A7%E5%8D%97%E4%B8%80%E7%B5%B1%E5%BF%97.pdf/page1-500px-NLC416-13jh000058-44658_%E5%A4%A7%E5%8D%97%E4%B8%80%E7%B5%B1%E5%BF%97.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1256
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/NLC416-13jh000058-44658_%E5%A4%A7%E5%8D%97%E4%B8%80%E7%B5%B1%E5%BF%97.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:NLC416-13jh000058-44658_%E5%A4%A7%E5%8D%97%E4%B8%80%E7%B5%B1%E5%BF%97.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132948977",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-06-11 11:59:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n大南一統志</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD China|Images with watermarks|PD-scan (PD-China)|Books without Wikidata item|Republican Era Books in the National Library of China|PD-old missing SDC copyright status|大南一統志",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n〔日〕松本信廣編纂</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>\n目錄 <br>\n大南一統志卷之八 <br>\n廣平省 <br>\n【分野】 <br>\n【建設沿革】 <br>\n豐祿縣 <br>\n豐富縣 <br>\n麗水縣 <br>\n廣澤府 <br>\n平政縣 <br>\n明政縣 <br>\n布澤縣 <br>\n宣化縣 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n廣平省城 <br>\n廣寧府蒞 <br>\n麗水縣蒞 <br>\n廣澤府蒞 <br>\n布澤縣蒞 <br>\n宣化縣蒞 <br>\n【學校】 <br>\n廣平省學政堂 <br>\n廣寧府教堂 <br>\n廣澤府教堂 <br>\n麗水縣訓堂 <br>\n布澤縣訓堂 <br>\n宣化縣訓堂 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n兜鍪山 <br>\n神丁山 <br>\n峝枕山 <br>\n翁洄山 <br>\n雞冠山 <br>\n石溪山 <br>\n官渡山 <br>\n育山 <br>\n長洲山 <br>\n柘洲山 <br>\n場門山 <br>\n渤渚山 <br>\n沾洲山 <br>\n雲來山 <br>\n茹牙山 <br>\n寺谷山 <br>\n福隆山 <br>\n沈蘆山 <br>\n富裔山 <br>\n右藩山 <br>\n麗奇山 <br>\n丁公山 <br>\n祿舍山 <br>\n銀山 <br>\n富期山 <br>\n富榮山 <br>\n馬鞍山 <br>\n金鼐山 <br>\n硯山 <br>\n蓮山 <br>\n震山 <br>\n安宅山 <br>\n商岩山 <br>\n安生山 <br>\n〓門山 <br>\n蘊奧山 <br>\n泡芒山 <br>\n〓舍山 <br>\n天財山 <br>\n同思山 <br>\n富舍山 <br>\n朱市山 <br>\n芳連山 <br>\n峝泊山 <br>\n武順山 <br>\n安禮山 <br>\n順安山 <br>\n棣梯山 <br>\n古蓬山 <br>\n峰嘉山 <br>\n茹大山 <br>\n蓮潭山 <br>\n芒溪山 <br>\n河津山 <br>\n金山 <br>\n嘉靜山 <br>\n清陵山 <br>\n三靈山 <br>\n石跳山 <br>\n野〓山 <br>\n嘉祿山 <br>\n峝〓山 <br>\n巨稔山 <br>\n玉蜀山 <br>\n白石山 <br>\n橫山 <br>\n冶爐山 <br>\n庵山 <br>\n桐山 <br>\n水域山 <br>\n橑山 <br>\n椒山 <br>\n烏蹲山 <br>\n成湯山 <br>\n行殿山 <br>\n芙鑿山 <br>\n斗海山 <br>\n橋山 <br>\n湥屼島 <br>\n翁島 <br>\n朱山 <br>\n荔山 <br>\n龍鼻山 <br>\n美〓山 <br>\n剛諫山 <br>\n碑山 <br>\n殿山 <br>\n鳴琴山 <br>\n琳琅山 <br>\n熙山 <br>\n高邁山 <br>\n金龜山 <br>\n武源山 <br>\n金榜山 <br>\n卜壽山 <br>\n南寮山 <br>\n鍾溪山 <br>\n先禮山 <br>\n明良山 <br>\n清龍山 <br>\n箕沙山 <br>\n丈人石 <br>\n福山 <br>\n同澇山 <br>\n同黎山 <br>\n符魯山 <br>\n日麗江 <br>\n古壘江 <br>\n平福江 <br>\n吳舍江 <br>\n吳江 <br>\n美宅江 <br>\n歸厚江 <br>\n平江 <br>\n政和江 <br>\n里和江 <br>\n〓江 <br>\n洊江 <br>\n魯港江 <br>\n【溪潭】 <br>\n日麗陂 <br>\n石溪水 <br>\n潘舍水 <br>\n菜沱 <br>\n定安沱 <br>\n富期沱 <br>\n咸若潭 <br>\n安代源九灘 <br>\n洞洄溪 <br>\n磊溪 <br>\n安來水 <br>\n石盤海兒 <br>\n蓮港 <br>\n福壽水 <br>\n歸厚水 <br>\n楊舍水 <br>\n瀝肅沱 <br>\n衡普沱 <br>\n指揮沱 <br>\n安舍沱 <br>\n廋廋潭 <br>\n安生淵 <br>\n蓮池 <br>\n〓門源十五灘 <br>\n鄧堤水 <br>\n〓河水 <br>\n翁苔沱 <br>\n〓沱 <br>\n安美沱 <br>\n九曲龍溪 <br>\n春橋水 <br>\n攀龍水 <br>\n象山水 <br>\n干金水 <br>\n度呼沱 <br>\n臨春沱 <br>\n良程潭 <br>\n法偈潭 <br>\n玉井 <br>\n湯泉 <br>\n桐溪 <br>\n水域六灘 <br>\n木棉溪 <br>\n河公水 <br>\n先郎水 <br>\n永祿水 <br>\n稔珠淵 <br>\n廣巡四十二灘 <br>\n魯港十 <br>\n七灘 <br>\n金齡 <br>\n二灘 <br>\n洞思洲 <br>\n柔洲 <br>\n格洲 <br>\n蛾眉洲 <br>\n羅河洲 <br>\n美和三甲洲 <br>\n雲雷洲 <br>\n寄洲 <br>\n龍洲 <br>\n椰洲 <br>\n【古蹟】 <br>\n橫山故壘 <br>\n磚壟 <br>\n林邑廢城 <br>\n彌海舊屯 <br>\n寧遠故城 <br>\n福祿故壘 <br>\n布政舊營 <br>\n洞還故壘 <br>\n寧故壘 <br>\n長育故壘 <br>\n武舍舊營 <br>\n【祠廟】 <br>\n社稷壇 <br>\n先農壇 <br>\n山川壇 <br>\n文廟 <br>\n會同廟 <br>\n三座廟 <br>\n城隍廟 <br>\n龍王廟 <br>\n弘國公祠 <br>\n英國公祠 <br>\n靜國公祠 <br>\n南海祠 <br>\n柳杏公主祠 <br>\n枚公祠 <br>\n雙忠祠 <br>\n【峝寺】 <br>\n僊師峝 <br>\n庵峝 <br>\n石泊峝 <br>\n赤沙峝 <br>\n金〓峝 <br>\n清朗峝 <br>\n真靈峝 <br>\n椰木峝 <br>\n〓峝 <br>\n白沙峝 <br>\n金鋒寺 <br>\n境僊寺 <br>\n化寺 <br>\n弘福寺 <br>\n大豐寺 <br>\n靈光寺 <br>\n【關汛】 <br>\n定化長城 <br>\n廣平關 <br>\n安代原 <br>\n日麗海汛 <br>\n灑源 <br>\n安裊侖源 <br>\n〓江海汛 <br>\n安裊海汛 <br>\n里和海汛 <br>\n橫山關 <br>\n洊海汛 <br>\n金齡箕沙二源 <br>\n廣巡汛 <br>\n【驛站】 <br>\n廣祿站 <br>\n廣捨站 <br>\n廣寧站 <br>\n廣高站 <br>\n廣溪站 <br>\n廣富站 <br>\n先郎站 <br>\n古港站 <br>\n三多站 <br>\n歸達站 <br>\n金屢站 <br>\n清朗站 <br>\n【里路】 <br>\n【津渡】 <br>\n長橋渡 <br>\n館蚝渡 <br>\n洞海渡 <br>\n武勝渡 <br>\n顯榮渡 <br>\n古賢渡 <br>\n洞思渡 <br>\n美祿渡 <br>\n春蒲渡 <br>\n古柳渡 <br>\n美土渡 <br>\n歸厚渡 <br>\n順宅直渡 <br>\n洊江都 <br>\n扶宅渡 <br>\n先郎渡 <br>\n古港渡 <br>\n〓江渡 <br>\n政和渡 <br>\n里和渡 <br>\n清河渡 <br>\n高牢渡 <br>\n富美渡 <br>\n姜河渡 <br>\n俱樂渡 <br>\n古江渡 <br>\n【橋梁】 <br>\n官路石橋 <br>\n水蓮橋 <br>\n安土橋 <br>\n廉愛橋 <br>\n廣平橋 <br>\n洞海橋 <br>\n宏遠橋 <br>\n富期橋 <br>\n富安橋 <br>\n里和橋 <br>\n完老橋 <br>\n攀龍橋 <br>\n安山橋 <br>\n忠愛橋 <br>\n景陽橋 <br>\n【鋪市】 <br>\n環省城鋪 <br>\n洞海鋪 <br>\n洞海市 <br>\n壯捷市 <br>\n古賢市 <br>\n扶正市 <br>\n大豐市 <br>\n石舍下市 <br>\n政和市 <br>\n完老市 <br>\n清河市 <br>\n里和市 <br>\n土瓦市 <br>\n攀龍市 <br>\n春橋市 <br>\n〓屯市 <br>\n屢豐市 <br>\n祿田市 <br>\n魯港市 <br>\n秀鸞市 <br>\n彌綸市 <br>\n【人物】 <br>\n黎朝阮子驩 <br>\n阮名哿 <br>\n阮文祥 <br>\n阮衍 <br>\n胡貢 <br>\n陳庭熙 <br>\n陳瑺 <br>\n黃永祚 <br>\n楊澈 <br>\n楊文案 <br>\n范克寬 <br>\n阮庭纘 <br>\n黃公旦 <br>\n范琚 <br>\n枚忠 <br>\n范丕耀 <br>\n黃上舍 <br>\n范大抗 <br>\n黎多能 <br>\n阮有鎰 <br>\n阮有鐃 <br>\n阮久喬 <br>\n阮久逸 <br>\n張福奮 <br>\n黎正已 <br>\n陳玉瑻 <br>\n鄧大略 <br>\n鄧大度 <br>\n黎多蘊 <br>\n阮奇計 <br>\n陳大律 <br>\n白〓朝 <br>\n武名楚 <br>\n阮成軫 <br>\n阮文敏 <br>\n陳玉琯 <br>\n然文選 <br>\n阮文貳 <br>\n黃進謹 <br>\n黎正路 <br>\n阮文化 <br>\n武庭芳 <br>\n黎春正 <br>\n吳廷價 <br>\n阮仁里 <br>\n黎惠 <br>\n陶文玖 <br>\n阮克寬 <br>\n武春謹 <br>\n阮登洵 <br>\n黃金燦 <br>\n阮壽〓 <br>\n武仲平 <br>\n黎文義 <br>\n阮國驩 <br>\n阮登楷 <br>\n黎夤 <br>\n黎文僖 <br>\n范緋 <br>\n黎文居 <br>\n阮咸寧 <br>\n劉亮 <br>\n阮久長 <br>\n黎仕 <br>\n范春桂 <br>\n阮登珩 <br>\n裴日進 <br>\n陳文系 <br>\n劉文平 <br>\n胡炎 <br>\n陳文凖 <br>\n何文關 <br>\n【孝子】 <br>\n黃日宰 <br>\n黎氏女 <br>\n【烈女】 <br>\n阮氏女 <br>\n陳氏盤 <br>\n陳氏工 <br>\n范氏又 <br>\n段氏錐 <br>\n黃氏辰 <br>\n阮氏永 <br>\n阮氏耀 <br>\n黃氏自 <br>\n鄧氏緣 <br>\n劉氏慶 <br>\n范氏柳 <br>\n【土產】 <br>\n絹 <br>\n布 <br>\n藤枕 <br>\n紅菱 <br>\n稻 <br>\n黃精 <br>\n黃豆醬 <br>\n桑椹酒 <br>\n蠻紋布 <br>\n布慢 <br>\n班竹 <br>\n黃蠟蜂蜜 <br>\n沉香 <br>\n麞雉山竹 <br>\n羚羊 <br>\n虎豹象牙 <br>\n孔雀麋鹿 <br>\n降香犀角遠香 <br>\n平參 <br>\n西瓜 <br>\n榔參 <br>\n鳳油 <br>\n白蜜蔗蜜 <br>\n橄欖燈 <br>\n赭石 <br>\n鐵木 <br>\n黃心木 <br>\n萬古木 <br>\n鐵藤水藤 <br>\n鰍魚鯊魚鳥魚 <br>\n烏賊魚 <br>\n龍炙魚 <br>\n九孔決明 <br>\n龜龞田蟹海蟹蝦 <br>\n石蟹 <br>\n虎蝦 <br>\n大蝦 <br>\n牡蠣 <br>\n鹽 <br>\n土朱黃土 <br>\n德魚 <br>\n蛤蚶 <br>\n谷豆瓜果花菜 <br>\n大南一統志卷之九 <br>\n平定省 <br>\n【分野】 <br>\n【建置沿革】 <br>\n安仁府 <br>\n綏遠縣 <br>\n平溪縣 <br>\n懷仁府 <br>\n蓬山縣 <br>\n符美縣 <br>\n符吉縣 <br>\n懷恩縣 <br>\n綏福府 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n省城 <br>\n安仁府治 <br>\n懷仁府治 <br>\n綏福府治 <br>\n符美縣治 <br>\n符吉縣治 <br>\n懷恩縣治 <br>\n平溪縣治 <br>\n【學校】 <br>\n省學 <br>\n試場 <br>\n安仁府學 <br>\n懷仁府學 <br>\n綏福府學 <br>\n符美縣學 <br>\n符吉縣學 <br>\n平溪縣學 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n福安山 <br>\n安象山 <br>\n敬山 <br>\n亥山 <br>\n犢齒山 <br>\n茶山 <br>\n名平山 <br>\n曾西山 <br>\n胄嶺山 <br>\n虬〓山 <br>\n板山 <br>\n柿野山 <br>\n山朝山 <br>\n酬露山 <br>\n撫山 <br>\n含龍山 <br>\n岐山 <br>\n蠶室山 <br>\n庫山 <br>\n興盛山 <br>\n廣信山 <br>\n馬頭山 <br>\n象山 <br>\n象頭山 <br>\n橫山 <br>\n犢野山 <br>\n茶榮山 <br>\n真幢山 <br>\n槾棱山 <br>\n碧雞山 <br>\n壘石山 <br>\n參雄山 <br>\n雞溪山 <br>\n苕蓬山 <br>\n干陽山 <br>\n會山 <br>\n婆山 <br>\n茶欄山 <br>\n大店山 <br>\n鐵柱山 <br>\n福祿山 <br>\n模鳥山 <br>\n石盤山 <br>\n御道嶺 <br>\n弓肱嶺 <br>\n石津嶺 <br>\n舊府嶺 <br>\n海涼嶺 <br>\n鳥飛嶺 <br>\n潮洲嶺 <br>\n石邱嶺 <br>\n多多嶺 <br>\n富貴嶺 <br>\n祿嶺 <br>\n牙艾嶺 <br>\n礪石嶺 <br>\n虎嶺 <br>\n三塔岡 <br>\n陽隆岡 <br>\n寺岡 <br>\n冊瑚嶼 <br>\n清洲嶼 <br>\n望夫石 <br>\n賴陽江 <br>\n津關江 <br>\n會省江 <br>\n富盛江 <br>\n羅晶江 <br>\n全富江 <br>\n雲山江 <br>\n富和東江 <br>\n光顯江 <br>\n巴江 <br>\n【溪潭】 <br>\n湯溪 <br>\n瀑泉 <br>\n安山溪 <br>\n鮫池 <br>\n石猊淵 <br>\n鹿洞源八 <br>\n方嶠源十五灘 <br>\n淡水潭 <br>\n茶塢潭 <br>\n平湖海東潭 <br>\n翠磯潭 <br>\n海涸潭 <br>\n礁磯海東潭 <br>\n梅鄉海東潭 <br>\n冊瑚海東潭 <br>\n青嶼海東潭 <br>\n提夷海東潭 <br>\n津關海東潭 <br>\n安裕海東潭 <br>\n安裕泳山潭 <br>\n【古蹟】 <br>\n闍盤廢城 <br>\n安城廢城 <br>\n富豐廢城 <br>\n雲祥古塔 <br>\n取香古塔 <br>\n南安古塔 <br>\n興盛古塔 <br>\n平林古塔 <br>\n春美古塔 <br>\n土山古塔 <br>\n福祿古塔 <br>\n干陽廢城 <br>\n安裕舊倉 <br>\n社義舊倉 <br>\n【祠廟】 <br>\n社稷壇 <br>\n先農壇 <br>\n山川壇 <br>\n文廟 <br>\n會同廟 <br>\n城隍廟 <br>\n大干神祠 <br>\n三座山神祠 <br>\n忠祠 <br>\n褒忠祠 <br>\n三神祠 <br>\n壯邦侯祠 <br>\n貢郡公祠 <br>\n綏福文址 <br>\n美吉二縣文址 <br>\n懷仁府文址 <br>\n安仁府文址 <br>\n【寺觀】 <br>\n什塔寺 <br>\n靈峰寺 <br>\n石谷寺 <br>\n雁山寺 <br>\n隆慶寺 <br>\n【關汛】 <br>\n安象源 <br>\n鹿洞源 <br>\n石盤源 <br>\n河清源 <br>\n茶雲源 <br>\n方〓源 <br>\n施耐海汛 <br>\n金蓬海汛 <br>\n安裕海汛 <br>\n提夷海汛 <br>\n防買海汛 <br>\n河羅海汛 <br>\n鴉翻海汛 <br>\n【驛站】 <br>\n平堤站 <br>\n平忠站 <br>\n平楊站 <br>\n平山站 <br>\n平安站 <br>\n平田站 <br>\n平富站 <br>\n平江站 <br>\n平儀站 <br>\n平義站 <br>\n平錦站 <br>\n【里路】 <br>\n千里路 <br>\n關報路 <br>\n岐路 <br>\n水道 <br>\n【津渡】 <br>\n梂〓渡 <br>\n瀨江渡 <br>\n〓〓渡 <br>\n〓〓渡 <br>\n蘿尾渡 <br>\n羅晶渡 <br>\n塸栬渡 <br>\n巴江渡 <br>\n美壽渡 <br>\n〓寒渡 <br>\n木牌渡 <br>\n夢見渡 <br>\n俄〓渡 <br>\n定功渡 <br>\n泡象渡 <br>\n核椰渡 <br>\n妑泡渡 <br>\n塸培渡 <br>\n〓寒渡 <br>\n德普渡 <br>\n〓〓渡 <br>\n大安渡 <br>\n翁師渡 <br>\n大毫渡 <br>\n興治渡 <br>\n核吉渡 <br>\n老〓渡 <br>\n老淡渡 <br>\n妑干渡 <br>\n美平渡 <br>\n名重渡 <br>\n春軒渡 <br>\n石安渡 <br>\n安光渡 <br>\n安老渡 <br>\n清涼度 <br>\n安常渡 <br>\n富文渡 <br>\n河戎渡 <br>\n翁屬渡 <br>\n核梌渡 <br>\n【橋梁】 <br>\n芳茗橋 <br>\n安義橋 <br>\n錦文橋 <br>\n順政橋 <br>\n和居橋 <br>\n通和橋 <br>\n觀光橋 <br>\n輔玉橋 <br>\n取善橋 <br>\n來儀橋 <br>\n慶禮橋 <br>\n安春橋 <br>\n安順橋 <br>\n美豐鐵橋 <br>\n興盛橋 <br>\n興富橋 <br>\n富和橋 <br>\n平盛橋 <br>\n良農橋 <br>\n安定橋 <br>\n祥雲橋 <br>\n阜安橋 <br>\n順儀橋 <br>\n豐盛橋 <br>\n忠信橋 <br>\n榮盛橋 <br>\n豐年橋 <br>\n黃金橋 <br>\n廉直橋 <br>\n萬美橋 <br>\n瑤池橋 <br>\n雲會橋 <br>\n富盛橋 <br>\n富財橋 <br>\n隆雲橋 <br>\n新來橋 <br>\n上安橋 <br>\n平安橋 <br>\n安上橋 <br>\n久安橋 <br>\n安溪橋 <br>\n新聚橋 <br>\n安豐橋 <br>\n至公橋 <br>\n山蠻橋 <br>\n平章橋 <br>\n才良橋 <br>\n鳳油橋 <br>\n進盛橋 <br>\n衍慶橋 <br>\n巨材橋 <br>\n安山橋 <br>\n安山珠堤橋 <br>\n珠堤橋 <br>\n義祥橋 <br>\n富農橋 <br>\n萬善橋 <br>\n平隆橋 <br>\n安貞橋 <br>\n茶平橋 <br>\n茶光橋 <br>\n〓硝橋 <br>\n祥安橋 <br>\n文場橋 <br>\n新瓦橋 <br>\n萬富橋 <br>\n萬富橋 <br>\n大盛橋 <br>\n富善橋 <br>\n和勇橋 <br>\n安新橋 <br>\n慶福橋 <br>\n永長橋 <br>\n安行橋 <br>\n會隆橋 <br>\n春鳳橋 <br>\n感德橋 <br>\n萬慶橋 <br>\n平和橋 <br>\n萬和橋 <br>\n美成橋 <br>\n會忠橋 <br>\n福平橋 <br>\n資德橋 <br>\n隆光橋 <br>\n隆美橋 <br>\n富豐石寶 <br>\n安義石寶 <br>\n先和石寶 <br>\n錦文石寶 <br>\n把耕石寶 <br>\n通和石寶 <br>\n美化石寶 <br>\n橋安石寶 <br>\n富金石寶 <br>\n慶富石寶 <br>\n安新石寶 <br>\n和勇石寶 <br>\n永長石寶 <br>\n【堤堰】 <br>\n堅美江堰 <br>\n憑州江石堰 <br>\n美和江堰 <br>\n普澤江堰 <br>\n平安江堰 <br>\n春安江堰 <br>\n【市集】 <br>\n安義市 <br>\n美盛市 <br>\n芳茗市 <br>\n忠安市 <br>\n好善市 <br>\n從簡市 <br>\n享光市 <br>\n安行市 <br>\n永〓市 <br>\n堅美市 <br>\n新民市 <br>\n安城市 <br>\n取善市 <br>\n長定市 <br>\n富豐市 <br>\n勇和市 <br>\n廉利市 <br>\n雲會市 <br>\n平盛市 <br>\n鳳山市 <br>\n廉直市 <br>\n上江市 <br>\n新安市 <br>\n安沼市 <br>\n才良市 <br>\n大盛市 <br>\n安良市 <br>\n楊柳市 <br>\n永平市 <br>\n春安市 <br>\n芳菲市 <br>\n政祿市 <br>\n富教市 <br>\n德普市 <br>\n新安市 <br>\n和會市 <br>\n平義市 <br>\n盛茗市 <br>\n和居市 <br>\n安順市 <br>\n東林市 <br>\n東園市 <br>\n仁義市 <br>\n忠愛市 <br>\n仁順市 <br>\n太平市 <br>\n新德市 <br>\n雲祥市 <br>\n美安市 <br>\n堅義市 <br>\n陽春市 <br>\n新簡市 <br>\n好禮市 <br>\n祿順市 <br>\n普澤市 <br>\n永世市 <br>\n忠信市 <br>\n廣雲市 <br>\n安祿市 <br>\n景雲市 <br>\n大會市 <br>\n雲霞市 <br>\n順儀市 <br>\n有成市 <br>\n奇山市 <br>\n春芳市 <br>\n遵禮市 <br>\n祿義市 <br>\n永盛市 <br>\n靈沼市 <br>\n祿江市 <br>\n嘉安市 <br>\n鳳岡市 <br>\n茶光市 <br>\n直道市 <br>\n會富市 <br>\n文場市 <br>\n萬安市 <br>\n新成市 <br>\n富寧市 <br>\n永富市 <br>\n安歡市 <br>\n安西市 <br>\n大利市 <br>\n光會市 <br>\n慶德市 <br>\n橋楦市 <br>\n有法市 <br>\n忠政市 <br>\n政善市 <br>\n政茗市 <br>\n安勝市 <br>\n安光市 <br>\n泰富市 <br>\n永恩市 <br>\n隆定市 <br>\n會山市 <br>\n安老市 <br>\n會隆市 <br>\n安會市 <br>\n安溪市 <br>\n久安市 <br>\n定光市 <br>\n先順市 <br>\n禎祥市 <br>\n美石市 <br>\n安養市 <br>\n金山市 <br>\n新盛市 <br>\n富有市 <br>\n珠堤市 <br>\n進盛市 <br>\n安山市 <br>\n增隆市 <br>\n盛春市 <br>\n河東市 <br>\n清涼市 <br>\n【人物】 <br>\n陳德和 <br>\n陶維慈 <br>\n阮有進 <br>\n吳從周 <br>\n鄧德超 <br>\n阮文弘 <br>\n阮德暄 <br>\n範文仕 <br>\n陳文沖 <br>\n阮儀 <br>\n黎質 <br>\n黃戰 <br>\n陳光鍾 <br>\n黎廷理 <br>\n武文教 <br>\n吳從儒 <br>\n阮文點 <br>\n【烈女附】 <br>\n占城媚酰貞夫人 <br>\n阮氏好 <br>\n阮氏漂 <br>\n裴氏心 <br>\n陳氏權 <br>\n【土產】 <br>\n黃金 <br>\n鐵 <br>\n涼紗 <br>\n稠紗 <br>\n黑綾 <br>\n帛 <br>\n布 <br>\n袋 <br>\n谷 <br>\n荳 <br>\n瓜 <br>\n芋 <br>\n菜 <br>\n胡椒 <br>\n庵蘿菜 <br>\n茶園菓 <br>\n百眼梨 <br>\n波羅蜜 <br>\n芭蕉 <br>\n黃精 <br>\n薯 <br>\n沉香 <br>\n黃蠟 <br>\n琦〓 <br>\n白蜜 <br>\n象牙 <br>\n犀角 <br>\n燕窩 <br>\n南茶 <br>\n甘苦茶 <br>\n豆線 <br>\n豆粉 <br>\n煙葉 <br>\n椰子 <br>\n椰匙 <br>\n笠 <br>\n鹽 <br>\n山芙 <br>\n席 <br>\n風燈 <br>\n鳳油 <br>\n猛火油 <br>\n橄欖脂 <br>\n〓硝 <br>\n檳榔 <br>\n水藤 <br>\n石藤 <br>\n降香木 <br>\n〓木 <br>\n〓梛木 <br>\n楱木 <br>\n〓木 <br>\n竹筍 <br>\n苦茄 <br>\n閹雞 <br>\n鰻鱺魚 <br>\n孔雀 <br>\n雉 <br>\n馬 <br>\n巨蛇 <br>\n烏賊魚 <br>\n水母 <br>\n虎 <br>\n象 <br>\n鹿 <br>\n大南一統志卷之十 <br>\n富安省 <br>\n【分野】 <br>\n【建置沿革】 <br>\n同春縣 <br>\n綏和府 <br>\n山和縣 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n省城 <br>\n綏安府蒞 <br>\n綏和府蒞 <br>\n同春縣蒞 <br>\n山和縣蒞 <br>\n【學校】 <br>\n省學 <br>\n綏安府學 <br>\n同春縣學 <br>\n山和縣學 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n大嶺 <br>\n茹坡嶺 <br>\n石碑嶺 <br>\n主山 <br>\n寶塔山 <br>\n局劇嶺 <br>\n石城山 <br>\n虬蒙山 <br>\n馬霧山 <br>\n石嶺山 <br>\n春台山 <br>\n富溪山 <br>\n澀池山 <br>\n梁山 <br>\n美勝山 <br>\n安山崗 <br>\n盤灘嶼 <br>\n灘嶼 <br>\n大〓磯 <br>\n沱演江 <br>\n盤石江 <br>\n富銀江 <br>\n隆平江 <br>\n〓海兒 <br>\n泳淋海兒 <br>\n春台海兒 <br>\n富山海兒 <br>\n【溪潭】 <br>\n海湖 <br>\n孔雀淵 <br>\n石盤溪 <br>\n東安潭 <br>\n富隆潭 <br>\n【古蹟】 <br>\n安〓故城 <br>\n占城古塔 <br>\n【壇廟】 <br>\n文廟啟廟 <br>\n會同城隍廟 <br>\n社稷壇 <br>\n山川壇 <br>\n迎春歷祭二壇 <br>\n表忠祠 <br>\n梁郡公祠 <br>\n天依神祠 <br>\n師鸞神祠 <br>\n明威神祠 <br>\n鐵〓神祠 <br>\n【寺觀】 <br>\n般若寺 <br>\n靈光寺 <br>\n金剛寺 <br>\n石谷寺 <br>\n【關汛】 <br>\n河灘源 <br>\n石城源 <br>\n虬〓汛 <br>\n春台汛 <br>\n富山汛 <br>\n沱演汛 <br>\n沬淋汛 <br>\n沱濃汛 <br>\n福山屯 <br>\n【驛站】 <br>\n富溪站 <br>\n富常站 <br>\n富新站 <br>\n富榮站 <br>\n富盛站 <br>\n富和站 <br>\n富會站 <br>\n富山站 <br>\n富春站 <br>\n富雲站 <br>\n富良站 <br>\n【里路】 <br>\n【津渡】 <br>\n核椰渡 <br>\n〓枚渡 <br>\n棋撐渡 <br>\n〓捍渡 <br>\n富禮渡 <br>\n王郎渡 <br>\n長盛渡 <br>\n好山渡 <br>\n盛會渡 <br>\n築美渡 <br>\n【橋梁】 <br>\n銀山渡 <br>\n富新橋 <br>\n富盛橋 <br>\n富豐橋 <br>\n富隆橋 <br>\n富恬橋 <br>\n和多橋 <br>\n美溪橋 <br>\n富溪橋 <br>\n東美橋 <br>\n富林橋 <br>\n隆盛橋 <br>\n石溪橋 <br>\n政祿橋 <br>\n隆平橋 <br>\n寬厚橋 <br>\n朝山橋 <br>\n【堤壩】 <br>\n護城小堤 <br>\n朝山堤 <br>\n安美堤 <br>\n高舍堤 <br>\n【市集】 <br>\n隆淵市 <br>\n〓蓮市 <br>\n番〓市 <br>\n〓市 <br>\n番次市 <br>\n廩市 <br>\n泡銃市 <br>\n館〓市 <br>\n營市 <br>\n朝市 <br>\n鑅市 <br>\n盤市 <br>\n美市 <br>\n富市 <br>\n榮市 <br>\n捄市 <br>\n塸〓市 <br>\n番城市 <br>\n泳淋市 <br>\n買市 <br>\n屯市 <br>\n爐椥市 <br>\n買市 <br>\n屯市 <br>\n【人物】 <br>\n梁文政 <br>\n朱文接 <br>\n阮龍 <br>\n阮文力 <br>\n武文才 <br>\n枚進萬 <br>\n阮文揚 <br>\n阮文願 <br>\n陶致 <br>\n阮文就 <br>\n範文秋 <br>\n蘇喜 <br>\n阮檏 <br>\n黎文澤 <br>\n【僧釋】 <br>\n阮覺悟 <br>\n阮平 <br>\n【土產】 <br>\n庵蘿 <br>\n黃蠟 <br>\n煙墨 <br>\n氍毹席 <br>\n蜂蜜 <br>\n象牙 <br>\n纊花彩 <br>\n芙葉 <br>\n蘇合香 <br>\n砂仁 <br>\n降香沉香椅楠〓木 <br>\n歌那木〓木榆木 <br>\n馬藤龍藤 <br>\n馬 <br>\n牛羊雞 <br>\n虎象 <br>\n豚熊狸 <br>\n沙蛤蚧海參 <br>\n蚌魚龜鱉 <br>\n大南一統志卷之十一 <br>\n慶和省 <br>\n【分野】 <br>\n【建置沿革】 <br>\n福田縣 <br>\n永昌縣 <br>\n寧和府 <br>\n廣福府 <br>\n新定府 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n省城 <br>\n延慶府治 <br>\n永昌縣治 <br>\n寧和府治 <br>\n新定府治 <br>\n【學校】 <br>\n省學 <br>\n延慶府學 <br>\n寧和府學 <br>\n永昌縣學 <br>\n新定縣學 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n馬頭山 <br>\n三峰山 <br>\n盤山 <br>\n翠山嶼 <br>\n菩陀山 <br>\n美玉山 <br>\n福河山 <br>\n新立山 <br>\n富美山 <br>\n蘇蝦山 <br>\n富如山 <br>\n大同山 <br>\n風腰嶺 <br>\n清河嶺 <br>\n茶羅嶼 <br>\n雲峰嶼 <br>\n毓美山 <br>\n岑山 <br>\n螉源山 <br>\n石壘岡 <br>\n赤土山 <br>\n新水山 <br>\n春山 <br>\n筆嶼 <br>\n大田山 <br>\n柿山 <br>\n婆山 <br>\n虬牢山 <br>\n演山 <br>\n黃牛山 <br>\n安堵山 <br>\n庫山 <br>\n旌忠山 <br>\n境隆山 <br>\n和勻山 <br>\n呂山 <br>\n良朝山 <br>\n合美山 <br>\n盛德山 <br>\n油林山 <br>\n萬昌山 <br>\n玉會山 <br>\n風嶺 <br>\n〓源嶼 <br>\n潭〓嶼 <br>\n內嶼外嶼 <br>\n蘇蝦江 <br>\n平山江 <br>\n安良江 <br>\n玉山江 <br>\n美利江 <br>\n永富江 <br>\n富祿江 <br>\n三瀆江 <br>\n涸江 <br>\n【溪潭】 <br>\n烏烏溪 <br>\n巴羅密溪 <br>\n安盛溪 <br>\n玳瑁潭 <br>\n烏〓潭 <br>\n水潮潭 <br>\n泳兢潭 <br>\n〓江六灘 <br>\n珠江五灘 <br>\n芽荘澳 <br>\n雲峰澳 <br>\n芽敷澳 <br>\n柑欞澳 <br>\n富會池 <br>\n忠江池 <br>\n鱷魚泓 <br>\n【古蹟】 <br>\n天依古塔 <br>\n占城廢壘 <br>\n陸屯 <br>\n【祠廟】 <br>\n社稷壇 <br>\n先農壇 <br>\n山川壇 <br>\n文廟 <br>\n會同廟 <br>\n城隍廟 <br>\n旌忠祠 <br>\n馬頸山祠 <br>\n安良祠 <br>\n過關祠 <br>\n【寺觀】 <br>\n金山寺 <br>\n靈山寺 <br>\n【關汛】 <br>\n平原堡 <br>\n平安堡 <br>\n林木堡 <br>\n同香源 <br>\n芽荘源 <br>\n芽敷汛 <br>\n夾口屯 <br>\n柑欞汛 <br>\n虬勛小海汛 <br>\n虬勛大海汛 <br>\n雲峰小海汛 <br>\n雲峰大海汛 <br>\n【驛站】 <br>\n富和站 <br>\n和馬站 <br>\n和浪站 <br>\n和黃站 <br>\n和美站 <br>\n和吉站 <br>\n芽荘站 <br>\n和盛站 <br>\n和新站 <br>\n和油站 <br>\n和勻站 <br>\n【里路】 <br>\n【橋梁】 <br>\n商津橋 <br>\n富有橋 <br>\n福盛橋 <br>\n長盛橋 <br>\n永洲橋 <br>\n三溪橋 <br>\n鐵橋三所 <br>\n正都橋 <br>\n賢良橋 <br>\n順美橋 <br>\n萬順橋 <br>\n良山橋 <br>\n平和橋 <br>\n毓美橋 <br>\n新春橋 <br>\n明良橋 <br>\n富義橋 <br>\n〓〓橋 <br>\n富祿橋 <br>\n【堤堰】 <br>\n【市集】 <br>\n清明市 <br>\n福盛市 <br>\n富祿市 <br>\n武〓市 <br>\n永恬市 <br>\n昌勛市 <br>\n水朝市 <br>\n福慶市 <br>\n新美市 <br>\n富義市 <br>\n美合市 <br>\n盛美市 <br>\n春和市 <br>\n美政市 <br>\n【人物】 <br>\n阮湍 <br>\n陳文能 <br>\n阮春淑 <br>\n阮文漢 <br>\n範文禇 <br>\n然文貢 <br>\n陳文順 <br>\n烈女潘氏篤 <br>\n黃氏義 <br>\n【土產】 <br>\n琦〓 <br>\n沉香 <br>\n蘇合香 <br>\n降香木 <br>\n楠木 <br>\n花藤 <br>\n烏木 <br>\n赤木 <br>\n黃蠟 <br>\n商葉 <br>\n象牙犀角 <br>\n雉羽鹿茸 <br>\n孔雀蜂蜜 <br>\n燕巢海參 <br>\n〓璖玳瑁象螺文蛤 <br>\n珊瑚石 <br>\n猛火油橄欖脂 <br>\n麻皮山芙 <br>\n薏苡砂仁紅花馬前子 <br>\n縐紗 <br>\n南秞 <br>\n黑綾 <br>\n谷豆瓜菓 <br>\n大南一統志卷之十二 <br>\n平順省　寧順道附 <br>\n【分野】 <br>\n【建置沿革】 <br>\n咸順府 <br>\n綏理縣 <br>\n禾多縣 <br>\n禾多土縣 <br>\n綏豐縣 <br>\n性靈縣 <br>\n夷營土府 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n省城 <br>\n咸順府城 <br>\n夷營上府 <br>\n禾多縣治 <br>\n綏豐縣治 <br>\n禾多土縣治 <br>\n性靈縣治 <br>\n【學校】 <br>\n省學 <br>\n咸順府學 <br>\n禾多縣學 <br>\n綏豐縣學 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n延觜山 <br>\n〓邦山 <br>\n烏柑山 <br>\n富田山 <br>\n羅柏山 <br>\n孤山 <br>\n茶奔山 <br>\n良江山 <br>\n旭藍山 <br>\n朱蒂山 <br>\n赤砂山 <br>\n火焰山 <br>\n攤山 <br>\n麻布林 <br>\n黃犢林 <br>\n域呂林 <br>\n新林 <br>\n順靜〓 <br>\n物升峰 <br>\n琦羅山 <br>\n楊律山 <br>\n素履山 <br>\n淺谷山 <br>\n巴芒山 <br>\n石盤山 <br>\n龍山 <br>\n藍狀山 <br>\n渭泥山 <br>\n斜芃山 <br>\n爐蘇山 <br>\n氏鄧山 <br>\n〓嵩山 <br>\n斜鴝山 <br>\n僊井山 <br>\n香印山 <br>\n赤土崗 <br>\n井函山 <br>\n番梨山 <br>\n增富山 <br>\n馬陵山 <br>\n禮山 <br>\n駒爾山 <br>\n鍋〓山 <br>\n壇靈山 <br>\n楊山 <br>\n美山 <br>\n隆盛山 <br>\n庯針山 <br>\n斜句山 <br>\n錦雞山 <br>\n神母峰 <br>\n天依島 <br>\n〓固嶺 <br>\n大溪林 <br>\n羅莽林 <br>\n石磯 <br>\n均江 <br>\n良江山 <br>\n洊江 <br>\n永好江 <br>\n琦羅江 <br>\n龍永江 <br>\n大定江 <br>\n麻布江 <br>\n滄江 <br>\n糧江 <br>\n廉公江 <br>\n壘江 <br>\n潘里江 <br>\n滇江 <br>\n麻〓江 <br>\n庸諧江 <br>\n新富江 <br>\n永和江 <br>\n潘切江 <br>\n梓江 <br>\n柳江 <br>\n磨石江 <br>\n斜門江 <br>\n市冷江 <br>\n麻離江 <br>\n羅夷江 <br>\n扶眉江 <br>\n庯占江 <br>\n〓江 <br>\n【溪潭】 <br>\n尋羅溪 <br>\n斜哺溪 <br>\n羅瀚澳 <br>\n白湖 <br>\n延澳 <br>\n渭泥澳 <br>\n掖潭 <br>\n館廚湖 <br>\n大溪 <br>\n福祿湖 <br>\n登湖 <br>\n賖羅湖 <br>\n謨呼溪 <br>\n由佐溪 <br>\n捫溪 <br>\n阿羅溪油溪 <br>\n捧並溪 <br>\n說律溪 <br>\n斜勞溪 <br>\n熱溪 <br>\n【古蹟】 <br>\n占王故城 <br>\n順城舊鎮 <br>\n占城古塔 <br>\n古井廢壘 <br>\n潘切廢驛 <br>\n潘王石寺 <br>\n烏柑廢壘 <br>\n潘王廢井 <br>\n【祠廟】 <br>\n社稷壇 <br>\n先農壇 <br>\n山川壇 <br>\n文廟 <br>\n會同廟 <br>\n占王廟 <br>\n城隍廟 <br>\n天依祠 <br>\n神農廟 <br>\n南海祠 <br>\n關公祠 <br>\n楊須祠 <br>\n天后祠 <br>\n故喜夫人祠 <br>\n才工蘭祠 <br>\n〓畫撥祠 <br>\n主峝夫人祠 <br>\n【寺觀】 <br>\n寶山寺 <br>\n【關汛】 <br>\n壇靈堡 <br>\n柿靈堡 <br>\n舊城二堡 <br>\n〓梛海汛 <br>\n泳滛海汛 <br>\n龍永海汛 <br>\n潘裏海汛 <br>\n庯諧海汛 <br>\n扶眉海汛 <br>\n羅夷汛 <br>\n潘切海汛 <br>\n麻離海汛 <br>\n山頭芙場 <br>\n海外漁潭 <br>\n【驛站】 <br>\n順好站 <br>\n順網站 <br>\n順富站 <br>\n順峝站 <br>\n順崗站 <br>\n順井站 <br>\n順藩站 <br>\n順理站 <br>\n順林站 <br>\n順程站 <br>\n順福站 <br>\n順芳站 <br>\n順邊站 <br>\n順隆站 <br>\n順良站 <br>\n順和站 <br>\n順蓮站 <br>\n江革站 <br>\n〓征站 <br>\n【里路】 <br>\n【津渡】 <br>\n龍永渡 <br>\n潘里渡 <br>\n奇川渡 <br>\n庯諧渡 <br>\n潘切渡 <br>\n羅夷渡 <br>\n麻離渡 <br>\n扶眉渡 <br>\n【橋梁】 <br>\n富美橋 <br>\n永好橋 <br>\n清修橋 <br>\n清福橋 <br>\n奇川橋 <br>\n廉公橋 <br>\n新富橋 <br>\n德勝橋 <br>\n山水橋 <br>\n東派橋 <br>\n羅江橋 <br>\n新貴橋 <br>\n館居橋 <br>\n扶眉橋 <br>\n福勝橋 <br>\n紏友橋 <br>\n【堤堰】 <br>\n仝買堰 <br>\n【市店】 <br>\n龍鄉市 <br>\n永江市 <br>\n平盛市 <br>\n永好店 <br>\n木牌店 <br>\n館梁店 <br>\n椰樹店 <br>\n銀江市 <br>\n甘海市 <br>\n增隆市 <br>\n廉公市 <br>\n平水店 <br>\n德勝市 <br>\n庯諧市 <br>\n新會市 <br>\n龍溪市 <br>\n繍龍市 <br>\n館桶店 <br>\n【人物】 <br>\n阮登佑 <br>\n武交璘 <br>\n阮文在 <br>\n潘進峻 <br>\n裴增輝 <br>\n【土產】 <br>\n白布 <br>\n熟鐵 <br>\n黃蠟 <br>\n琦〓 <br>\n沉香 <br>\n沸沙 <br>\n龍眼 <br>\n猛火油橄欖脂 <br>\n錦文木 <br>\n烏木 <br>\n珊瑚草 <br>\n白蕈 <br>\n奔奔草 <br>\n水鹹魚咸 <br>\n順參 <br>\n〓硝麻皮 <br>\n犀象熊虎 <br>\n玳瑁〓瑮海鶴魚 <br>\n比目魚石頭魚 <br>\n赤鱗魚鰍魚 <br>\n象耳蛤虎蝦 <br>\n烏賊魚魚鰾魚 <br>\n油魚翅 <br>\n寧順道 <br>\n【分野】 <br>\n【建置沿革】 <br>\n安福縣 <br>\n安福土縣 <br>\n蠻縣 <br>\n【形勢　氣候　風俗】 <br>\n【城池】 <br>\n道城 <br>\n安福縣蒞 <br>\n安福土縣及蠻縣蒞所 <br>\n【學校】 <br>\n學政衙一所 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n芭蕉山 <br>\n薏山 <br>\n蘇緡山 <br>\n寬裕山 <br>\n珥長山 <br>\n蜂聚山 <br>\n慶仁山 <br>\n萊山 <br>\n尼姑山 <br>\n氏須山 <br>\n寺山 <br>\n篤列山 <br>\n茂長山 <br>\n渾天山 <br>\n〓句山 <br>\n清好岡 <br>\n餘慶山 <br>\n〓拖山 <br>\n文林山 <br>\n參里山 <br>\n斜駐山 <br>\n〓林 <br>\n赤柿岡 <br>\n子嶼 <br>\n蔠嶼 <br>\n潘郎江 <br>\n麻乃江 <br>\n麻布江 <br>\n【溪潭】 <br>\n廊登潭 <br>\n香舊潭 <br>\n積水灣 <br>\n【古蹟】 <br>\n得仁塔 <br>\n厚生塔 <br>\n秉義塔 <br>\n【祠廟】 <br>\n沛剛候祠 <br>\n神海祠 <br>\n【關汛】 <br>\n麻文汛 <br>\n潘郎汛 <br>\n永熙汛 <br>\n〓梛汛 <br>\n柑欞汛 <br>\n【驛站】 <br>\n寧萊站 <br>\n寧枚站 <br>\n寧貞站 <br>\n寧浪站 <br>\n寧合站 <br>\n寧美站 <br>\n寧戎站 <br>\n寧盤站 <br>\n寧海戰 <br>\n寧油站 <br>\n寧瀝站 <br>\n【里路】 <br>\n【津渡】 <br>\n經營渡 <br>\n慶會渡 <br>\n淄水渡 <br>\n美德渡 <br>\n得仁渡 <br>\n道隆渡 <br>\n安盛渡 <br>\n【橋梁】 <br>\n〓瀝鐵橋 <br>\n〓油橋 <br>\n朱筠橋 <br>\n虔虔橋 <br>\n陵翁橋 <br>\n館樶橋 <br>\n〓〓橋 <br>\n得仁橋 <br>\n安和橋 <br>\n仝交橋 <br>\n獼猴橋 <br>\n【堤堰】 <br>\n枚娘堰 <br>\n牙貞堰 <br>\n【市店】 <br>\n經營店 <br>\n枚娘店 <br>\n潘郎市 <br>\n【人物】 <br>\n鄧德述 <br>\n阮若山 <br>\n阮琢之 <br>\n潘忠 <br>\n【土產】 <br>\n琦〓 <br>\n沉香 <br>\n速香 <br>\n木板 <br>\n熟鐵 <br>\n黃蠟 <br>\n魚咸 <br>\n順參 <br>\n楠木 <br>\n馬前子 <br>\n象牙犀角孔雀山雞麋鹿山牛等物諸山分皆有之 <br>\n〓〓珊瑚玳瑁文螺虎蝦象蛤等物諸位海分皆有之瓜蔬芋苹谷荳甘蔗 <br>\n大南一統志之十三 <br>\n河靜省 <br>\n【分野】 <br>\n【建置沿革】 <br>\n河清府 <br>\n哿英縣 <br>\n錦川縣 <br>\n石河縣 <br>\n德壽府 <br>\n羅山縣 <br>\n干祿縣 <br>\n宜春縣 <br>\n香山縣 <br>\n香溪縣 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n省城 <br>\n德壽府城 <br>\n河清府城 <br>\n石河縣治 <br>\n錦川縣治 <br>\n宜春縣治 <br>\n香山縣治 <br>\n香溪縣治 <br>\n干祿縣治 <br>\n學校 <br>\n省學 <br>\n徳壽府學 <br>\n河清府學 <br>\n錦川縣學 <br>\n香山縣學 <br>\n香溪縣學 <br>\n宜春縣學 <br>\n干祿縣學 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n開賬山 <br>\n大函山 <br>\n金山 <br>\n圍棋山 <br>\n閣門山 <br>\n築牌山 <br>\n統令山 <br>\n白石峰 <br>\n茶山 <br>\n孛山 <br>\n尼山 <br>\n一字山 <br>\n龍馬負圖山 <br>\n松嶺山 <br>\n鴻嶺山 <br>\n玉山 <br>\n鸑鷟山 <br>\n鵾鵬山 <br>\n安〓山 <br>\n龍驤山 <br>\n彥山 <br>\n寶台山 <br>\n日麗山 <br>\n感山 <br>\n南界山 <br>\n主張山 <br>\n擎鷟山 <br>\n城山 <br>\n會山 <br>\n鳳凰山 <br>\n天琴山 <br>\n僊掌山 <br>\n旗頭山 <br>\n〓渡山 <br>\n高望山 <br>\n馬鞍山 <br>\n橫山 <br>\n眼嶼 <br>\n榻島 <br>\n山陽島 <br>\n暹江 <br>\n〓江 <br>\n九曲江 <br>\n齋江 <br>\n浦江 <br>\n羅江橋 <br>\n明江 <br>\n淇江 <br>\n潢江 <br>\n柰江 <br>\n戶江 <br>\n樂江 <br>\n朝江 <br>\n智江 <br>\n香亭江 <br>\n【溪潭】 <br>\n禹門泉 <br>\n囂囂泉 <br>\n越井 <br>\n木棉溪 <br>\n度遼溪 <br>\n熱溪 <br>\n咸池 <br>\n百年潭 <br>\n僊女潭 <br>\n葫蘆潭 <br>\n梅湖 <br>\n花溪 <br>\n那港 <br>\n涇下港 <br>\n樂賀港 <br>\n【古蹟】 <br>\n營梂故城 <br>\n閏胡故樓 <br>\n林邑故壘 <br>\n斥鹵舊海門 <br>\n【祠廟】 <br>\n文廟 <br>\n啟廟 <br>\n社稷壇 <br>\n山川壇 <br>\n會同廟 <br>\n武廟 <br>\n城隍廟 <br>\n歷祭壇 <br>\n三忠祠 <br>\n河清府文廟 <br>\n德壽府文廟 <br>\n香山縣文廟 <br>\n宜春縣文廟 <br>\n干錄縣文廟 <br>\n石河縣文廟 <br>\n香溪縣文廟 <br>\n制勝夫人神祠 <br>\n峝澗海神祠 <br>\n三郎龍王神祠 <br>\n鄧國公鄧平章神祠 <br>\n武穆大王神祠 <br>\n靈感神祠 <br>\n裴都台神祠 <br>\n神投雙祠 <br>\n權行三祠 <br>\n澧郡公祠 <br>\n范鎮將祠 <br>\n山朝神祠 <br>\n陳郡公祠 <br>\n【寺觀】 <br>\n香積寺 <br>\n天象寺 <br>\n花藏寺 <br>\n庵容寺 <br>\n攀外寺 <br>\n藏山寺 <br>\n彥山寺 <br>\n感山寺 <br>\n義山寺 <br>\n盤渡寺 <br>\n【關汛】 <br>\n橫山關 <br>\n歸合汛 <br>\n河津汛 <br>\n澗海汛 <br>\n〓海汛 <br>\n讓海汛 <br>\n口海汛 <br>\n【驛站】 <br>\n靜神站 <br>\n靜沙站 <br>\n靜樂站 <br>\n靜溪站 <br>\n靜丹站 <br>\n靜遼站 <br>\n靜忠站 <br>\n善治站 <br>\n虎渡站 <br>\n津汛站 <br>\n永代站 <br>\n越安站 <br>\n靜福站 <br>\n靜珠站 <br>\n靜補站 <br>\n靜齊站 <br>\n臨洮站 <br>\n〓齡站 <br>\n〓撥站 <br>\n周禮站 <br>\n福澤站 <br>\n宜春站 <br>\n【里路】 <br>\n官路 <br>\n大路凡十二條岐路 <br>\n【津渡】 <br>\n智江渡 <br>\n樂江渡 <br>\n戶江渡 <br>\n〓江渡 <br>\n彥江渡 <br>\n安樂渡 <br>\n浮石渡 <br>\n潢江渡 <br>\n羅江渡 <br>\n明江渡 <br>\n奇羅渡 <br>\n巨林渡 <br>\n濠津渡 <br>\n齋江渡 <br>\n桐江渡 <br>\n【橋梁】 <br>\n壘溪橋 <br>\n頭油橋 <br>\n神投橋 <br>\n橯溪橋 <br>\n道原橋 <br>\n厚澤橋 <br>\n渃漫橋 <br>\n權行橋 <br>\n〓盤橋 <br>\n興仁橋 <br>\n高橋 <br>\n廟橋 <br>\n媒略橋 <br>\n永愛橋 <br>\n墕橋 <br>\n媒行橋 <br>\n溪周橋 <br>\n溪缽橋 <br>\n梂涇橋 <br>\n求〓橋 <br>\n闃涇橋 <br>\n芳佳橋 <br>\n〓吉橋 <br>\n溪漊橋 <br>\n〓橋 <br>\n豪橋 <br>\n權橋 <br>\n徒朱橋 <br>\n中橋 <br>\n艾橋 <br>\n〓〓橋 <br>\n坦橋 <br>\n〓橋 <br>\n嘲橋 <br>\n戶橋 <br>\n權橋 <br>\n那橋 <br>\n柰橋 <br>\n忠節橋三所 <br>\n淇橋 <br>\n鵝橋 <br>\n東盤橋 <br>\n下磊橋 <br>\n河黃橋 <br>\n東魯橋 <br>\n永苗橋 <br>\n蚌珠橋 <br>\n伊岫橋二所 <br>\n蔡河橋 <br>\n清涼橋 <br>\n寧舍橋 <br>\n外干祿橋 <br>\n平浪橋 <br>\n謙益橋 <br>\n果品橋 <br>\n三春上橋 <br>\n三春下橋 <br>\n僊田橋 <br>\n〓溪橋 <br>\n〓廚橋 <br>\n求堆橋 <br>\n孔溪橋 <br>\n烏溪橋 <br>\n〓廚橋 <br>\n堆上橋 <br>\n福陽橋 <br>\n浦珠橋 <br>\n福綏橋 <br>\n河津橋 <br>\n〓補橋 <br>\n惠渥橋 <br>\n同樂橋 <br>\n芳裔橋 <br>\n安裔橋 <br>\n土黃橋 <br>\n周禮橋 <br>\n【市店】 <br>\n上市 <br>\n下市 <br>\n魯市 <br>\n裴市 <br>\n屯市 <br>\n舊府市 <br>\n齋市 <br>\n紙市 <br>\n關市 <br>\n總市 <br>\n府市 <br>\n浦市 <br>\n治市 <br>\n〓市 <br>\n齋市 <br>\n藏市 <br>\n弩市 <br>\n耶市 <br>\n澫市 <br>\n櫟市 <br>\n竹市 <br>\n屯市 <br>\n買市 <br>\n寨市 <br>\n榮市 <br>\n薰市 <br>\n暹市 <br>\n春市 <br>\n亭市 <br>\n制市 <br>\n〓市 <br>\n〓市 <br>\n淡市 <br>\n僊市 <br>\n檜市 <br>\n〓市 <br>\n芙市 <br>\n〓市 <br>\n明市 <br>\n亭市 <br>\n洏市 <br>\n縣市 <br>\n買市 <br>\n〓市 <br>\n〓市 <br>\n〓市 <br>\n農市 <br>\n淇市 <br>\n魯市 <br>\n山市 <br>\n道市 <br>\n買市 <br>\n省市 <br>\n〓市 <br>\n〓市 <br>\n〓市 <br>\n域市 <br>\n域市 <br>\n廚市 <br>\n會市 <br>\n方市 <br>\n〓市 <br>\n昆市 <br>\n場市 <br>\n戶市 <br>\n弁市 <br>\n〓市 <br>\n那市 <br>\n〓市 <br>\n衍市 <br>\n吟市 <br>\n梂市 <br>\n官市 <br>\n上市 <br>\n〓市 <br>\n縣市 <br>\n權市 <br>\n三制店 <br>\n度遼店 <br>\n彥店 <br>\n〓店 <br>\n巴江店 <br>\n淇店 <br>\n柰店 <br>\n那店 <br>\n會店 <br>\n鳳凰店 <br>\n〓店 <br>\n賀店 <br>\n易耨店 <br>\n我〓店 <br>\n神〓店 <br>\n【人物　附孝子烈女】 <br>\n史希顏 <br>\n鄧悉 <br>\n鄧容 <br>\n阮表 <br>\n裴擒虎 <br>\n黎廣志 <br>\n陳保信 <br>\n潘正誼 <br>\n陳曰恕 <br>\n阮宏詞 <br>\n枚德霸 <br>\n黃澄 <br>\n阮文階 <br>\n楊致澤 <br>\n黎仕沾 <br>\n武琰 <br>\n吳景佑 <br>\n丁儒功 <br>\n阮廷桓 <br>\n武佐瑟 <br>\n文廷胤 <br>\n阮儼 <br>\n潘輝瑾 <br>\n潘曔 <br>\n阮輝〓 <br>\n裴弼直 <br>\n黃澄 <br>\n裴楊壢 <br>\n陳名〓 <br>\n阮浹 <br>\n阮攸 <br>\n阮公著 <br>\n魏克循 <br>\n張國用 <br>\n潘廷選 <br>\n潘三省 <br>\n黎峻 <br>\n枚世貴 <br>\n魏克〓 <br>\n鄧文喬 <br>\n楊文風 <br>\n黎敏德 <br>\n潘廷誼 <br>\n潘廷諠 <br>\n阮氏〓 <br>\n阮氏能 <br>\n潘氏圓 <br>\n潘氏舜 <br>\n黎氏堯 <br>\n黎氏安 <br>\n潘氏莊 <br>\n阮氏容 <br>\n黎氏南 <br>\n阮氏捐 <br>\n潘氏名 <br>\n阮氏琠 <br>\n【土產】 <br>\n沉香 <br>\n熟鐵 <br>\n花鹽 <br>\n麻網 <br>\n鬼臼 <br>\n布 <br>\n帛 <br>\n生絲 <br>\n芝麻 <br>\n赤豆 <br>\n玉蜀黍 <br>\n帶豆 <br>\n薯蕷 <br>\n田芋 <br>\n芋魁 <br>\n茶 <br>\n蓬葉 <br>\n貫眾草 <br>\n僊茅 <br>\n赭魁 <br>\n菅席 <br>\n沙竹 <br>\n象牙 <br>\n犀角 <br>\n鹿茸 <br>\n麞 <br>\n野豬 <br>\n氂牛 <br>\n孔雀 <br>\n燕窩 <br>\n石決明 <br>\n牡蠣 <br>\n文蛤 <br>\n蚌 <br>\n蠏 <br>\n簇魚 <br>\n鰻魚 <br>\n陶器 <br>\n帆簟 <br>\n竹器 <br>\n木器 <br>\n平笠 <br>\n麻油 <br>\n蔗蜜 <br>\n大南一統志卷之十四 <br>\n乂安省　上 <br>\n【分野】 <br>\n【建置沿革】 <br>\n興元府 <br>\n興元縣 <br>\n宜祿縣 <br>\n英山府 <br>\n梁山縣 <br>\n南壇縣 <br>\n清漳縣 <br>\n演州府 <br>\n東城縣 <br>\n安城縣 <br>\n瓊瑠縣 <br>\n葵州府 <br>\n義壇縣 <br>\n桂峰縣 <br>\n翠雲縣 <br>\n襄陽府 <br>\n襄陽縣 <br>\n永和縣 <br>\n祁山縣 <br>\n會元縣 <br>\n覊麼州 <br>\n鎮寧府 <br>\n欽縣 <br>\n蓮縣 <br>\n廣縣 <br>\n康縣 <br>\n吉縣 <br>\n〓縣 <br>\n木縣 <br>\n廉縣 <br>\n鎮邊府 <br>\n車虎縣 <br>\n岑祚縣 <br>\n芒欄縣 <br>\n蠻撰縣 <br>\n鎮定府 <br>\n甘靈縣 <br>\n鎮靖府 <br>\n深源縣 <br>\n燕山縣 <br>\n夢山縣 <br>\n樂邊府 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n省城 <br>\n興元府治 <br>\n演州府城 <br>\n英山府治 <br>\n葵州府治 <br>\n襄陽府城 <br>\n鎮寧府治 <br>\n宜祿縣治 <br>\n瓊〓縣治 <br>\n安城縣治 <br>\n清漳縣治 <br>\n南壇縣治 <br>\n【學校】 <br>\n〓〓 <br>\n試場 <br>\n興元府學 <br>\n演州府學 <br>\n英山府學 <br>\n瓊〓縣學 <br>\n安城縣學 <br>\n清漳縣學 <br>\n南壇縣學 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n雄嶺山 <br>\n大惠山 <br>\n模山 <br>\n沱山 <br>\n胡山 <br>\n傘山 <br>\n鐘山 <br>\n玉山 <br>\n金顏山 <br>\n千仞山 <br>\n黃榜山 <br>\n神臂山 <br>\n蟠山 <br>\n間山 <br>\n玉象山 <br>\n大海山 <br>\n熊山 <br>\n大鑊山 <br>\n龍首山 <br>\n鳳凰山 <br>\n鐵山 <br>\n〓山 <br>\n夏陽山 <br>\n勇決山 <br>\n麒麟山 <br>\n群松山 <br>\n立石山 <br>\n爐山 <br>\n雞冠山 <br>\n洞庭山 <br>\n崑山 <br>\n舞旗山 <br>\n馬鞍山 <br>\n銳山 <br>\n高山 <br>\n象山 <br>\n兩〓山 <br>\n文山 <br>\n小石山 <br>\n玉佩山 <br>\n暮夜山 <br>\n妃山 <br>\n虎山 <br>\n龍首山 <br>\n東岣山 <br>\n桂海山 <br>\n泡突山 <br>\n松山 <br>\n七星山 <br>\n龍山 <br>\n龜嶺山 <br>\n僊碁山 <br>\n城南山 <br>\n雙魚島 <br>\n蚌蛤沙 <br>\n〓阜 <br>\n夫婦石 <br>\n藍江 <br>\n楊江 <br>\n武烈江 <br>\n鋼江 <br>\n丹來江 <br>\n禁江 <br>\n馮江 <br>\n戛江 <br>\n黃梅江 <br>\n慕江 <br>\n【溪潭】 <br>\n武原泉 <br>\n安國泉 <br>\n冷水溪 <br>\n嫩湖 <br>\n海水湖 <br>\n杜林潭 <br>\n鳥潭 <br>\n葵潭 <br>\n鐵港 <br>\n桑港 <br>\n綽港 <br>\n【古蹟】 <br>\n萬安故城 <br>\n平吳故城 <br>\n六年故城 <br>\n熊山故城 <br>\n巨賴故城 <br>\n襄陽故城 <br>\n大南一統志之十五 <br>\n乂安省　下 <br>\n【祠廟】 <br>\n社稷壇 <br>\n山川壇 <br>\n先農壇 <br>\n文廟 <br>\n興元府文廟 <br>\n演州府文廟 <br>\n英山府文廟 <br>\n葵州府文廟 <br>\n南壇縣文廟 <br>\n清漳縣文廟 <br>\n宜祿縣文廟 <br>\n瓊〓縣文廟 <br>\n會同廟 <br>\n城隍廟 <br>\n關公廟 <br>\n安陽王廟 <br>\n梅黑帝祠 <br>\n李威明王祠 <br>\n芹海神祠 <br>\n柳杏公主祠 <br>\n高王神祠 <br>\n統征祠 <br>\n潮口祠 <br>\n晉郡公祠 <br>\n獨雷神祠 <br>\n【寺觀】 <br>\n香林寺 <br>\n勃陀寺 <br>\n安國寺 <br>\n靈雲寺 <br>\n呂山寺 <br>\n【關汛】 <br>\n可留關 <br>\n安國關 <br>\n郎田關 <br>\n永祿堡 <br>\n芒扦堡 <br>\n麒麟屯 <br>\n會統屯 <br>\n會海汛 <br>\n舍海汛 <br>\n賢海汛 <br>\n澫海汛 <br>\n台海汛 <br>\n權海汛 <br>\n芹海汛 <br>\n【驛站】 <br>\n安瓊站 <br>\n安壘站 <br>\n安香站 <br>\n安金站 <br>\n安勇站 <br>\n保岩站 <br>\n梁福站 <br>\n梁壽站 <br>\n梁禮站 <br>\n梁郎站 <br>\n〓〓站 <br>\n溪洸站 <br>\n罷車站 <br>\n那堪站 <br>\n更塔站 <br>\n關澇站 <br>\n溪虔站 <br>\n歌難站 <br>\n〓杄站 <br>\n安蔡站 <br>\n南延站 <br>\n武烈站 <br>\n默早站 <br>\n三禮站 <br>\n大中站 <br>\n【里路】 <br>\n鐵路 <br>\n千里路 <br>\n關報路 <br>\n小路 <br>\n江道 <br>\n港道 <br>\n【津渡】 <br>\n瀝江渡 <br>\n馮江渡 <br>\n黃梅渡 <br>\n沙甫渡 <br>\n鋼江渡 <br>\n浮石渡 <br>\n楊江渡 <br>\n萊江渡 <br>\n瀂江渡 <br>\n【橋梁】 <br>\n上通鐵橋 <br>\n泡鐵橋 <br>\n禁鐵橋 <br>\n資戛鐵橋 <br>\n〓鐵橋 <br>\n行鐵橋 <br>\n錦袍鐵橋 <br>\n〓鐵橋 <br>\n同顚鐵橋 <br>\n戛鐵橋 <br>\n福添鐵橋 <br>\n〓鐵橋 <br>\n渡刀鐵橋 <br>\n廊同鐵橋 <br>\n下潘鐵橋 <br>\n謗鐵橋 <br>\n核牲鐵橋 <br>\n吉鐵橋 <br>\n〓墓鐵橋 <br>\n同初鐵橋 <br>\n溪辦鐵橋 <br>\n歷〓鐵橋 <br>\n檄鐵橋 <br>\n同數鐵橋 <br>\n寺渤鐵橋 <br>\n溪〓鐵橋 <br>\n梂坦鐵橋 <br>\n領暖鐵橋 <br>\n志鐵橋 <br>\n珠橋 <br>\n僊橋 <br>\n同橋 <br>\n神橋 <br>\n弄橋 <br>\n遁橋 <br>\n紹橋 <br>\n廚橋 <br>\n塔橋 <br>\n域橋 <br>\n〓橋 <br>\n台橋 <br>\n同開橋 <br>\n檜橋 <br>\n疏橋 <br>\n膀橋 <br>\n永橋 <br>\n蝒橋 <br>\n〓橋 <br>\n〓橋 <br>\n踏〓橋 <br>\n〓橋 <br>\n埋橋 <br>\n楳橋 <br>\n烏烏橋 <br>\n〓橋 <br>\n〓橋 <br>\n埬橋 <br>\n〓征朶橋 <br>\n〓征〓橋 <br>\n棱〓橋 <br>\n鸌橋 <br>\n貫橋 <br>\n〓橋 <br>\n碳橋 <br>\n的橋 <br>\n艮橋 <br>\n溪往橋 <br>\n興仁橋 <br>\n長提橋 <br>\n下橋 <br>\n上橋 <br>\n美林橋 <br>\n古文橋 <br>\n所橋 <br>\n〓橋 <br>\n〓橋 <br>\n治橋 <br>\n吟橋 <br>\n陵橋 <br>\n周橋 <br>\n墨橋 <br>\n齋橋 <br>\n中通橋 <br>\n下通橋 <br>\n〓橋 <br>\n治橋 <br>\n齋橋 <br>\n尉橋 <br>\n翁櫊橋 <br>\n罷橋 <br>\n廊榮橋 <br>\n〓落橋 <br>\n〓站橋 <br>\n踏有橋 <br>\n長橋 <br>\n〓橋 <br>\n吼橋 <br>\n石橋 <br>\n了橋 <br>\n通橋 <br>\n蓮池橋 <br>\n釘橋 <br>\n金城橋 <br>\n〓橋 <br>\n營橋 <br>\n葵陵橋 <br>\n椇橋 <br>\n屯橋 <br>\n新堂橋 <br>\n篤橋 <br>\n彝橋 <br>\n廟橋 <br>\n〓芒橋 <br>\n【庯市】 <br>\n省庯 <br>\n省市 <br>\n梁市 <br>\n〓市 <br>\n孝市 <br>\n戛市 <br>\n屯市 <br>\n柳市 <br>\n瀂市 <br>\n吳市 <br>\n〓市 <br>\n沙南市 <br>\n江亭市 <br>\n〓市 <br>\n營市 <br>\n鍾市 <br>\n焩市 <br>\n楳市 <br>\n痴市 <br>\n〓市 <br>\n陀市 <br>\n〓市 <br>\n場市 <br>\n富市 <br>\n山市 <br>\n〓市 <br>\n買市 <br>\n麕市 <br>\n〓市 <br>\n屯市 <br>\n縣市 <br>\n候市 <br>\n買市 <br>\n貺市 <br>\n域市 <br>\n鑊市 <br>\n〓市 <br>\n〓市 <br>\n〓市 <br>\n敢市 <br>\n基市 <br>\n廚市 <br>\n閒市 <br>\n所市 <br>\n〓市 <br>\n〓市 <br>\n乾市 <br>\n巡市 <br>\n楊市 <br>\n蓮市 <br>\n蠬市 <br>\n亭市 <br>\n場市 <br>\n芹市 <br>\n蜆市 <br>\n買市 <br>\n陀市 <br>\n長堤市 <br>\n〓市 <br>\n爐市 <br>\n館市 <br>\n亭市 <br>\n蓮市 <br>\n買連市 <br>\n柱市 <br>\n屯市 <br>\n延市 <br>\n買市 <br>\n疏市 <br>\n〓市 <br>\n螉市 <br>\n床市 <br>\n安市 <br>\n〓市 <br>\n萬市 <br>\n亭市 <br>\n具市 <br>\n淫市 <br>\n門市 <br>\n府市 <br>\n汫市 <br>\n容市 <br>\n河市 <br>\n亭市 <br>\n苞市 <br>\n枚市 <br>\n雲市 <br>\n蓮市 <br>\n籌市 <br>\n【人物】 <br>\n白遼 <br>\n胡鷟 <br>\n阮熾 <br>\n阮永祿 <br>\n阮善彰 <br>\n高炯 <br>\n鄧明壁 <br>\n范徽 <br>\n宋必勝 <br>\n阮景模 <br>\n潘公績 <br>\n蔡伯游 <br>\n丁抜萃 <br>\n黃義朖 <br>\n吳致和 <br>\n黎敬 <br>\n胡士楊 <br>\n阮廷滾 <br>\n胡丕績 <br>\n胡士棟 <br>\n裴有〓 <br>\n阮仲瑺 <br>\n阮辰〓 <br>\n阮仲璫 <br>\n阮世平 <br>\n范阮攸 <br>\n阮仲 <br>\n阮奎 <br>\n黎遹 <br>\n阮曰肇 <br>\n黎文張 <br>\n黎昕 <br>\n阮廷院 <br>\n阮如璡 <br>\n阮仲康 <br>\n阮弼諧 <br>\n阮廷得 <br>\n武元諒 <br>\n胡文惠 <br>\n潘伯同 <br>\n潘伯確 <br>\n阮忠懋 <br>\n黎元忠 <br>\n武輝烱 <br>\n武維新 <br>\n阮世吉 <br>\n潘有性 <br>\n陳輝瑛 <br>\n謝有圭 <br>\n黎亮撥 <br>\n丁日慎 <br>\n阮鈺 <br>\n文德奎 <br>\n楊允諳 <br>\n潘有敘 <br>\n胡士馴 <br>\n潘叔直 <br>\n高仲郢 <br>\n胡仲珽 <br>\n潘士俶 <br>\n阮蔡梯 <br>\n阮泰 <br>\n黎廷識 <br>\n阮怡 <br>\n阮玉振 <br>\n阮德達 <br>\n阮文交 <br>\n阮有琠 <br>\n阮有立 <br>\n阮春溫 <br>\n胡伯溫 <br>\n阮允〓 <br>\n謝有度 <br>\n阮春盎 <br>\n黎文程 <br>\n潘登瀛 <br>\n阮廷垣 <br>\n黎潘氏圓 <br>\n眞氏潑 <br>\n黃氏欣 <br>\n阮氏清 <br>\n蔡氏榮 <br>\n武氏傳 <br>\n范員 <br>\n【土產】 <br>\n玉蜀黍 <br>\n胡蔗 <br>\n芝麻 <br>\n布帛生絲帶豆 <br>\n赤豆鬼白 <br>\n薯蕷 <br>\n田芋 <br>\n芋魁 <br>\n茶 <br>\n橄欖 <br>\n蓬葉 <br>\n貫眾草 <br>\n菅席 <br>\n松脂 <br>\n參 <br>\n桂皮 <br>\n麻輞 <br>\n象牙 <br>\n犀角 <br>\n鹿茸麋麞〓牛孔雀 <br>\n水油 <br>\n鐵林木 <br>\n鐵〓鐵〓黃心木 <br>\n魁沙竹土器 <br>\n鐵器 <br>\n木器 <br>\n石花 <br>\n蜆 <br>\n熟鐵 <br>\n檳榔 <br>\n乙草 <br>\n翠羽 <br>\n牡礪 <br>\n海蝦 <br>\n含香咸 <br>\n大南一統志卷之十六 <br>\n清化省　上 <br>\n【分野】 <br>\n【建置沿革】 <br>\n宋山縣 <br>\n峩山縣 <br>\n厚祿縣 <br>\n弘化縣 <br>\n美化縣 <br>\n紹化府 <br>\n瑞原縣 <br>\n東山縣 <br>\n安定縣 <br>\n靜嘉府 <br>\n玉山縣 <br>\n廣昌縣 <br>\n農貢縣 <br>\n廣化府 <br>\n永祿縣 <br>\n錦水縣 <br>\n石城縣 <br>\n廣濟縣 <br>\n壽春府 <br>\n雷陽縣 <br>\n常春州 <br>\n良政州 <br>\n關化州 <br>\n玉勒州 <br>\n如春州 <br>\n鎮蠻府 <br>\n呈固縣 <br>\n蠻維縣 <br>\n岑梛縣 <br>\n【形勢】 <br>\n【氣候】 <br>\n【風俗】 <br>\n【城池】 <br>\n省城 <br>\n肇祥城 <br>\n通寶衙 <br>\n河中府治 <br>\n峩山縣治 <br>\n厚祿縣治 <br>\n弘化縣治 <br>\n紹化府治 <br>\n東山縣治 <br>\n安定縣治 <br>\n廣化府治 <br>\n錦水縣治 <br>\n石城縣治 <br>\n壽春府治 <br>\n靜嘉府衙 <br>\n廣昌縣治 <br>\n農貢縣治 <br>\n關化州治 <br>\n常春州治 <br>\n良政州治 <br>\n玉勒州治 <br>\n如春州治 <br>\n【學校】 <br>\n鄉試場省學 <br>\n河中府學 <br>\n峩山縣學 <br>\n弘化縣學 <br>\n厚祿縣學 <br>\n廣化府學 <br>\n壽春府學 <br>\n紹化府學 <br>\n安定縣學 <br>\n靜嘉府學 <br>\n廣昌縣學 <br>\n農貢縣學 <br>\n錦水縣學 <br>\n石城縣學 <br>\n【戶口】 <br>\n【田賦】 <br>\n【山川】 <br>\n肇祥山 <br>\n三〓山 <br>\n莊諸山 <br>\n石碑山 <br>\n照白山 <br>\n神符山 <br>\n萬山 <br>\n雙牛山 <br>\n只箸嶼 <br>\n雲岩山 <br>\n鐵甲山 <br>\n火珠峰山 <br>\n靈長山 <br>\n〓山 <br>\n金茶山 <br>\n氷山 <br>\n禎山 <br>\n龍頷山 <br>\n麒麟山 <br>\n安獲山 <br>\n羅漢山 <br>\n馨山 <br>\n嶢山 <br>\n白石山 <br>\n盤阿山 <br>\n太平山 <br>\n藍山 <br>\n至靈山 <br>\n圭山 <br>\n銅皷山 <br>\n軍安山 <br>\n安孫山 <br>\n頓山 <br>\n戲馬山 <br>\n春台山 <br>\n蒙衢山 <br>\n雄嶺山 <br>\n孤山 <br>\n金山 <br>\n金甌山 <br>\n岩山 <br>\n金紫山 <br>\n仰山 <br>\n安老山 <br>\n谷山 <br>\n妙山 <br>\n黎山 <br>\n贈山 <br>\n龍岡山 <br>\n竹林峝 <br>\n善願山 <br>\n〓山 <br>\n庵閣山 <br>\n土山 <br>\n厚石山 <br>\n象首山 <br>\n僊〓 <br>\n蓮〓 <br>\n汴山島 <br>\n榜山島 <br>\n玉山 <br>\n象山 <br>\n岑山 <br>\n石峽山 <br>\n那山 <br>\n黃山 <br>\n盧山 <br>\n瓢營山 <br>\n風瓢山 <br>\n公山 <br>\n棦山 <br>\n筆山 <br>\n釘山 <br>\n盞山 <br>\n馬江 <br>\n梁江 <br>\n宋江 <br>\n照白江 <br>\n澞江 <br>\n葆江 <br>\n玉〓江 <br>\n玉甲江 <br>\n黃江 <br>\n珠江 <br>\n墨江 <br>\n鍾江 <br>\n壽江 <br>\n馬〓江 <br>\n達江 <br>\n音江 <br>\n【溪潭】 <br>\n金山灘 <br>\n九回灘 <br>\n弘港 <br>\n茶溪 <br>\n場港 <br>\n峩港 <br>\n綽港 <br>\n【古蹟】 <br>\n胡城 <br>\n胡宮 <br>\n胡舊郊壇 <br>\n黎藍京 <br>\n黎安場府 <br>\n黎只故城 <br>\n義國公故宅 <br>\n鋪葛故壘 <br>\n舊鎮城 <br>\n安暹州 <br>\n〓淵 <br>\n銅船洞 <br>\n神符海口 <br>\n大南一統志卷之十七 <br>\n清化省　下 <br>\n【陵墓】 <br>\n黎宜祖陵 <br>\n黎太祖永陵 <br>\n黎太尊佑陵 <br>\n黎聖尊陵 <br>\n黎憲尊裕陵 <br>\n黎肅尊敬陵 <br>\n黎嘉尊陵 <br>\n黎純尊陵 <br>\n黎懿尊陵 <br>\n黎英尊翠花陵 <br>\n黎敬尊花蠻陵 <br>\n黎真尊花浦陵 <br>\n黎熙尊福臨陵 <br>\n黎行福陵 <br>\n黎神尊陵 <br>\n黎裕尊陵 <br>\n黎玄尊陵 <br>\n黎顯尊陵 <br>\n黎召統帝陵 <br>\n黎懿德太后白月陵 <br>\n【廟祠】 <br>\n原廟 <br>\n澄國公廟 <br>\n社稷壇 <br>\n先農壇 <br>\n山川壇 <br>\n會同廟 <br>\n城隍廟 <br>\n文廟 <br>\n啟聖祠 <br>\n河中府文廟 <br>\n宋山貴縣文廟 <br>\n峩山縣文廟 <br>\n弘化縣文廟 <br>\n美化縣文廟 <br>\n厚祿縣文廟 <br>\n瑞原縣文廟 <br>\n東山縣文廟 <br>\n安定縣文廟 <br>\n玉山縣文廟 <br>\n廣昌縣文廟 <br>\n農貢縣文廟 <br>\n永祿縣文廟 <br>\n錦水縣文廟 <br>\n雷陽縣文廟 <br>\n趙越王廟 <br>\n黎大行皇帝廟 <br>\n黎諸帝廟 <br>\n祈風祠 <br>\n關公祠 <br>\n肇祥山神祠 <br>\n黎恭慈皇后祠 <br>\n黎顯慈皇太后祠 <br>\n黎光淑皇后祠 <br>\n〓珍祠 <br>\n四位聖娘祠 <br>\n銅鼓神祠 <br>\n董天王神祠 <br>\n傘圓山神祠 <br>\n高山神祠 <br>\n東海阮神祠 <br>\n東海段神祠 <br>\n趙嫗神祠 <br>\n姜狀元祠 <br>\n照白山神祠 <br>\n李太尉祠 <br>\n參沖神祠 <br>\n韶防禦使祠 <br>\n陳上將軍祠 <br>\n蘇太尉祠 <br>\n威明神祠 <br>\n陳召文祠 <br>\n龍淵神祠 <br>\n澞江神祠 <br>\n碧桃洞祠 <br>\n鄭太尉祠 <br>\n梁尚書祠 <br>\n阮尚書祠 <br>\n吳正女祠 <br>\n【洞寺】 <br>\n綠雲洞 <br>\n碧桃洞 <br>\n白鴉洞 <br>\n壺公洞 <br>\n金山洞 <br>\n原海寺 <br>\n空路寺 <br>\n〓〓寺 <br>\n鴻蒙寺 <br>\n金甌寺 <br>\n游英寺 <br>\n靈稱寺 <br>\n太平寺 <br>\n大雄寺 <br>\n營舍寺 <br>\n僊山寺 <br>\n龍感寺 <br>\n大碑寺 <br>\n清涼寺 <br>\n澤林寺 <br>\n清壽寺 <br>\n妙山寺 <br>\n鬼寺 <br>\n【關汛】 <br>\n商政衙 <br>\n千齡關 <br>\n青旦關 <br>\n峩派關 <br>\n安派關 <br>\n文派關 <br>\n河場關 <br>\n正大汛 <br>\n白駒汛 <br>\n漪碧汛 <br>\n會潮汛 <br>\n瀚汛 <br>\n蚌汛 <br>\n雲岫炮台 <br>\n汴山炮台 <br>\n瑜川炮台 <br>\n張舍炮台 <br>\n土山堡 <br>\n鎮蠻堡 <br>\n從化堡 <br>\n良政屯 <br>\n扁山屯 <br>\n山珠屯 <br>\n安樂屯 <br>\n【驛站】 <br>\n清科站 <br>\n清舍站 <br>\n清春站 <br>\n清山站 <br>\n清高站 <br>\n魯賢站 <br>\n中域站 <br>\n延豪站 <br>\n沛都站 <br>\n雲集站 <br>\n安樂站 <br>\n貢溪站 <br>\n班政站 <br>\n清厚站 <br>\n扶光站 <br>\n延上站 <br>\n高密站 <br>\n豊懿站 <br>\n田爐站 <br>\n羅看站 <br>\n回春站 <br>\n奉祿站 <br>\n石溪站 <br>\n良中站 <br>\n【里路】 <br>\n鐵路 <br>\n千里路 <br>\n關報路 <br>\n小路 <br>\n堤路 <br>\n江道 <br>\n港道 <br>\n【津渡】 <br>\n玉甲渡 <br>\n禎山渡 <br>\n豊懿渡 <br>\n僊陵渡 <br>\n關隍渡 <br>\n翠黛渡 <br>\n丹泥渡 <br>\n碩果渡 <br>\n黎舍渡 <br>\n察渡 <br>\n扶原渡 <br>\n安定渡 <br>\n涇渡 <br>\n廊渡 <br>\n茶上渡 <br>\n如陵渡 <br>\n魯敘渡 <br>\n銳渡 <br>\n藍山渡 <br>\n吳舍渡 <br>\n廣施渡 <br>\n安郎渡 <br>\n不矜渡 <br>\n安樂渡 <br>\n關中渡 <br>\n〓傳渡 <br>\n豊來渡 <br>\n斷決渡 <br>\n古都渡 <br>\n扶原渡 <br>\n鵬程渡 <br>\n溤渡 <br>\n同舍渡 <br>\n永祿渡 <br>\n扶光渡 <br>\n永治渡 <br>\n月圓渡 <br>\n惟肖渡 <br>\n同弄渡 <br>\n海渡 <br>\n美津渡 <br>\n古濟渡 <br>\n光表渡 <br>\n芃渡 <br>\n豊牧渡 <br>\n白鹿渡 <br>\n制渡 <br>\n〓渡 <br>\n具渡 <br>\n厚澤渡 <br>\n安教渡 <br>\n平林渡 <br>\n峩洲渡 <br>\n蓮渠渡 <br>\n曹川渡 <br>\n關內渡 <br>\n葛川渡 <br>\n筆山渡 <br>\n河沫渡 <br>\n達才渡 <br>\n格渡 <br>\n河清渡 <br>\n溪舍渡 <br>\n集吉渡 <br>\n那渡 <br>\n密光渡 <br>\n美致渡 <br>\n濟度渡 <br>\n祿龍渡 <br>\n祿長渡 <br>\n平耨渡 <br>\n巨巌渡 <br>\n壽長度 <br>\n珠溪渡 <br>\n瑜川渡 <br>\n瑜度渡 <br>\n【橋梁】 <br>\n龍頷橋 <br>\n〓縣橋 <br>\n〓橋 <br>\n〓橋 <br>\n〓江橋 <br>\n渠橋 <br>\n土瓦橋 <br>\n盛樂橋 <br>\n芭蕉橋 <br>\n峩橋 <br>\n共橋 <br>\n孛橋 <br>\n漢橋 <br>\n師橋 <br>\n廊前橋 <br>\n〓橋 <br>\n大橋 <br>\n龍虎橋 <br>\n〓橋 <br>\n理橋 <br>\n景橋 <br>\n春渡橋 <br>\n平和橋 <br>\n良念橋 <br>\n渭橋 <br>\n官橋 <br>\n碽橋 <br>\n濫橋 <br>\n迍橋 <br>\n搛橋 <br>\n萬橋 <br>\n韶舍橋 <br>\n岩橋 <br>\n府橋 <br>\n目橋 <br>\n東作橋 <br>\n楣橋 <br>\n芃橋 <br>\n弩橋 <br>\n〓橋 <br>\n灑橋 <br>\n練橋 <br>\n〓橋 <br>\n凜橋 <br>\n攬橋 <br>\n由橋 <br>\n【鋪市】 <br>\n省市 <br>\n爍市 <br>\n板市 <br>\n朗市 <br>\n混市 <br>\n椰市 <br>\n豊懿市 <br>\n潭市 <br>\n允市 <br>\n沐潤市 <br>\n黃市 <br>\n〓市 <br>\n觥市 <br>\n釭市 <br>\n肱市 <br>\n〓市 <br>\n異市 <br>\n買尹市 <br>\n海市 <br>\n〓市 <br>\n府市 <br>\n豪市 <br>\n砌市 <br>\n橈市 <br>\n官市 <br>\n偽市 <br>\n上市 <br>\n蓮市 <br>\n那市 <br>\n杉市 <br>\n買市 <br>\n〓河市 <br>\n美津市 <br>\n萬市 <br>\n〓市 <br>\n矯市 <br>\n宏市 <br>\n布市 <br>\n筆市 <br>\n府市 <br>\n〓市 <br>\n楳市 <br>\n行〓市 <br>\n澫市 <br>\n嫩市 <br>\n域市 <br>\n油市 <br>\n楊市 <br>\n青陽市 <br>\n陵市 <br>\n仍市 <br>\n納市 <br>\n裴市 <br>\n黎市 <br>\n裴市 <br>\n墨市 <br>\n蓬市 <br>\n〓市 <br>\n〓市 <br>\n鑊市 <br>\n陵市 <br>\n府市 <br>\n廚市 <br>\n豆市 <br>\n白駒市 <br>\n〓市 <br>\n林市 <br>\n都市 <br>\n縣市 <br>\n數市 <br>\n延市 <br>\n雙市 <br>\n鴕市 <br>\n域市 <br>\n魯市 <br>\n會市 <br>\n〓〓市 <br>\n帶市 <br>\n〓市 <br>\n奔市 <br>\n棳市 <br>\n略市 <br>\n涇市 <br>\n西街市 <br>\n蚌市 <br>\n嘲市 <br>\n支市 <br>\n茶市 <br>\n〓市 <br>\n廚市 <br>\n〓市 <br>\n江亭市 <br>\n朕市 <br>\n沛市 <br>\n程市 <br>\n谷市 <br>\n屯市 <br>\n里市 <br>\n梂〓市 <br>\n買市 <br>\n鹽浦市 <br>\n〓市 <br>\n〓市 <br>\n買藍市 <br>\n栱市 <br>\n買行市 <br>\n〓市 <br>\n亭市 <br>\n組市 <br>\n黍市 <br>\n嘉市 <br>\n鐄市 <br>\n縣市 <br>\n匯市 <br>\n旦市 <br>\n從市 <br>\n峩市 <br>\n沐市 <br>\n籌市 <br>\n覽市 <br>\n〓市 <br>\n庫市 <br>\n屯市 <br>\n域市 <br>\n官豪市 <br>\n牟市 <br>\n買市 <br>\n聘市 <br>\n〓市 <br>\n察市 <br>\n廚市 <br>\n糖市 <br>\n館閣市 <br>\n求市 <br>\n禾市 <br>\n場市 <br>\n巒山 <br>\n廚市 <br>\n重市 <br>\n〓市 <br>\n〓市 <br>\n貞市 <br>\n〓市 <br>\n銅鋪市 <br>\n樂市 <br>\n〓市 <br>\n鐵市 <br>\n昏市 <br>\n求官市 <br>\n弓市 <br>\n程市 <br>\n越市 <br>\n瑜度市 <br>\n〓市 <br>\n廚市 <br>\n下市 <br>\n【人物】 <br>\n唐姜公輔 <br>\n李黎奉曉 <br>\n陳黎文休 <br>\n黎括 <br>\n黎桷 <br>\n韶寸 <br>\n陳淐真 <br>\n阮用甫 <br>\n黎黎只 <br>\n黎文靈 <br>\n黎禮 <br>\n黎列 <br>\n黎篆 <br>\n黎察 <br>\n黎魁 <br>\n范問 <br>\n黎理 <br>\n黎文安 <br>\n黎慎 <br>\n黎來 <br>\n黎念 <br>\n黎石 <br>\n黎銀 <br>\n鄭可 <br>\n陳〓 <br>\n阮汝覽 <br>\n鄭克復 <br>\n鄭鐵長 <br>\n劉興孝 <br>\n黎壽域 <br>\n阮佑同 <br>\n黃裴桓 <br>\n韶龜齡 <br>\n阮文郎 <br>\n鄭檢 <br>\n鄭惟〓 <br>\n鄭惟僚 <br>\n黎俊傑 <br>\n吳俊傑 <br>\n黃廷愛 <br>\n范篤 <br>\n黎伯驪 <br>\n武師爍 <br>\n賴世卿 <br>\n何壽祿 <br>\n黎惠 <br>\n阮廷桂 <br>\n阮茂宣 <br>\n阮文沂 <br>\n黎擢秀 <br>\n梁寘 <br>\n劉廷質 <br>\n阮冠儒 <br>\n黎僖 <br>\n韶仕琳 <br>\n鄭穂 <br>\n阮俲 <br>\n何動 <br>\n丁辰中 <br>\n梁得朋 <br>\n梁有慶 <br>\n阮潘 <br>\n阮廷簡 <br>\n枚世汪 <br>\n阮維窾 <br>\n黎貴適 <br>\n阮文涓 <br>\n宋福治 <br>\n宋福洽 <br>\n宋福和 <br>\n阮久喬 <br>\n張福奮 <br>\n宋有大 <br>\n宋文魁 <br>\n裴公繼 <br>\n宋福添 <br>\n阮有瑞 <br>\n張福律 <br>\n宋福珠 <br>\n張文銘 <br>\n陳公賴 <br>\n阮光欖 <br>\n阮〓 <br>\n何功泰 <br>\n丁達表 <br>\n阮廷普 <br>\n何維藩 <br>\n阮春 <br>\n范春碧 <br>\n枚英俊 <br>\n范清 <br>\n阮仲滔 <br>\n汝伯仕 <br>\n杜春吉 <br>\n阮登仕 <br>\n黃造 <br>\n陳文美 <br>\n黎輝濯 <br>\n阮輝玘 <br>\n琹伯顯 <br>\n【孝子附】 <br>\n枚世慷 <br>\n【烈女附】 <br>\n屬吳趙嫗 <br>\n黎阮氏述 <br>\n阮氏始 <br>\n枚氏往 <br>\n阮氏判 <br>\n黃氏福 <br>\n【土產】 <br>\n糯稻 <br>\n粳稻 <br>\n狼尾梁 <br>\n豆 <br>\n茄西瓜 <br>\n黃精 <br>\n山薯土薯沙竹筍佛手柑飴柑 <br>\n百眼梨 <br>\n甘蔗 <br>\n山茶 <br>\n山茅野菅 <br>\n青皮竹斑竹 <br>\n鐵林鐵〓鐵〓鐵釘 <br>\n苦練木梖木藤 <br>\n桂皮 <br>\n龍骨 <br>\n報參 <br>\n蘇木絹 <br>\n斑繒 <br>\n美石 <br>\n磁石 <br>\n商陸紙 <br>\n生鐵 <br>\n桐油 <br>\n燕巢 <br>\n蜂蜜黃蠟紫蟻鹽 <br>\n象牙犀角 <br>\n大蜈蚣 <br>\n孔雀老蚌 <br>\n潮雞 <br>\n錦雞 <br>\n蝟 <br>\n兕 <br>\n金牛 <br>\n象 <br>\n猓〓 <br>\n〓魚 <br>\n鯧魚鱸魚烏賊魚蝦蟹\n</p></div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Library_of_China\" class=\"extiw\" title=\"w:en:National Library of China\"><span title=\"library in Beijing, China\">National Library of China</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "39201866": {
+        "pageid": 39201866,
+        "ns": 6,
+        "title": "File:Shek O Tin Hau Temple, wooden plaque with inscriptions (Hong Kong).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5800542,
+            "width": 5086,
+            "height": 3814,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/960px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/1920px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/960px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg/1920px-Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shek_O_Tin_Hau_Temple%2C_wooden_plaque_with_inscriptions_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shek_O_Tin_Hau_Temple,_wooden_plaque_with_inscriptions_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39201866",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-03-25 13:31:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shek O Tin Hau Temple, wooden plaque with inscriptions (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Inscribed boards|Tin Hau Temple, Shek O|Self-published work|Files with coordinates missing SDC location of creation|2015 photographs of Hong Kong by Mk2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.230600",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.252090",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A wooden plaque with inscriptions in the Shek O Tin Hau Temple, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-02-20 16:32:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84468077": {
+        "pageid": 84468077,
+        "ns": 6,
+        "title": "File:叢書集成續編（滬）059.djvu",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 192490164,
+            "width": 713,
+            "height": 4000,
+            "pagecount": 1089,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%E5%8F%A2%E6%9B%B8%E9%9B%86%E6%88%90%E7%BA%8C%E7%B7%A8%EF%BC%88%E6%BB%AC%EF%BC%89059.djvu/page1-500px-%E5%8F%A2%E6%9B%B8%E9%9B%86%E6%88%90%E7%BA%8C%E7%B7%A8%EF%BC%88%E6%BB%AC%EF%BC%89059.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 5386,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%E5%8F%A2%E6%9B%B8%E9%9B%86%E6%88%90%E7%BA%8C%E7%B7%A8%EF%BC%88%E6%BB%AC%EF%BC%89059.djvu/page1-500px-%E5%8F%A2%E6%9B%B8%E9%9B%86%E6%88%90%E7%BA%8C%E7%B7%A8%EF%BC%88%E6%BB%AC%EF%BC%89059.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 5386
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/%E5%8F%A2%E6%9B%B8%E9%9B%86%E6%88%90%E7%BA%8C%E7%B7%A8%EF%BC%88%E6%BB%AC%EF%BC%89059.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%8F%A2%E6%9B%B8%E9%9B%86%E6%88%90%E7%BA%8C%E7%B7%A8%EF%BC%88%E6%BB%AC%EF%BC%89059.djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84468077",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-29 13:51:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "叢書集成續編（滬）059",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Author died more than 70 years ago public domain images|龍瑞觀禹穴陽明洞天圖經|PD-scan (PD-old-70)|CC-PD-Mark|Books without Wikidata item|PD-old missing SDC copyright status|馮王兩侍郎墓錄|廣福廟志|金龍四大王祠墓錄|雲樓紀事|重陽庵集|金鼓洞志|城北天后宮志|武林元妙觀志|澗上草堂紀略|南宋六陵遺事|同仁祠錄|叢書集成續編（滬）|孫花翁墓徵|崔府君祠錄|揚清祠志|於公祠墓錄|樊公祠錄|照膽台志略|直閣朱公祠墓錄|紫陽庵集|郭孝童墓記略|陝甘味經書院志|陳忠肅公墓錄|龍井顯應胡公墓錄|龍興祥符戒壇寺志",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nVarious</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dt>史部·地理類·專志之屬</dt></dl>\n<ul><li>《雲樓紀事》一卷附孝義無礙庵錄一卷\t（清）□□撰</li>\n<li>《龍興祥符戒壇寺志》十二卷\t（清）張大昌撰</li>\n<li>《重陽庵集》一卷附刻一卷附錄一卷\t（明）梅志暹輯 俞大彰重輯</li>\n<li>《金鼓洞志》八卷首一卷\t（清）朱文藻撰</li>\n<li>《武林元妙觀志》四卷\t（清）仰蘅撰</li>\n<li>《城北天后宮志》一卷\t（清）丁午撰</li>\n<li>《紫陽庵集》一卷\t（清）丁午輯</li>\n<li>《龍瑞觀禹穴陽明洞天圖經》一卷\t（宋）葉樞撰 李宗諤修定</li>\n<li>《澗上草堂紀略》二卷續編一卷拾遺一卷附明孝廉李巢二先生圖詠一卷\t（清）徐達源輯紀略 毛慶善輯續編 （民國）羅振常輯拾遺（清）張廷濟輯圖詠</li>\n<li>《南宋六陵遺事》一卷\t（清）萬斯同輯</li>\n<li>《照膽台志略》一卷\t（清）鄒在寅撰</li>\n<li>《崔府君祠錄》一卷\t（清）鄭烺撰</li>\n<li>《龍井顯應胡公墓錄》一卷\t（清）丁午撰</li>\n<li>《直閣朱公祠墓錄》二卷附刻一卷\t（清）朱文懋撰</li>\n<li>《陳忠肅公墓錄》一卷\t（清）孫峻撰</li>\n<li>《廣福廟志》一卷\t（清）唐垣九撰</li>\n<li>《金龍四大王祠墓錄》四卷首一卷末一卷\t（清）仲學輅撰</li>\n<li>《孫花翁墓徵》一卷\t（清）張爾嘉撰</li>\n<li>《樊公祠錄》二卷\t（清）孫樹禮撰</li>\n<li>《揚清祠志》一卷\t（清）丁午撰</li>\n<li>《同仁祠錄》二卷\t（清）孫炳奎撰</li>\n<li>《於公祠墓錄》十卷首一卷末一卷\t（清）丁丙撰</li>\n<li>《郭孝童墓記略》一卷\t（清）丁立志撰</li>\n<li>《馮王兩侍郎墓錄》一卷\t馮貞群輯</li>\n<li>《陝甘味經書院志》一卷\t（清）劉光蕡撰</li></ul></div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "上海書店",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "68165852": {
+        "pageid": 68165852,
+        "ns": 6,
+        "title": "File:語石(四).djvu",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2534135,
+            "width": 1900,
+            "height": 3000,
+            "pagecount": 83,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu/page1-960px-%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1516,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu/page1-1280px-%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu/page1-960px-%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1516,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu/page1-1280px-%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/%E8%AA%9E%E7%9F%B3%28%E5%9B%9B%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E8%AA%9E%E7%9F%B3(%E5%9B%9B).djvu",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68165852",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-04-09 02:41:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n語石(四)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|DjVu files in Chinese|Scans from the Internet Archive|Books without Wikidata item|語石",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n(清)葉昌熾撰</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n原書有些字跡不清、有些頁殘</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//archive.org/details/02090869.cn\" class=\"extiw\" title=\"iarchive:02090869.cn\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> 02090869.cn</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

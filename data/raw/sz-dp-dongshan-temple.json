@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237627788,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1004713866,
+    "lat": "22.5992421",
+    "lon": "114.5149301",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "东山寺",
+    "display_name": "东山寺, 大鹏东门路, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5985521",
+      "22.5998976",
+      "114.5144552",
+      "114.5154749"
+    ]
+  },
+  {
+    "place_id": 237512294,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9073862355,
+    "lat": "22.5964444",
+    "lon": "114.5165272",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "东山寺",
+    "display_name": "东山寺, 鹏飞路, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5963944",
+      "22.5964944",
+      "114.5164772",
+      "114.5165772"
+    ]
+  }
+]

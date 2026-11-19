@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236991247,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 96843417,
+    "lat": "22.2179337",
+    "lon": "114.2097443",
+    "class": "building",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "building",
+    "name": "美利樓 Murray House",
+    "display_name": "美利樓 Murray House, 赤柱大街 Stanley Main Street, 赤柱村 Stanley Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2177777",
+      "22.2183576",
+      "114.2096316",
+      "114.2098766"
+    ]
+  }
+]

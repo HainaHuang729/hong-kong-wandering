@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 236805254,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1268941395,
+    "lat": "22.7240567",
+    "lon": "114.0544533",
+    "category": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "tertiary",
+    "name": "观澜沿河西路",
+    "display_name": "观澜沿河西路, 万安堂, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7207762",
+      "22.7274393",
+      "114.0523156",
+      "114.0563547"
+    ]
+  },
+  {
+    "place_id": 237101502,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 495181020,
+    "lat": "22.7166613",
+    "lon": "114.0437088",
+    "category": "highway",
+    "type": "motorway",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "motorway",
+    "name": "观澜河大桥",
+    "display_name": "观澜河大桥, 大布巷, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7147231",
+      "22.7185995",
+      "114.0426655",
+      "114.0447520"
+    ]
+  },
+  {
+    "place_id": 236988457,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1268941402,
+    "lat": "22.7256045",
+    "lon": "114.0572130",
+    "category": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "tertiary",
+    "name": "观澜沿河东路",
+    "display_name": "观澜沿河东路, 桂花, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7237213",
+      "22.7274426",
+      "114.0563509",
+      "114.0579488"
+    ]
+  },
+  {
+    "place_id": 236993063,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 700340005,
+    "lat": "22.7166232",
+    "lon": "114.0436267",
+    "category": "man_made",
+    "type": "bridge",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "man_made",
+    "name": "观澜河大桥",
+    "display_name": "观澜河大桥, 观澜大道, 马坜, 观湖街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7145937",
+      "22.7186596",
+      "114.0423834",
+      "114.0448720"
+    ]
+  }
+]

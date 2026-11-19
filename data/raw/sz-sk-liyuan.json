@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 235737691,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1185632198,
+    "lat": "22.4933089",
+    "lon": "113.9128849",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "tertiary",
+    "name": "荔园路",
+    "display_name": "荔园路, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.4908384",
+      "22.4955225",
+      "113.9119815",
+      "113.9145531"
+    ]
+  },
+  {
+    "place_id": 238801319,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 101316851,
+    "lat": "22.4898961",
+    "lon": "113.9128248",
+    "class": "highway",
+    "type": "unclassified",
+    "place_rank": 26,
+    "importance": 0.05340363241016247,
+    "addresstype": "unclassified",
+    "name": "荔园路",
+    "display_name": "荔园路, 南海意库, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.4889798",
+      "22.4907824",
+      "113.9123440",
+      "113.9132484"
+    ]
+  }
+]

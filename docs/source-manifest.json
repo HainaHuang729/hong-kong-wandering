@@ -1,0 +1,4245 @@
+{
+  "checkedAt": "2026-11-16",
+  "timezone": "Asia/Shanghai",
+  "sources": {
+    "td-260.json": "https://static.data.gov.hk/td/routes-fares-geojson/JSON_BUS.json",
+    "td-260-geometry.geojson": "https://portal.csdi.gov.hk/server/rest/services/common/td_rcd_1638844988873_41214/FeatureServer/0/query?where=ROUTE_NAMEE%3D%27260%27&outFields=*&outSR=4326&f=geojson",
+    "td-bus-metadata.json": "https://portal.csdi.gov.hk/geoportal/rest/metadata/item/td_rcd_1638844988873_41214",
+    "td-bus-layer.json": "https://portal.csdi.gov.hk/server/rest/services/common/td_rcd_1638844988873_41214/FeatureServer/0?f=pjson",
+    "td-route-endpoints.geojson": "https://static.data.gov.hk/td/routes-fares-geojson/JSON_BUS.json",
+    "mtr-system-map.html": "https://www.mtr.com.hk/en/customer/services/system_map.html",
+    "td-saikung-endpoints.geojson": "https://static.data.gov.hk/td/routes-fares-geojson/JSON_BUS.json",
+    "nominatim": "https://nominatim.openstreetmap.org/",
+    "osrm-foot": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/",
+    "commons-api": "https://commons.wikimedia.org/w/api.php",
+    "hk-strollology-mymaps": "https://www.google.com/maps/d/viewer?mid=1noTAwDV4rAI3Y8dnpdf_zGR02uCjNRI",
+    "szmc": "https://www.szmc.net/shentieyunying/yunyingfuwu/xianluwang/"
+  },
+  "files": [
+    {
+      "path": "data/raw/abd-bus-terminus.json",
+      "bytes": 4803,
+      "sha256": "b0a6983ca917166b1061fcfa6b3a3a696a537e160392e56266e89a38ce5ca84c"
+    },
+    {
+      "path": "data/raw/abd-centre-square.json",
+      "bytes": 2871,
+      "sha256": "37d7d2f1f610a37dc2c496f9cba23615a2e9d1187c56c452f586825fa0c70d37"
+    },
+    {
+      "path": "data/raw/abd-municipal.json",
+      "bytes": 1303,
+      "sha256": "927497c1e02ee422ed5c60c9aaf90b24744cfd6b2a3d6930d48f0b5990fcd244"
+    },
+    {
+      "path": "data/raw/abd-promenade.json",
+      "bytes": 568,
+      "sha256": "bbefef0f80ea75cec653e07c6e8d331002f755be796ce0d91d42572cc339178f"
+    },
+    {
+      "path": "data/raw/abd-wongchukhang-station.json",
+      "bytes": 1846,
+      "sha256": "ee82a27934e0902d1a85516ff4d4e58ed20cecb809b21400d0d3080fdc205dc0"
+    },
+    {
+      "path": "data/raw/adm-cfa.json",
+      "bytes": 1545,
+      "sha256": "e53cc4ba3576bb588724f605946c8810d75f3c2dbc12ae5a8b8a3f5efc84eae2"
+    },
+    {
+      "path": "data/raw/adm-flagstaff.json",
+      "bytes": 781,
+      "sha256": "2977ba97626680ec6e9c216f4d9e5bc21da8971ca287c4272bfe47e0e0907afe"
+    },
+    {
+      "path": "data/raw/adm-hk-park.json",
+      "bytes": 675,
+      "sha256": "2fc50f0c66a811d785b1228286a27bfdc320eaaea0c5bcdf33f80c37f2705371"
+    },
+    {
+      "path": "data/raw/adm-st-john.json",
+      "bytes": 748,
+      "sha256": "b3378228f4a1f46f7246058f58de287dbb1c38e1b1d8bb3297ba14fb949abebf"
+    },
+    {
+      "path": "data/raw/adm-station.json",
+      "bytes": 3570,
+      "sha256": "51ca869a15415f5fd75357570fa7053f955168c65acd7e0562c6822842d9a6fb"
+    },
+    {
+      "path": "data/raw/alc-bridge.json",
+      "bytes": 2352,
+      "sha256": "2839f2f56399dd9acdd9501b109d6bf5dedde19555982007fcd745bca874e5b9"
+    },
+    {
+      "path": "data/raw/alc-heung-yip-pet.json",
+      "bytes": 2618,
+      "sha256": "82c19324a51194655b6547a213c28aed0eaedb62d7cd70a2f21b2685570718d8"
+    },
+    {
+      "path": "data/raw/alc-leitung-station.json",
+      "bytes": 1739,
+      "sha256": "9343a19bfb30b44a6473f57d18eb936189ea15fe91bebde88eeaabb0289846da"
+    },
+    {
+      "path": "data/raw/alc-wind-tower-park.json",
+      "bytes": 591,
+      "sha256": "4488827bcaf2de3eb8cd533b2386cb5e1798fca4989a3eef50eb71c789f8adf6"
+    },
+    {
+      "path": "data/raw/apliu.json",
+      "bytes": 1360,
+      "sha256": "79e1707719c513eff7c2f8f0ab9a216247488edabd3c8f5f1850a93f9da77f82"
+    },
+    {
+      "path": "data/raw/ar-lower-dam.json",
+      "bytes": 705,
+      "sha256": "a4ed6f15754a576fca4f047c463118d6368c2736e6763e5e95dceb679d2505cd"
+    },
+    {
+      "path": "data/raw/ar-nature-trail.json",
+      "bytes": 668,
+      "sha256": "7b71c8550301d4ceaeeae9b19e6352f7c3d6f4aba30d072a935cc86b882af852"
+    },
+    {
+      "path": "data/raw/ar-upper-dam.json",
+      "bytes": 706,
+      "sha256": "1c90bd6e356689c3d9442a7ec9d6ac19f2885f6501bf84324f2d654c617557fe"
+    },
+    {
+      "path": "data/raw/ar-yue-kwong-bus.json",
+      "bytes": 677,
+      "sha256": "cf47a988ace7fbae3fb8f914fb36ec33bd50b3f5db7054b6f109c561d2fce757"
+    },
+    {
+      "path": "data/raw/belcher.json",
+      "bytes": 696,
+      "sha256": "8ac7dbad59789663b5b8a738afc47642c7bf03d33a8df18953dad912b17ae252"
+    },
+    {
+      "path": "data/raw/bluehouse.json",
+      "bytes": 694,
+      "sha256": "e3cf2085fe9c16489fe8517498c9976a9305c984acc500c3b55bf633f69a5ce7"
+    },
+    {
+      "path": "data/raw/cc-paktai.json",
+      "bytes": 699,
+      "sha256": "fb2b36f1fd840afb24aeb35b2eae65b479a0f8a0df6a6754a2572be52e6d2086"
+    },
+    {
+      "path": "data/raw/cc-pier.json",
+      "bytes": 1442,
+      "sha256": "4adeab0b16788479b029c140ad9b9b4f7b1ef046cb3e97fbd907f6fd0c08d399"
+    },
+    {
+      "path": "data/raw/central-market.json",
+      "bytes": 2153,
+      "sha256": "9501fb55378406b817f4cafa714752d652955e62658caf381547ab35a4f7635e"
+    },
+    {
+      "path": "data/raw/central-mtr.json",
+      "bytes": 1845,
+      "sha256": "8185937455993c3e4a340c60293fdde7421cd1e616eb27f92c61115c58eab454"
+    },
+    {
+      "path": "data/raw/central-rail.json",
+      "bytes": 1065,
+      "sha256": "1147cc7a5a5bee683dea67eda3ad92cc7939de8b303d678d971ccbe7b60adae4"
+    },
+    {
+      "path": "data/raw/central-station.json",
+      "bytes": 1886,
+      "sha256": "37ade419b9e7d07629062e76d53fbd6de6c5aa01a26463938ea297c4575da43a"
+    },
+    {
+      "path": "data/raw/clocktower.json",
+      "bytes": 1555,
+      "sha256": "936287870fe7153564b76378e881140d567fc6a8fc0faeb3baa19d243f4fc2a6"
+    },
+    {
+      "path": "data/raw/collection.log",
+      "bytes": 6123,
+      "sha256": "5dec304aaefb9542e5d7d3a294796817bbd2520163b7b8c7e972493a1dbc8e23"
+    },
+    {
+      "path": "data/raw/cwb-caroline-hill.json",
+      "bytes": 3602,
+      "sha256": "7dd94283066b942b434c07a7d5ce71b593a9c663f16f1e910fa2408c6c5a4825"
+    },
+    {
+      "path": "data/raw/cwb-haven-street.json",
+      "bytes": 698,
+      "sha256": "5cb5593873e08ea4b75f11b8f0e64a8c9d35434044ae0e4bdef5e385597eece7"
+    },
+    {
+      "path": "data/raw/cwb-pak-sha.json",
+      "bytes": 1389,
+      "sha256": "209e915243c31d7ad18947822899ea60b84891b2bca80504b9dc408a1c6c5d00"
+    },
+    {
+      "path": "data/raw/cwb-pennington-tram.json",
+      "bytes": 3567,
+      "sha256": "597deea6162d2fcdcde342166e63c2f25e6a417a82c68f79b058e8126f912ef1"
+    },
+    {
+      "path": "data/raw/cwb-st-paul.json",
+      "bytes": 762,
+      "sha256": "4da6da0380712614dfd40a91b8ed627a96c6607b921e7459a57a663bdd0ef1e1"
+    },
+    {
+      "path": "data/raw/cwb-station.json",
+      "bytes": 1403,
+      "sha256": "ffd05bb634e5e27baaf87f92c9d5a187243c63aa21baff78bd2caacba5ffc317"
+    },
+    {
+      "path": "data/raw/db-big-wave-bay.json",
+      "bytes": 677,
+      "sha256": "38bcaf0620faf1edadcd26634f10ff9f53d73f9b7456c8b562d96480b8c03301"
+    },
+    {
+      "path": "data/raw/db-big-wave-bus.json",
+      "bytes": 1013,
+      "sha256": "e1974907f83fc885400ead91a74da35fa1f2bed4f9cdea282399d338b4c362f7"
+    },
+    {
+      "path": "data/raw/db-pottinger-gap.json",
+      "bytes": 1715,
+      "sha256": "9771fb86c89fb42307caea40e8f35519e16a3df714aeca62cb06e7b3885defe9"
+    },
+    {
+      "path": "data/raw/db-shek-o-peak.json",
+      "bytes": 739,
+      "sha256": "3db4c8aedd16c0b774da3f630b8d8cc73993138fc816e9f01a2d1463d2c59829"
+    },
+    {
+      "path": "data/raw/db-to-tei-wan-bus.json",
+      "bytes": 692,
+      "sha256": "34525e8cc56ec854c1b928311bca2f4771fb21867095f0880a4664a9035346f9"
+    },
+    {
+      "path": "data/raw/expansion-sources/bus.html",
+      "bytes": 56843,
+      "sha256": "a75eb4637c942e0b9b5013f7bd40381c65932cacbbae7cb6b16e2126c0d77daa"
+    },
+    {
+      "path": "data/raw/expansion-sources/falls.html",
+      "bytes": 181766,
+      "sha256": "75443d5571e5f7515298315d09afa4743e6ea5815f6eaaf09806e17e93ece42c"
+    },
+    {
+      "path": "data/raw/expansion-sources/ferry.html",
+      "bytes": 388349,
+      "sha256": "5de405a95985a6ad0e71dc43453665c08451ddbfd351ab968a1aa60fc8fdf478"
+    },
+    {
+      "path": "data/raw/expansion-sources/kt.html",
+      "bytes": 18185,
+      "sha256": "41025f9cb406a62234b65d6ae1df036474543bb7c691b11a411b9535c8cdb4a3"
+    },
+    {
+      "path": "data/raw/expansion-sources/ktaccess.html",
+      "bytes": 26205,
+      "sha256": "44cdacd0567fc3df4e6e12226e22fda631fbd0c6076c31e96cecb53d153c230b"
+    },
+    {
+      "path": "data/raw/expansion-sources/mtr.html",
+      "bytes": 36900,
+      "sha256": "64b60369aaa7cc4235c835e76b4fd5fa6f1e1a1163e28ef6941ae1c01f7bb2a1"
+    },
+    {
+      "path": "data/raw/expansion-sources/mw.html",
+      "bytes": 35676,
+      "sha256": "23b0d30eb7bfddc50c37048db14915fba5f5fb3c945d8963341eacea5c1daba9"
+    },
+    {
+      "path": "data/raw/expansion-sources/pc.html",
+      "bytes": 34037,
+      "sha256": "c7bbf21aa577dfec790b9253967626fa105ef6c944511e9c13ff068d64aa6185"
+    },
+    {
+      "path": "data/raw/expansion-sources/pch.html",
+      "bytes": 37007,
+      "sha256": "cb2c9370c108ceb2777c6bdf316045c2e94f863a62fa3fc60ba344d986d42279"
+    },
+    {
+      "path": "data/raw/expansion-sources/pct.html",
+      "bytes": 35673,
+      "sha256": "ffc3edf2f75bd95c452337d13dc4d508a008520a79a7c9caa14d76907fbae20b"
+    },
+    {
+      "path": "data/raw/expansion-sources/sources.json",
+      "bytes": 1124,
+      "sha256": "ca04a91764f7fee3e2fce419d4650c5e6cc645c5dac506ba5a6a3201dd0ca8b1"
+    },
+    {
+      "path": "data/raw/expansion-sources/st.html",
+      "bytes": 23012,
+      "sha256": "77c4c0a452cd8244b2ad6a66645eed538fc95427296d1038f5b7e7c81c98d92e"
+    },
+    {
+      "path": "data/raw/expansion-sources/staccess.html",
+      "bytes": 109908,
+      "sha256": "48617b84b2e88b6d1fbc40197ceeeaaab701962e8eec0087256351c2ea70c4b0"
+    },
+    {
+      "path": "data/raw/fm-arcade-shophouses.json",
+      "bytes": 1474,
+      "sha256": "7966830aceb5b07e2c1c11418527026666a8cd4e12176f941766d82f70e93147"
+    },
+    {
+      "path": "data/raw/fm-bird-garden.json",
+      "bytes": 780,
+      "sha256": "170b1219d83870cf0442ae226265deddcb5d46a11cf77c8b7a2e282ae1bf9645"
+    },
+    {
+      "path": "data/raw/fm-flower-market.json",
+      "bytes": 1331,
+      "sha256": "afef142a2f39c28c45c48deba58a92696d0057d00ad4b6dd69d8f408d36b339d"
+    },
+    {
+      "path": "data/raw/fm-mke-station.json",
+      "bytes": 1413,
+      "sha256": "39dea27fd21ce29bfbe04e16978e14a27feccaf0f6ba01d1e2c1c55ca48f2a21"
+    },
+    {
+      "path": "data/raw/fm-prince-edward-station.json",
+      "bytes": 2806,
+      "sha256": "5c6a69523581391f288071daee6d0db7bbe55733084ad5a0aec0402a79882d07"
+    },
+    {
+      "path": "data/raw/hh-ferry-pier.json",
+      "bytes": 713,
+      "sha256": "955304ca9bcb562a3eae5e285e25a93263bd4b4af17ec5dbf30cc2110b4f039b"
+    },
+    {
+      "path": "data/raw/hh-hutchison-park.json",
+      "bytes": 655,
+      "sha256": "6255afec7adf8e8928446bc75676b8b6ad91d5e9b65d4efbd205c688fe2a53ec"
+    },
+    {
+      "path": "data/raw/hh-promenade.json",
+      "bytes": 675,
+      "sha256": "557a1496852f9107134229e9faa2ca6e572679fd1dd8977a2b00a9f70ba7537d"
+    },
+    {
+      "path": "data/raw/hh-tai-wan-shan.json",
+      "bytes": 665,
+      "sha256": "034d78669a38479f4d65d2f43a6144ee331af278155ad22b93387972412e677c"
+    },
+    {
+      "path": "data/raw/hh-whampoa-ship.json",
+      "bytes": 1391,
+      "sha256": "3f9520fb907943cc3bb59661b3ce76a1835019cc047b43c5f8ab1fed677ec4a4"
+    },
+    {
+      "path": "data/raw/hh-whampoa-station.json",
+      "bytes": 690,
+      "sha256": "7a311268ecdcd4969a7204516293be58d9e80cd978f85dec8822e21ad30734ed"
+    },
+    {
+      "path": "data/raw/hk-strollology/hk_strollology_routes.csv",
+      "bytes": 13415,
+      "sha256": "974befaa37b8e0293773f66740e885f22345fb9f672bd5cd8a0ab9954e821cfe"
+    },
+    {
+      "path": "data/raw/hk-strollology/hk_strollology_routes.json",
+      "bytes": 26040,
+      "sha256": "ed5ce27c67408a4c34f6169062205d97a2347960c681b31bc03695df699ab3ae"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_00_origins.kml",
+      "bytes": 5303,
+      "sha256": "1ff505d364c58864634f22d48d97eb744aaa2c936ef7f7a52dd7dcb177aca15f"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_01_tai_hang.kml",
+      "bytes": 5052,
+      "sha256": "08b24a6c56aa97c35373fa6ce7287f66851c3636dca64a0e1ed764f02fe3d229"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_02_braemar_hill_north_point.kml",
+      "bytes": 4031,
+      "sha256": "2e3175153bc7a504906832a70cb7b9b8d6106aa7fb56452f585b2fb5f02d2ed7"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_03_mid_levels_west.kml",
+      "bytes": 4797,
+      "sha256": "1f2ed3f4c8f409396d8dfa436f4142ff673d1a8b1918fa5c4e7d34d0ab7365ee"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_04_ap_lei_chau_aberdeen.kml",
+      "bytes": 4602,
+      "sha256": "c833c6cbb9cb533cf4f0a846bf5887eae22cd73891968c12a67505d303f81f65"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_05_ngau_chi_wan_san_po_kong.kml",
+      "bytes": 3567,
+      "sha256": "507b7a2c8fe1151f9b7946a0b2f25b4158f375a8f44debe6352e72b7a91f41f8"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_06_shek_kip_mei.kml",
+      "bytes": 4107,
+      "sha256": "6a855ae4e710b1680b32fe17ae125ccd5f7fb41be2c3628b6c846ffc6ff5ece0"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_07_to_kwa_wan.kml",
+      "bytes": 3787,
+      "sha256": "de0a5de0e48c3ca07b172d0b94f90df16e134ee4b7128fe8203bf81960e467bb"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_08_sha_tin.kml",
+      "bytes": 3826,
+      "sha256": "16e7c784da0e2db73a8706ddc7c570db349ce2ce835b1d9fe64ec948908ae4c6"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_09_tseung_kwan_o.kml",
+      "bytes": 3396,
+      "sha256": "8465de818f20eaf75746493735b6600e2e0de1a942119ded9460ce20d461a558"
+    },
+    {
+      "path": "data/raw/hk-strollology/kml/route_10_tsuen_wan_sham_tseng.kml",
+      "bytes": 3541,
+      "sha256": "eda5624cbec64be88f612ede0e1d915622e9ea860ae7736d65e7d1a1a066c5eb"
+    },
+    {
+      "path": "data/raw/hku-bonham-banyan.json",
+      "bytes": 1419,
+      "sha256": "21f8dc36264d7e70cd64298f5d9033d10d35499053f51372302ebc785ded7de6"
+    },
+    {
+      "path": "data/raw/hku-bonham-station.json",
+      "bytes": 720,
+      "sha256": "b50f70a842439471229ebdee312513d780febda1f403ae8e5e6caccebb6ce0da"
+    },
+    {
+      "path": "data/raw/hku-caine-road-bus.json",
+      "bytes": 727,
+      "sha256": "fc2c25fc463eb19619a291198a803fc484f971bae4ab3e43fa3f7cda2da8af67"
+    },
+    {
+      "path": "data/raw/hku-fung-ping-shan.json",
+      "bytes": 704,
+      "sha256": "c4852000caffafa30ebdde3d66bde7970b67dc91e5476cbb8dc196ee73977023"
+    },
+    {
+      "path": "data/raw/hku-main-building.json",
+      "bytes": 723,
+      "sha256": "7bbd5b64d9e3a9cdcfdbb25e4e9e5e0e73467a01b445f9e5ae883bac71e97a4a"
+    },
+    {
+      "path": "data/raw/hku-medical-museum.json",
+      "bytes": 795,
+      "sha256": "4ae2a6c9083885d8d16dc275a3cb94e13a58b26aac5fe056a25afc5ed442a95e"
+    },
+    {
+      "path": "data/raw/hollywood-park.json",
+      "bytes": 695,
+      "sha256": "654ee44ecaf26ad80b75fc4c48eb5263749b85c6ee713b61342e03e2efe9cda9"
+    },
+    {
+      "path": "data/raw/hsh-hau-ku-shek.json",
+      "bytes": 708,
+      "sha256": "af4cd563fd204d7b410e5665ac4f9f1fee42fe885da34f6b76a4888b03f7958b"
+    },
+    {
+      "path": "data/raw/hsh-hung-shing.json",
+      "bytes": 1404,
+      "sha256": "d9fe40fe3a9712ddb3d14dc8ef7855dcda47d3b573df8c02549b289417e4d486"
+    },
+    {
+      "path": "data/raw/hsh-long-valley.json",
+      "bytes": 698,
+      "sha256": "ef93e8c4ad8024e9fc6e7326dd9df5ef556fa0ae82fd5c0651aa63df30a1b83c"
+    },
+    {
+      "path": "data/raw/hsh-minibus-terminus.json",
+      "bytes": 596,
+      "sha256": "e650aa69e318e3274711573f1c12683464c74d5d1bd3aa1a03d2c0ab342f4739"
+    },
+    {
+      "path": "data/raw/hungshing.json",
+      "bytes": 686,
+      "sha256": "3ef91aa67069116721b34409c40a5170cf5e6026678e085a5bc2cb5f74be7fdc"
+    },
+    {
+      "path": "data/raw/hv-racecourse.json",
+      "bytes": 735,
+      "sha256": "6f84f3145013286e34fbd1f07421021838f0197b4b650de317c0c56fc158c770"
+    },
+    {
+      "path": "data/raw/hv-sing-woo.json",
+      "bytes": 666,
+      "sha256": "d2f66358aa38c3aedec281ff88db7dbe0912567b5d73ab28def1815d7fe896f1"
+    },
+    {
+      "path": "data/raw/hv-tram-terminus.json",
+      "bytes": 1455,
+      "sha256": "b5abdc6b24a8d65d2e2f9d679a9fbae859f7a6a1c7b46be3c960ec3789caaee0"
+    },
+    {
+      "path": "data/raw/hv-yuk-sau.json",
+      "bytes": 1338,
+      "sha256": "5d39601e0d41bbb55c5f33e682cfca263950abb130706dae8017b045a8b318bf"
+    },
+    {
+      "path": "data/raw/jordan-mtr.json",
+      "bytes": 1089,
+      "sha256": "77ae46ca219e60c54df91e732fad2019b88de582efcb74817c5efd51a3c96131"
+    },
+    {
+      "path": "data/raw/jordan-station.json",
+      "bytes": 587,
+      "sha256": "ab27b214346566eb34b952dde886dba15a4f31ea911b3ed8b0bb6a44efa24e25"
+    },
+    {
+      "path": "data/raw/kc-carpenter.json",
+      "bytes": 566,
+      "sha256": "b2f7a643351ae6dca2e6d4c4e88ac52d37595d473f95b0e49dea7846b57e1d99"
+    },
+    {
+      "path": "data/raw/kc-garden.json",
+      "bytes": 563,
+      "sha256": "21bc672e0330f970e54cf2c58bc073e328a55434432eff5b8fb854c46d3e4e30"
+    },
+    {
+      "path": "data/raw/kc-lokfu-station.json",
+      "bytes": 2336,
+      "sha256": "4212159863141aa216a0c09a96adce8791e70912af63fcc2a1d3abba2ea5cf48"
+    },
+    {
+      "path": "data/raw/kc-market.json",
+      "bytes": 2606,
+      "sha256": "8ae226faf3b7c533a68dd826164aa71b2a580e966c35330333295abd21373142"
+    },
+    {
+      "path": "data/raw/kc-walled-city.json",
+      "bytes": 575,
+      "sha256": "d252c1648eb7e3cbaa3b78ec781c917cbd846fbe0803470a2dd3f6eede20076b"
+    },
+    {
+      "path": "data/raw/kennedy-station.json",
+      "bytes": 2206,
+      "sha256": "5954cf232c8df8aec5162e9f7b891de7351e5244da62871cce704d34ff2ec42d"
+    },
+    {
+      "path": "data/raw/kh-dbs-path.json",
+      "bytes": 1507,
+      "sha256": "dc1d0bac207f7e99e6df9bada6c34cdfccd2e54485c9ef19f6e2b31ea951552e"
+    },
+    {
+      "path": "data/raw/kh-kadoorie-avenue.json",
+      "bytes": 2837,
+      "sha256": "519411241bc406d675c0a6401cce6b773781d225912b26ea10a6543125151a21"
+    },
+    {
+      "path": "data/raw/kh-kowloontong-station.json",
+      "bytes": 2732,
+      "sha256": "90e570bd67c43a359c900e74a61b6cb44dd452ae8cb3dc78766bab2bdc05f74b"
+    },
+    {
+      "path": "data/raw/kh-maryknoll.json",
+      "bytes": 1469,
+      "sha256": "80e2b2476affbe5126ac7c3e7023c6b65ba7d8d284ff3719e8dcea53f050f749"
+    },
+    {
+      "path": "data/raw/kt-pier.json",
+      "bytes": 610,
+      "sha256": "4c7024f7307e2a2dd68f40e5eadb701557cd55b48aa985b5602762c3f6d5fb52"
+    },
+    {
+      "path": "data/raw/kt-promenade.json",
+      "bytes": 1153,
+      "sha256": "3621ef85240597036b51c8f5adb209a1398873fafad0ddf674b9d914335cf8ea"
+    },
+    {
+      "path": "data/raw/kt-station.json",
+      "bytes": 1097,
+      "sha256": "b0c8a9f10c56f6740107ef87f9daa4ef17aa9201b58bb2eabe6dd7fbe5978ea9"
+    },
+    {
+      "path": "data/raw/ktk-cruise-bus.json",
+      "bytes": 1362,
+      "sha256": "cbad38ffc5c8f01fbbc94814c83e57f01a3f9f911491606c285e7f79f3138e1a"
+    },
+    {
+      "path": "data/raw/ktk-cruise-park.json",
+      "bytes": 727,
+      "sha256": "2dd8a6f8403b805280a15abcfd6fd6e55b5341dd7609b8b0211c2866b03a34c5"
+    },
+    {
+      "path": "data/raw/ktk-runway-promenade.json",
+      "bytes": 596,
+      "sha256": "dfbc59308715d9efa6a0f4bdc9cdcb4ceda98223f6c0036ee4d9323b6f1e69ad"
+    },
+    {
+      "path": "data/raw/ktk-sky-garden.json",
+      "bytes": 703,
+      "sha256": "bdc7cf0f53f7373ad0cce43156516fe13748224574b878f4e77bf58a579dca3d"
+    },
+    {
+      "path": "data/raw/ktk-terminal-bus.json",
+      "bytes": 3094,
+      "sha256": "d65e902f249e0c6d0fffe650b3e806187f4e31401c519ee306d1e246e2498158"
+    },
+    {
+      "path": "data/raw/lck-d2-place.json",
+      "bytes": 2825,
+      "sha256": "879030440674e57cc249b980b6e7773ff1a5ab2f52239bf99970410bd38217a6"
+    },
+    {
+      "path": "data/raw/lck-jao-tsung-i.json",
+      "bytes": 1498,
+      "sha256": "bd22ddd2b12f1543697a1d7b3881dd2b8c183327ac407e9dbaa254057fcb5cd5"
+    },
+    {
+      "path": "data/raw/lck-lingnan-garden.json",
+      "bytes": 665,
+      "sha256": "0d85f5a76fbc798dbe6749054d65aa6df588603d21335dd1c7d1fea75dd4afde"
+    },
+    {
+      "path": "data/raw/lck-meifoo-station.json",
+      "bytes": 3576,
+      "sha256": "45b1dfa00be47c70a0cf79e4f0a3756c572436d10af283b9bf53db9e1386effb"
+    },
+    {
+      "path": "data/raw/lck-station.json",
+      "bytes": 1493,
+      "sha256": "bbb201540790b5abe9fd9b6acf07412d179da60968dfc78f863820a003c3ad7a"
+    },
+    {
+      "path": "data/raw/lcu-csw-station.json",
+      "bytes": 2932,
+      "sha256": "e93b480ebdc10c4546753aa32031e830c012ba3f6741714bbf752d0a094295eb"
+    },
+    {
+      "path": "data/raw/lcu-han-tomb.json",
+      "bytes": 761,
+      "sha256": "3e0ba2e493ea39e8fdeb3fb553a57545d7cba30a0cf40b92352d239bff34fd2e"
+    },
+    {
+      "path": "data/raw/lcu-po-on-market.json",
+      "bytes": 786,
+      "sha256": "b04ec85540bf0930d01185b4710fb0ed3c141b7a2c35202ed98a748b85c4c629"
+    },
+    {
+      "path": "data/raw/lcu-so-uk-bus.json",
+      "bytes": 3809,
+      "sha256": "270569fd36f703721564badfdf609e7af171911b6735b0deb3e03bcc4a59c942"
+    },
+    {
+      "path": "data/raw/lcu-so-uk.json",
+      "bytes": 660,
+      "sha256": "36893a6082dadf8b26b39794f03af59824884318998f96efc94c5da3f4d01502"
+    },
+    {
+      "path": "data/raw/lk-fung-hang.json",
+      "bytes": 590,
+      "sha256": "c44c24fe0482837ed3cbbb0f4faa0a68785aad599e063bbdfcc0ae6b3c09fdbc"
+    },
+    {
+      "path": "data/raw/lk-kuk-po.json",
+      "bytes": 589,
+      "sha256": "0a70f5a28032ce3572260f6afb2c02cbe0eb9b5afdfc88b3d3f1fc2efe1853f7"
+    },
+    {
+      "path": "data/raw/lk-minibus-terminus.json",
+      "bytes": 705,
+      "sha256": "85eede0ec0d1b479287f01fe46db62df2dbb9832d2268aba71c0f5f2a478ebbf"
+    },
+    {
+      "path": "data/raw/lym-ferry-pier.json",
+      "bytes": 1450,
+      "sha256": "55a927651ee356272b808f1d94caa992980f6baeb093282230b8b256f48eef0f"
+    },
+    {
+      "path": "data/raw/lym-lighthouse.json",
+      "bytes": 720,
+      "sha256": "9b4e784d4411902da960bd47c6d4d9cdfb289e71331d84f0f446fa36d04ceae2"
+    },
+    {
+      "path": "data/raw/lym-sam-ka-tsuen.json",
+      "bytes": 1429,
+      "sha256": "2e6b89f237e12e8158d50730a340d2fdf7fbd05439467983978ca62c681333fa"
+    },
+    {
+      "path": "data/raw/lym-seafood-street.json",
+      "bytes": 529,
+      "sha256": "49039d1b654c24d4339886d745aacfcb75f31a09df434710863c4f0f25c18867"
+    },
+    {
+      "path": "data/raw/lym-tin-hau.json",
+      "bytes": 1415,
+      "sha256": "43091625bf1972e2badd9ebd5aa0e01d32008638e2e43d9624eef59cbfc8b4e9"
+    },
+    {
+      "path": "data/raw/lym-yautong-station.json",
+      "bytes": 664,
+      "sha256": "570efcb4ea26cca95a8bc11224c430592ed0f004d5c8dd95d66cf05ceed57142"
+    },
+    {
+      "path": "data/raw/lyt-lo-wai.json",
+      "bytes": 448,
+      "sha256": "37b1c030cd1ded8ee3cb6d8082ff9c127cbdfb2dce802d5903c6fd852de05f92"
+    },
+    {
+      "path": "data/raw/lyt-ma-wat-wai.json",
+      "bytes": 462,
+      "sha256": "b01c24c9d637516dc722e34a4ff5f24aa21d3edb0d9d0e678ae01d850c6078c4"
+    },
+    {
+      "path": "data/raw/lyt-minibus-start.json",
+      "bytes": 514,
+      "sha256": "4e2423024f11df8d22e79a5ceba9af95f239e23232f6c9892dcc1ed00a1eed84"
+    },
+    {
+      "path": "data/raw/lyt-san-wai-bus.json",
+      "bytes": 2268,
+      "sha256": "d61a488dc2eafff196578e2b0d38553f703fd45d751a0d1cfe70dedc8d952530"
+    },
+    {
+      "path": "data/raw/lyt-tang-chung-ling.json",
+      "bytes": 743,
+      "sha256": "9864c5d71fc72d15f04af122ba4daca6673263fc9bdea1584e85242f4939526e"
+    },
+    {
+      "path": "data/raw/lyt-tin-hau.json",
+      "bytes": 747,
+      "sha256": "822a425228aede3e57fcee07612f0ccac44a1d175f2cf2019ff1e8d298ad49ed"
+    },
+    {
+      "path": "data/raw/manmo.json",
+      "bytes": 1409,
+      "sha256": "3e87180fdfb6e422e327b5baae266376a43763f30b1192769d3255ff12811dee"
+    },
+    {
+      "path": "data/raw/meiho.json",
+      "bytes": 1403,
+      "sha256": "be02ca05b266d578b3ed9f3bc09684683eeb3320fdd933cdcd94ef4b7166d134"
+    },
+    {
+      "path": "data/raw/mlw-glenealy.json",
+      "bytes": 4532,
+      "sha256": "b542bcf59e30ac97a1118c192bd50e029810b31a93ee31ceb3265ca0873fb8c1"
+    },
+    {
+      "path": "data/raw/mlw-hku-station.json",
+      "bytes": 3001,
+      "sha256": "7da7eaf013ea11ee7e510119bfa2fac93b390bf8dc45c6e948e9298da8f9385e"
+    },
+    {
+      "path": "data/raw/mlw-lung-fu-shan.json",
+      "bytes": 683,
+      "sha256": "49825f95c973b31a5cdc395c175a453a5d5e820adb3fdcf7148be9b487723db2"
+    },
+    {
+      "path": "data/raw/mlw-robinson-road.json",
+      "bytes": 4635,
+      "sha256": "23af82186da8e8a4ac60b648fd953cf655344333f3bfea03618d6b5aa23dcf3d"
+    },
+    {
+      "path": "data/raw/mlw-robinson-sitting.json",
+      "bytes": 661,
+      "sha256": "082c531b68942fa4fe612489815ccafcc34c7fac5372afaa302c78979d953b77"
+    },
+    {
+      "path": "data/raw/mlw-university-drive.json",
+      "bytes": 624,
+      "sha256": "2528d70dbc1bff3b31a4b58d910295eaea49772987d38f3fae111f39dbb48522"
+    },
+    {
+      "path": "data/raw/mlw-zoological.json",
+      "bytes": 680,
+      "sha256": "6835cea53f4ddc4ff8d428da4294e33c74e7eb457d732803127b02f0102cb572"
+    },
+    {
+      "path": "data/raw/mtr-system-map.html",
+      "bytes": 36900,
+      "sha256": "64b60369aaa7cc4235c835e76b4fd5fa6f1e1a1163e28ef6941ae1c01f7bb2a1"
+    },
+    {
+      "path": "data/raw/murray.json",
+      "bytes": 695,
+      "sha256": "4ef248c287823e706799a3e021c78c15f7584466b309590bd5ecc27d255da8fd"
+    },
+    {
+      "path": "data/raw/mw-beach-refined.json",
+      "bytes": 550,
+      "sha256": "0affa422881c5cb2ea711baf31db2f3064bffdbcca602b7d2d694e8d63a19c97"
+    },
+    {
+      "path": "data/raw/mw-beach.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "data/raw/mw-falls.json",
+      "bytes": 583,
+      "sha256": "7e866d7f8f05d7539e777d85917f7e310708c9278690c844d4dd4359241a0825"
+    },
+    {
+      "path": "data/raw/mw-fong-yuen.json",
+      "bytes": 756,
+      "sha256": "752f328e5847ff5f17f86d7e83573371920e5695167abd8545183f3ea3956333"
+    },
+    {
+      "path": "data/raw/mw-main-street-village.json",
+      "bytes": 1343,
+      "sha256": "b6179e4c1b8c4281db069b5fbe8d63ce1929bccc3c19000a5574985ad5d77593"
+    },
+    {
+      "path": "data/raw/mw-park-island-pier.json",
+      "bytes": 769,
+      "sha256": "dd2c03a81c39647b8a34c23a9dd628f75f2f9b5e3f162a269da5618ebeea4427"
+    },
+    {
+      "path": "data/raw/mw-pier.json",
+      "bytes": 1879,
+      "sha256": "c358a3571556073558e85b92bcac1148b51d795ac947f258a26476a197a6790c"
+    },
+    {
+      "path": "data/raw/mw-tung-wan.json",
+      "bytes": 682,
+      "sha256": "64e08367a68ff6cddc1343e0cf5d40372413c2acebe2cebbac2033acf8cf58f6"
+    },
+    {
+      "path": "data/raw/ncw-choi-hung-estate.json",
+      "bytes": 553,
+      "sha256": "5dd909afec303b25fc409bf16871166de989d78581635fa3eded99abf1a1759b"
+    },
+    {
+      "path": "data/raw/ncw-choihung-station.json",
+      "bytes": 2764,
+      "sha256": "e8e5832ef4d12397e4e64b4f1e466df98717aebd03b868354b7cfd5d0c023a40"
+    },
+    {
+      "path": "data/raw/ncw-village.json",
+      "bytes": 1808,
+      "sha256": "e39baece5a9c0b2e645406f10ad870dc646efcedf4554d8fca35d97e54438390"
+    },
+    {
+      "path": "data/raw/np-braemar-hill-bus.json",
+      "bytes": 575,
+      "sha256": "7833349ac5be1830a06c775ebe2cbb585bd224d7f4926cb2f97be21ce129ba80"
+    },
+    {
+      "path": "data/raw/np-choi-sai-woo.json",
+      "bytes": 557,
+      "sha256": "0bb48b2b1135c454a059b45b8fe9b579bf06a14ad2ccfe113be2939d4c747f8d"
+    },
+    {
+      "path": "data/raw/np-ferry-pier.json",
+      "bytes": 673,
+      "sha256": "3861a9b7a163ef5398aa975c091986d27748a87a372651100823f71a4bf8e129"
+    },
+    {
+      "path": "data/raw/np-kam-ping.json",
+      "bytes": 571,
+      "sha256": "0eccb19b895334264fefd708046340db5da04076950a6be7803267246e3a7652"
+    },
+    {
+      "path": "data/raw/np-ming-yuen-west.json",
+      "bytes": 1224,
+      "sha256": "41d4a725035285fcc9edfbdb66599fd0cb1643b900a20b4ed7f2441c7a265cb8"
+    },
+    {
+      "path": "data/raw/np-pak-fuk-safety.json",
+      "bytes": 644,
+      "sha256": "4429d998f525fedeff97f31c57cb426c56758726e90ccd4621cf86cc355f8a07"
+    },
+    {
+      "path": "data/raw/np-provident.json",
+      "bytes": 2905,
+      "sha256": "9c1f851ff1ba687c50cf703030a9cfbf29c862efe2d05e48c2c930a7004aa086"
+    },
+    {
+      "path": "data/raw/np-station.json",
+      "bytes": 583,
+      "sha256": "86a3fdc4199f68acbf562dce16212b5ceafb97ddff91c8cd0ac1d615a79245d5"
+    },
+    {
+      "path": "data/raw/nsw-eucalyptus.json",
+      "bytes": 634,
+      "sha256": "4445576bc1ef4bed12905251b3c75e5d29fdc82e0372e72465ad2e05fa4ff3d3"
+    },
+    {
+      "path": "data/raw/nsw-kam-tin-river.json",
+      "bytes": 1130,
+      "sha256": "f0a97d79e07faa601a5c2c26fd3a729cc35585bd9ce675088f597c71af1f2f89"
+    },
+    {
+      "path": "data/raw/nsw-pok-oi-bus.json",
+      "bytes": 713,
+      "sha256": "346776e4ed664b75f91af28d7f2871e4c5e69fa22758b71f3b5a580c10205b5e"
+    },
+    {
+      "path": "data/raw/nsw-wedding-bridge.json",
+      "bytes": 606,
+      "sha256": "800a089836163d79757945b86ba5503d21acee9c89bb88ac49c83cc7545a212b"
+    },
+    {
+      "path": "data/raw/ntk-station.json",
+      "bytes": 1605,
+      "sha256": "2ac4a79458cb474d1f0e0f8a01a60c8872359b962976244dcd79d3825cf7ab9d"
+    },
+    {
+      "path": "data/raw/pakta-wan.json",
+      "bytes": 738,
+      "sha256": "e41f5d68d1e3bebf3a65834c2ab4c82264e183a36b70914a5d253cfe2b60f33f"
+    },
+    {
+      "path": "data/raw/pc-hill.json",
+      "bytes": 451,
+      "sha256": "aa459a09352b52811b810750d6a78494515591dbd722f9c22c6b9608c2d45476"
+    },
+    {
+      "path": "data/raw/pc-pier.json",
+      "bytes": 1175,
+      "sha256": "d2e33d028af25cdce0905b3f2c0204638ff0c32b8a92758bfaffe7574b5fc6ee"
+    },
+    {
+      "path": "data/raw/pc-temple.json",
+      "bytes": 584,
+      "sha256": "b2b043b2dae853de2740862e1584bb4026ec7c8a89d3fcb4d0f84545398a76a0"
+    },
+    {
+      "path": "data/raw/pfl-bethanie-bus.json",
+      "bytes": 2847,
+      "sha256": "72ec413a31fceaf237617e5fbccb8c54c201bdccd3ce960197fd22b828e67495"
+    },
+    {
+      "path": "data/raw/pfl-bethanie.json",
+      "bytes": 695,
+      "sha256": "f278f6b254e903f933584fc470251d0125b72981f947c3cc05e90e722a4f3a27"
+    },
+    {
+      "path": "data/raw/pfl-pokfulam-farm.json",
+      "bytes": 770,
+      "sha256": "263c516b947bd9385dfe846e628e86b326a364b50f07c791df87e91276a501ea"
+    },
+    {
+      "path": "data/raw/pfl-village.json",
+      "bytes": 600,
+      "sha256": "51e47924d8e7adbc4e95424dac5a5b3662ea1a95648bdff27b3f1536339d80d4"
+    },
+    {
+      "path": "data/raw/pfl-wah-fu-bus.json",
+      "bytes": 801,
+      "sha256": "eb9d6ea29d725bb6c3beec075b0792758f9a5ddce7acd91ce86b0d4848f61d24"
+    },
+    {
+      "path": "data/raw/pfl-waterfall-bay.json",
+      "bytes": 690,
+      "sha256": "262d0fd0ca816227672031f1927dceb386025b3826aaa03d0bcd389c7a6e0a19"
+    },
+    {
+      "path": "data/raw/photos/abd-promenade-photo.json",
+      "bytes": 136447,
+      "sha256": "b9de50a957fcb5268e64e2f1fe67e92a64d100281d6ebce2975776104f8c86b0"
+    },
+    {
+      "path": "data/raw/photos/adm-cfa-photo.json",
+      "bytes": 143391,
+      "sha256": "94dad6bd46a01251d791c47e4fb9620730b82b89031c3dc6eb64bc8d54f470f5"
+    },
+    {
+      "path": "data/raw/photos/adm-flagstaff-photo.json",
+      "bytes": 74420,
+      "sha256": "962fa08633561e0929533d11e2dce0839320eeaf4563aaebcb9fcfde4dea6b4f"
+    },
+    {
+      "path": "data/raw/photos/adm-st-john-photo.json",
+      "bytes": 180571,
+      "sha256": "7cefc79f4fdd1e85956fd6f960b22829cb26b5e2cebd42b5f6fe72c63e1eaca0"
+    },
+    {
+      "path": "data/raw/photos/alc-wind-tower-photo.json",
+      "bytes": 170221,
+      "sha256": "7942a39db2344fcf9c1b9f875004c0658097ed4d8598d32d0966530042fd7db7"
+    },
+    {
+      "path": "data/raw/photos/alc-wind-tower-search.json",
+      "bytes": 47643,
+      "sha256": "80c9181fa2f989a873b585b698dadf9e949fad635076a1b74c8af3b5b95a02c2"
+    },
+    {
+      "path": "data/raw/photos/apliu.json",
+      "bytes": 9525,
+      "sha256": "97ee7b08a152071e306172e1f55c398962ddf9d26b7ce0785dcce2814d921778"
+    },
+    {
+      "path": "data/raw/photos/ar-lower-dam-search.json",
+      "bytes": 30345,
+      "sha256": "5f4ce8895ea65b4b25b027b94743b3359945ed6de01e8a6d2b05ca5613f71be1"
+    },
+    {
+      "path": "data/raw/photos/ar-upper-dam-photo.json",
+      "bytes": 76318,
+      "sha256": "c85aa6e87ca7ffd47a5e01de6d301346400fb2cd35fc9bd42f10508196a5b18b"
+    },
+    {
+      "path": "data/raw/photos/belcher.json",
+      "bytes": 9453,
+      "sha256": "2e65ea4a31e81950c889fa87cb6fa8faac584d1d91593fefae6c8206275f04ff"
+    },
+    {
+      "path": "data/raw/photos/bluehouse-exterior.json",
+      "bytes": 11028,
+      "sha256": "a6cd06f41f1d574bf5cebabeff24224ebd0fe092638fe113f58549469ae75e6f"
+    },
+    {
+      "path": "data/raw/photos/bluehouse-reviewed.json",
+      "bytes": 20,
+      "sha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d"
+    },
+    {
+      "path": "data/raw/photos/bluehouse.json",
+      "bytes": 11225,
+      "sha256": "3f162b93f14d6f0a5373874debb1e30347b73996366b5dfd0a2cd1bb433fec73"
+    },
+    {
+      "path": "data/raw/photos/cc-paktai-upgraded.json",
+      "bytes": 40943,
+      "sha256": "d52e6484575f0e7e57f501283a3c71af5661e2ad1d0b0d52fdf1058519479a2a"
+    },
+    {
+      "path": "data/raw/photos/cc-paktai.json",
+      "bytes": 10285,
+      "sha256": "74b111ad87f764e8e9d9900de2bff441ed61c3eb66ebf30009a707e98895c08d"
+    },
+    {
+      "path": "data/raw/photos/cc-pier-photo.json",
+      "bytes": 142829,
+      "sha256": "391f5f566700ca97de1a28fc1fb228550c4aa8f13cb889a94c2724c1157b76cf"
+    },
+    {
+      "path": "data/raw/photos/central-market.json",
+      "bytes": 10464,
+      "sha256": "7ae5344f972430b43e80671cd1f39ffe788760cb3361370c2d013e759f73b3a1"
+    },
+    {
+      "path": "data/raw/photos/clocktower.json",
+      "bytes": 12207,
+      "sha256": "4cfe79783289c53a66ab55e80343bb3ceb379257052023721a3d2006a0b0f9ca"
+    },
+    {
+      "path": "data/raw/photos/cwb-haven-street-photo.json",
+      "bytes": 161579,
+      "sha256": "8a2257ba1f625d3864e4b814c06955d6a910e7a907859b045cc2fe418fa5b7f2"
+    },
+    {
+      "path": "data/raw/photos/cwb-st-paul-photo.json",
+      "bytes": 166817,
+      "sha256": "8482dd637267f67188d08532313787704794d855cd0e8ca48c2ac175d479d5cc"
+    },
+    {
+      "path": "data/raw/photos/cwb-st-paul-search.json",
+      "bytes": 53127,
+      "sha256": "9615a37f9f1aa33a3fb003e1384be4c8004102afffcc7982790dd896bb73b28f"
+    },
+    {
+      "path": "data/raw/photos/db-big-wave-bay-photo.json",
+      "bytes": 131245,
+      "sha256": "20f7065c871ac26a6b81c6dff920fb5bb5487afd992301839bae9b9e5c63648d"
+    },
+    {
+      "path": "data/raw/photos/db-shek-o-peak-photo.json",
+      "bytes": 87498,
+      "sha256": "d8abf0441b678f84be042efc147046eb5939f3553c819a1f2df15178464cb76f"
+    },
+    {
+      "path": "data/raw/photos/db-shek-o-peak-search.json",
+      "bytes": 47230,
+      "sha256": "03053bf6e65882dcc16b088fede7e644bb6570a26ebaa9e50888a6056d542e33"
+    },
+    {
+      "path": "data/raw/photos/fm-bird-garden-photo.json",
+      "bytes": 140234,
+      "sha256": "a25b7d9eb4c59825600c3e92b4361c6bfa37ac2e6b5e7b8733de70db9fafa695"
+    },
+    {
+      "path": "data/raw/photos/fm-bird-garden-search.json",
+      "bytes": 40532,
+      "sha256": "e64730ba6efd4a3554cd59a703e15ad3f92dda6cc491f66886ee20b85389e08f"
+    },
+    {
+      "path": "data/raw/photos/fm-flower-market-photo.json",
+      "bytes": 146858,
+      "sha256": "051206fbf5814e1db3f1edc1fdc8dbf7509c85506b176a68deba1526edae65ea"
+    },
+    {
+      "path": "data/raw/photos/hh-promenade-photo.json",
+      "bytes": 137716,
+      "sha256": "2e71249dbf4158199a447b21c09b63beb6c9ef0a6aa856ee6feab39e62c3b306"
+    },
+    {
+      "path": "data/raw/photos/hh-whampoa-ship-photo.json",
+      "bytes": 168177,
+      "sha256": "2e1568cefc8fd33a5c5341d96ed6dd6d31a9baa0ed084a76a1e381c6da823d67"
+    },
+    {
+      "path": "data/raw/photos/hku-fung-ping-shan-photo.json",
+      "bytes": 177807,
+      "sha256": "20a8e69908f0ad26937ef586d952f39699aafa9e9f1e7ba836e8b2673813c689"
+    },
+    {
+      "path": "data/raw/photos/hku-fung-ping-shan-search.json",
+      "bytes": 47285,
+      "sha256": "a1317df3968976f2f50bd37fc16b12a81782f3abe9f6b27903a61589c160b810"
+    },
+    {
+      "path": "data/raw/photos/hku-main-building-photo.json",
+      "bytes": 184332,
+      "sha256": "982e4ed9a70fc553734b3162b5d7353e445c0beb905b84a20f32ad0298f7a73f"
+    },
+    {
+      "path": "data/raw/photos/hku-medical-museum-photo.json",
+      "bytes": 159923,
+      "sha256": "572f2b64e3d4c5fbb63711fb7b49c51e13acff6bb98a0f7f97212cd75326b359"
+    },
+    {
+      "path": "data/raw/photos/hollywood-park.json",
+      "bytes": 9749,
+      "sha256": "d543afea1c23effa99751461064275237b6d356fb91b6233aa5cbc03bbf9ccc0"
+    },
+    {
+      "path": "data/raw/photos/hsh-hau-ku-shek-photo.json",
+      "bytes": 79016,
+      "sha256": "79f7cc7e7a10871b4c711337177aaa9b0cf874ec55249864d8cff43b5db1ff88"
+    },
+    {
+      "path": "data/raw/photos/hsh-long-valley-hk.json",
+      "bytes": 41152,
+      "sha256": "f050f2d68f836df65319d9b328c8719368d29b1e63c0ea890d162024424733a3"
+    },
+    {
+      "path": "data/raw/photos/hsh-long-valley-photo.json",
+      "bytes": 134691,
+      "sha256": "f10111d50b409ddaf20b7521fd91ce04634d8f91df9faec99f6787a2c55db246"
+    },
+    {
+      "path": "data/raw/photos/hsh-long-valley-search.json",
+      "bytes": 30113,
+      "sha256": "bea5fb179efd4257d2309af47b423df5a4672eda760fa5366f6c42df8b479d13"
+    },
+    {
+      "path": "data/raw/photos/hungshing.json",
+      "bytes": 16324,
+      "sha256": "ccbdf8c8383bcf14dba9a2d4b6dbc4ca94ab2991908b4b3658f56fe6cd03cfb2"
+    },
+    {
+      "path": "data/raw/photos/hv-racecourse-photo.json",
+      "bytes": 170481,
+      "sha256": "51a1b3dfb8aa1959c0dfb9964c9be730e76b47f2095e0873a100b1ed255226e8"
+    },
+    {
+      "path": "data/raw/photos/hv-tram-terminus-photo.json",
+      "bytes": 163693,
+      "sha256": "2e051edad0e07a938b84f17f7c441f9ebebd8bb750b0f8607f7424ada026e834"
+    },
+    {
+      "path": "data/raw/photos/kc-garden-photo.json",
+      "bytes": 189021,
+      "sha256": "156ae79c7d8f142f5bb3a2cbb3039f3c8d39ce896031d71862e3d124052e98a6"
+    },
+    {
+      "path": "data/raw/photos/kc-walled-city-photo.json",
+      "bytes": 51588,
+      "sha256": "b7b837805e57f79d13ee0a51f54a30ea25e50b890bdd0a9590e3d2fd05360c64"
+    },
+    {
+      "path": "data/raw/photos/kh-kadoorie-avenue-photo.json",
+      "bytes": 182577,
+      "sha256": "b93d7a1f5219893ecac02b625bcce94b9f4d5d83d3f257cee117777cf7929fb5"
+    },
+    {
+      "path": "data/raw/photos/kh-maryknoll-photo.json",
+      "bytes": 219925,
+      "sha256": "01b9ce6b078ea99b544a7448676521a20b6b5ccd5767d349e8c883f8eb884637"
+    },
+    {
+      "path": "data/raw/photos/kt-promenade-upgraded.json",
+      "bytes": 49933,
+      "sha256": "27fedb0216f5db4db2a8415331b0a8fa3a21b837ba81c51d009086f67995044e"
+    },
+    {
+      "path": "data/raw/photos/kt-promenade.json",
+      "bytes": 9543,
+      "sha256": "feba149d8d171de32ad8cd30455df397a03d87bf4709ab95023d2e1a7a10707e"
+    },
+    {
+      "path": "data/raw/photos/ktk-cruise-park-photo.json",
+      "bytes": 132779,
+      "sha256": "5e3630adae5305f647701f2b5dde40d9091f7d5fa641594e4a0ee29ba1a4f9b2"
+    },
+    {
+      "path": "data/raw/photos/ktk-sky-garden-photo.json",
+      "bytes": 148193,
+      "sha256": "591eb088d0209db64057b9787414b788232b4a4617f39de486086c32de0b00ff"
+    },
+    {
+      "path": "data/raw/photos/lck-d2-place-photo.json",
+      "bytes": 158067,
+      "sha256": "e9a7c6680380f8f6ff8094693387239c0d1bd1dd654bf934558319cbeaa78b8a"
+    },
+    {
+      "path": "data/raw/photos/lck-d2-place-search.json",
+      "bytes": 48398,
+      "sha256": "5c11632f02fcbb8e188c035ef63b00558b411e7bd51aefd4bc1aeb632e451d8b"
+    },
+    {
+      "path": "data/raw/photos/lck-jao-tsung-i-photo.json",
+      "bytes": 216567,
+      "sha256": "65d1d7abd55f6a4ba02a9d15705c0ec776a7ad40bf6bfd74fdb15ab949815028"
+    },
+    {
+      "path": "data/raw/photos/lck-lingnan-garden-photo.json",
+      "bytes": 166487,
+      "sha256": "3dea40b681996a8b8e699e9a758289720252c00e6124fdbdcf1488ba5ac568d0"
+    },
+    {
+      "path": "data/raw/photos/lcu-han-tomb-photo.json",
+      "bytes": 175551,
+      "sha256": "94ef7a4dd16a085cfa1d54897f928d1d4b1bce5128e0e869d3216ecd04522842"
+    },
+    {
+      "path": "data/raw/photos/lcu-so-uk-hk.json",
+      "bytes": 30337,
+      "sha256": "ff409f4973f315565ac99e56feb1bb207e53107211874a0a4619d18de4d733d0"
+    },
+    {
+      "path": "data/raw/photos/lcu-so-uk-photo.json",
+      "bytes": 149938,
+      "sha256": "a8d60be587104e8012c8f60b70dd834fffba984b2249dc5fd3baa7b54b2a9c5b"
+    },
+    {
+      "path": "data/raw/photos/lcu-so-uk-search.json",
+      "bytes": 51586,
+      "sha256": "9382caaaa3c271f818385a98f4ea500bd2cfad3d9ee6437823b118c1949eaceb"
+    },
+    {
+      "path": "data/raw/photos/lk-fung-hang-search.json",
+      "bytes": 27885,
+      "sha256": "6fb83ec3f6ed8778450e786aea34115e67cc22cd90c933746f08d015d180ef76"
+    },
+    {
+      "path": "data/raw/photos/lk-kuk-po-photo.json",
+      "bytes": 71072,
+      "sha256": "87536992807df98ef63e683fadc3e346c5b2b29b0d856139341c2745612783c4"
+    },
+    {
+      "path": "data/raw/photos/lym-lighthouse-photo.json",
+      "bytes": 164079,
+      "sha256": "0438fdb2d82c22d6801bea98a3782dede8850243fdef8a0f1b0ec3e2d9c1fe06"
+    },
+    {
+      "path": "data/raw/photos/lym-tin-hau-photo.json",
+      "bytes": 169847,
+      "sha256": "15dd9a8d8efe8db796079680f3cb907fa7c7a553cfe87af8df495c3e15606e99"
+    },
+    {
+      "path": "data/raw/photos/lyt-ma-wat-wai-photo.json",
+      "bytes": 31774,
+      "sha256": "a077d1246918883524a4ed2a0c58b6335a4d76cb609810f62c8c01eb0e92f446"
+    },
+    {
+      "path": "data/raw/photos/lyt-tang-chung-ling-photo.json",
+      "bytes": 21247,
+      "sha256": "85b2f0f4e8168bbf9eae32e7d7f5cfa6adb6292837f3ea13a1cfe18bf9062bb7"
+    },
+    {
+      "path": "data/raw/photos/lyt-tin-hau-photo.json",
+      "bytes": 21247,
+      "sha256": "85b2f0f4e8168bbf9eae32e7d7f5cfa6adb6292837f3ea13a1cfe18bf9062bb7"
+    },
+    {
+      "path": "data/raw/photos/manmo-upgraded-v2.json",
+      "bytes": 149697,
+      "sha256": "93ecac10da3ca838f907289f2389216cb4abe45204008e7ddbe6734a7507b290"
+    },
+    {
+      "path": "data/raw/photos/manmo-upgraded.json",
+      "bytes": 41865,
+      "sha256": "b9a91643aeea9fb5ff0627e2c13e331ac17a655da42a36de0dca202f9bfa5e83"
+    },
+    {
+      "path": "data/raw/photos/manmo.json",
+      "bytes": 11696,
+      "sha256": "f3fab059bc7591d908d24250d3b00d28d48066a19a6c4571a24ad5abb2cdfad5"
+    },
+    {
+      "path": "data/raw/photos/meiho-reviewed.json",
+      "bytes": 8940,
+      "sha256": "dac8dd7a8a88452467a5c1ae5d3e23ea929a9c9ae7cd6c772944cc3f28748285"
+    },
+    {
+      "path": "data/raw/photos/meiho-upgraded.json",
+      "bytes": 39770,
+      "sha256": "26b3b95ce0a17e921cf194c33e131a91ff463c8d85eed044df75213c4933e673"
+    },
+    {
+      "path": "data/raw/photos/meiho.json",
+      "bytes": 433,
+      "sha256": "2951dee5ab72b4cb1081d410cfbbac36a573fde5ff44a16eaee7c758c56de109"
+    },
+    {
+      "path": "data/raw/photos/mlw-lung-fu-shan-photo.json",
+      "bytes": 169566,
+      "sha256": "cfb5ce0911f7ddf08cf0a059cbddcfafa4eeecbde4b26ad0381151fe5ed4cf62"
+    },
+    {
+      "path": "data/raw/photos/mlw-zoological-photo.json",
+      "bytes": 172189,
+      "sha256": "87cec991d1281c2ea3dce70fd878681de275dc3c892ef115aa02ca6a8e9b346f"
+    },
+    {
+      "path": "data/raw/photos/murray-upgraded.json",
+      "bytes": 44175,
+      "sha256": "112c11a307996de2d3c8bbc36dd3656ec408f7f20c04186ce99d154ab27a8521"
+    },
+    {
+      "path": "data/raw/photos/murray.json",
+      "bytes": 10541,
+      "sha256": "7227b541065af33de6ecd69e6b24c6c6bef92d0a8ce7eae760c95f1fd3b99ff0"
+    },
+    {
+      "path": "data/raw/photos/mw-beach.json",
+      "bytes": 15504,
+      "sha256": "299c6f6af6cfd57624f8f4a2628c9ffb121bf40f557140f9f42477ea4d588da8"
+    },
+    {
+      "path": "data/raw/photos/mw-falls-v2.json",
+      "bytes": 20,
+      "sha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d"
+    },
+    {
+      "path": "data/raw/photos/mw-falls-v3.json",
+      "bytes": 10530,
+      "sha256": "32b1b0fb7d1de00eeaae2249e1aba131313c503e37eb057ce2f4ead1b4d1363c"
+    },
+    {
+      "path": "data/raw/photos/mw-falls.json",
+      "bytes": 11677,
+      "sha256": "8812c7e419bd66502a160b7b6ce43cc45e943bccdbc8cd34c9a2214802a10c8e"
+    },
+    {
+      "path": "data/raw/photos/mw-fong-yuen-photo.json",
+      "bytes": 55211,
+      "sha256": "6d129bc1a1b3808dd4aa7c9eff90d07ff750fb3c5d41c7383280b915e50a86f7"
+    },
+    {
+      "path": "data/raw/photos/mw-pier-photo.json",
+      "bytes": 134576,
+      "sha256": "fd95283c2567c76446165ad1b38852b7a280e2d0cf78b23dce1dbd3dc4acd38c"
+    },
+    {
+      "path": "data/raw/photos/mw-tung-wan-photo.json",
+      "bytes": 155430,
+      "sha256": "a2f6b0fe2f0f34affa27ef9da78c65557be2628e2fc48251eba42d0f953534f6"
+    },
+    {
+      "path": "data/raw/photos/mw-tung-wan-search.json",
+      "bytes": 41451,
+      "sha256": "43f2ceb343faee4c75099142a1b3af908282d931a085b1c6c94e7aa59367cc29"
+    },
+    {
+      "path": "data/raw/photos/ncw-choi-hung-photo.json",
+      "bytes": 138976,
+      "sha256": "9840d44cf60aa80911d9ab9f4dccc74f8244a866db96751da835554c6a84beaf"
+    },
+    {
+      "path": "data/raw/photos/ncw-village-photo.json",
+      "bytes": 186511,
+      "sha256": "a696028dfffbe71b4916f5794b94e60b1184c9304524ce13b43cbdff2c7c7fb0"
+    },
+    {
+      "path": "data/raw/photos/np-choi-sai-woo-photo.json",
+      "bytes": 62754,
+      "sha256": "83a6fc3eef4cc7ee5cc1de7fd5a479062243ec635581eb20bc735a1b93fb80c6"
+    },
+    {
+      "path": "data/raw/photos/np-ferry-pier-photo.json",
+      "bytes": 137921,
+      "sha256": "84e5f0883162464e90b2bdd7e3733ef78b4fb76fc55390686ad3151c93b7b5df"
+    },
+    {
+      "path": "data/raw/photos/np-provident-photo.json",
+      "bytes": 159172,
+      "sha256": "246e26f05a49fb596f548298ad518714e3104c3c8e207e12758c89126f3617e3"
+    },
+    {
+      "path": "data/raw/photos/nsw-eucalyptus-photo.json",
+      "bytes": 63071,
+      "sha256": "65c68e6cddf5240de97dd8c9a318bb2f1e4e8b7b8537f30c9b0fc52df132996f"
+    },
+    {
+      "path": "data/raw/photos/nsw-eucalyptus-search.json",
+      "bytes": 37895,
+      "sha256": "66e3cb295baed12e9d6903b59bce39f487ab6c383de5477837ae18375ebc7b0e"
+    },
+    {
+      "path": "data/raw/photos/nsw-wedding-bridge-hk.json",
+      "bytes": 41462,
+      "sha256": "f0a2aeba5aa3bb6106a724ac48547ef8096c8b6871cd44836a731bd20fbc1e8d"
+    },
+    {
+      "path": "data/raw/photos/nsw-wedding-bridge-search.json",
+      "bytes": 73224,
+      "sha256": "066840c11c5981b5dc72cc49da59d284e08d3134b99a0b3d2bc413697a0f20bf"
+    },
+    {
+      "path": "data/raw/photos/pakta-wan.json",
+      "bytes": 9577,
+      "sha256": "bd60087583f4951737cf125d2fd3f55af1f94ce8c7969dc904104ab16c664274"
+    },
+    {
+      "path": "data/raw/photos/pc-hill.json",
+      "bytes": 10700,
+      "sha256": "4ec1d478bf6001095959740f5d57f4a4cabeb2787f86597717f6e0dc89a952d5"
+    },
+    {
+      "path": "data/raw/photos/pc-pier-photo.json",
+      "bytes": 156417,
+      "sha256": "063d33786de9210bd8b264baea2982185c5eede1dd405e5a4ef62a0269148e9b"
+    },
+    {
+      "path": "data/raw/photos/pc-temple.json",
+      "bytes": 16078,
+      "sha256": "51f24650ad8e568c3cbeaf251777d8d3ea34bba3dafe2083d3b3025f2ef389f7"
+    },
+    {
+      "path": "data/raw/photos/pfl-bethanie-photo.json",
+      "bytes": 139449,
+      "sha256": "e95f30c901884a85b079c66019c126060f91c51e183feaeb16934e3b41ec8363"
+    },
+    {
+      "path": "data/raw/photos/pfl-pokfulam-farm-photo.json",
+      "bytes": 152230,
+      "sha256": "99712c0c036176f8c2fb3d40d70ca4e8c4734e7ab23a91931e545c80e88bc07b"
+    },
+    {
+      "path": "data/raw/photos/pfl-pokfulam-farm-search.json",
+      "bytes": 34889,
+      "sha256": "c4254340022da4368ea459bf1d2006a70afbcaf0cd87d26a0decdb4d2eb75ade"
+    },
+    {
+      "path": "data/raw/photos/pfl-waterfall-bay-photo.json",
+      "bytes": 135309,
+      "sha256": "e7fd19c09944a2a5b4a3150b81c347bb21977a1e6bc41cba20750fdca331a575"
+    },
+    {
+      "path": "data/raw/photos/pk-lions-pavilion-photo.json",
+      "bytes": 255734,
+      "sha256": "ffef5499e64c9b4daba0743c4a83fec652222df381c3d46516f14c507f4a01ff"
+    },
+    {
+      "path": "data/raw/photos/pk-lions-pavilion-search.json",
+      "bytes": 96877,
+      "sha256": "fa8f130a138244ab07fa0ef8bb274f8e3cfd1e8b3a8b6f6943c44beb2b30493e"
+    },
+    {
+      "path": "data/raw/photos/pk-lugard-road-photo.json",
+      "bytes": 156642,
+      "sha256": "f0dde9c343b90a1f7147163e8cb6eec1669fcf603cd302bdc30fefb3a29ec60b"
+    },
+    {
+      "path": "data/raw/photos/pmq.json",
+      "bytes": 8746,
+      "sha256": "8922e6c688de58100ae3dda085358b085d660efd37eb6dbf4ebf7493bbcdf8e9"
+    },
+    {
+      "path": "data/raw/photos/ps-heritage-museum-photo.json",
+      "bytes": 132330,
+      "sha256": "82a25907c249d2d8c561f6053012b621d92c8f3c6f0811d4d0e84fcc5d25193a"
+    },
+    {
+      "path": "data/raw/photos/ps-tang-ancestral-hall-photo.json",
+      "bytes": 137472,
+      "sha256": "116c937afc3f3f11277e9678469be4df1adc6da3ea4788187465d146b5ac6e64"
+    },
+    {
+      "path": "data/raw/photos/ps-tsui-sing-lau-photo.json",
+      "bytes": 173076,
+      "sha256": "e6294270c33f3213530b5e5ea0cd75ae46d33c273b157d286a4162d78bd7eb8c"
+    },
+    {
+      "path": "data/raw/photos/pt-lighthouse-photo.json",
+      "bytes": 6108,
+      "sha256": "e37a7ea7ab51366555352dc1fe8dcb7909da05071bce9e5dd8501ef650d8b0ac"
+    },
+    {
+      "path": "data/raw/photos/pt-rock-carving-photo.json",
+      "bytes": 13744,
+      "sha256": "9d6e566e25d0becc19ab3b2271f91cc3dc772b9ecaa4f03a2baab19f4c4d6e3f"
+    },
+    {
+      "path": "data/raw/photos/qb-chun-yeung-photo.json",
+      "bytes": 165437,
+      "sha256": "37dfef67eecf5a00e4234cd4929859db591c428dbab970215467e3c543aead83"
+    },
+    {
+      "path": "data/raw/photos/qb-monster-photo.json",
+      "bytes": 153682,
+      "sha256": "d0538bde98359d21f7ef9ac5da23b4d42c943056063cdf0a2fabbe608c39a4cb"
+    },
+    {
+      "path": "data/raw/photos/qb-park-photo.json",
+      "bytes": 213250,
+      "sha256": "68e3157c412f9f348adec36b5e5e1ac9e6dc95e1210582c108029e1142a294f1"
+    },
+    {
+      "path": "data/raw/photos/qb-woodside-photo.json",
+      "bytes": 101701,
+      "sha256": "84b5971c91ad4f2704ae9a88fee614460029f3f78ebd26695f4a8161b8a7eb3f"
+    },
+    {
+      "path": "data/raw/photos/repulse-beach.json",
+      "bytes": 10687,
+      "sha256": "49fa9bf3c8d4bb968837af39ef4de6341b0d5beb6f66edba3fac4eb172122630"
+    },
+    {
+      "path": "data/raw/photos/sheko-beach.json",
+      "bytes": 8609,
+      "sha256": "8e7c6b0ae66f544ce0865ecb401762829a71f7f4049faf81167d2c94ee6de862"
+    },
+    {
+      "path": "data/raw/photos/sheko-temple-upgraded-v2.json",
+      "bytes": 136882,
+      "sha256": "0871bf5d2dc10770ab79b2b9c2ae7b205c6be009f518b02f321c69fb59100e7a"
+    },
+    {
+      "path": "data/raw/photos/sheko-temple-upgraded.json",
+      "bytes": 106259,
+      "sha256": "ce71fe63f21295db35614da242dbc01ad1d737182bc01a29ee9f916966974170"
+    },
+    {
+      "path": "data/raw/photos/sheko-temple.json",
+      "bytes": 10744,
+      "sha256": "419f7804f7a1666a01336d79a45c093a6441d22a8c8af5da415ed179dd3f8014"
+    },
+    {
+      "path": "data/raw/photos/si-pier-photo.json",
+      "bytes": 93768,
+      "sha256": "f3d322cbb528f846fa7bad2a1e50d51c7c5b0ef1c5636a410ed684107b06577e"
+    },
+    {
+      "path": "data/raw/photos/si-pier-search.json",
+      "bytes": 33312,
+      "sha256": "689a4ebac9d5cc20dd46127899ced589a3ddf94bdb84a6a744a007be27b8ca26"
+    },
+    {
+      "path": "data/raw/photos/si-tombolo-photo.json",
+      "bytes": 95351,
+      "sha256": "dcc6447006d7576317180b0a53591bc8f161b8b0014299b78d975f5abdc822b4"
+    },
+    {
+      "path": "data/raw/photos/sk-promenade.json",
+      "bytes": 14657,
+      "sha256": "6e7f841b1e522a3c8c4b6b8d8c2979bb6efe79d0089b936af08a3e11ee94b8a3"
+    },
+    {
+      "path": "data/raw/photos/sk-temple-v2.json",
+      "bytes": 17733,
+      "sha256": "1e203954446b9b0d67e5d70bed51bdddf80e460d9b5a7e6d9d02471f9baf3010"
+    },
+    {
+      "path": "data/raw/photos/sk-temple.json",
+      "bytes": 8839,
+      "sha256": "274e4532658edeced4328be9f51ddf817f0ad6766195649d4c83e9f5308d0d48"
+    },
+    {
+      "path": "data/raw/photos/skm-jccac-photo.json",
+      "bytes": 166183,
+      "sha256": "694a3c791a9dfde317c8bf2a32c63d85350043e2dbb3c80c07da570929ff3933"
+    },
+    {
+      "path": "data/raw/photos/skm-nam-shan-photo.json",
+      "bytes": 165623,
+      "sha256": "dba9cda47846efc1eeefb3c7ebbe7497c2ad45ec767bf0dd88e13a44409b0533"
+    },
+    {
+      "path": "data/raw/photos/skw-aldrich-bay-photo.json",
+      "bytes": 154814,
+      "sha256": "4cfe4552232a78e5ce42d269157932f7efe4600c00b34f912865ac55ea2bad18"
+    },
+    {
+      "path": "data/raw/photos/skw-coastal-defence-photo.json",
+      "bytes": 198058,
+      "sha256": "d70c227a4ca69c2e6600f908ab356aef1d5952f453dee38bfb43eb3e5bed2b52"
+    },
+    {
+      "path": "data/raw/photos/skw-tam-kung-photo.json",
+      "bytes": 165682,
+      "sha256": "ae70a180166481d9f052dfc9a396b64867644acdc5ac64394e258256d6287c41"
+    },
+    {
+      "path": "data/raw/photos/sm-main-dam-photo.json",
+      "bytes": 47781,
+      "sha256": "77a79f9484e5c714e368cee885cb13cd2a37580d7475e21ce824950d47b8db63"
+    },
+    {
+      "path": "data/raw/photos/sm-paperbark-hk.json",
+      "bytes": 422391,
+      "sha256": "894b2904249bcd23138d635cc56133005008ec7e771b89ded23b83721b4a81a6"
+    },
+    {
+      "path": "data/raw/photos/sm-paperbark-search.json",
+      "bytes": 36590,
+      "sha256": "b2ddf165cc870a536335dadb71e084b5cccfaebe5cc8aeb6eee1ba32848370b1"
+    },
+    {
+      "path": "data/raw/photos/sm-paperbark-search2.json",
+      "bytes": 20,
+      "sha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d"
+    },
+    {
+      "path": "data/raw/photos/spk-fung-tak-park-photo.json",
+      "bytes": 176155,
+      "sha256": "4e1fca9f1a8cee95b9ac2fab1f325e621215c4c890ca7cc9615cfe9c50d8bbb4"
+    },
+    {
+      "path": "data/raw/photos/spk-kai-tak-river-photo.json",
+      "bytes": 60106,
+      "sha256": "c8eed33119693a2f5ddaaad7d086c783adc1b078350a6426259e4ca03c648f3a"
+    },
+    {
+      "path": "data/raw/photos/st-bridge.json",
+      "bytes": 8978,
+      "sha256": "3285a67ff5cbd41f73109cea53d19843cca1c76bfe8f33dc7be913e70091b2ee"
+    },
+    {
+      "path": "data/raw/photos/st-lek-yuen-photo.json",
+      "bytes": 165015,
+      "sha256": "3b9ec9a9f059b020d4af406b6b6f8f9604e9b07b323a399b1678b1e4ecd8edd5"
+    },
+    {
+      "path": "data/raw/photos/st-park-v2.json",
+      "bytes": 11247,
+      "sha256": "ef7833ced31fc6e1a6820d504f141bf063d187e8c45c3e0cb9b9a577c8f996ab"
+    },
+    {
+      "path": "data/raw/photos/st-park.json",
+      "bytes": 433,
+      "sha256": "15bbfe1e551f39cbedf2a6f51aed6c049efebb244a2b9efbcf9381e1dd4eebb8"
+    },
+    {
+      "path": "data/raw/photos/st-town-hall-photo.json",
+      "bytes": 176537,
+      "sha256": "712eb2c052c7196f6c7a76d1d2a65d0a25ca5de25f751dec295f6075a0a88283"
+    },
+    {
+      "path": "data/raw/photos/stanley-market.json",
+      "bytes": 9347,
+      "sha256": "1ad50c6abf3e6bd27c1fcad36296d91acad94d7b294c6dccc6019d79a3c6c534"
+    },
+    {
+      "path": "data/raw/photos/sz-df-art-museum-photo.json",
+      "bytes": 183387,
+      "sha256": "5360a66b7760b96865e62d6bec5bb5583a0139995ee66f0b976fec9acca9f73c"
+    },
+    {
+      "path": "data/raw/photos/sz-df-oil-street-photo.json",
+      "bytes": 170551,
+      "sha256": "137713b5e8e65a8a3f29e9f69f894a1bd4d92e6c194248c1c907494db8bea214"
+    },
+    {
+      "path": "data/raw/photos/sz-dm-pedestrian-photo.json",
+      "bytes": 80399,
+      "sha256": "f28f434e6c94982c0d42ae86293288569f01a31aff3d23ef4207b3c8fe50b4a0"
+    },
+    {
+      "path": "data/raw/photos/sz-dm-peoples-park-photo.json",
+      "bytes": 132687,
+      "sha256": "f8a49938f4f70bdc3a58c2793ef50bf92614cabe2d7a003a1e94d60adffd2aac"
+    },
+    {
+      "path": "data/raw/photos/sz-dp-fortress-photo.json",
+      "bytes": 63097,
+      "sha256": "4a0e7469647cd95d841230daeef5ea01c907d608807c06f0856852776f77f0a2"
+    },
+    {
+      "path": "data/raw/photos/sz-dp-jiaochangwei-geo.json",
+      "bytes": 83176,
+      "sha256": "06c261d22fb85dbd3c7ad1744522965550d7649ac11b74dc05c5edcface8745e"
+    },
+    {
+      "path": "data/raw/photos/sz-dp-jiaochangwei-search.json",
+      "bytes": 83342,
+      "sha256": "147acbd720f11d350f6a05a764fad30beae4d642d6f8ad157c071b29cfed3cc1"
+    },
+    {
+      "path": "data/raw/photos/sz-gk-south-gate-photo.json",
+      "bytes": 65330,
+      "sha256": "2893d03fb9a10a9b1931c5521fadf7d1e0b0e5fa1131f3652167c02d0506fa70"
+    },
+    {
+      "path": "data/raw/photos/sz-hqb-central-park-photo.json",
+      "bytes": 133635,
+      "sha256": "0da2dd3d7a34c2c2f7ad08ffa09ca82e29d2af523dd3fc5737f92e886906954a"
+    },
+    {
+      "path": "data/raw/photos/sz-hqb-seg-photo.json",
+      "bytes": 161099,
+      "sha256": "aba9ccd677430977b652b580ec3e3c460fe929072187c6be5f34b6434c89d6c8"
+    },
+    {
+      "path": "data/raw/photos/sz-lh-bijiashan-photo.json",
+      "bytes": 207709,
+      "sha256": "e1b5c04b25581528698c4ff2d02b9c927d4f5fca6c20395d133ed87a9889e709"
+    },
+    {
+      "path": "data/raw/photos/sz-lh-top-plaza-photo.json",
+      "bytes": 215395,
+      "sha256": "f7b9e7d1683a2c3b8c0c336fcc73c3b79f9ac3ef126323602a596222458b8802"
+    },
+    {
+      "path": "data/raw/photos/sz-lh-upperhills-photo.json",
+      "bytes": 191716,
+      "sha256": "41327dfcf8a6e90851740698bd3814926ac59f6cb28e0cfebf2b0241db5188fd"
+    },
+    {
+      "path": "data/raw/photos/sz-ml-dam-photo.json",
+      "bytes": 62333,
+      "sha256": "d1dc2dbf6157c1ea33e07f39412c6996f23b0faf20d5a899a8862212e876d5ec"
+    },
+    {
+      "path": "data/raw/photos/sz-nt-south-gate-photo.json",
+      "bytes": 181969,
+      "sha256": "3d2efc86c5d3eab1c1eca3373e0b897602340453cffb53b06d4123dbb14a85f4"
+    },
+    {
+      "path": "data/raw/photos/sz-nt-zhongshan-park-photo.json",
+      "bytes": 139296,
+      "sha256": "b580f9bb62a52e80d8a3ea7581051f2e1009d2c7a7eb1b848303500358514070"
+    },
+    {
+      "path": "data/raw/photos/sz-oct-eco-plaza-photo.json",
+      "bytes": 191461,
+      "sha256": "c2625b26d8ea57d5c67b4ef0da335c7a91678f5ba22213e91ae007444bfe1d36"
+    },
+    {
+      "path": "data/raw/photos/sz-oct-loft-north-photo.json",
+      "bytes": 130282,
+      "sha256": "1203300a487a4ef8933616ba0da40da614e00b3ab33b1ed994468ec810b264f8"
+    },
+    {
+      "path": "data/raw/photos/sz-qh-happy-harbor-geo.json",
+      "bytes": 232724,
+      "sha256": "0e39e789c1bd2eebbcb1330ef6c18bb61dca9e73b39a68435b3ba35c85dfb0e5"
+    },
+    {
+      "path": "data/raw/photos/sz-qh-happy-harbor-photo.json",
+      "bytes": 74629,
+      "sha256": "1885692679ca39493741352e2bc01600948d89f88edf49267005e0337b10ced7"
+    },
+    {
+      "path": "data/raw/photos/sz-qh-stone-park-photo.json",
+      "bytes": 185822,
+      "sha256": "7e59e4599646c569e75db9abd0e84f3bcbcaa5bfe0b3c02224f639dc12b3c973"
+    },
+    {
+      "path": "data/raw/photos/sz-sb-mangrove-photo.json",
+      "bytes": 79916,
+      "sha256": "e3b06d5e5412bc1b2224edddcbcc1705a2df46a26a40aab4e815201676104cfc"
+    },
+    {
+      "path": "data/raw/photos/sz-sb-talent-park-photo.json",
+      "bytes": 148174,
+      "sha256": "2c2123b7e242fdd30887cb456946fe955be3aacbcad967e05f38d955af366286"
+    },
+    {
+      "path": "data/raw/photos/sz-sk-old-street-photo.json",
+      "bytes": 129293,
+      "sha256": "9c64aeef8d3a3829ea9a9028176b6914528369385a18f09ce83b4b640494373a"
+    },
+    {
+      "path": "data/raw/photos/sz-sk-sea-world-photo.json",
+      "bytes": 163900,
+      "sha256": "04c727d69e1ce853aff97bc19bc5f5ccf627a751e9228a9bab5143864a1bdf11"
+    },
+    {
+      "path": "data/raw/photos/sz-tl-peak-photo.json",
+      "bytes": 15565,
+      "sha256": "16a85b51ffc1d2993301b6b4dba85ae26cc35cb61bccba5fd08c65d9cf2fe75d"
+    },
+    {
+      "path": "data/raw/photos/sz-yl-lizhi-park-photo.json",
+      "bytes": 136604,
+      "sha256": "d35be14eb76e02c76e92995cb3b2027e47d0f9f18b38c63a33a8a026bb0acf43"
+    },
+    {
+      "path": "data/raw/photos/sz-yl-new-village-geo.json",
+      "bytes": 165702,
+      "sha256": "2f80eb4c09c624fdca5397acf58a754c12bbf225ec6a5aaa8f18721e2c42f9eb"
+    },
+    {
+      "path": "data/raw/photos/sz-yl-new-village-photo.json",
+      "bytes": 75008,
+      "sha256": "9f898e4e7c0edb93f5abdccaafae23048d89542a9f1ebec2539d104928d637d1"
+    },
+    {
+      "path": "data/raw/photos/sz-ymk-coastal-road-photo.json",
+      "bytes": 4687,
+      "sha256": "ff0853a49c3fea42156e88295f9292b7e1abfaa16e7a466c55cbb0c20a39f49a"
+    },
+    {
+      "path": "data/raw/photos/sz-yt-central-park-photo.json",
+      "bytes": 169865,
+      "sha256": "92cbd0d70cd8dae47cbe2bf6ba55d63fb283c7035263d5c9f509e6f2efaf76f0"
+    },
+    {
+      "path": "data/raw/photos/sz-yt-central-park-search.json",
+      "bytes": 98640,
+      "sha256": "d10cfe1d1d473e4081495830f201b56486f42c09321e0d5f8528ac357ed83505"
+    },
+    {
+      "path": "data/raw/photos/sz-yt-dameisha-boardwalk-photo.json",
+      "bytes": 100595,
+      "sha256": "529787c1701bf17b5f039fcabd4bff4a329d74677eefe8faaf4892ef566ff69c"
+    },
+    {
+      "path": "data/raw/photos/sz-yt-dameisha-park-photo.json",
+      "bytes": 168668,
+      "sha256": "100443978bd1d057fa28ddd68ed0f993ba23f294c4b83dc5d4a8d3e2814a713b"
+    },
+    {
+      "path": "data/raw/photos/sz-yt-lighthouse-photo.json",
+      "bytes": 86704,
+      "sha256": "9303b2b4a16cc2215623148b972315956c9db4cdf7bd16bcd97863174208100a"
+    },
+    {
+      "path": "data/raw/photos/sz-yt-seafood-street-photo.json",
+      "bytes": 174812,
+      "sha256": "22b5ac89d83232f8a534fd725897db444b5ce51e87081eaf8904a241aeeabe19"
+    },
+    {
+      "path": "data/raw/photos/sz-yt-waterfront-geo.json",
+      "bytes": 205087,
+      "sha256": "a08a5896a754c2122902df431318e6b7e2d9926d7c39c8eb57e1919444bf5dac"
+    },
+    {
+      "path": "data/raw/photos/sz2-dh-park-photo.json",
+      "bytes": 67725,
+      "sha256": "92cf23d973813361176f8995a4d366732b99a8492b4b99d2c79afcf154f570f7"
+    },
+    {
+      "path": "data/raw/photos/sz2-dsh-park-photo.json",
+      "bytes": 81329,
+      "sha256": "4c426b00084c6f30cd15c40569f4f1208494f08cfa84f6cf9f9d3ded56ef9a6d"
+    },
+    {
+      "path": "data/raw/photos/sz2-gl-old-market-photo.json",
+      "bytes": 143848,
+      "sha256": "31d8690b6a71d1de968f651dcf3a314a52fbd5785a2e512ad7b573d82a76ca2b"
+    },
+    {
+      "path": "data/raw/photos/sz2-gm-hongqiao-photo.json",
+      "bytes": 115438,
+      "sha256": "fbe5676baadb16f291e5a977978da8a5b9dd709d35c887fcdd05d2c9424120fb"
+    },
+    {
+      "path": "data/raw/photos/sz2-hh-park-photo.json",
+      "bytes": 62470,
+      "sha256": "57fefb1904338984f339aa3e4d812488700a1caaf7cf6818b3cc9d12a8034f1c"
+    },
+    {
+      "path": "data/raw/photos/sz2-hh2-hehu-photo.json",
+      "bytes": 49483,
+      "sha256": "10c74a735882c383ef5712d9045f2acc6f21d4d07c7a20929e8c52acc4459ec4"
+    },
+    {
+      "path": "data/raw/photos/sz2-lh2-music-park-photo.json",
+      "bytes": 73382,
+      "sha256": "bfcf808af4d3e2c89c54185e25907c1f17085afd5f213c91ab0673e5fd4f7a98"
+    },
+    {
+      "path": "data/raw/photos/sz2-lh2-north-station-photo.json",
+      "bytes": 47264,
+      "sha256": "1331133bbd15eeb975d5fd5b2abaea3c506fbd1f35c340cd9af5096a31cb6681"
+    },
+    {
+      "path": "data/raw/photos/sz2-ps-dawan-photo.json",
+      "bytes": 53996,
+      "sha256": "9bc4f6d7687f45f8bddf469fc527f9ecc16bd42d69c23e836dba60016dfb7b49"
+    },
+    {
+      "path": "data/raw/photos/sz2-sw-huanggang-park-photo.json",
+      "bytes": 147507,
+      "sha256": "45ac3d37223d9d886aa756f77fa37e77658741f8f4ef18144378b7c90bc3746d"
+    },
+    {
+      "path": "data/raw/photos/sz2-sw-village-photo.json",
+      "bytes": 167257,
+      "sha256": "7b79e693ae2ec6eb07a6b77f3424964938b30d124e5a116c287a4f5f32c2dcb5"
+    },
+    {
+      "path": "data/raw/photos/sz2-wt-xiantong-photo.json",
+      "bytes": 72372,
+      "sha256": "36ff0c4a42d1896643065e0cfc44301d0e4e1129507bb8661862a7d0731b6972"
+    },
+    {
+      "path": "data/raw/photos/sz2-xa-old-street-photo.json",
+      "bytes": 140227,
+      "sha256": "2b7755981c95954536a115cb7e527f1acf57669a03612268db2d3cfa8a54de73"
+    },
+    {
+      "path": "data/raw/photos/sz2-xm-park-photo.json",
+      "bytes": 5321,
+      "sha256": "55c649ef8fd44878796d2ae5f4f569f4839d998313fa6273a1e1cc58daefa587"
+    },
+    {
+      "path": "data/raw/photos/sz2-xms-beizaijiao-photo.json",
+      "bytes": 71912,
+      "sha256": "38bc49fa1f649603e9c804e3998036c5ceaae445356ae5e712d10b934e180b4f"
+    },
+    {
+      "path": "data/raw/photos/sz2-xw-mangrove-photo.json",
+      "bytes": 63531,
+      "sha256": "8f92b96981aadf80ae8956f7f7db0b1e9b37740546742aa902f45e57e84998f4"
+    },
+    {
+      "path": "data/raw/photos/taikwun-reviewed.json",
+      "bytes": 10357,
+      "sha256": "697fa239dc6731c650a0d3690c9f1e4b3ae960067d980c5b1ec9dcf51c19f32f"
+    },
+    {
+      "path": "data/raw/photos/taikwun.json",
+      "bytes": 10729,
+      "sha256": "38fa2d3c004f644909885b6b0142fb7c3afe360882ec0558a207608fef668285"
+    },
+    {
+      "path": "data/raw/photos/taio-bridge.json",
+      "bytes": 10133,
+      "sha256": "e7a402c0990fbcbcde92448c0a43f0153d72e4ee0898e7f71c6ade64d4e6fe35"
+    },
+    {
+      "path": "data/raw/photos/taio-hotel.json",
+      "bytes": 9548,
+      "sha256": "56ecd2b3db344bd7a624fae8112e66455e886b91e1b144c1e1325a62aedc4fb6"
+    },
+    {
+      "path": "data/raw/photos/taio-temple.json",
+      "bytes": 16387,
+      "sha256": "442fce815ea016ff9208fd8abe4faa393f947b60f8326bd76525dc3584bb511f"
+    },
+    {
+      "path": "data/raw/photos/tc-battery-photo.json",
+      "bytes": 68049,
+      "sha256": "e9acd9a5a866d7e0231fa7393e24a31609303b12a34e2dccb3f1de70c7d45ff7"
+    },
+    {
+      "path": "data/raw/photos/tc-fort-photo.json",
+      "bytes": 163348,
+      "sha256": "d44d646c3a41b10272b8a009790ac0bfc786fcdd9900a587132b60ef9531da5d"
+    },
+    {
+      "path": "data/raw/photos/temple-street.json",
+      "bytes": 11080,
+      "sha256": "59a9913c0c302958a999c2bdc006a5b6f0e1e4e49a893f1903cff51acf6e7787"
+    },
+    {
+      "path": "data/raw/photos/th-haw-par-photo.json",
+      "bytes": 136779,
+      "sha256": "b9261771923841aa41b0eb70d7409d62af09cdfcb95d788e67db0934a295ce66"
+    },
+    {
+      "path": "data/raw/photos/th-lai-tak-photo.json",
+      "bytes": 154218,
+      "sha256": "67b1da7afa935ecb989591ee651b0a35ece5da94cbc2cd996aaf9bf10b8c1ac2"
+    },
+    {
+      "path": "data/raw/photos/th-lin-fa-kung-photo.json",
+      "bytes": 160251,
+      "sha256": "105196c4b03a46d703cbadf0a52b092df8e74e7af42e2abc4afa30e940adcaf5"
+    },
+    {
+      "path": "data/raw/photos/th-queens-college-photo.json",
+      "bytes": 193260,
+      "sha256": "c10e2a4701c49176de4eabe64f385e09bb970f7b75bb3ac09aca60eb616375a4"
+    },
+    {
+      "path": "data/raw/photos/theatre.json",
+      "bytes": 13388,
+      "sha256": "a455214defe06296960fc8ccfc9eb1be0a9f47f7162bd420e6ec78b0f82ad90c"
+    },
+    {
+      "path": "data/raw/photos/tko-hkdi-photo.json",
+      "bytes": 155952,
+      "sha256": "96404d8ef646c1ffec431e22cb6c9fe23413c5f873e0bc9e2ea8dd4f0d7a90f9"
+    },
+    {
+      "path": "data/raw/photos/tko-velodrome-photo.json",
+      "bytes": 61464,
+      "sha256": "d2302f5c320b85c11a86a2c116600071ce97455d741f3d0a8335c25fcc6872d8"
+    },
+    {
+      "path": "data/raw/photos/tko-waterfront-photo.json",
+      "bytes": 61788,
+      "sha256": "1fd048912ed055f207c5c7beef4dd482378d80a78ec6190b4a3e230aca3d90a1"
+    },
+    {
+      "path": "data/raw/photos/tkt-anchor-street-photo.json",
+      "bytes": 161344,
+      "sha256": "225db7af159047a4a669ad4203cd87e47781cfb79b85010b353e5154e4062a6f"
+    },
+    {
+      "path": "data/raw/photos/tkt-hoi-fai-photo.json",
+      "bytes": 186561,
+      "sha256": "13abca3f0d096e5d347409637b1ac2c8afbaccdd3124975f6f2b5a2b1c61df92"
+    },
+    {
+      "path": "data/raw/photos/tkw-cattle-depot-photo.json",
+      "bytes": 55258,
+      "sha256": "82de89af31d0984bf87e0927736918473edd820bb87e8ede9eafea27695d56e8"
+    },
+    {
+      "path": "data/raw/photos/tkw-hoi-sham-photo.json",
+      "bytes": 172261,
+      "sha256": "c7ceaab750fb317b2b688bbb91c38cf27fc20681aa635745fdf55d5dc4b21f2f"
+    },
+    {
+      "path": "data/raw/photos/tkw-ko-shan-photo.json",
+      "bytes": 180206,
+      "sha256": "6b52c6d013b068d32bcdd094cd97672f7bb8dc2af88b53b5e696d4e6ada4569a"
+    },
+    {
+      "path": "data/raw/photos/tm-balanced-rock-photo.json",
+      "bytes": 5359,
+      "sha256": "e2016953f0cfe35c388fa97a75011f7d24785f3ed79931f0c7439c366fa8d050"
+    },
+    {
+      "path": "data/raw/photos/tm-balanced-rock-search.json",
+      "bytes": 35055,
+      "sha256": "77ed99b273213f2489fa1d800fa255586a582c77a8089d7c86179fe19188ded1"
+    },
+    {
+      "path": "data/raw/photos/tm-balanced-rock-zh.json",
+      "bytes": 205850,
+      "sha256": "7cc08308084fc4aa296847506243eb25304987fadb2b4f5c4047c4d18968e41d"
+    },
+    {
+      "path": "data/raw/photos/tm-kadoorie-pier-photo.json",
+      "bytes": 167317,
+      "sha256": "6777ef83cb1b8d7400674e77f5d77f239984a263880ae3598b83bb2a22cfe24a"
+    },
+    {
+      "path": "data/raw/photos/tm-park-photo.json",
+      "bytes": 144196,
+      "sha256": "84ad1455b036275d959d9839077761043bef3f07ebf3da05037d5c60d7c45578"
+    },
+    {
+      "path": "data/raw/photos/tm-pavilion-zh.json",
+      "bytes": 166230,
+      "sha256": "ed162e8b79fac8693673ec1881bb2a8b9e7285e84e9efebdd7a50ba1106ab034"
+    },
+    {
+      "path": "data/raw/photos/tm-tin-hau-photo.json",
+      "bytes": 56216,
+      "sha256": "db8c34652bc79ece703186f8b389d8c79ac4e751b22a141c90fb94bd9d78d4d7"
+    },
+    {
+      "path": "data/raw/photos/tp-man-mo-photo.json",
+      "bytes": 136351,
+      "sha256": "cbe037fadf775e7775fce9ce9829563b119e4326236e91d528930df45d3d79e2"
+    },
+    {
+      "path": "data/raw/photos/tp-railway-museum-photo.json",
+      "bytes": 42080,
+      "sha256": "04d3b3f4063add9d34f5b46302a6dc0044d8a01b3411c8dbd7d9875a454579b5"
+    },
+    {
+      "path": "data/raw/photos/tp-waterfront-photo.json",
+      "bytes": 20297,
+      "sha256": "6e058e564b2e2dbfdc4fc3ee88a776de4074cb8f095f310f8bb72d1551d5f128"
+    },
+    {
+      "path": "data/raw/photos/tt-tuk-barbecue-photo.json",
+      "bytes": 5381,
+      "sha256": "e44e9c594571f5dee072ebe92bfe2cd685b3b22fbe21256986b37579e3970036"
+    },
+    {
+      "path": "data/raw/photos/tt-upper-dam-photo.json",
+      "bytes": 64069,
+      "sha256": "d2d5c47bf52b466eeef632403989a21b6744570502d6ea814c7741257ca7e444"
+    },
+    {
+      "path": "data/raw/photos/tungwan.json",
+      "bytes": 11483,
+      "sha256": "c92551dfc03b617daa6a05b1d2d1f92aeb13ac721accede051f2f3e1686a127e"
+    },
+    {
+      "path": "data/raw/photos/tw-airport-core-photo.json",
+      "bytes": 73693,
+      "sha256": "43bab394c5f8669f6d167e166cd53f040864183bea334cd56ae50813232c63a3"
+    },
+    {
+      "path": "data/raw/photos/tw-approach-beach-photo.json",
+      "bytes": 76535,
+      "sha256": "b45f271f9e3c059866b233fc91593d8aefc97737eca2930ba4d1005f1a94485a"
+    },
+    {
+      "path": "data/raw/photos/tw-sam-tung-uk-photo.json",
+      "bytes": 140366,
+      "sha256": "ff43a2672fe419cf9533bc089f5ad2acaeb1be565cc963db6e35763765d6c41e"
+    },
+    {
+      "path": "data/raw/photos/tw-sham-tseng-garden-photo.json",
+      "bytes": 82209,
+      "sha256": "6dc7ccef9bbfeb9ef66e38189ea8b361f32795d5c6fdb284abe638a4adff31bb"
+    },
+    {
+      "path": "data/raw/photos/tw-sham-tseng-garden-search.json",
+      "bytes": 43910,
+      "sha256": "ae744a4b8f1dde55c1da0e58a02237aaf37d8b2699cc20cae13dab77eb228456"
+    },
+    {
+      "path": "data/raw/photos/tw-the-mills-photo.json",
+      "bytes": 155167,
+      "sha256": "81303cf83a4172bed5148ce0270c002380a5a153c73179bc6d2d4a2c9f3b45b9"
+    },
+    {
+      "path": "data/raw/photos/western-reviewed.json",
+      "bytes": 12143,
+      "sha256": "585461c96884f60895db2e2db9b089b6c35a9bb02a29752bddbd8e0773da75cc"
+    },
+    {
+      "path": "data/raw/photos/western.json",
+      "bytes": 10840,
+      "sha256": "f1c1780cf67c2f8e53cb607fa1e2fe05d523a887e0b70b9d73c08383af2eaa1a"
+    },
+    {
+      "path": "data/raw/photos/wk-freespace-photo.json",
+      "bytes": 143427,
+      "sha256": "f99cad092461398a40706cc00bae1483f127f4040e6ba298f9e0123665c36362"
+    },
+    {
+      "path": "data/raw/photos/wk-mplus-photo.json",
+      "bytes": 50871,
+      "sha256": "687b1d9b0cc433d088108df5b282934ced817517f558c3b18b92ebdc48670b0c"
+    },
+    {
+      "path": "data/raw/photos/wk-palace-photo.json",
+      "bytes": 39647,
+      "sha256": "7e844ef064f636fc3dba49b06b2abf43bdcb2d72da28f4b8487ee86a257f921f"
+    },
+    {
+      "path": "data/raw/photos/wk-xiqu-photo.json",
+      "bytes": 46723,
+      "sha256": "810e400700f291fbca4895807c78833c2dcaa33b52e12f7afbe4b4cb89c6d8f6"
+    },
+    {
+      "path": "data/raw/photos/wts-chi-lin-photo.json",
+      "bytes": 159578,
+      "sha256": "f8cbfea490e1d1b0348ccdbb990fcdedfc33b84c310cb53d7eaba1e0fcef9638"
+    },
+    {
+      "path": "data/raw/photos/wts-nan-lian-photo.json",
+      "bytes": 153319,
+      "sha256": "2160064a27d3d5fe97b42db97e63183e63d41c7f2044694b15ee45f745900381"
+    },
+    {
+      "path": "data/raw/photos/wts-temple-photo.json",
+      "bytes": 169986,
+      "sha256": "3864886e4b041df2076c6dfbe11d59c34d7a9d48fc2482d33882e9b5307b12f3"
+    },
+    {
+      "path": "data/raw/photos/ytt-chapel-photo.json",
+      "bytes": 34411,
+      "sha256": "8dd28d049e3383532d0ca1c582e837ca7252167994f4697b9b503535b5c99c48"
+    },
+    {
+      "path": "data/raw/photos/ytt-salt-pans-photo.json",
+      "bytes": 9954,
+      "sha256": "33d8d86715101f6dac714fee608d1ccd2693cf821a5271857cb737e6a0c17c16"
+    },
+    {
+      "path": "data/raw/pk-bus-terminus.json",
+      "bytes": 1396,
+      "sha256": "cca5e4f6709b094f1b8e493dcde3b60d564aefe00dac6858ff73214a263cd0d3"
+    },
+    {
+      "path": "data/raw/pk-harlech-road.json",
+      "bytes": 1357,
+      "sha256": "c70c9bacfc366a4a6c41ec698513067dfa2b28633cef2d5de371baa292435fbf"
+    },
+    {
+      "path": "data/raw/pk-lions-pavilion.json",
+      "bytes": 745,
+      "sha256": "099b853a24a973d4db42aa1ff47a37c5fa1c97e1a7d2c6b7c713a32e941a706f"
+    },
+    {
+      "path": "data/raw/pk-lugard-road.json",
+      "bytes": 735,
+      "sha256": "f0faefca8630cd90630706ae6d6ef2d734994837bf9cd4458b42e6645c422aba"
+    },
+    {
+      "path": "data/raw/pk-tram-terminus.json",
+      "bytes": 1437,
+      "sha256": "e3a4a55d027e22644acb65a73c11c772708d205bd095ef3bb97b8d31d9f2cff7"
+    },
+    {
+      "path": "data/raw/pmq.json",
+      "bytes": 2127,
+      "sha256": "983472f2379d38922eaf9499ca93c141f5f632a879515074af332aaf420af8be"
+    },
+    {
+      "path": "data/raw/ps-heritage-museum.json",
+      "bytes": 638,
+      "sha256": "94474cbad0ea843fe016b3993dd56d3cd1f627f8fe9845e3a879394b70fe3747"
+    },
+    {
+      "path": "data/raw/ps-kun-ting.json",
+      "bytes": 703,
+      "sha256": "a4df7c284b5672f15fde05ec4017a9e07d8abd5a0292121f07d94db6aac0ee19"
+    },
+    {
+      "path": "data/raw/ps-pingshan-lrt.json",
+      "bytes": 2772,
+      "sha256": "f54d234b24f7b18c6e2c827bf6fbbfc6b164dd720e216cffce134cc1c3aa4a81"
+    },
+    {
+      "path": "data/raw/ps-sheung-cheung-wai.json",
+      "bytes": 698,
+      "sha256": "b7ca79af4adc53d8a1676ebc104e79ec8b3a9bee57b4a13403ea9786a7be336f"
+    },
+    {
+      "path": "data/raw/ps-tang-ancestral-hall.json",
+      "bytes": 698,
+      "sha256": "5ae867ce21b6309e01c5daf25abf267a83a88553e5be80dbff453592ed1a805f"
+    },
+    {
+      "path": "data/raw/ps-tinsuiwai-station.json",
+      "bytes": 710,
+      "sha256": "22f83393feb27c5e46b9fb494bf2c138dfde7f4e2a7219e02945c8e6276dbefc"
+    },
+    {
+      "path": "data/raw/ps-tsui-sing-lau.json",
+      "bytes": 702,
+      "sha256": "7a9557e3d702f75005c048bf9c6db6d1254dacc0a3ccfcc0e2feadde7b91753f"
+    },
+    {
+      "path": "data/raw/pt-lighthouse.json",
+      "bytes": 1348,
+      "sha256": "713819e634ded01e66721b8a8ac645d1d658c461b8e91fdff1a8b3c44f35738f"
+    },
+    {
+      "path": "data/raw/pt-pier.json",
+      "bytes": 694,
+      "sha256": "e88f969616d538bd216efd053a3f7c6a78be7e6f2138a18a649ac1d55947b95e"
+    },
+    {
+      "path": "data/raw/pt-rock-carving.json",
+      "bytes": 744,
+      "sha256": "04847a80c74e9ac40c33a7664e138413cff3be63e09e0ec46309794c044a4887"
+    },
+    {
+      "path": "data/raw/pt-tin-hau.json",
+      "bytes": 706,
+      "sha256": "b01833561bca86fc4666565e26aa62742ec713e8d9f1cb048e94f470370a6dbf"
+    },
+    {
+      "path": "data/raw/qb-chun-yeung.json",
+      "bytes": 580,
+      "sha256": "f903260be8af038220f751b4ad2f30f3006f757f2d837f25b04a19f31abfb5f9"
+    },
+    {
+      "path": "data/raw/qb-monster.json",
+      "bytes": 602,
+      "sha256": "56581bee75a5eedc348a70b98e6ff47ee8ee93eaad4ae9c39853a10babbdba5d"
+    },
+    {
+      "path": "data/raw/qb-park.json",
+      "bytes": 1081,
+      "sha256": "53cdd6f3a5113bcf4e08615eb576011c0ea4e836750df9a67c287fad2e7b4637"
+    },
+    {
+      "path": "data/raw/qb-station.json",
+      "bytes": 4176,
+      "sha256": "d5d3e4327ed13134bd6b56e989abd33891ff59925e0e14e4375b4d6493dfabc3"
+    },
+    {
+      "path": "data/raw/qb-taikoo-station.json",
+      "bytes": 2255,
+      "sha256": "85aacfe3b8abb87103b13eef2c6ea2ce9a8335e7bd32829a3bf7eed8caae2098"
+    },
+    {
+      "path": "data/raw/qb-woodside.json",
+      "bytes": 688,
+      "sha256": "d285195fa9e79f5d3f1cda29b3ddd4b9d609d7d481e2bd32fffc6066cade79ab"
+    },
+    {
+      "path": "data/raw/refine.log",
+      "bytes": 3907,
+      "sha256": "59e4e6fece436414e9ee4d9e0ff7a664732493c9ad4e0b1a3f58966a7d4ba8be"
+    },
+    {
+      "path": "data/raw/repulse-beach.json",
+      "bytes": 676,
+      "sha256": "1247b30b87d48ee74b813c0962f0f823d901d01f569c6826b7379f8dc2907eb6"
+    },
+    {
+      "path": "data/raw/route-aberdeen-stroll.json",
+      "bytes": 46382,
+      "sha256": "73731295afefb462f3841f8b326af241afc80930cc0b25d0609c41de3b75f3f5"
+    },
+    {
+      "path": "data/raw/route-aberdeenreservoir-expansion.json",
+      "bytes": 40419,
+      "sha256": "f3cbade4c817a9591eef9c3f982ec142d9b11039ec22f906453c0ddc3981f768"
+    },
+    {
+      "path": "data/raw/route-admiralty-expansion.json",
+      "bytes": 34376,
+      "sha256": "5085d79bac64e488a8c16cda42121d37d3fb0ea423b0c79b75a6f8c95487b7c0"
+    },
+    {
+      "path": "data/raw/route-causewaybay-expansion.json",
+      "bytes": 21447,
+      "sha256": "205b9167160848fcac8a70c33a9ce1205e5c949da90c96b6721995a444f506ee"
+    },
+    {
+      "path": "data/raw/route-central-transport.json",
+      "bytes": 36654,
+      "sha256": "62848e85a57bcb304e66166134a82cb1c552c854fb416547cd376502bfbde12f"
+    },
+    {
+      "path": "data/raw/route-central.json",
+      "bytes": 70375,
+      "sha256": "ce8117bf2842bf7bd88ae19cab2e646d53a4186f8cb918f145eff8adaa72ea7f"
+    },
+    {
+      "path": "data/raw/route-cheungchau-transport.json",
+      "bytes": 13862,
+      "sha256": "18979fc39a3df420958d373c84c61430ff8bd1451ee2c53a2dc725763f61ccfa"
+    },
+    {
+      "path": "data/raw/route-cheungchau.json",
+      "bytes": 42593,
+      "sha256": "be9a5931e7983263dce4abc78d34457631de14b1c640e6ad6f600a2a27108120"
+    },
+    {
+      "path": "data/raw/route-dragonsback-expansion.json",
+      "bytes": 46418,
+      "sha256": "5ff297a894ce5e95592434841a24324df67361f9b0a451f88daeb00d13ccebb8"
+    },
+    {
+      "path": "data/raw/route-flowermarket-expansion.json",
+      "bytes": 19734,
+      "sha256": "fe80c82db5407cb1e73f38d6b79ce1d2c05f15cca0aa3d540002bbdd340b0940"
+    },
+    {
+      "path": "data/raw/route-happyvalley-expansion.json",
+      "bytes": 31494,
+      "sha256": "2322f6dfc2a36cdce06c7890713788080e387c1275274a41915a4b8a36ab412f"
+    },
+    {
+      "path": "data/raw/route-hkubonham-expansion.json",
+      "bytes": 36847,
+      "sha256": "faa3625ee5ef56570285105eb4b11786342f38a2b0bc1da7514d4126071e87ee"
+    },
+    {
+      "path": "data/raw/route-hosheungheung-expansion.json",
+      "bytes": 26772,
+      "sha256": "047098326ff389507c06d07f20630a31273ade4b1c706f9c0ab43cce209327d2"
+    },
+    {
+      "path": "data/raw/route-hunghom-expansion.json",
+      "bytes": 33815,
+      "sha256": "0c9fd4f42d505bff6a66cbd51381b5cdc92373862246a328edbe8694c6f0fc1d"
+    },
+    {
+      "path": "data/raw/route-kadooriehill-expansion.json",
+      "bytes": 37364,
+      "sha256": "f4d26528cb0a5c810ebe03744c21d6c84991473ed50ebe7685872fe984274326"
+    },
+    {
+      "path": "data/raw/route-kaitak-expansion.json",
+      "bytes": 23552,
+      "sha256": "99c395410ca12adb25c611dd0f9289b032e260813f8b7af92c37ba6e7fc054f8"
+    },
+    {
+      "path": "data/raw/route-kennedy-transport.json",
+      "bytes": 32693,
+      "sha256": "b735338656308d05e8bd12715855daf0d2b1b11dd6c5e01f0685a3ec889aa7f7"
+    },
+    {
+      "path": "data/raw/route-kennedy.json",
+      "bytes": 114227,
+      "sha256": "a0a45c83473602913b57052dda8855d222a65a304b8c49cfbe57de0157a11603"
+    },
+    {
+      "path": "data/raw/route-kowlooncity-expansion.json",
+      "bytes": 47679,
+      "sha256": "05ade72d14dfe43d73769e621341692cb87418473c5650e47dc14d97fb389548"
+    },
+    {
+      "path": "data/raw/route-kwuntong-expansion.json",
+      "bytes": 30678,
+      "sha256": "468d364fd6f9b982c9a8c732919eb2650129391f9b42a6f5d0709d3bc0af02f6"
+    },
+    {
+      "path": "data/raw/route-laichikok-expansion.json",
+      "bytes": 53390,
+      "sha256": "81eb48dcf1ef3d8e9ec8eb29db582e1bcce87bc1bf0f25efd40a05cb782ee793"
+    },
+    {
+      "path": "data/raw/route-lamma-transport.json",
+      "bytes": 27784,
+      "sha256": "011fe7bf45926fd8e0e4b7881c1c2a0a46ed96d43b041652ab2120bdd494088c"
+    },
+    {
+      "path": "data/raw/route-lamma.json",
+      "bytes": 99406,
+      "sha256": "3ba81b829324e7ab8a830b20241f6256a6b3d33cd0953fa345ca0a5de8e91e5e"
+    },
+    {
+      "path": "data/raw/route-leichenguk-expansion.json",
+      "bytes": 36626,
+      "sha256": "8538b51f45fdccbc9694ad33929b69411745d1a2d4cbde19cb12d3fb6f2f0ec4"
+    },
+    {
+      "path": "data/raw/route-leiyuemun-expansion.json",
+      "bytes": 30020,
+      "sha256": "b44cafc521542262cc7bbe663cec5eaede81291a490e9812466c6f6b01a06578"
+    },
+    {
+      "path": "data/raw/route-lukkeng-expansion.json",
+      "bytes": 30035,
+      "sha256": "4fccb220fa2b37bde90ae0c0048506576eca6bbfac48b3e3a2e69b0de476983f"
+    },
+    {
+      "path": "data/raw/route-lungyeuktou-expansion.json",
+      "bytes": 13486,
+      "sha256": "8e26c43dae8acf40ee4c5df4d359a7a2d9318cbb8fb95d67fadfb433464e572a"
+    },
+    {
+      "path": "data/raw/route-mawan-expansion.json",
+      "bytes": 29750,
+      "sha256": "9d57e3aeeb557ca0c392331811371247bdd11915d45f549428154b133bcc02b4"
+    },
+    {
+      "path": "data/raw/route-midlevelswest-stroll.json",
+      "bytes": 56117,
+      "sha256": "9c17e509fb7c90cce7c71862a2d2cc8760ef4837c36d7e5dc599e74506882c30"
+    },
+    {
+      "path": "data/raw/route-muiwo-expansion.json",
+      "bytes": 28498,
+      "sha256": "7cdfb2838568d4245e9445bf3a8eb418fbf6e7604de6f54067a509005f1722a3"
+    },
+    {
+      "path": "data/raw/route-namsangwai-expansion.json",
+      "bytes": 39306,
+      "sha256": "a632122b05eb6bd2ee9c0af368866adb3f008fe7838a38fe6195e9eaae55e4e0"
+    },
+    {
+      "path": "data/raw/route-northpoint-stroll.json",
+      "bytes": 65247,
+      "sha256": "0e609d0982761c8c2413e8591c0cb93dc8a60c2ccc01b5f1ab107dc01110b923"
+    },
+    {
+      "path": "data/raw/route-pengchau-expansion.json",
+      "bytes": 19496,
+      "sha256": "1ab57b6be27f781377d181eb95c0cf89d69d65c728ffeee913284653577a0261"
+    },
+    {
+      "path": "data/raw/route-pingshan-expansion.json",
+      "bytes": 40677,
+      "sha256": "41bb3b1b81a075f37d5f8fb02a2f48ad8251a84c575428a8983bd2a3c3b42d7d"
+    },
+    {
+      "path": "data/raw/route-poitoi-expansion.json",
+      "bytes": 28124,
+      "sha256": "1b31c6794fd8b0385904afcb13fd7c40856963ce0f7d8942ebade5418b8e1bed"
+    },
+    {
+      "path": "data/raw/route-pokfulam-expansion.json",
+      "bytes": 39202,
+      "sha256": "b193a24331cb4ed7df941648af0516eb4e754b5d5335770e8c19c0b76b3520bb"
+    },
+    {
+      "path": "data/raw/route-quarrybay-expansion.json",
+      "bytes": 75460,
+      "sha256": "5350769ccb83a9a5ba5113c3ff7df266826a23b9a21b47d20b86f8f9467a4608"
+    },
+    {
+      "path": "data/raw/route-repulse-access.json",
+      "bytes": 12853,
+      "sha256": "e9582bae090fd82163f48f6f468bf34a9c78c56f733c16ee36973af9b554e685"
+    },
+    {
+      "path": "data/raw/route-repulse-transport-arrival.json",
+      "bytes": 7837,
+      "sha256": "e1b7243f1a565b9b38f0f6b25274e1fac77ef341994600cf7293dea6bafba96b"
+    },
+    {
+      "path": "data/raw/route-repulse-transport-departure.json",
+      "bytes": 17169,
+      "sha256": "0b24042d43b8d4b414ca6923f87b9a29fd153e854b9ed35b94c45c1ba233daf6"
+    },
+    {
+      "path": "data/raw/route-repulse.json",
+      "bytes": 17487,
+      "sha256": "c78de6bbe152954cf6bd4ae47029e0d8c2e740bfc2769a90bd5f19e691afc68a"
+    },
+    {
+      "path": "data/raw/route-saikung-expansion.json",
+      "bytes": 22247,
+      "sha256": "a68d3fa81e3a21dbc14bbb4424e5de0ec26492335e9fc34a137e725ac27e81bc"
+    },
+    {
+      "path": "data/raw/route-sanpokong-stroll.json",
+      "bytes": 62732,
+      "sha256": "1a414aba2f186635647fa25483736adec51e6ef55dc803f19aa85bacea97ba7f"
+    },
+    {
+      "path": "data/raw/route-shamshuipo-transport.json",
+      "bytes": 32490,
+      "sha256": "baa1d8eb864a47bcb7fc4e48c1a339b7bcd551f6b3bcb8f441bb02a3fe142d7c"
+    },
+    {
+      "path": "data/raw/route-shamshuipo.json",
+      "bytes": 64831,
+      "sha256": "452f5cfc8c500dbda28d350a5b1c4c42f2201e0e44244b9b502510cbcded49b4"
+    },
+    {
+      "path": "data/raw/route-shamtseng-stroll.json",
+      "bytes": 48589,
+      "sha256": "ba8d74660a58b21621bc70450bc456e3d2aab6c5ce32cebfd00e2e236435deb1"
+    },
+    {
+      "path": "data/raw/route-sharpisland-expansion.json",
+      "bytes": 12325,
+      "sha256": "6c2a3d9a6a64eccd5bca511f1ddcef9cadd09241a074aae75fc97efff9639194"
+    },
+    {
+      "path": "data/raw/route-shatin-expansion.json",
+      "bytes": 23220,
+      "sha256": "ecd0135460f18c2968671dab66bedf33345d85123e171b81188c0b1e7d5dde9d"
+    },
+    {
+      "path": "data/raw/route-shatin-stroll-stroll.json",
+      "bytes": 75008,
+      "sha256": "1630f8ccb1f626af74466514b27b021ce9eb66ccc313eb283409873d597c396e"
+    },
+    {
+      "path": "data/raw/route-shaukeiwan-expansion.json",
+      "bytes": 51717,
+      "sha256": "237d2f5129131e02135a0cfe3810f102623a683dbb8d94f7a71fd0ddf6690317"
+    },
+    {
+      "path": "data/raw/route-shekkipmei-stroll.json",
+      "bytes": 54701,
+      "sha256": "28492ec0d8792dce5285a5bfca4b800a2bfb2fb1c08ae6b12da5034fcf781c23"
+    },
+    {
+      "path": "data/raw/route-sheko-transport.json",
+      "bytes": 12661,
+      "sha256": "802412fba1807f49df83744a1fa9c7f2bcc073b2108253b9b57be526d2dd693e"
+    },
+    {
+      "path": "data/raw/route-sheko.json",
+      "bytes": 17122,
+      "sha256": "16523fad103a7af5eab04f0fb4a5ac786243f6222ecc3956980b5486586cecb8"
+    },
+    {
+      "path": "data/raw/route-sheungwan-transport.json",
+      "bytes": 22398,
+      "sha256": "dde6455b0b3aa26b829aaae7426f580b75b83ff598847594715920791184305e"
+    },
+    {
+      "path": "data/raw/route-sheungwan.json",
+      "bytes": 64816,
+      "sha256": "9da856ae71ef90c276220c071743f7987b00de13ac70f2044dd4ace036b2fee0"
+    },
+    {
+      "path": "data/raw/route-shingmun-expansion.json",
+      "bytes": 58229,
+      "sha256": "618c30eee75c71d8dd466fba0bcd2888220e51742d11e41a7d9f24ca9cfb6752"
+    },
+    {
+      "path": "data/raw/route-stanley-access.json",
+      "bytes": 29662,
+      "sha256": "9a0d6b6504ab3f7dc8aea2f43229ae2ae0f18389a36162ad8d072f52266d1707"
+    },
+    {
+      "path": "data/raw/route-sz-dafen.json",
+      "bytes": 20530,
+      "sha256": "ff3e28343a0f948a505365e5ab318df7d8634aab4e8d0917fbb6d1e479f0d6dd"
+    },
+    {
+      "path": "data/raw/route-sz-dapeng.json",
+      "bytes": 27853,
+      "sha256": "a16e807834f5ea1ec920198df8cc51bb93feaff7bc93a3add831084253dca230"
+    },
+    {
+      "path": "data/raw/route-sz-dongmen.json",
+      "bytes": 24219,
+      "sha256": "fcbcc9395f070f2c5697260c9eb6ceb82d248b987ff5af37663af9d3b7c2c62a"
+    },
+    {
+      "path": "data/raw/route-sz-gankeng.json",
+      "bytes": 15165,
+      "sha256": "d25025b71e06c0976d1bedf34a705bc18e6fbac3757f0c0bb2a797df410d301e"
+    },
+    {
+      "path": "data/raw/route-sz-huaqiangbei.json",
+      "bytes": 27844,
+      "sha256": "42736ef7100ea1f459d07017d396813c28b90630a0ba894e48614728083613f1"
+    },
+    {
+      "path": "data/raw/route-sz-lianhuashan.json",
+      "bytes": 37794,
+      "sha256": "7afed4adaa52fe144649484fd872c0b534b63fa2e1700dae10293754a19cdaac"
+    },
+    {
+      "path": "data/raw/route-sz-meilin.json",
+      "bytes": 35165,
+      "sha256": "b79def3957b665d1c9e704c5083e86f19afe565dc81515fc6357b686a20ab0e6"
+    },
+    {
+      "path": "data/raw/route-sz-nantou.json",
+      "bytes": 19340,
+      "sha256": "020400d9d4d251073724d1a3f595c39de9ffd9b67564ea4e0d4164d8e374b4e8"
+    },
+    {
+      "path": "data/raw/route-sz-octloft.json",
+      "bytes": 28920,
+      "sha256": "5bb6d28dd6c36310b2243a075392d2c0abe6d648ebdfeefbad289eca90725fae"
+    },
+    {
+      "path": "data/raw/route-sz-qianhai.json",
+      "bytes": 50733,
+      "sha256": "11f86ae6b668dd1043f92326b344d1572ab5c00910b2e7009565690749d9ad6e"
+    },
+    {
+      "path": "data/raw/route-sz-shekou.json",
+      "bytes": 25123,
+      "sha256": "91562f34a65b303ca7e3cc7723021f796082db2f0188ef8ed6de84fc1d063346"
+    },
+    {
+      "path": "data/raw/route-sz-shenzhenbay.json",
+      "bytes": 60236,
+      "sha256": "4786dcbaf237917bbcd2c27bbbd8618b25e9b58881669c8a43c049b239e65b6e"
+    },
+    {
+      "path": "data/raw/route-sz-tanglang.json",
+      "bytes": 25943,
+      "sha256": "837e7be7fb17c0747c83fdb45803f624850fd2ddfc788d2bc8333f5f4c6531de"
+    },
+    {
+      "path": "data/raw/route-sz-yangmeikeng.json",
+      "bytes": 49290,
+      "sha256": "8f7094681d24e016eb7d188afaa93c98737fa46438210679187622d8c4a315c2"
+    },
+    {
+      "path": "data/raw/route-sz-yantian.json",
+      "bytes": 19720,
+      "sha256": "b56954c86c68014673167c46b7da7fbd1a668d7be573aa31af6e2d91980f03ba"
+    },
+    {
+      "path": "data/raw/route-sz-yuanling.json",
+      "bytes": 40797,
+      "sha256": "198b074e669849ddf3542eb7dcc10051c66b39e59f43e99aa429a09deb7f1d07"
+    },
+    {
+      "path": "data/raw/route-sz2-dameisha.json",
+      "bytes": 28720,
+      "sha256": "a2790dbb6a709f5ceac03586044abcd475f8e2d12acd898b6d5b6096a861865b"
+    },
+    {
+      "path": "data/raw/route-sz2-dashahe.json",
+      "bytes": 40601,
+      "sha256": "066a5cd60bcc70f0c123353ed63fbb0922ecd50b115ffb50ce1a42fbf8a3ec10"
+    },
+    {
+      "path": "data/raw/route-sz2-donghu.json",
+      "bytes": 33830,
+      "sha256": "d2b9d27efee6efd87c610954d2ae49b8a721a86227f018df9159f8ca65fb0500"
+    },
+    {
+      "path": "data/raw/route-sz2-guangming.json",
+      "bytes": 55913,
+      "sha256": "bd0f10de60def88588290d784ec2da097313e65ed96e67e3d42fa493d9996d1e"
+    },
+    {
+      "path": "data/raw/route-sz2-guanlan.json",
+      "bytes": 17796,
+      "sha256": "ce4aee4b4925dff056cd8102f6a65261d56155e1da61a5a2c0138c0799655d7c"
+    },
+    {
+      "path": "data/raw/route-sz2-hehu.json",
+      "bytes": 33265,
+      "sha256": "0180cb3647b40b24b55e10622ee38de05b29dbff1eacc3eac24b3863b335a900"
+    },
+    {
+      "path": "data/raw/route-sz2-honghu.json",
+      "bytes": 20661,
+      "sha256": "d6bc24f1ce0a68e7ff75edf7127ba49b90f4c2d1c31f12b56b0b3e66a6c77e7a"
+    },
+    {
+      "path": "data/raw/route-sz2-longhua.json",
+      "bytes": 31441,
+      "sha256": "533eb1ac1da8d3e737ac6405ad3876f40988948bac3599cc3d6b15db2599e650"
+    },
+    {
+      "path": "data/raw/route-sz2-pingshan.json",
+      "bytes": 21062,
+      "sha256": "3677468a82ca650ad62010b69a90b5069d66ba93646415acfa867386a444ec71"
+    },
+    {
+      "path": "data/raw/route-sz2-shuiwei.json",
+      "bytes": 20195,
+      "sha256": "8fecd3c4ba8be1f93dfde063be88b11c53c93b3ec8982861d8699fc3d9072dc0"
+    },
+    {
+      "path": "data/raw/route-sz2-wutong.json",
+      "bytes": 21654,
+      "sha256": "769d39d9bd161b22c805cc0d63a432dec90c64c5a3d700113cf8e2f8902d3694"
+    },
+    {
+      "path": "data/raw/route-sz2-xiangmipark.json",
+      "bytes": 29555,
+      "sha256": "eb623c7baab348cd909cd508a9efd725dc4ca8f1ad9353c2ccf0b071ea2345ec"
+    },
+    {
+      "path": "data/raw/route-sz2-xiaomeisha.json",
+      "bytes": 20383,
+      "sha256": "ea6bea0124b17b3e9f5538afc8171b6ff7c082b571008c60ca41d92a848f26ee"
+    },
+    {
+      "path": "data/raw/route-sz2-xinan.json",
+      "bytes": 6174,
+      "sha256": "25361d805e3bfab7c1b14b6dd54c33b646924714e02ba6ff2ef73ffe700565d6"
+    },
+    {
+      "path": "data/raw/route-sz2-xiwan.json",
+      "bytes": 34355,
+      "sha256": "1c3e9932fab705fb98e48acccbe7241f958f49c37da26f5ce73eb2abb9aaf4b8"
+    },
+    {
+      "path": "data/raw/route-taihang-stroll.json",
+      "bytes": 42549,
+      "sha256": "7d05f19d43b4f19926e2cf2ea9429d95d65bf163318c212ec696aed83b468723"
+    },
+    {
+      "path": "data/raw/route-taikoktsui-expansion.json",
+      "bytes": 44823,
+      "sha256": "2eba00c14fd1a3b92a4e48e1d3aa4c8965ab0b23a04f139a39ef208008f5e469"
+    },
+    {
+      "path": "data/raw/route-taio-transport.json",
+      "bytes": 30992,
+      "sha256": "5595ad546bf025583fe871542a5201525f9ec1591b8eb7688668488eee483b7f"
+    },
+    {
+      "path": "data/raw/route-taio.json",
+      "bytes": 39239,
+      "sha256": "66550cd488b4e0a1d04ed787caed2ef98f61effa1e3254ff881067881723abfb"
+    },
+    {
+      "path": "data/raw/route-taipo-expansion.json",
+      "bytes": 73529,
+      "sha256": "7b4fe8680d35b62c1c6ca7c29dd1698003bd4be26af1ef590dc53e876f5f3d94"
+    },
+    {
+      "path": "data/raw/route-taitam-expansion.json",
+      "bytes": 49109,
+      "sha256": "f6303af75b78abf48e1e9bd05a38740159e41bd3482a8204fca357d0c708eeec"
+    },
+    {
+      "path": "data/raw/route-tapmun-expansion.json",
+      "bytes": 23839,
+      "sha256": "7fead6aea4d484aba670cceeb6b3efa67fd5dfb06547a7b024bd94858325fb0f"
+    },
+    {
+      "path": "data/raw/route-thepeak-expansion.json",
+      "bytes": 63493,
+      "sha256": "1995445a8309af08fdabbfa3242c41b21a39f92dbe77e21630eb242d9d242069"
+    },
+    {
+      "path": "data/raw/route-tokwawan-stroll.json",
+      "bytes": 89842,
+      "sha256": "405b95210716dfe804b7b21b5a3d8c9a94e6aa04b9e24019c691b9cf7ee3a7b7"
+    },
+    {
+      "path": "data/raw/route-tseungkwano-stroll.json",
+      "bytes": 68933,
+      "sha256": "2a23db19db69df9caa6f2f827e460a76291781331d0198c50980978db4898704"
+    },
+    {
+      "path": "data/raw/route-tsuenwan-expansion.json",
+      "bytes": 57605,
+      "sha256": "98ca895c4634287c27945c37451cc28641d7ac6c23e5d9eb202e0d740c81543a"
+    },
+    {
+      "path": "data/raw/route-tuenmun-expansion.json",
+      "bytes": 48103,
+      "sha256": "7d45545e16bb638f7fe341d45489afb7fcd943502f6551d44e5dd2ff8365bc31"
+    },
+    {
+      "path": "data/raw/route-tungchung-expansion.json",
+      "bytes": 51010,
+      "sha256": "15d8df3039c341c7e5b69c776d19512cf9910ce18bc4c1f146eb1008cfd2380e"
+    },
+    {
+      "path": "data/raw/route-wanchai-transport.json",
+      "bytes": 28958,
+      "sha256": "3e335ddad558cc1f5445303ed1b65899b5e32f29d3de118ebb2f553b73cfaee8"
+    },
+    {
+      "path": "data/raw/route-wanchai.json",
+      "bytes": 52757,
+      "sha256": "debfc89217064898742db44fb4ca3e3dabaa3d0d1d1dbec2026b065556c009a0"
+    },
+    {
+      "path": "data/raw/route-westkowloon-expansion.json",
+      "bytes": 40247,
+      "sha256": "96afe7c5f9e00ffcca58de508671a1726a735a411eabd241835de943b97d57cd"
+    },
+    {
+      "path": "data/raw/route-wongtaisin-expansion.json",
+      "bytes": 37817,
+      "sha256": "15b4a4d32f74203c06efb23863820699824f7efbf0a3ecda72c44bd37008aa13"
+    },
+    {
+      "path": "data/raw/route-yaumatei-transport.json",
+      "bytes": 58051,
+      "sha256": "cb6a536d7786a8472ca996fd1a3fb03eeebd9733c9deaa3e6ff69cd1c7432244"
+    },
+    {
+      "path": "data/raw/route-yaumatei.json",
+      "bytes": 93896,
+      "sha256": "a9cbe9f2ee61bc9fa277715dab80542bb0790dec43a9b51d50ac0c6e18958aaa"
+    },
+    {
+      "path": "data/raw/route-yimtintsai-expansion.json",
+      "bytes": 20094,
+      "sha256": "62e14ba2ff4a882846cb00908c5cc271f46545ac8f610f2509fce417015a3bf6"
+    },
+    {
+      "path": "data/raw/routes.log",
+      "bytes": 1969,
+      "sha256": "1332918da2c817cbdd7cd959b7257a8ee680bdec51665457a2d2f11e2912572b"
+    },
+    {
+      "path": "data/raw/saiyingpun.json",
+      "bytes": 708,
+      "sha256": "42e52bb139a578b42dcc132e1427c7ce41fa28c7b0b8f1c12f8bf31ea5eb7f75"
+    },
+    {
+      "path": "data/raw/sheko-beach.json",
+      "bytes": 667,
+      "sha256": "2ea4dff14db861eeb9dd4b3d9167ae84a5138c7f18db72565f4cdb38b0997c0e"
+    },
+    {
+      "path": "data/raw/sheko-temple.json",
+      "bytes": 692,
+      "sha256": "3bc44cd38050efbf0f155f881ec64d37daa75a8365a1c022c30106a88abb9e20"
+    },
+    {
+      "path": "data/raw/sheungwan-mtr.json",
+      "bytes": 1573,
+      "sha256": "d4bc146f83591817a3cbafb156452d6f508b9cb45d7773ea1df354d404bf709e"
+    },
+    {
+      "path": "data/raw/sheungwan-station.json",
+      "bytes": 611,
+      "sha256": "1ccb332e1eafb164cd8570c76457de525f9e2b77314fad8bc6fa40b0e81305df"
+    },
+    {
+      "path": "data/raw/si-beach.json",
+      "bytes": 658,
+      "sha256": "f5dbb901a9a6d76f641d2a550a3d3b75f59eb0771b25cb12e6befca6dad918e0"
+    },
+    {
+      "path": "data/raw/si-kiu-tau.json",
+      "bytes": 644,
+      "sha256": "0b2f3b15b5b1336b2a834e4028986f13414a6264da91d11ad7a04d5d0ee7809b"
+    },
+    {
+      "path": "data/raw/si-pier.json",
+      "bytes": 1444,
+      "sha256": "8bde232ed4ba8026ab7270e1c729b9352ea10858260cdc1a54fc47f0112a46dc"
+    },
+    {
+      "path": "data/raw/si-tombolo.json",
+      "bytes": 1381,
+      "sha256": "90cc345e8c138982054adc6bd1bc4f95c43548af239db7765b58ec54d7f42b7a"
+    },
+    {
+      "path": "data/raw/sk-promenade.json",
+      "bytes": 585,
+      "sha256": "7b9e527c46e160e685640b869637ff31b099a4a0a8340131c09c1f319088ee15"
+    },
+    {
+      "path": "data/raw/sk-temple.json",
+      "bytes": 572,
+      "sha256": "b0feea5cab744783a9ad5b3585dc095504b2464136c581b8956c0e20ee80a667"
+    },
+    {
+      "path": "data/raw/skm-bishop-hill.json",
+      "bytes": 458,
+      "sha256": "cfdc5ba3fc266d01371dccf12286b664f8a50cf3d6a6de62fba032fcac2089cd"
+    },
+    {
+      "path": "data/raw/skm-jccac.json",
+      "bytes": 1263,
+      "sha256": "05e34f1184db8640426b60845ded0fd019e9130c884aadb7dd80f3fe4d14bfda"
+    },
+    {
+      "path": "data/raw/skm-nam-shan-estate.json",
+      "bytes": 555,
+      "sha256": "dd0e59f93144f47bcb4030a889f0c7dbfb939608c8b788812d34cb8cd32c4a3a"
+    },
+    {
+      "path": "data/raw/skm-station.json",
+      "bytes": 1761,
+      "sha256": "9d9885d3284f18a068d773c16c7d4759b5fd81dc5843a5ca960557db9e16220a"
+    },
+    {
+      "path": "data/raw/skm-tai-hang-sai.json",
+      "bytes": 567,
+      "sha256": "cc54bd0a6b02c8aae7f41db9c0a317202ca00d605a605a0a0d56ab07dd44d657"
+    },
+    {
+      "path": "data/raw/skm-tai-hang-tung-playground.json",
+      "bytes": 1943,
+      "sha256": "4034812843984dcec4f050cef530bebd336ac4e626b5bde6ba0f35d8cc3293d5"
+    },
+    {
+      "path": "data/raw/skm-yiu-tung-street.json",
+      "bytes": 1137,
+      "sha256": "2405ec36cbd0b14456663de693250e3050a3d56d25e96d3d05fb2485ca4cb202"
+    },
+    {
+      "path": "data/raw/skw-aldrich-bay.json",
+      "bytes": 675,
+      "sha256": "ad51d4dbe2a6508888c9c77c64284acebaf90c1f3d17f0e5efec7d985cec7807"
+    },
+    {
+      "path": "data/raw/skw-coastal-defence.json",
+      "bytes": 826,
+      "sha256": "e659ca539fd2193cc11b37697dbc6e38e22bebeab79a5d7098fc98dced763044"
+    },
+    {
+      "path": "data/raw/skw-main-street-east.json",
+      "bytes": 744,
+      "sha256": "37b0035b60d683688a31ad115e6eb68bbaab149a36e425f5ff3c028bc228514c"
+    },
+    {
+      "path": "data/raw/skw-station.json",
+      "bytes": 714,
+      "sha256": "520ea8de5cf10839dce80f59074f5ad1b5ee897ec67576a46096048adbe9a811"
+    },
+    {
+      "path": "data/raw/skw-tam-kung.json",
+      "bytes": 1451,
+      "sha256": "68349e950736ab9a67ab2858e5f0de00c40039c83944d13ee96a59dac4d1cadd"
+    },
+    {
+      "path": "data/raw/sm-main-dam.json",
+      "bytes": 2847,
+      "sha256": "57aeed2db9f76ba2ff148e59a2aaa9214ac073a1d2289d107d00924399cc8d81"
+    },
+    {
+      "path": "data/raw/sm-paperbark.json",
+      "bytes": 1596,
+      "sha256": "5db8260901c4d0cee4649b2ccc4e0877a75c6ddf81c6d565c12e292606851114"
+    },
+    {
+      "path": "data/raw/sm-pineapple-minibus.json",
+      "bytes": 651,
+      "sha256": "a4f83ba1ba5de891e14108e6a4f6a7ddb6e957d0d3021b74ad05623fd286e000"
+    },
+    {
+      "path": "data/raw/sm-visitor-centre.json",
+      "bytes": 800,
+      "sha256": "bdde64fc119fd023faf2384463d302e1e3873353cb49ab0b6a58ce61f365370e"
+    },
+    {
+      "path": "data/raw/sokkwu-refined.json",
+      "bytes": 2224,
+      "sha256": "13dcc58f6421dd99d4fbc0514613e1a42255049fe4b2d3da9d1ff88d9d2ef447"
+    },
+    {
+      "path": "data/raw/sokkwu.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "data/raw/spk-choi-hung-road-playground.json",
+      "bytes": 1207,
+      "sha256": "6b9ca78af2a45a2db2fad3465cbf11b9308f677236fec5370c6e8fbc964503fb"
+    },
+    {
+      "path": "data/raw/spk-diamondhill-station.json",
+      "bytes": 2961,
+      "sha256": "4205da257deabbefb37c84f99544c97e0311d8060cfd03dd58b839096a4de5e7"
+    },
+    {
+      "path": "data/raw/spk-fung-tak-park.json",
+      "bytes": 560,
+      "sha256": "20435c1300a43e6b17b93b08d61ba0f986d439a4e467b819639cbefd8a7728e8"
+    },
+    {
+      "path": "data/raw/spk-kai-tak-river.json",
+      "bytes": 515,
+      "sha256": "33e823369065dfa5a6c0c7ecc0ae2e3178d68db9286073dbc6482181482f7cf8"
+    },
+    {
+      "path": "data/raw/ssp-station.json",
+      "bytes": 734,
+      "sha256": "f62f0771a7f8d0b14208644d2fe08f9c28537235b98c1bc20ee6e06b069a31b6"
+    },
+    {
+      "path": "data/raw/st-bridge.json",
+      "bytes": 1103,
+      "sha256": "daf46ed7fd644664691a86cb75859dda1fd80ee0b3ffad153f5c30fa8a1cead7"
+    },
+    {
+      "path": "data/raw/st-che-kung-sports.json",
+      "bytes": 1998,
+      "sha256": "e013cd4e84941c33f560b5ce8c00e9e5450374649a2425ced1309d93d5758322"
+    },
+    {
+      "path": "data/raw/st-chun-shek.json",
+      "bytes": 553,
+      "sha256": "a16a9831f31611d1ff7b7a45a40416bfd839499ac288363e5e0589c3cb3c29a2"
+    },
+    {
+      "path": "data/raw/st-lek-yuen.json",
+      "bytes": 555,
+      "sha256": "a4357040b09ccec85f96edfad9032a2cc9080732936290b0f68a8d069fa412f8"
+    },
+    {
+      "path": "data/raw/st-park.json",
+      "bytes": 546,
+      "sha256": "6b2e4eb88f5a6dadba9f790e610a3a463a5d9f67b085d1e306e095138388eb6e"
+    },
+    {
+      "path": "data/raw/st-pok-hong.json",
+      "bytes": 1120,
+      "sha256": "8615f572827b27dac091808c1dc58855056790aa636e1daffbb7a325a9e02298"
+    },
+    {
+      "path": "data/raw/st-station.json",
+      "bytes": 992,
+      "sha256": "2493c0bb8ad254a3331173f3401f37e51623f5bf97f61c021b15d4568959e1a6"
+    },
+    {
+      "path": "data/raw/st-taiwai-station.json",
+      "bytes": 1073,
+      "sha256": "8d4e9ab72cfdd131e8952859b8c1abe748928443057fe8f82a47f2ff3adb999c"
+    },
+    {
+      "path": "data/raw/st-town-hall.json",
+      "bytes": 2489,
+      "sha256": "0eff60595d6272eae55836c20be3831f013fe9bd6d721bca2ad45c17685d7083"
+    },
+    {
+      "path": "data/raw/stanley-market.json",
+      "bytes": 2058,
+      "sha256": "6c93835cfb37437c2731a391b5480273487c3a3c2607a4b5fd0c928cd1a29c55"
+    },
+    {
+      "path": "data/raw/stw-station.json",
+      "bytes": 1557,
+      "sha256": "701b4f79af3dae493b9917842578e9741a330aafddda0e160af7d344ae657fa0"
+    },
+    {
+      "path": "data/raw/sz-df-art-museum.json",
+      "bytes": 635,
+      "sha256": "355452a4059141479a0fc5967daff53fc59c3563f729ceddab13c37010b4b77c"
+    },
+    {
+      "path": "data/raw/sz-df-laowei.json",
+      "bytes": 3105,
+      "sha256": "836f739fad0cabacffce570530465ffc08f1587782c707df9adf458ff847111b"
+    },
+    {
+      "path": "data/raw/sz-df-oil-street.json",
+      "bytes": 1236,
+      "sha256": "e8503e6c4e944bb3515e083029af088f79691333335bf049bfb82ca7ca93bfbb"
+    },
+    {
+      "path": "data/raw/sz-df-station.json",
+      "bytes": 1835,
+      "sha256": "d131eb41d099e2c326c7705f838f810effde4e0227a7d99062d6f173a6cca4fd"
+    },
+    {
+      "path": "data/raw/sz-dm-laojie-station.json",
+      "bytes": 1887,
+      "sha256": "71620eea33667dbf52c7cd26f6865128a3b6df3092fc2c91997ed64af8e418e7"
+    },
+    {
+      "path": "data/raw/sz-dm-pedestrian.json",
+      "bytes": 630,
+      "sha256": "4f3e16c4a247c0a426cfe8eb82ce5f2bca2db66d31cbcdde464d3a63c11fc08e"
+    },
+    {
+      "path": "data/raw/sz-dm-peoples-park.json",
+      "bytes": 605,
+      "sha256": "715fe891f20b0a7df331222968499892316928a7f51bde5d8c34510251c1eeeb"
+    },
+    {
+      "path": "data/raw/sz-dm-shai-bu-station.json",
+      "bytes": 1845,
+      "sha256": "b4eca6cfd9d5720a4aaae435979f27f8607edfbf968d355ee0a3ba872e114d6b"
+    },
+    {
+      "path": "data/raw/sz-dm-siyue.json",
+      "bytes": 651,
+      "sha256": "4563b0ec6324ea86b3ed25c4299ebd6a60f93c546fce69c5216022ed59aac706"
+    },
+    {
+      "path": "data/raw/sz-dp-bus-stop.json",
+      "bytes": 1282,
+      "sha256": "c86620b4f0c85b8f5f8c90f39a6e07d13fb95b050ddc32db6b1b9b347c138c54"
+    },
+    {
+      "path": "data/raw/sz-dp-dongshan-temple.json",
+      "bytes": 1279,
+      "sha256": "0367219a87a4fe13d4902e9d5647262b518d9c74b0b0318f1ebb0abd3c13f7be"
+    },
+    {
+      "path": "data/raw/sz-dp-fortress.json",
+      "bytes": 1323,
+      "sha256": "cf0e3407468955fe53b327e40d54426ec7a6ef04edee1c05fa97b7f3441bb266"
+    },
+    {
+      "path": "data/raw/sz-dp-jiaochangwei.json",
+      "bytes": 1226,
+      "sha256": "777594812654ccae2844dbdfee535b227016076c80b84481eca4508bc0317372"
+    },
+    {
+      "path": "data/raw/sz-gk-nanxianglou.json",
+      "bytes": 986,
+      "sha256": "b21375046be6e3ec81826fb2c47e0f8f11d2bbcb5d3978ae3b3cccbc8bdde295"
+    },
+    {
+      "path": "data/raw/sz-gk-south-gate.json",
+      "bytes": 989,
+      "sha256": "a4ccebd74a7dfc98ff076f78c9d488a5570c90a016e84d06665d98eb0d426db2"
+    },
+    {
+      "path": "data/raw/sz-gk-station.json",
+      "bytes": 1213,
+      "sha256": "a6496a92986c5b675e4f0d77464d172c722edaf0d7b1eb6dd6cc84cc3c1c3440"
+    },
+    {
+      "path": "data/raw/sz-gk-valley.json",
+      "bytes": 1445,
+      "sha256": "14e43023b740a527e3a90be7aaf81ab1b75417ecf6ec8e73b32bf932b3d64425"
+    },
+    {
+      "path": "data/raw/sz-hqb-central-park.json",
+      "bytes": 632,
+      "sha256": "df10c69a794666242c237333233376fb4dc5a8283e7c40024c15e6db83bd93b2"
+    },
+    {
+      "path": "data/raw/sz-hqb-huaxin-station.json",
+      "bytes": 1845,
+      "sha256": "484c0b3cf5bff8dcf5911db665de8b1799dc42ee6d5a5fb34bf25c2bb9340af7"
+    },
+    {
+      "path": "data/raw/sz-hqb-museum.json",
+      "bytes": 644,
+      "sha256": "3a7d1fa076f64cbfe8ad8ac11b578ab03dd18b5cb8f6d627e561699980bc5981"
+    },
+    {
+      "path": "data/raw/sz-hqb-seg.json",
+      "bytes": 1973,
+      "sha256": "07514d4cf4b63dfe31b8a9a81bb7f82d9dbc65a0701fd2cfb37557093984e453"
+    },
+    {
+      "path": "data/raw/sz-hqb-station.json",
+      "bytes": 2509,
+      "sha256": "a1af418d3197bc7952d92cd4294362ca489aade775ce3bb71cfb7146d7ebde86"
+    },
+    {
+      "path": "data/raw/sz-lh-bijiashan.json",
+      "bytes": 1877,
+      "sha256": "8ebcfa2d44489b7c86fd22e891d72b1b6b539a66b33f4d8459bdf832cb93c89b"
+    },
+    {
+      "path": "data/raw/sz-lh-children-palace.json",
+      "bytes": 3114,
+      "sha256": "9123e03360e864bd557974f557f9a403b51d56784a3566dc3cd6bc15cded77c2"
+    },
+    {
+      "path": "data/raw/sz-lh-huangmugang.json",
+      "bytes": 1238,
+      "sha256": "2e68c26b591c5a1715e2634ac1032cc1c2e57d2c4efa8e52067ccbd253ffc6e9"
+    },
+    {
+      "path": "data/raw/sz-lh-top-plaza.json",
+      "bytes": 603,
+      "sha256": "29c5e43e8149d8a57efee271c3c7f1ba5d105cc2fddc1d48a8821b714c6d174f"
+    },
+    {
+      "path": "data/raw/sz-lh-upperhills.json",
+      "bytes": 625,
+      "sha256": "6c06a3471a144964fff73be55bfb395ebfe8863bd20725fb3a156953e7c26784"
+    },
+    {
+      "path": "data/raw/sz-ml-dam.json",
+      "bytes": 1208,
+      "sha256": "fb831d9f2668ad83d0dfdde9c241ef60aef337fa99f92e36200ebe1fa18f8bb4"
+    },
+    {
+      "path": "data/raw/sz-ml-greenway.json",
+      "bytes": 665,
+      "sha256": "ac0bb7b599bce3f155c29e844e6155475f439ffad32384054cbe9e04fb18c2bf"
+    },
+    {
+      "path": "data/raw/sz-ml-meijing-station.json",
+      "bytes": 1223,
+      "sha256": "e265c93f1bd6773b6b3dad282955511b5b66e40a48e51acc98542472855801a3"
+    },
+    {
+      "path": "data/raw/sz-ml-park.json",
+      "bytes": 629,
+      "sha256": "dd5bee6234ef357dbd3befb7e8bb06d92f3aad3294ba82cbd7bf264194e2e48f"
+    },
+    {
+      "path": "data/raw/sz-ml-xiameilin-station.json",
+      "bytes": 1832,
+      "sha256": "778b83282ef856444e49c23a52316dbd3b1df50ba429089d11e274e46d3d5dda"
+    },
+    {
+      "path": "data/raw/sz-nt-park-station.json",
+      "bytes": 645,
+      "sha256": "ddab4d8bd3f4f2474a5c044d0a7c6a9c67210561ddd0e3712c88e266422eac5c"
+    },
+    {
+      "path": "data/raw/sz-nt-south-gate.json",
+      "bytes": 473,
+      "sha256": "3363346ad3c1044983a1269fc6c8af64b5ec46e7e4e24bb48358624fa42f6591"
+    },
+    {
+      "path": "data/raw/sz-nt-station.json",
+      "bytes": 3165,
+      "sha256": "5481f5b5bdf2ebd93911ef361578b0224015c22e0b615f288ffb08e3126d3033"
+    },
+    {
+      "path": "data/raw/sz-nt-zhongshan-park.json",
+      "bytes": 1224,
+      "sha256": "e8e5a0ac54d373463e4adcd563e42e5582cf59233746199631f5e6082011efa0"
+    },
+    {
+      "path": "data/raw/sz-nt-zhongshan-street.json",
+      "bytes": 622,
+      "sha256": "bc24dc08e91802b2e61a24098f8fcc24232e878e85727405623b6774f5424c2c"
+    },
+    {
+      "path": "data/raw/sz-oct-eco-plaza.json",
+      "bytes": 1259,
+      "sha256": "2601426f5d4359caa826dab9bb0badf04d5287c0b7f6dd2bc777ef97250303dd"
+    },
+    {
+      "path": "data/raw/sz-oct-loft-north.json",
+      "bytes": 3247,
+      "sha256": "246aa76f6d22c15a0ae76f64479752d559df7f261b7e3ce257f011e32ac733f4"
+    },
+    {
+      "path": "data/raw/sz-oct-qiaocheng-east.json",
+      "bytes": 512,
+      "sha256": "19e095e058aaa7490134e7f5ba18492f74218bcdb026cf02ee8af755415465e3"
+    },
+    {
+      "path": "data/raw/sz-oct-station.json",
+      "bytes": 639,
+      "sha256": "fa8d57582db285ac5d4101bdd19f9accea979fab0949d953db4ff23cbf7fa2d8"
+    },
+    {
+      "path": "data/raw/sz-oct-yanhanshan.json",
+      "bytes": 615,
+      "sha256": "02e1f2e274d5a88d2bcf5eafe8b2a20a985e9f80ebb1865f35b8be3fd62e5f49"
+    },
+    {
+      "path": "data/raw/sz-qh-guiwan-station.json",
+      "bytes": 1206,
+      "sha256": "1012caf03b67a0747e9899c08dfab12775e9fc67b5eadf0c25478372f0694bd7"
+    },
+    {
+      "path": "data/raw/sz-qh-happy-harbor.json",
+      "bytes": 1257,
+      "sha256": "5c8a318caa81b02175c8cac92e3a3f96056ef6b693286f0e5a40bde221b9a14e"
+    },
+    {
+      "path": "data/raw/sz-qh-linhai-station.json",
+      "bytes": 1258,
+      "sha256": "759fc15272bf997ffbe5ec5091fc090dde1bb73e958691a931cdddfc8a9fed31"
+    },
+    {
+      "path": "data/raw/sz-qh-stone-park.json",
+      "bytes": 616,
+      "sha256": "c3b747af9c7e10fa34911f8433ac76bf82dbd0ea6b0e956d8b833a2ef5c2cf6b"
+    },
+    {
+      "path": "data/raw/sz-qh-yanba-bridge.json",
+      "bytes": 617,
+      "sha256": "362fcc978270303d209003ce09810ba49c64befd56a216de6e93f6a4e813ee6c"
+    },
+    {
+      "path": "data/raw/sz-sb-houhai-station.json",
+      "bytes": 1313,
+      "sha256": "78df5993cf709935dd28ea3d36041b913c81e80049257f4d9bdc3c9c66774be4"
+    },
+    {
+      "path": "data/raw/sz-sb-mangrove.json",
+      "bytes": 623,
+      "sha256": "a609d58822934289ac62f6414d3cfa1fa30b8f39ad0a0d23545ffeb44b88a729"
+    },
+    {
+      "path": "data/raw/sz-sb-park-station.json",
+      "bytes": 1902,
+      "sha256": "71824a61d179db36ee61d1e761763b6ffde4844e4782eacbb1e6884bf190d5ec"
+    },
+    {
+      "path": "data/raw/sz-sb-sunrise.json",
+      "bytes": 981,
+      "sha256": "aeaa7e985dba9fe034bd13970b5991b2131798ec825bdd209c9e21867187ff5a"
+    },
+    {
+      "path": "data/raw/sz-sb-talent-park.json",
+      "bytes": 908,
+      "sha256": "6d3d203c0e4db203b8eac57b081f64ba4b03056d1343ff4c0f6bb635042f37f8"
+    },
+    {
+      "path": "data/raw/sz-sk-liyuan.json",
+      "bytes": 1211,
+      "sha256": "188372021eddd81b8b45d6472cd8e76eee373168c066aa3164388e7316d31f52"
+    },
+    {
+      "path": "data/raw/sz-sk-old-street.json",
+      "bytes": 1288,
+      "sha256": "ba02496fafdd7020fecbdc272b2d56a01a1aaa5dd69f2508349626112ecb4f66"
+    },
+    {
+      "path": "data/raw/sz-sk-sea-world.json",
+      "bytes": 661,
+      "sha256": "fed0f16ca507ce9c553f1ff142aa68499668c2c4373a54cac8c09339f333cb05"
+    },
+    {
+      "path": "data/raw/sz-sk-seaworld-station.json",
+      "bytes": 1819,
+      "sha256": "e4ef3794bb1a33180f61524662e0b077d0b6014fa8ee2995699ea9499c8af159"
+    },
+    {
+      "path": "data/raw/sz-sk-shuiwan-station.json",
+      "bytes": 1196,
+      "sha256": "ada6125548178daf52b185da2c642427571cabe8b366a02117f4a20e2f3efe45"
+    },
+    {
+      "path": "data/raw/sz-tl-longzhu-gate.json",
+      "bytes": 1479,
+      "sha256": "35de5479c2273163ecd26b60a2d08220ef75b0140c213bf76b128055f681d99c"
+    },
+    {
+      "path": "data/raw/sz-tl-panshanhighway.json",
+      "bytes": 959,
+      "sha256": "fe2c45e597327cf7624848b575e6cd663aa3e6a40e37c78dd5a2a8e85e833cab"
+    },
+    {
+      "path": "data/raw/sz-tl-peak.json",
+      "bytes": 620,
+      "sha256": "a3815bd5dad10aab8061d2db5114b57f9ed1de9607e0a94682f50cc8ce1d6125"
+    },
+    {
+      "path": "data/raw/sz-tl-taoyuancun-station.json",
+      "bytes": 623,
+      "sha256": "10dab96b77a6e116f1d5474404a52efedd8f31976fdb64ac3bcfd4a8fb22a684"
+    },
+    {
+      "path": "data/raw/sz-yl-bagualing-station.json",
+      "bytes": 1859,
+      "sha256": "3227bd37499676948b3c86b8b9b89744bad0a31847fdb59872e6022c0191b0a4"
+    },
+    {
+      "path": "data/raw/sz-yl-bagualing.json",
+      "bytes": 1227,
+      "sha256": "f383a230f533ba79f474970e53b403732ec281edf7711a6b9e72c1d3c7f399bc"
+    },
+    {
+      "path": "data/raw/sz-yl-lizhi-park.json",
+      "bytes": 1873,
+      "sha256": "85895ca16cb1238aca1eabdc09bb6e7a416c820962e5ade3a5f1beabb4d59308"
+    },
+    {
+      "path": "data/raw/sz-yl-new-village.json",
+      "bytes": 3182,
+      "sha256": "a876e6d4f06a3c7109b74f7564ffa0ca68b19cb1f5ef0259527a4199bbabfc09"
+    },
+    {
+      "path": "data/raw/sz-yl-station.json",
+      "bytes": 1458,
+      "sha256": "4d529b1aa81ea92361eaacd6f77be923a4af81c66c992879a7578050821ca87e"
+    },
+    {
+      "path": "data/raw/sz-ymk-bridge.json",
+      "bytes": 624,
+      "sha256": "6ffa45f0fbe2d445cd034580f54c88ea3dfb587a553e61f5d3d4f6fbaecb32df"
+    },
+    {
+      "path": "data/raw/sz-ymk-bus-stop.json",
+      "bytes": 1233,
+      "sha256": "a29ad1cdc5a0800dabdf304788f3f44f42ed8dd4d2d12a1f1ad1ff33f751d4ab"
+    },
+    {
+      "path": "data/raw/sz-ymk-coastal-road.json",
+      "bytes": 627,
+      "sha256": "dbe8f67262368227e9bd2b64e33d3eddfd67038cc5f2ffdf45e1a2528e7fa961"
+    },
+    {
+      "path": "data/raw/sz-ymk-judiaosha.json",
+      "bytes": 603,
+      "sha256": "6069fc0e6b0cc0f390193b0e0beba3010d4fb5708b4f1241bafc383cc540c653"
+    },
+    {
+      "path": "data/raw/sz-yt-central-park.json",
+      "bytes": 987,
+      "sha256": "a5f114e4adf42c593710727838b9c7b4aa273743114a6dfa3b7821b7a06ef7b2"
+    },
+    {
+      "path": "data/raw/sz-yt-dameisha-boardwalk.json",
+      "bytes": 1028,
+      "sha256": "47a97073acdc4f70eac9a1d115cd7295d383572b796b28a376026e7054b28755"
+    },
+    {
+      "path": "data/raw/sz-yt-dameisha-park.json",
+      "bytes": 1315,
+      "sha256": "c4be094b2a31c7afa16bc1180cb6fb27c022ee576933710767d96df5b50076ae"
+    },
+    {
+      "path": "data/raw/sz-yt-dameisha-station.json",
+      "bytes": 1243,
+      "sha256": "65e5ec1b4f7a57d1bb9c2429b3488c2897f1ff765768461627c73c0ff1f1f0be"
+    },
+    {
+      "path": "data/raw/sz-yt-lighthouse.json",
+      "bytes": 521,
+      "sha256": "9c712cb283c6bf67e57b9c58de06893cb0e7183496c140e66b9ee8a3d24e9562"
+    },
+    {
+      "path": "data/raw/sz-yt-portwest-station.json",
+      "bytes": 693,
+      "sha256": "b73036840e709f5a8d7f94f1fc9913f1b85edc16b54df49a0ecce5f0275df526"
+    },
+    {
+      "path": "data/raw/sz-yt-seafood-station.json",
+      "bytes": 946,
+      "sha256": "1da783ff29599ce8a17c8e2344bd2b0d212cc99db1d6db9f28c8c62a047d30b1"
+    },
+    {
+      "path": "data/raw/sz-yt-seafood-street.json",
+      "bytes": 621,
+      "sha256": "6300df9eb281a60f6b90fd74ea409313cd9478dc2c8e1f9fab9880470f2451cf"
+    },
+    {
+      "path": "data/raw/sz2-dh-park.json",
+      "bytes": 596,
+      "sha256": "8a3b9de722ab88c56e3905aeda5badb29c07f73f4e6918d3041db34a560b0c89"
+    },
+    {
+      "path": "data/raw/sz2-dh-reservoir.json",
+      "bytes": 635,
+      "sha256": "06a8f631d464649b80f2cc42a0210a908dd8e7cb0b8a0431c71e0c3e24783333"
+    },
+    {
+      "path": "data/raw/sz2-dh-taian-station.json",
+      "bytes": 2476,
+      "sha256": "562f35d828297822e10d402d1b435b5b7e3731724c9f6e22297906ee7ac7a6e8"
+    },
+    {
+      "path": "data/raw/sz2-dh-yijing-station.json",
+      "bytes": 1299,
+      "sha256": "6a988f28ee148cfdc7d2d32305e2538ba4dd9de2b6a373d058ffbd9663213805"
+    },
+    {
+      "path": "data/raw/sz2-dms-yantianxu-station.json",
+      "bytes": 1217,
+      "sha256": "1a94de34f0bd9c282ac7faf336a667367a0bd9b2b4b9be9ee5d9bc2f66208318"
+    },
+    {
+      "path": "data/raw/sz2-dsh-chaguang-station.json",
+      "bytes": 1221,
+      "sha256": "e4095002e81b0b20358aa580d39b577fd243cb301d59d8cf39e228fc3db9491b"
+    },
+    {
+      "path": "data/raw/sz2-dsh-park.json",
+      "bytes": 1914,
+      "sha256": "8cf6ed8c2f70cb8d57f5d24f7cdc16bdae352a6cc8ae2d726bf0089ddb21d644"
+    },
+    {
+      "path": "data/raw/sz2-dsh-univ-station.json",
+      "bytes": 1249,
+      "sha256": "ef9dea9c72a69d0d00798dfce65a4aa2d9cfca2ee54d3c52cc97c6037937f9dd"
+    },
+    {
+      "path": "data/raw/sz2-dsh-xili-station.json",
+      "bytes": 1802,
+      "sha256": "1b0017d60dae891ed1eb548f1827eda6af094167d36d03e491981135fb482286"
+    },
+    {
+      "path": "data/raw/sz2-gl-guanlan-station.json",
+      "bytes": 1794,
+      "sha256": "6c196d89d6cf2708b3128cba3fb81d737291539657f5c96511998c4af28126db"
+    },
+    {
+      "path": "data/raw/sz2-gl-old-market.json",
+      "bytes": 609,
+      "sha256": "fdbb4a0b579fd0f2c5887d499588c651d75e8e7985dbe50d14c446ce416d5610"
+    },
+    {
+      "path": "data/raw/sz2-gl-songyuanxia-station.json",
+      "bytes": 1945,
+      "sha256": "527a2411548370910ea0ad3872c5f8ac1c92ad71bb38e7356d4673f57fc9e1c3"
+    },
+    {
+      "path": "data/raw/sz2-gl-wetland.json",
+      "bytes": 2501,
+      "sha256": "6c1a2c31be4d21c50b912bfa7e496130e746727bcd8e888565563f64d2ecddfc"
+    },
+    {
+      "path": "data/raw/sz2-gm-dadingling.json",
+      "bytes": 2485,
+      "sha256": "0422bf1039865c5eeb358672f91f3e8d08dcebf09664e88e57346cc95fb60a42"
+    },
+    {
+      "path": "data/raw/sz2-gm-fenghuang-station.json",
+      "bytes": 3085,
+      "sha256": "faf887d384b9c6bc1d810ec3b55d682d98dd22e5be08dd923555d8cdf284378c"
+    },
+    {
+      "path": "data/raw/sz2-gm-hongqiao.json",
+      "bytes": 1867,
+      "sha256": "72426276e1742f7d65e6f5d5fee3d2f339ea83c151ee3c01b0c3e1c7a580663e"
+    },
+    {
+      "path": "data/raw/sz2-hh-honghu-station.json",
+      "bytes": 1264,
+      "sha256": "cf7204875c729d8d60e175c20d7bdf4347d6361052b75166251d21cc27f1c929"
+    },
+    {
+      "path": "data/raw/sz2-hh-park.json",
+      "bytes": 604,
+      "sha256": "4c93f2870fe6b3a08a6f687d8d893f76a126ea267490cb328870ab31250fbb00"
+    },
+    {
+      "path": "data/raw/sz2-hh-sungang-arts.json",
+      "bytes": 644,
+      "sha256": "ff8e25a29b0e61865a672ca190106612039cc3765bf21f357cacff712bf5abfc"
+    },
+    {
+      "path": "data/raw/sz2-hh-sungang-station.json",
+      "bytes": 1212,
+      "sha256": "feea6c41eca2a8a6ef3becee6de633e33fcc2550609bfcb50ae6101c596d0941"
+    },
+    {
+      "path": "data/raw/sz2-hh2-hehu.json",
+      "bytes": 625,
+      "sha256": "3188fd2d67edd9edf99d9de6f8944e6347426e3a2e80e95d32b62339b7f20faa"
+    },
+    {
+      "path": "data/raw/sz2-hh2-longcheng-station.json",
+      "bytes": 1310,
+      "sha256": "29d2570ec99ab681a22ac9cc7c625bd1271e13a81c1598534ef032c4551109ce"
+    },
+    {
+      "path": "data/raw/sz2-hh2-longtan.json",
+      "bytes": 600,
+      "sha256": "02a6162ac19074097cc420e75ff4829af2871f509e7f3c0ccbec1ef3231ad1cf"
+    },
+    {
+      "path": "data/raw/sz2-hh2-nanlian-station.json",
+      "bytes": 1275,
+      "sha256": "bab85731d39c34f3e0ebac03ad2dabcdf6d1511bf3bb6c939cf5a6e2e8fbcffb"
+    },
+    {
+      "path": "data/raw/sz2-lh2-baishilong-station.json",
+      "bytes": 1215,
+      "sha256": "dddcefdb5f9a4454c60f05b14d6851b3ef2f61c990923227746462ecabe6ce1d"
+    },
+    {
+      "path": "data/raw/sz2-lh2-music-park.json",
+      "bytes": 1991,
+      "sha256": "3dead6a3797bac17492e31f0e0cf7f033e6c474c687dabab0e3512e14b7067d8"
+    },
+    {
+      "path": "data/raw/sz2-lh2-north-station.json",
+      "bytes": 3149,
+      "sha256": "9251bf78e770a597fde8bbceffd48ea55067e24d39c35aa6e91b5ecc24a4442b"
+    },
+    {
+      "path": "data/raw/sz2-lh2-yixiu-park.json",
+      "bytes": 612,
+      "sha256": "9424acbe428cb698c9dff6b29e2ecd8ec010619986c4c2b9a4574d51db4c3b1d"
+    },
+    {
+      "path": "data/raw/sz2-ps-central-park.json",
+      "bytes": 1289,
+      "sha256": "d1688ef0bb49716b294b41f91b31137ed43b96a2774b84c36e20a2b37a055efb"
+    },
+    {
+      "path": "data/raw/sz2-ps-dawan.json",
+      "bytes": 1249,
+      "sha256": "b32d58fa4dadc6183fa868661b846e437218d3de8cbcf9aa40439177fa92a7e1"
+    },
+    {
+      "path": "data/raw/sz2-ps-jinlong-station.json",
+      "bytes": 2456,
+      "sha256": "f7aa395e1df3647ed94b4c32226a701b3cdb829b155a0c00c6558d8f5b455078"
+    },
+    {
+      "path": "data/raw/sz2-ps-pingshanwei-station.json",
+      "bytes": 1836,
+      "sha256": "d3e40c211d3b23a67b5b82ef80ccf2f4e044f0ba781d2f8109537f2cb101eb02"
+    },
+    {
+      "path": "data/raw/sz2-sw-fumin-station.json",
+      "bytes": 3726,
+      "sha256": "2fc05ebaa7fa2bee9b7a72ef7de2d148ff56eba4c2a1b37f87f618de57643ed4"
+    },
+    {
+      "path": "data/raw/sz2-sw-huanggang-park.json",
+      "bytes": 1888,
+      "sha256": "3156c7bf71dae8dc4636aa33fad617ac842ff4d23cfcf7da95ead78c092d1742"
+    },
+    {
+      "path": "data/raw/sz2-sw-huanggang-station.json",
+      "bytes": 1881,
+      "sha256": "13f6da47e4beed6540012cb3a45bf1b198b02c401c24f63e66b51b80f2054de9"
+    },
+    {
+      "path": "data/raw/sz2-sw-village.json",
+      "bytes": 614,
+      "sha256": "69c73d5a75e4785f266529aa55d4f860e45704333722e5dc866d43f26a4a3027"
+    },
+    {
+      "path": "data/raw/sz2-wt-liantang-station.json",
+      "bytes": 1213,
+      "sha256": "08d1733617576751a19582090c4c86f31db029e741cb5c19ce6009dabe7bbde7"
+    },
+    {
+      "path": "data/raw/sz2-wt-wutongsouth-station.json",
+      "bytes": 1267,
+      "sha256": "d5bd95635142cd388f9d425664f0088a5836783a7e50798a2a58633d9920c7bc"
+    },
+    {
+      "path": "data/raw/sz2-wt-xiantong.json",
+      "bytes": 622,
+      "sha256": "3350502ec392c0e610a5a4e0fd5228362a2b676bf690d8d5ae0fe96e609f2c44"
+    },
+    {
+      "path": "data/raw/sz2-xa-lingzhi-station.json",
+      "bytes": 2471,
+      "sha256": "cd6a472b08d9c7f83b2f1fc1be7cde891168b2dadf919f395b76d4c65d594ff5"
+    },
+    {
+      "path": "data/raw/sz2-xa-old-street.json",
+      "bytes": 2568,
+      "sha256": "edec84368830dbe1179f45b97c54ce596f87d59e5de2c67be7d4ccd81a3a6f17"
+    },
+    {
+      "path": "data/raw/sz2-xa-park.json",
+      "bytes": 1246,
+      "sha256": "286fbab2819fbe8a8cbadf3cd26efb1d8ba229f4faceaf1dbba24e0a4c7fd36c"
+    },
+    {
+      "path": "data/raw/sz2-xm-chegongmiao.json",
+      "bytes": 1237,
+      "sha256": "d8f89aea6b0f87694a5c38f576169f5a06dd04dae5cc695365bbf1caa708d2a7"
+    },
+    {
+      "path": "data/raw/sz2-xm-nongyuan-station.json",
+      "bytes": 1280,
+      "sha256": "72c886e3fb0b1cc62a8e88d3dc565c2dd58f19d2a15eb8d74f96cb13bb3d13b6"
+    },
+    {
+      "path": "data/raw/sz2-xm-park.json",
+      "bytes": 603,
+      "sha256": "93e08cbd1f1bf13c9f36b98709ff21c06c1abd67cecafbd037430e2d959f339e"
+    },
+    {
+      "path": "data/raw/sz2-xm-xiangmi-station.json",
+      "bytes": 1326,
+      "sha256": "055f7db3eef4fac452dc5043469ed7d3160966ac7e883e4152e80663a5614ede"
+    },
+    {
+      "path": "data/raw/sz2-xms-beach.json",
+      "bytes": 1233,
+      "sha256": "3486148a3abbdee66614c5b83dfc92d875566da6e88b5f0ef863e030237e0261"
+    },
+    {
+      "path": "data/raw/sz2-xms-beizaijiao.json",
+      "bytes": 1202,
+      "sha256": "0599ff3db5bdab9c060337abbd680f9ef4a59cd5848df0c589bede949c9df990"
+    },
+    {
+      "path": "data/raw/sz2-xms-station.json",
+      "bytes": 1233,
+      "sha256": "889a64911c53ac2e6ddd302d220189403a30c310ab5e0da4f6b17a3c9ebc38af"
+    },
+    {
+      "path": "data/raw/sz2-xw-bihaiwan-station.json",
+      "bytes": 1862,
+      "sha256": "d67178bcec5002946ecde9ab6d2fb3abcd1a4684395160fe5705e41b1fe49e56"
+    },
+    {
+      "path": "data/raw/sz2-xw-gushu-station.json",
+      "bytes": 1320,
+      "sha256": "2798cebfa644933f19ff2586e082cfbb9e4b223e570d853685996c3066adda36"
+    },
+    {
+      "path": "data/raw/sz2-xw-mangrove.json",
+      "bytes": 618,
+      "sha256": "ae153f3cb9a1660d407a3b600f3bd204627d9b293bf82baa4775fa72dab03401"
+    },
+    {
+      "path": "data/raw/sz2-xw-seaside-road.json",
+      "bytes": 1847,
+      "sha256": "009bc139a66db431e38aba160c00f1adcf36225a50ce1f2473dd50405f9e7b77"
+    },
+    {
+      "path": "data/raw/taikwun.json",
+      "bytes": 1404,
+      "sha256": "101a138b84ad75c3f5951651643f0cd4700cc3a7add611eebb803b0c9b9595df"
+    },
+    {
+      "path": "data/raw/taio-bridge-refined.json",
+      "bytes": 1460,
+      "sha256": "cd4660cdacae3e0525a1cc5bcda1a6cfb1a159709f666297304ca24fca523ef6"
+    },
+    {
+      "path": "data/raw/taio-bridge.json",
+      "bytes": 1441,
+      "sha256": "67d31468cbe50c99f6d53918380b6d68e72acbe289b6b925acba5f0e2250064f"
+    },
+    {
+      "path": "data/raw/taio-hotel.json",
+      "bytes": 743,
+      "sha256": "9d9ac30abee0a397f76c641e30360bd6d16a2e6e81794ce8dc5d27daf8ce8945"
+    },
+    {
+      "path": "data/raw/taio-temple.json",
+      "bytes": 742,
+      "sha256": "d0cfa884199c95313ef8ddb558cd7dafe44b3dca0e481baadb9dd23734bd4763"
+    },
+    {
+      "path": "data/raw/tc-battery.json",
+      "bytes": 1166,
+      "sha256": "b352f53ca7be64e90a96c45dae44b6ff7dc0dd958373745393837e2f57e0d7d0"
+    },
+    {
+      "path": "data/raw/tc-fort.json",
+      "bytes": 1130,
+      "sha256": "12d4bcd0a31ba098cef4746c8c25f80deebcc63a6639b56524d9af42097ad835"
+    },
+    {
+      "path": "data/raw/tc-hau-wong.json",
+      "bytes": 1068,
+      "sha256": "ad922315a2886681445bc8b73d3bd9c60bbb68f2724b5a222966222e71860a32"
+    },
+    {
+      "path": "data/raw/tc-ma-wan-chung.json",
+      "bytes": 1136,
+      "sha256": "09c6479742b9810a731921dd820c21b2f8b9e86c5f5cffa8456b61e11d160689"
+    },
+    {
+      "path": "data/raw/tc-station.json",
+      "bytes": 1120,
+      "sha256": "15fe464e36a4adbe1f1cb0d396dc639b823b707e1b3dbbbbd1c932ddd35e83f4"
+    },
+    {
+      "path": "data/raw/tc-yat-tung-bus.json",
+      "bytes": 1186,
+      "sha256": "0882a37671211364ffa92be988bd58122f6e799ec250cba465781ab5b0f5d5b8"
+    },
+    {
+      "path": "data/raw/td-260-geometry.geojson",
+      "bytes": 302501,
+      "sha256": "b9c4169e7403c2822b33daa98d81256053d9c9d3611895394ec73131a829984e"
+    },
+    {
+      "path": "data/raw/td-260.json",
+      "bytes": 98091,
+      "sha256": "0200bb602bbf44110525b26ffecc29c2dc9d28987ee0cb2b24a27af2a99d8f00"
+    },
+    {
+      "path": "data/raw/td-bus-layer.json",
+      "bytes": 8380,
+      "sha256": "01f371c0e6aee00c26f00257f780252b7945c127106bb1aad7df8676ebb0a213"
+    },
+    {
+      "path": "data/raw/td-bus-metadata.json",
+      "bytes": 32012,
+      "sha256": "58a40e4f9025afe03137bbdeed175a35b22c4014ed1514d95372529739a412ce"
+    },
+    {
+      "path": "data/raw/td-route-endpoints.geojson",
+      "bytes": 3989,
+      "sha256": "5a61e770442240621f19f41285390803105461ad66ae9a43666ea73dd18785eb"
+    },
+    {
+      "path": "data/raw/td-saikung-endpoints.geojson",
+      "bytes": 2725,
+      "sha256": "ac1a227c9c001191f2feb01b6c7cbd107158aefd5e7307aa0c07ede1b523e7f4"
+    },
+    {
+      "path": "data/raw/temple-street.json",
+      "bytes": 2078,
+      "sha256": "2899d1fa2baa339e2158adaed9c80e36a86d83e66c7f2974f703e7eaf958db87"
+    },
+    {
+      "path": "data/raw/th-cwb-station.json",
+      "bytes": 1162,
+      "sha256": "0af54b0e8bdb7fe71c51ff705140f90a8ac6079aeaad884040027864a9988d22"
+    },
+    {
+      "path": "data/raw/th-fire-dragon-path.json",
+      "bytes": 577,
+      "sha256": "b2904450498abd95f0e76c8900ae246f43e4b3ed9942997ea0f1d67d6d611bd3"
+    },
+    {
+      "path": "data/raw/th-haw-par.json",
+      "bytes": 593,
+      "sha256": "b4df8453eb427c1093376261591a6fb2f996f2ee2513b00b04b2794371522518"
+    },
+    {
+      "path": "data/raw/th-lai-tak.json",
+      "bytes": 544,
+      "sha256": "78b0614291eeea799a68b638ed90072ff9a4030bb0b9172925388b2493980a24"
+    },
+    {
+      "path": "data/raw/th-lin-fa-kung.json",
+      "bytes": 569,
+      "sha256": "ff823ac8630cc9c86d4bef896b7d0ed8596834eb8e4d7f8c7f1952b7433be6a5"
+    },
+    {
+      "path": "data/raw/th-queens-college.json",
+      "bytes": 2392,
+      "sha256": "267d57ece5552d9aeddbdce0ac17ed7408283e7bf2f0e3f3b1d66b3c7337e784"
+    },
+    {
+      "path": "data/raw/th-second-lane.json",
+      "bytes": 2194,
+      "sha256": "9f43fa1707d5c6e42cc484ef41ee848484df9c368a4fc2711a8f196ce1bdb522"
+    },
+    {
+      "path": "data/raw/th-tinhau-station.json",
+      "bytes": 1582,
+      "sha256": "05d446ddc3fc963c4aa6aa1c5606bc4850f7b16fb2ce2327fc0cb6950201fcb1"
+    },
+    {
+      "path": "data/raw/theatre.json",
+      "bytes": 1477,
+      "sha256": "ca76f93190f0a170b557b138f6b6eafa1a582a513f054e2af8be622a4a7aed7d"
+    },
+    {
+      "path": "data/raw/tko-hkdi.json",
+      "bytes": 1263,
+      "sha256": "39e7772b22c0b70ac4d4d1798bf008060a4170250f37f5bd00bee8020e67615e"
+    },
+    {
+      "path": "data/raw/tko-sheung-ning.json",
+      "bytes": 555,
+      "sha256": "97cd56574826a3937db0e95af5d5b0839c8c75ddc1781a1aef8b42a42311d0ae"
+    },
+    {
+      "path": "data/raw/tko-station.json",
+      "bytes": 1056,
+      "sha256": "10d41c15d099e1eb5b168653cc178dadf748115a68a5bacb4b487fc7714948c4"
+    },
+    {
+      "path": "data/raw/tko-tiukengleng-station.json",
+      "bytes": 1709,
+      "sha256": "bcdce060493ecb98c62881a4de2304c48f691a32324bb1292783cc5e8479d952"
+    },
+    {
+      "path": "data/raw/tko-tong-ming-park.json",
+      "bytes": 583,
+      "sha256": "afd701144d6b2e887b6a0206b38fd944db1d534b9beedbd836f5ea6240e76d5c"
+    },
+    {
+      "path": "data/raw/tko-velodrome-park.json",
+      "bytes": 611,
+      "sha256": "d4ccd2a0b5a8e9d91ea552dcd9a077196239cf6cc7e5cccfa0df78666f17792b"
+    },
+    {
+      "path": "data/raw/tko-wan-poon-path.json",
+      "bytes": 538,
+      "sha256": "f0b5f6043e51d9ae49084ae17f42ede5c2d508f38ea3cb7b4d89cbb6cdbcd01e"
+    },
+    {
+      "path": "data/raw/tko-waterfront-park.json",
+      "bytes": 599,
+      "sha256": "7b3026f8d932b508f61d4ecded598d04279f89cb13ba7f1179172611114b48dc"
+    },
+    {
+      "path": "data/raw/tkt-anchor-street.json",
+      "bytes": 2280,
+      "sha256": "2dcf3f7a1b8bfd1a8bc5dde2ce1ca6772cb1998922cec440fa1279f02f1c476d"
+    },
+    {
+      "path": "data/raw/tkt-hoi-fai.json",
+      "bytes": 700,
+      "sha256": "b60fd6e90522fd631854542b7eff7c51b313ce7f14b1aa9ad1082ba6aa6062aa"
+    },
+    {
+      "path": "data/raw/tkt-ivy-street.json",
+      "bytes": 1973,
+      "sha256": "35566dab6ba0ea83bcb7ba6b382c28fc23962f7ea8acb7bce4fe3cfddb2e9734"
+    },
+    {
+      "path": "data/raw/tkt-olympic-station.json",
+      "bytes": 2083,
+      "sha256": "b4b56cd909dc69a284d35bd037e2fb16d227bd94c1066870dccaff46061d953f"
+    },
+    {
+      "path": "data/raw/tkw-cattle-depot.json",
+      "bytes": 603,
+      "sha256": "7aeb9b450599382c9617b0dc014b6eb843e1ba3610cb2a2e969786376f185217"
+    },
+    {
+      "path": "data/raw/tkw-hoi-sham-park.json",
+      "bytes": 536,
+      "sha256": "fe5a2243f698db5ecf4a2601e3cdd1270c1af7f1f723dff5f983056d12dff952"
+    },
+    {
+      "path": "data/raw/tkw-kau-pui-lung.json",
+      "bytes": 585,
+      "sha256": "ce1fa8d5532b0298e519ebd825450066b9bb2148df8a848634e1947d37eafbcd"
+    },
+    {
+      "path": "data/raw/tkw-ko-shan-theatre.json",
+      "bytes": 1218,
+      "sha256": "e9eb13ff74b881f9ed3976e686cf49f15c85e1c4dc24f1e0f4dde9911ab7a980"
+    },
+    {
+      "path": "data/raw/tkw-lok-man.json",
+      "bytes": 564,
+      "sha256": "44d03358b0117bfd89bff0dcb646a9cb1f9264750bf26027336972ab66eef997"
+    },
+    {
+      "path": "data/raw/tkw-market.json",
+      "bytes": 2567,
+      "sha256": "bcb1876f7e0c8d21e115ee3af0eb5a463f61f120914a315e9d3003115399cc67"
+    },
+    {
+      "path": "data/raw/tkw-new-asia.json",
+      "bytes": 611,
+      "sha256": "52f1e5403462f2f9e9b1c77406f1d65fcc0ab5c775ee0f6bfdc4e2bdb3a459bc"
+    },
+    {
+      "path": "data/raw/tkw-station.json",
+      "bytes": 1063,
+      "sha256": "44fd1822cc01b6d135aa4274d2de2c5b032898856096744e5049dc3125ae8776"
+    },
+    {
+      "path": "data/raw/tkw-sungwongtoi-station.json",
+      "bytes": 1176,
+      "sha256": "34e41756fec25fd4ea3b1b78ee82236acb017289cf2d7c7ba167984f09b339ff"
+    },
+    {
+      "path": "data/raw/tm-balanced-rock.json",
+      "bytes": 698,
+      "sha256": "f45e89af933721a3e2bb3e7268444e9cce782e8c969177205a654720fed9598e"
+    },
+    {
+      "path": "data/raw/tm-kadoorie-pier.json",
+      "bytes": 723,
+      "sha256": "39297ada0f788a4d5eba9599bdb3bf87beb8189360a6eb65d781c5eda808b2c5"
+    },
+    {
+      "path": "data/raw/tm-oasis.json",
+      "bytes": 748,
+      "sha256": "e8bac16dfdd770fe526aa9c5c3bd84d8a7451c9fdf1f31ca324617d0d69d249b"
+    },
+    {
+      "path": "data/raw/tm-park.json",
+      "bytes": 660,
+      "sha256": "da992ab2458c1ada2841c9fcfdd0f3e1968fa13cebc469d854eab2dadb65e505"
+    },
+    {
+      "path": "data/raw/tm-pavilion.json",
+      "bytes": 715,
+      "sha256": "ff32bf517729467fe0e141ca56174ddbbea000103bffbf1dd9064257e6da1e87"
+    },
+    {
+      "path": "data/raw/tm-sam-shing-lrt.json",
+      "bytes": 732,
+      "sha256": "1bbf96fdfd25db09468c0e97ac432921421a23cfe69baa09ef6c89b0dfc6651b"
+    },
+    {
+      "path": "data/raw/tm-sam-shing.json",
+      "bytes": 3718,
+      "sha256": "60f9c923b312c5e141a7bcb4047b5c21a8b32edf7699b512a89dd645a22cfc2a"
+    },
+    {
+      "path": "data/raw/tm-station.json",
+      "bytes": 2214,
+      "sha256": "4857ae3cc47fadf4090b9091c14706f0528067341ce1dd614b04c2d613024fa1"
+    },
+    {
+      "path": "data/raw/tm-tapmun-pier.json",
+      "bytes": 1412,
+      "sha256": "d86a96aa17efb467cefb9a9d05464a1e9da2080e96436a0b3c78de74f1774e64"
+    },
+    {
+      "path": "data/raw/tm-tin-hau.json",
+      "bytes": 710,
+      "sha256": "ee97ceb880efb4d8979bdb579474b21da38582df727f9d019fc721d671d71bb2"
+    },
+    {
+      "path": "data/raw/tp-kwong-fuk-bridge.json",
+      "bytes": 585,
+      "sha256": "84473bb6befc5f76cf62e98eb30547db1eda21d13c723c6c2d7da1a01bdbaf88"
+    },
+    {
+      "path": "data/raw/tp-man-mo.json",
+      "bytes": 618,
+      "sha256": "f09342bd32b0004f99df8c549158c88248e937fdab9ae6dc51480bf7807d491d"
+    },
+    {
+      "path": "data/raw/tp-market-station.json",
+      "bytes": 2325,
+      "sha256": "47bc2060c3fe78bc09ef148b80407613f423d77831156756e3cb28d795ddaca9"
+    },
+    {
+      "path": "data/raw/tp-railway-museum.json",
+      "bytes": 627,
+      "sha256": "2b763ed0891841fae585f92967c3052b900c2ba10e2a6f286fa69c9d0b59f27a"
+    },
+    {
+      "path": "data/raw/tp-taiwo-station.json",
+      "bytes": 557,
+      "sha256": "f3843badcaeb114ed4a2b02ee156d0e02e6d97897f249a91eaf39b75f750b9df"
+    },
+    {
+      "path": "data/raw/tp-waterfront-bus.json",
+      "bytes": 666,
+      "sha256": "137c2417b778a2c5770d512c036924b5d9b746eeb945ce7b68158dc6d07f6654"
+    },
+    {
+      "path": "data/raw/tp-waterfront-park.json",
+      "bytes": 544,
+      "sha256": "ee05d5f56906f96e68da0731d3fca4e39c5373ae575b7294f9a0cd7cb1da8f28"
+    },
+    {
+      "path": "data/raw/transit.log",
+      "bytes": 1094,
+      "sha256": "c75cbcfefb6dab234e0fc43d7609cb1bdf9bf3257126ce51852f98807af75190"
+    },
+    {
+      "path": "data/raw/tst-mtr.json",
+      "bytes": 1581,
+      "sha256": "3cf3279bf7d96eb01e02248e95fec49396b217f7d5f8ff4e31646cb67c5a9405"
+    },
+    {
+      "path": "data/raw/tst-station.json",
+      "bytes": 587,
+      "sha256": "2b440ed98ff0a8545ae854770c7f114b555f7be2ce1a9baaa2a9e456475046aa"
+    },
+    {
+      "path": "data/raw/tt-bus.json",
+      "bytes": 1156,
+      "sha256": "4f67177c2a98bcb98db8692d694e2abcb148469a25966cb3545f8369cfe097a1"
+    },
+    {
+      "path": "data/raw/tt-byewash-dam.json",
+      "bytes": 1075,
+      "sha256": "b5944157574b9b11b5c0b1db40ec48081fa69ff02495a4e50b488e64557e3d8c"
+    },
+    {
+      "path": "data/raw/tt-tuk-barbecue.json",
+      "bytes": 1289,
+      "sha256": "9b2eb3350d25aeab61e964f51548a87aa7f9131906e8ff07826753389cf16fb9"
+    },
+    {
+      "path": "data/raw/tt-upper-dam.json",
+      "bytes": 1017,
+      "sha256": "85a277be4a3d7194406446776a9cc9600eaf6362c14131730958b6bbca160508"
+    },
+    {
+      "path": "data/raw/tt-wong-nai-chung-bus.json",
+      "bytes": 1192,
+      "sha256": "eadc01f9211f3df8d9aed86dc18d673b7a6dcb6ef2d0169d779fb443684073ad"
+    },
+    {
+      "path": "data/raw/tt-wong-nai-chung-park.json",
+      "bytes": 1126,
+      "sha256": "980281b56dfc0a1c5877e15034dd4cdbe6672e1fce73778fecba14b71af965ee"
+    },
+    {
+      "path": "data/raw/tungwan.json",
+      "bytes": 694,
+      "sha256": "628c88e8937bb00139acb05242ec867ad07a8a678c8b2109f2961c8d8dbe2633"
+    },
+    {
+      "path": "data/raw/tw-airport-core.json",
+      "bytes": 1163,
+      "sha256": "04fd2045950e93c090a16c0254d6d2d27f0c0782eaf63c31aba40b825b4acaf5"
+    },
+    {
+      "path": "data/raw/tw-approach-beach.json",
+      "bytes": 549,
+      "sha256": "9fe344da07d3ecfbeae8fcb4ba22ea316d26295af89b4f08c3c731088c63f5cc"
+    },
+    {
+      "path": "data/raw/tw-hoi-on-road.json",
+      "bytes": 2839,
+      "sha256": "cf378f89f8fc52b7ec3f8d8b00de81120e191a2ba9bb926dd8bc51f8ed5b2fcc"
+    },
+    {
+      "path": "data/raw/tw-mtr-station.json",
+      "bytes": 3672,
+      "sha256": "9abfc23d344bcb210a754ebbe4a613cbd8874ecf98e510777540c2e72669e786"
+    },
+    {
+      "path": "data/raw/tw-park-plaza.json",
+      "bytes": 687,
+      "sha256": "2d6d18ed501de7d230ce1b374cef7bae803b2557aa66aa89cec6bc33ed410083"
+    },
+    {
+      "path": "data/raw/tw-sam-tung-uk.json",
+      "bytes": 749,
+      "sha256": "6295ec298155fb9247c018f3e0f08790a2618c366bb38217176d9570c95f3a99"
+    },
+    {
+      "path": "data/raw/tw-sham-tseng-bus.json",
+      "bytes": 1171,
+      "sha256": "381d64ce0f6fa4fe2fb64f8bc661392aaa2363c6d0652a4aef2b35dcf961f095"
+    },
+    {
+      "path": "data/raw/tw-sham-tseng-garden.json",
+      "bytes": 1241,
+      "sha256": "1c7fe2f03c3bdb2598bcfb3154efdadb4893a46389032fbe636e0eb9ff1f096c"
+    },
+    {
+      "path": "data/raw/tw-tak-wah-park.json",
+      "bytes": 715,
+      "sha256": "c02bfb990c301bc257cd44520949d8db7f138cd4460f581fe96a4015ae437fb5"
+    },
+    {
+      "path": "data/raw/tw-the-mills.json",
+      "bytes": 656,
+      "sha256": "62edcbcf1b4e79ce3aa0dc360a1e85a15823b639d88e1825ca44e0debcb3d71d"
+    },
+    {
+      "path": "data/raw/tw-ting-kau-beach.json",
+      "bytes": 1067,
+      "sha256": "2a6b8eb2eaddcf0aef90eab93aafff03216fafa4e48f530a3a97b13ac81de942"
+    },
+    {
+      "path": "data/raw/tw-ting-kau-village.json",
+      "bytes": 1256,
+      "sha256": "7ae82d6e1971133bf99463bc396e683807f04e57361349cccc926a94a5e31667"
+    },
+    {
+      "path": "data/raw/tw-west-station.json",
+      "bytes": 1211,
+      "sha256": "418634b38a6b198e40846a51f1cee5dfe75d5ed1942926562bea323d9e1c6df9"
+    },
+    {
+      "path": "data/raw/wanchai-station.json",
+      "bytes": 680,
+      "sha256": "20f08c54927e721072bc5e8db31269f681f476da71226548b352cba8610a6615"
+    },
+    {
+      "path": "data/raw/western.json",
+      "bytes": 2197,
+      "sha256": "913f2d8cc4eb8cc59deafe99d90808eaa0b337eaef37e21778df734aa18780a1"
+    },
+    {
+      "path": "data/raw/wk-austin-station.json",
+      "bytes": 4655,
+      "sha256": "5606649bb6581412d0e620e8cd4251a679289c5f81d40447bbc9819439d3bb10"
+    },
+    {
+      "path": "data/raw/wk-freespace.json",
+      "bytes": 579,
+      "sha256": "6745c32d4f14376ffec86c1e28b8ed17d716c4607e20994484aafd025a25db21"
+    },
+    {
+      "path": "data/raw/wk-kowloon-station.json",
+      "bytes": 1191,
+      "sha256": "5d6475b1126c7529c69575444761ff6e3ad324a1eef49ff2ebbc2e8b7f709473"
+    },
+    {
+      "path": "data/raw/wk-mplus.json",
+      "bytes": 1158,
+      "sha256": "84069b1e6125e856fbce9407cfdf431b1ff722f60f7b548721e058f6a0f7f69d"
+    },
+    {
+      "path": "data/raw/wk-palace.json",
+      "bytes": 1266,
+      "sha256": "ef4e9cdb51f6cc5a1e4d81af0329c38c4147e3bd080b10c25c8b34b701e40e49"
+    },
+    {
+      "path": "data/raw/wk-xiqu.json",
+      "bytes": 1186,
+      "sha256": "7e052a4abb97c0d1c35801e8b8a933c91b3a432f0faea6a1314a3145dc175516"
+    },
+    {
+      "path": "data/raw/wts-chi-lin.json",
+      "bytes": 1099,
+      "sha256": "ab98218474d30b10ef5d8aacad8263caa368a36267ecd66df45572a7fcf2ecb6"
+    },
+    {
+      "path": "data/raw/wts-nan-lian.json",
+      "bytes": 931,
+      "sha256": "d2bbbf51f8c9ccf785c294eeb5bcab6f521d8df6c10dbedc94c6e2533d6ca1fb"
+    },
+    {
+      "path": "data/raw/wts-station.json",
+      "bytes": 1093,
+      "sha256": "11e936306683c38c6c8d18105aeeff8369ad4086f3166a35a3c9a16b3d06e0f5"
+    },
+    {
+      "path": "data/raw/wts-temple.json",
+      "bytes": 1056,
+      "sha256": "7f6b4e2508984e14824e52b8e1f9362ec80254798739da64aa1ad23b36d5989a"
+    },
+    {
+      "path": "data/raw/yaumatei-mtr.json",
+      "bytes": 1083,
+      "sha256": "7894bbbc0876bc17dd5c278b266621564d433b3e6188b52f1a5984e035fd4d4a"
+    },
+    {
+      "path": "data/raw/yaumatei-station.json",
+      "bytes": 1731,
+      "sha256": "51fce4b25e42460b48cf5e3951dd9b3caee3111d8c60dfe4c900b8d79512e709"
+    },
+    {
+      "path": "data/raw/ytt-chapel.json",
+      "bytes": 705,
+      "sha256": "56f5ce092487a5c9671c0f53cc37655ffb6503bf37898eeb156a8e493179c192"
+    },
+    {
+      "path": "data/raw/ytt-jade-girdle-bridge.json",
+      "bytes": 630,
+      "sha256": "fc7df9bb0c31bc1dff6f5db62aa2557ffef4f214f90e308f8dd6d5da5fed6699"
+    },
+    {
+      "path": "data/raw/ytt-pier.json",
+      "bytes": 1395,
+      "sha256": "4a399f1fd4c5ce66e0026241c16ea0f81b68143ab15b72fa9ff497e65c8213c0"
+    },
+    {
+      "path": "data/raw/ytt-salt-pans.json",
+      "bytes": 646,
+      "sha256": "ad0d97956f1ce2c97ed3621adcff37c0114ceaf00e5711ffd633ab765c064d67"
+    },
+    {
+      "path": "data/raw/yungshue-refined.json",
+      "bytes": 750,
+      "sha256": "e07d8bde9b129c354a25a4185f49f8913c14e7777b1bea0a022c2446f778f178"
+    },
+    {
+      "path": "data/raw/yungshue.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  ]
+}

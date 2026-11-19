@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237072374,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 282312622,
+    "lat": "22.3652381",
+    "lon": "114.2878531",
+    "class": "highway",
+    "type": "path",
+    "place_rank": 27,
+    "importance": 0.04006549095902952,
+    "addresstype": "road",
+    "name": "橋咀洲地質步道 Sharp Island Geo Trail",
+    "display_name": "橋咀洲地質步道 Sharp Island Geo Trail, 橋咀 Kiu Tsui, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3642967",
+      "22.3662318",
+      "114.2871685",
+      "114.2884769"
+    ]
+  },
+  {
+    "place_id": 236656522,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 282312618,
+    "lat": "22.3633752",
+    "lon": "114.2866796",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04006549095902952,
+    "addresstype": "road",
+    "name": "橋咀洲地質步道 Sharp Island Geo Trail",
+    "display_name": "橋咀洲地質步道 Sharp Island Geo Trail, 橋咀 Kiu Tsui, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3628477",
+      "22.3642967",
+      "114.2861975",
+      "114.2871685"
+    ]
+  }
+]

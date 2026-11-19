@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 428205843,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8058110130,
+    "lat": "22.5604931",
+    "lon": "114.1783052",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.39384141776543397,
+    "addresstype": "railway",
+    "name": "梧桐山南",
+    "display_name": "梧桐山南, 梧桐山南路, 长岭社区, 莲塘街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5554931",
+      "22.5654931",
+      "114.1733052",
+      "114.1833052"
+    ]
+  },
+  {
+    "place_id": 236967938,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4417072597,
+    "lat": "22.5605216",
+    "lon": "114.1783660",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "梧桐山南",
+    "display_name": "梧桐山南, 梧桐山南路, 长岭社区, 莲塘街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5604716",
+      "22.5605716",
+      "114.1783160",
+      "114.1784160"
+    ]
+  }
+]

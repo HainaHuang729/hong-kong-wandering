@@ -1,0 +1,35 @@
+[
+  {
+    "place_id": 236781217,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 784769692,
+    "lat": "22.3641966",
+    "lon": "114.0703470",
+    "category": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "白樓 Homi Villa",
+    "display_name": "白樓 Homi Villa, 401, 青山公路－汀九段 Castle Peak Road – Ting Kau, 深井東村 Sham Tseng East Village, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "address": {
+      "tourism": "白樓 Homi Villa",
+      "house_number": "401",
+      "road": "青山公路－汀九段 Castle Peak Road – Ting Kau",
+      "hamlet": "深井東村 Sham Tseng East Village",
+      "suburb": "荃灣區 Tsuen Wan District",
+      "region": "新界 New Territories",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.3638654",
+      "22.3643268",
+      "114.0701276",
+      "114.0706252"
+    ]
+  }
+]

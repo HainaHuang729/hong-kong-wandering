@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 234052513,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 435487595,
+    "lat": "22.3222575",
+    "lon": "114.1721150",
+    "class": "amenity",
+    "type": "bus_station",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "amenity",
+    "name": "旺角東站 Mong Kok East Station",
+    "display_name": "旺角東站 Mong Kok East Station, 聯運街 Luen Wan Street, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3217018",
+      "22.3227340",
+      "114.1717680",
+      "114.1724385"
+    ]
+  },
+  {
+    "place_id": 237129771,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4334021200,
+    "lat": "22.3226880",
+    "lon": "114.1722269",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "旺角東站 Mong Kok East Station",
+    "display_name": "旺角東站 Mong Kok East Station, 聯運街 Luen Wan Street, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3226380",
+      "22.3227380",
+      "114.1721769",
+      "114.1722769"
+    ]
+  }
+]

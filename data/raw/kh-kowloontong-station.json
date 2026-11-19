@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 237868928,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1360643613,
+    "lat": "22.3368094",
+    "lon": "114.1772450",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4457104052663012,
+    "addresstype": "railway",
+    "name": "九龍塘 Kowloon Tong",
+    "display_name": "九龍塘 Kowloon Tong, 沙福道 Suffolk Road, 九龍塘 Kowloon Tong, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3365597",
+      "22.3371887",
+      "114.1754596",
+      "114.1780138"
+    ]
+  },
+  {
+    "place_id": 237820165,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1634974083,
+    "lat": "22.3370021",
+    "lon": "114.1758588",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4457104052663012,
+    "addresstype": "railway",
+    "name": "九龍塘 Kowloon Tong",
+    "display_name": "九龍塘 Kowloon Tong, 1, 真光里 True Light Lane, 九龍塘 Kowloon Tong, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3320021",
+      "22.3420021",
+      "114.1708588",
+      "114.1808588"
+    ]
+  },
+  {
+    "place_id": 235855812,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4331931865,
+    "lat": "22.3367533",
+    "lon": "114.1772586",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "railway",
+    "name": "九龍塘 Kowloon Tong",
+    "display_name": "九龍塘 Kowloon Tong, 沙福道 Suffolk Road, 九龍塘 Kowloon Tong, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3367033",
+      "22.3368033",
+      "114.1772086",
+      "114.1773086"
+    ]
+  },
+  {
+    "place_id": 237762036,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2185546183,
+    "lat": "22.3370045",
+    "lon": "114.1758821",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "railway",
+    "name": "九龍塘 Kowloon Tong",
+    "display_name": "九龍塘 Kowloon Tong, 真光里 True Light Lane, 九龍塘 Kowloon Tong, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3369545",
+      "22.3370545",
+      "114.1758321",
+      "114.1759321"
+    ]
+  }
+]

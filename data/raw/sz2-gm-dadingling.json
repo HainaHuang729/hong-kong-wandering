@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 236985260,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1213847838,
+    "lat": "22.7478461",
+    "lon": "113.9671688",
+    "category": "highway",
+    "type": "cycleway",
+    "place_rank": 27,
+    "importance": 0.040070299076829165,
+    "addresstype": "road",
+    "name": "大顶岭绿道",
+    "display_name": "大顶岭绿道, 迳口社区, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7365153",
+      "22.7602249",
+      "113.9571678",
+      "113.9689301"
+    ]
+  },
+  {
+    "place_id": 236945055,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1176598936,
+    "lat": "22.7363815",
+    "lon": "113.9570421",
+    "category": "highway",
+    "type": "cycleway",
+    "place_rank": 27,
+    "importance": 0.040070299076829165,
+    "addresstype": "road",
+    "name": "大顶岭绿道",
+    "display_name": "大顶岭绿道, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7362656",
+      "22.7365153",
+      "113.9568966",
+      "113.9571678"
+    ]
+  },
+  {
+    "place_id": 237220855,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9028478740,
+    "lat": "22.7376008",
+    "lon": "113.9566349",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "大顶岭绿道",
+    "display_name": "大顶岭绿道, 华创路, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7375508",
+      "22.7376508",
+      "113.9565849",
+      "113.9566849"
+    ]
+  },
+  {
+    "place_id": 237157920,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11246168671,
+    "lat": "22.7600962",
+    "lon": "113.9579026",
+    "category": "highway",
+    "type": "rest_area",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "大顶岭驿站",
+    "display_name": "大顶岭驿站, 光灿路, 白鸽场, 光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+    "boundingbox": [
+      "22.7600462",
+      "22.7601462",
+      "113.9578526",
+      "113.9579526"
+    ]
+  }
+]

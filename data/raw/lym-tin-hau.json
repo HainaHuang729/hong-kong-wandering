@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236867753,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 192471033,
+    "lat": "22.2862310",
+    "lon": "114.2398619",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.31827171020639217,
+    "addresstype": "amenity",
+    "name": "天后廟 Tin Hau Temple",
+    "display_name": "天后廟 Tin Hau Temple, 將軍澳華人永遠墳場通道 Junk Bay Chinese Permanent Cemetery access road, 調景嶺 Tiu Keng Leng, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2861729",
+      "22.2862869",
+      "114.2398026",
+      "114.2399204"
+    ]
+  },
+  {
+    "place_id": 237800675,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 821522766,
+    "lat": "22.2862082",
+    "lon": "114.2398433",
+    "class": "landuse",
+    "type": "religious",
+    "place_rank": 24,
+    "importance": 0.0800654909590295,
+    "addresstype": "religious",
+    "name": "天后廟 Tin Hau Temple",
+    "display_name": "天后廟 Tin Hau Temple, 輋頂村 Che Ting Tsuen, 觀塘區 Kwun Tong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2861680",
+      "22.2863030",
+      "114.2397032",
+      "114.2399600"
+    ]
+  }
+]

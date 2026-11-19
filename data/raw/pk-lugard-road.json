@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237888202,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4140175192,
+    "lat": "22.2781681",
+    "lon": "114.1468101",
+    "class": "tourism",
+    "type": "viewpoint",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "tourism",
+    "name": "盧吉道觀景台 Lugard Road Lookout",
+    "display_name": "盧吉道觀景台 Lugard Road Lookout, 盧吉道 Lugard Road, 太平山 Victoria Peak, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2781181",
+      "22.2782181",
+      "114.1467601",
+      "114.1468601"
+    ]
+  }
+]

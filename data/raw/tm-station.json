@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237406328,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4497807376,
+    "lat": "22.3951931",
+    "lon": "113.9737227",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "屯門站 Tuen Mun Station",
+    "display_name": "屯門站 Tuen Mun Station, 河傍街 Ho Pong Street, 屯門新墟 Tuen Mun San Hui, 屯門中 Tuen Mun Central, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3951431",
+      "22.3952431",
+      "113.9736727",
+      "113.9737727"
+    ]
+  },
+  {
+    "place_id": 238040423,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5094961324,
+    "lat": "22.3948741",
+    "lon": "113.9744623",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "屯門站 Tuen Mun Station",
+    "display_name": "屯門站 Tuen Mun Station, 屯門鄉事會路 Tuen Mun Heung Sze Wui Road, 屯門新墟 Tuen Mun San Hui, 屯門中 Tuen Mun Central, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3948241",
+      "22.3949241",
+      "113.9744123",
+      "113.9745123"
+    ]
+  },
+  {
+    "place_id": 237920523,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4398405006,
+    "lat": "22.3945318",
+    "lon": "113.9741756",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "highway",
+    "name": "屯門站 Tuen Mun Station",
+    "display_name": "屯門站 Tuen Mun Station, 杯渡路 Pui To Road, 屯門新墟 Tuen Mun San Hui, 屯門中 Tuen Mun Central, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3944818",
+      "22.3945818",
+      "113.9741256",
+      "113.9742256"
+    ]
+  }
+]

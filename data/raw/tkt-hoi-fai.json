@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236899736,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 16891478,
+    "lat": "22.3169620",
+    "lon": "114.1582830",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.2574973608523206,
+    "addresstype": "park",
+    "name": "海輝道海濱花園 Hoi Fai Road Promenade",
+    "display_name": "海輝道海濱花園 Hoi Fai Road Promenade, 大角咀 Tai Kok Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3168333",
+      "22.3170563",
+      "114.1571882",
+      "114.1591448"
+    ]
+  }
+]

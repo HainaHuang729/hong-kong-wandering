@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 235905189,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5094066074,
+    "lat": "22.5922831",
+    "lon": "114.5061164",
+    "class": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "hamlet",
+    "name": "较场尾",
+    "display_name": "较场尾, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5722831",
+      "22.6122831",
+      "114.4861164",
+      "114.5261164"
+    ]
+  },
+  {
+    "place_id": 238125179,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9073862379,
+    "lat": "22.5950002",
+    "lon": "114.5058117",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "较场尾",
+    "display_name": "较场尾, 鹏飞路, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5949502",
+      "22.5950502",
+      "114.5057617",
+      "114.5058617"
+    ]
+  }
+]

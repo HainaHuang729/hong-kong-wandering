@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 236773273,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 109740649,
+    "lat": "22.2062830",
+    "lon": "114.1312273",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "索罟灣二號碼頭 Sok Kwu Wan Pier Number 2",
+    "display_name": "索罟灣二號碼頭 Sok Kwu Wan Pier Number 2, 索罟灣第一街 Sok Kwu Wan First Street, 索罟灣 Sok Kwu Wan, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2060843",
+      "22.2064982",
+      "114.1309216",
+      "114.1315580"
+    ]
+  },
+  {
+    "place_id": 236767379,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 109740650,
+    "lat": "22.2056247",
+    "lon": "114.1309408",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "索罟灣公眾碼頭 Sok Kwu Wan Public Pier",
+    "display_name": "索罟灣公眾碼頭 Sok Kwu Wan Public Pier, 索罟灣第一街 Sok Kwu Wan First Street, 索罟灣 Sok Kwu Wan, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2055542",
+      "22.2057262",
+      "114.1307446",
+      "114.1312327"
+    ]
+  },
+  {
+    "place_id": 417198435,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1511789277,
+    "lat": "22.1967037",
+    "lon": "114.1399680",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "石排灣碼頭 Shek Pai Wan Pier",
+    "display_name": "石排灣碼頭 Shek Pai Wan Pier, 索罟灣第三街 Sok Kwu Wan Third Street, 索罟灣 Sok Kwu Wan, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.1966178",
+      "22.1967539",
+      "114.1397262",
+      "114.1400911"
+    ]
+  }
+]

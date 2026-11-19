@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237561933,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1346121812,
+    "lat": "22.7238293",
+    "lon": "114.0595854",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "松元厦地铁口街心公园",
+    "display_name": "松元厦地铁口街心公园, 松元, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7232305",
+      "22.7242907",
+      "114.0587685",
+      "114.0604669"
+    ]
+  },
+  {
+    "place_id": 238110527,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9653283604,
+    "lat": "22.7233123",
+    "lon": "114.0601209",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "松元厦地铁站 ①",
+    "display_name": "松元厦地铁站 ①, 观澜大道, 松元, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7232623",
+      "22.7233623",
+      "114.0600709",
+      "114.0601709"
+    ]
+  },
+  {
+    "place_id": 238013290,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9670380033,
+    "lat": "22.7233942",
+    "lon": "114.0621453",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "松元厦地铁站东",
+    "display_name": "松元厦地铁站东, 高尔夫大道, 松元厦社区, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7233442",
+      "22.7234442",
+      "114.0620953",
+      "114.0621953"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237122223,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 44717226,
+    "lat": "22.2107293",
+    "lon": "114.0297723",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.3078369698940717,
+    "addresstype": "beach",
+    "name": "長洲東灣泳灘 Cheung Chau Tung Wan Beach",
+    "display_name": "長洲東灣泳灘 Cheung Chau Tung Wan Beach, 長洲 Cheung Chau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2081080",
+      "22.2136500",
+      "114.0288969",
+      "114.0322830"
+    ]
+  }
+]

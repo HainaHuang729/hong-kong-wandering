@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238847650,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1284417908,
+    "lat": "22.7224861",
+    "lon": "114.0492973",
+    "category": "landuse",
+    "type": "retail",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "retail",
+    "name": "观澜古墟",
+    "display_name": "观澜古墟, 观澜, 观澜街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.7217538",
+      "22.7232164",
+      "114.0483297",
+      "114.0500809"
+    ]
+  }
+]

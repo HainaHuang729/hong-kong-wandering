@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236808655,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 692795543,
+    "lat": "22.2778812",
+    "lon": "114.1876589",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.33749181912886295,
+    "addresstype": "amenity",
+    "name": "基督君王小堂 Christ the King Chapel",
+    "display_name": "基督君王小堂 Christ the King Chapel, 希雲街 Haven Street, 加路連山 Caroline Hill, 銅鑼灣 Causeway Bay, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2776009",
+      "22.2781541",
+      "114.1873425",
+      "114.1879462"
+    ]
+  }
+]

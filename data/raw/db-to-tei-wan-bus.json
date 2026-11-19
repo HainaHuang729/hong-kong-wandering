@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237823824,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3147136967,
+    "lat": "22.2268265",
+    "lon": "114.2398399",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "土地灣 To Tei Wan",
+    "display_name": "土地灣 To Tei Wan, 石澳道 Shek O Road, 土地灣村 To Tei Wan Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2267765",
+      "22.2268765",
+      "114.2397899",
+      "114.2398899"
+    ]
+  }
+]

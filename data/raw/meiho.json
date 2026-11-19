@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237739127,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 151356145,
+    "lat": "22.3340294",
+    "lon": "114.1637077",
+    "class": "tourism",
+    "type": "hostel",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "tourism",
+    "name": "美荷樓 Mei Ho House",
+    "display_name": "美荷樓 Mei Ho House, 70, 巴域街 Berwick Street, 元洲 Un Chau, 石硤尾 Shek Kip Mei, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3337410",
+      "22.3342815",
+      "114.1634113",
+      "114.1639682"
+    ]
+  },
+  {
+    "place_id": 237604692,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2003917284,
+    "lat": "22.3344742",
+    "lon": "114.1630222",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "美荷樓 Mei Ho House",
+    "display_name": "美荷樓 Mei Ho House, 大埔道 Tai Po Road, 元洲 Un Chau, 石硤尾 Shek Kip Mei, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3344242",
+      "22.3345242",
+      "114.1629722",
+      "114.1630722"
+    ]
+  }
+]

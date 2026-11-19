@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237115289,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1319620860,
+    "lat": "22.3774021",
+    "lon": "114.3007751",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "鹽田梓碼頭 Yim Tin Tsai Pier",
+    "display_name": "鹽田梓碼頭 Yim Tin Tsai Pier, 玉帶橋, 鹽田梓 Yim Tin Tsai, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3771904",
+      "22.3775178",
+      "114.3004499",
+      "114.3009658"
+    ]
+  },
+  {
+    "place_id": 237880238,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1205458238,
+    "lat": "22.3772594",
+    "lon": "114.3004863",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "鹽田梓碼頭 Yim Tin Tsai Pier",
+    "display_name": "鹽田梓碼頭 Yim Tin Tsai Pier, 玉帶橋, 鹽田梓 Yim Tin Tsai, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3772094",
+      "22.3773094",
+      "114.3004363",
+      "114.3005363"
+    ]
+  }
+]

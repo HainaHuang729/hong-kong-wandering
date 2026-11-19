@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 237610197,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1021194324,
+    "lat": "22.3361320",
+    "lon": "114.1489325",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 30,
+    "importance": 0.23648094285300414,
+    "addresstype": "shop",
+    "name": "D2 Place One",
+    "display_name": "D2 Place One, 9, 荔枝角道 Lai Chi Kok Road, 四小龍, 長沙灣工業區 Cheung Sha Wan Industrial Area, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3358866",
+      "22.3363640",
+      "114.1483556",
+      "114.1493241"
+    ]
+  },
+  {
+    "place_id": 237925391,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13344689124,
+    "lat": "22.3360739",
+    "lon": "114.1494432",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "D2 Place ONE",
+    "display_name": "D2 Place ONE, 荔枝角道 Lai Chi Kok Road, 四小龍, 長沙灣工業區 Cheung Sha Wan Industrial Area, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3360239",
+      "22.3361239",
+      "114.1493932",
+      "114.1494932"
+    ]
+  },
+  {
+    "place_id": 431512815,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1575318887,
+    "lat": "22.3361360",
+    "lon": "114.1475531",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "shop",
+    "name": "D2 Place Two",
+    "display_name": "D2 Place Two, 15, 長義街 Cheung Yee Street, 四小龍, 長沙灣工業區 Cheung Sha Wan Industrial Area, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3358647",
+      "22.3364135",
+      "114.1472098",
+      "114.1478938"
+    ]
+  },
+  {
+    "place_id": 431509612,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 384656385,
+    "lat": "22.3361391",
+    "lon": "114.1475519",
+    "class": "building",
+    "type": "commercial",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "building",
+    "name": "D2 Place Two",
+    "display_name": "D2 Place Two, 15, 長義街 Cheung Yee Street, 四小龍, 長沙灣工業區 Cheung Sha Wan Industrial Area, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3359100",
+      "22.3363682",
+      "114.1472280",
+      "114.1478757"
+    ]
+  }
+]

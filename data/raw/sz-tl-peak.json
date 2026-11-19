@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236003529,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 248450928,
+    "lat": "22.5761531",
+    "lon": "113.9813324",
+    "class": "amenity",
+    "type": "shelter",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "amenity",
+    "name": "极目阁",
+    "display_name": "极目阁, 茶香径, 朗山社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5761104",
+      "22.5761959",
+      "113.9812861",
+      "113.9813787"
+    ]
+  }
+]

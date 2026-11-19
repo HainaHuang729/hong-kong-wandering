@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236978682,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 8509796,
+    "lat": "22.5707448",
+    "lon": "114.1454984",
+    "category": "tourism",
+    "type": "artwork",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "深圳水库",
+    "display_name": "深圳水库, 东湖二路, 水库社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5701697",
+      "22.5708152",
+      "114.1454186",
+      "114.1476507"
+    ]
+  }
+]

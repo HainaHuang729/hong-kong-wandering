@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237172687,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 184475424,
+    "lat": "22.3004557",
+    "lon": "114.1881426",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.26001653813030656,
+    "addresstype": "park",
+    "name": "紅磡海濱花園 Hung Hom Promenade",
+    "display_name": "紅磡海濱花園 Hung Hom Promenade, 紅磡 Hung Hom, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2998116",
+      "22.3012027",
+      "114.1868595",
+      "114.1896927"
+    ]
+  }
+]

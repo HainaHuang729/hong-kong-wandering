@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237284490,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 178426795,
+    "lat": "22.5477290",
+    "lon": "114.0974321",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.14389741120638372,
+    "addresstype": "park",
+    "name": "荔枝公园",
+    "display_name": "荔枝公园, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5437216",
+      "22.5516944",
+      "114.0935974",
+      "114.0993661"
+    ]
+  },
+  {
+    "place_id": 236903015,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8562236931,
+    "lat": "22.5497365",
+    "lon": "114.0996016",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "荔枝公园",
+    "display_name": "荔枝公园, 红岭中路, 蔡屋围, 老围社区, 桂园街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5496865",
+      "22.5497865",
+      "114.0995516",
+      "114.0996516"
+    ]
+  },
+  {
+    "place_id": 237313436,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8562236932,
+    "lat": "22.5487221",
+    "lon": "114.0993186",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "荔枝公园",
+    "display_name": "荔枝公园, 红岭中路, 通新岭社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5486721",
+      "22.5487721",
+      "114.0992686",
+      "114.0993686"
+    ]
+  }
+]

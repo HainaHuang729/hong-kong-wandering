@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237938429,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 210730914,
+    "lat": "22.5664393",
+    "lon": "114.1439640",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "东湖公园",
+    "display_name": "东湖公园, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5563385",
+      "22.5767626",
+      "114.1382829",
+      "114.1463060"
+    ]
+  }
+]

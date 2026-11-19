@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237435816,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 214736435,
+    "lat": "22.3849696",
+    "lon": "114.1437497",
+    "class": "office",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "office",
+    "name": "城門郊野公園遊客中心 Shing Mun Country Park Visitor Centre",
+    "display_name": "城門郊野公園遊客中心 Shing Mun Country Park Visitor Centre, ​菠蘿壩自然教育徑 Pinapple Dam Nature Trail, 和宜合 Wo Yi Hop, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3849213",
+      "22.3850911",
+      "114.1435843",
+      "114.1439024"
+    ]
+  }
+]

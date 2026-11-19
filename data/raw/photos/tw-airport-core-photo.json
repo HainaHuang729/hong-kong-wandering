@@ -1,0 +1,1283 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "10979369": {
+        "pageid": 10979369,
+        "ns": 6,
+        "title": "File:Airport Core Programme Exhibition Centre.JPG",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2026173,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Airport_Core_Programme_Exhibition_Centre.JPG/960px-Airport_Core_Programme_Exhibition_Centre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Airport_Core_Programme_Exhibition_Centre.JPG/1920px-Airport_Core_Programme_Exhibition_Centre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Airport_Core_Programme_Exhibition_Centre.JPG/960px-Airport_Core_Programme_Exhibition_Centre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Airport_Core_Programme_Exhibition_Centre.JPG/1920px-Airport_Core_Programme_Exhibition_Centre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Airport_Core_Programme_Exhibition_Centre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Airport_Core_Programme_Exhibition_Centre.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10979369",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-07-23 04:24:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Airport Core Programme Exhibition Centre",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon Digital IXUS 55|Ting Kau Bridge|License migration redundant|Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Airport Core Programme Exhibition Centre,taken from Bellagio",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-07-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E5%9C%8D%E6%A3%8B%E4%B8%80%E7%B4%9A\" title=\"User:圍棋一級\">圍棋一級</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34975019": {
+        "pageid": 34975019,
+        "ns": 6,
+        "title": "File:Airport Core Programme Exhibition Centre (facade).JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1872994,
+            "width": 3648,
+            "height": 2736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG/960px-Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG/1920px-Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG/960px-Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG/1920px-Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Airport_Core_Programme_Exhibition_Centre_%28facade%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Airport_Core_Programme_Exhibition_Centre_(facade).JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34975019",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-27 11:39:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Airport Core Programme Exhibition Centre (facade)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Art Deco architecture in Hong Kong|Taken with Olympus SP-570UZ|Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Airport Core Programme Exhibition Centre in Ting Kau, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-26 15:43:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Exploringlife\" class=\"mw-redirect\" title=\"User:Exploringlife\">Exploringlife</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "184339732": {
+        "pageid": 184339732,
+        "ns": 6,
+        "title": "File:Airport Core Programme Exhibition Centre HKIA 2024.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6508532,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg/960px-Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg/1920px-Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg/960px-Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg/1920px-Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Airport_Core_Programme_Exhibition_Centre_HKIA_2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184339732",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-17 18:12:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Airport Core Programme Exhibition Centre HKIA 2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Airport Core Programme Exhibition Centre",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fotointheworld&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fotointheworld (page does not exist)\">Fotointheworld</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128148201": {
+        "pageid": 128148201,
+        "ns": 6,
+        "title": "File:Airport Core Programme Exhibition Centre in January 2023.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2726184,
+            "width": 4000,
+            "height": 2637,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg/960px-Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 633,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg/1920px-Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg/960px-Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 633,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg/1920px-Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Airport_Core_Programme_Exhibition_Centre_in_January_2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128148201",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-27 12:32:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Airport Core Programme Exhibition Centre in January 2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Airport Core Programme Exhibition Centre",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-22 16:41:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E5%A7%92%E5%A7%93%E8%B3%A2%E5%AF%A7\" title=\"User:姒姓賢寧\">姒姓賢寧</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "184339725": {
+        "pageid": 184339725,
+        "ns": 6,
+        "title": "File:Airport Core Programme Exhibition Centre inside 2024.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2562434,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg/960px-Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg/1920px-Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg/960px-Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg/1920px-Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Airport_Core_Programme_Exhibition_Centre_inside_2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184339725",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-17 18:12:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Airport Core Programme Exhibition Centre inside 2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Airport Core Programme Exhibition Centre",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fotointheworld&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fotointheworld (page does not exist)\">Fotointheworld</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "49620878": {
+        "pageid": 49620878,
+        "ns": 6,
+        "title": "File:Airport Core Programme Exhibition Centre seen from Rambler Channel.JPG",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3767698,
+            "width": 4608,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG/960px-Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG/1920px-Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG/960px-Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG/1920px-Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Airport_Core_Programme_Exhibition_Centre_seen_from_Rambler_Channel.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49620878",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-06-21 12:36:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Airport Core Programme Exhibition Centre seen from Rambler Channel",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Airport Core Programme Exhibition Centre viewed from Rambler Channel",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Underwaterbuffalo\" title=\"User:Underwaterbuffalo\">Underwaterbuffalo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "123833000": {
+        "pageid": 123833000,
+        "ns": 6,
+        "title": "File:香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 北大嶼山快速公路 North Lantau Expressway, 2022.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2562393,
+            "width": 3310,
+            "height": 2483,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_North_Lantau_Expressway,_2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123833000",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-06 03:37:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 北大嶼山快速公路 North Lantau Expressway, 2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exhibit of “North Lantau Expressway” in <a href=\"https://en.wikipedia.org/wiki/Airport_Core_Programme_Exhibition_Centre\" class=\"extiw\" title=\"en:Airport Core Programme Exhibition Centre\">Airport Core Programme Exhibition Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Ting_Kau\" class=\"extiw\" title=\"en:Ting Kau\">Ting Kau</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lord_Jaraxxus\" title=\"User:Lord Jaraxxus\">Lord Jaraxxus</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "123832996": {
+        "pageid": 123832996,
+        "ns": 6,
+        "title": "File:香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 機場鐵路 Airport Railway, 2022.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3528741,
+            "width": 3951,
+            "height": 2963,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF_Airport_Railway,_2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123832996",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-06 03:37:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 機場鐵路 Airport Railway, 2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exhibits of “Airport Railway” in <a href=\"https://en.wikipedia.org/wiki/Airport_Core_Programme_Exhibition_Centre\" class=\"extiw\" title=\"en:Airport Core Programme Exhibition Centre\">Airport Core Programme Exhibition Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Ting_Kau\" class=\"extiw\" title=\"en:Ting Kau\">Ting Kau</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lord_Jaraxxus\" title=\"User:Lord Jaraxxus\">Lord Jaraxxus</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "123833001": {
+        "pageid": 123833001,
+        "ns": 6,
+        "title": "File:香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 西九龍快速公路 West Kowloon Expressway & 三號幹線 Route 3, 2022.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3349608,
+            "width": 3900,
+            "height": 2927,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_West_Kowloon_Expressway_%26_%E4%B8%89%E8%99%9F%E5%B9%B9%E7%B7%9A_Route_3%2C_2022.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_West_Kowloon_Expressway_%26_%E4%B8%89%E8%99%9F%E5%B9%B9%E7%B7%9A_Route_3%2C_2022.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_West_Kowloon_Expressway_%26_%E4%B8%89%E8%99%9F%E5%B9%B9%E7%B7%9A_Route_3%2C_2022.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_West_Kowloon_Expressway_%26_%E4%B8%89%E8%99%9F%E5%B9%B9%E7%B7%9A_Route_3%2C_2022.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_West_Kowloon_Expressway_%26_%E4%B8%89%E8%99%9F%E5%B9%B9%E7%B7%9A_Route_3%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%BF%AB%E9%80%9F%E5%85%AC%E8%B7%AF_West_Kowloon_Expressway_%26_%E4%B8%89%E8%99%9F%E5%B9%B9%E7%B7%9A_Route_3,_2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123833001",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-06 03:37:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 西九龍快速公路 West Kowloon Expressway & 三號幹線 Route 3, 2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exhibits of “West Kowloon Expressway” and “Route 3” in <a href=\"https://en.wikipedia.org/wiki/Airport_Core_Programme_Exhibition_Centre\" class=\"extiw\" title=\"en:Airport Core Programme Exhibition Centre\">Airport Core Programme Exhibition Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Ting_Kau\" class=\"extiw\" title=\"en:Ting Kau\">Ting Kau</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lord_Jaraxxus\" title=\"User:Lord Jaraxxus\">Lord Jaraxxus</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "123833005": {
+        "pageid": 123833005,
+        "ns": 6,
+        "title": "File:香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 西區海底隧道 Western Harbour Crossing, 2022.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2868815,
+            "width": 3892,
+            "height": 2919,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E8%A5%BF%E5%8D%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93_Western_Harbour_Crossing,_2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123833005",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-06 03:37:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 西區海底隧道 Western Harbour Crossing, 2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exhibit of “Western Harbour Crossing” in <a href=\"https://en.wikipedia.org/wiki/Airport_Core_Programme_Exhibition_Centre\" class=\"extiw\" title=\"en:Airport Core Programme Exhibition Centre\">Airport Core Programme Exhibition Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Ting_Kau\" class=\"extiw\" title=\"en:Ting Kau\">Ting Kau</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lord_Jaraxxus\" title=\"User:Lord Jaraxxus\">Lord Jaraxxus</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "123832997": {
+        "pageid": 123832997,
+        "ns": 6,
+        "title": "File:香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 青嶼幹線 Lantau Link, 2022.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2791345,
+            "width": 3834,
+            "height": 2877,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%9D%92%E5%B6%BC%E5%B9%B9%E7%B7%9A_Lantau_Link,_2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123832997",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-06 03:37:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 青嶼幹線 Lantau Link, 2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exhibits of “Lantau Link” in <a href=\"https://en.wikipedia.org/wiki/Airport_Core_Programme_Exhibition_Centre\" class=\"extiw\" title=\"en:Airport Core Programme Exhibition Centre\">Airport Core Programme Exhibition Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Ting_Kau\" class=\"extiw\" title=\"en:Ting Kau\">Ting Kau</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lord_Jaraxxus\" title=\"User:Lord Jaraxxus\">Lord Jaraxxus</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "123833006": {
+        "pageid": 123833006,
+        "ns": 6,
+        "title": "File:香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 香港國際機場 Hong Kong International Airport, 2022.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3372604,
+            "width": 3958,
+            "height": 2968,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg/960px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg/1920px-%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF_Hong_Kong_%E6%A9%9F%E5%A0%B4%E6%A0%B8%E5%BF%83%E8%A8%88%E5%8A%83%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83_Airport_Core_Programme_Exhibition_Centre_%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4_Hong_Kong_International_Airport,_2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123833006",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-06 03:37:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "香港 Hong Kong 機場核心計劃展覽中心 Airport Core Programme Exhibition Centre 香港國際機場 Hong Kong International Airport, 2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Airport Core Programme Exhibition Centre|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exhibits of “Hong Kong International Airport” in <a href=\"https://en.wikipedia.org/wiki/Airport_Core_Programme_Exhibition_Centre\" class=\"extiw\" title=\"en:Airport Core Programme Exhibition Centre\">Airport Core Programme Exhibition Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Ting_Kau\" class=\"extiw\" title=\"en:Ting Kau\">Ting Kau</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lord_Jaraxxus\" title=\"User:Lord Jaraxxus\">Lord Jaraxxus</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

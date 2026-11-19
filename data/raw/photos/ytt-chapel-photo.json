@@ -1,0 +1,756 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "84925581": {
+        "pageid": 84925581,
+        "ns": 6,
+        "title": "File:Pak Sha Chau Yim Tin Tsai Sharp Island.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4273281,
+            "width": 4608,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg/960px-Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg/1920px-Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg/960px-Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg/1920px-Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pak_Sha_Chau_Yim_Tin_Tsai_Sharp_Island.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84925581",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-15 17:22:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pak Sha Chau Yim Tin Tsai Sharp Island",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "St Joseph's Chapel in Yim Tin Tsai|Images with annotations|Sharp Island, Hong Kong|Yim Tin Tsai (Sai Kung)|Pak Sha Chau (Sai Kung)|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Inner Port Shelter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Underwaterbuffalo\" title=\"User:Underwaterbuffalo\">Underwaterbuffalo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1505814": {
+        "pageid": 1505814,
+        "ns": 6,
+        "title": "File:St Joseph's Chapel in Yim Tin Tsai.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 609794,
+            "width": 1152,
+            "height": 648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG/960px-St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/40/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG/960px-St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/40/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:St_Joseph%27s_Chapel_in_Yim_Tin_Tsai.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1505814",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-12-30 04:59:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "St Joseph's Chapel in Yim Tin Tsai",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-LX1|CC-BY-SA-2.5,2.0,1.0|St Joseph's Chapel in Yim Tin Tsai|License migration redundant|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "St Joseph's Chapel in Yim Tin Tsai, an outlying island of Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "10/12/2006 (uploaded on 30/12/2006)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75200727": {
+        "pageid": 75200727,
+        "ns": 6,
+        "title": "File:St Joseph's Chapel in Yim Tin Tsai interior 2018.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3938385,
+            "width": 3968,
+            "height": 2232,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg/960px-St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg/1920px-St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg/960px-St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg/1920px-St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:St_Joseph%27s_Chapel_in_Yim_Tin_Tsai_interior_2018.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75200727",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-20 04:13:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "St Joseph's Chapel in Yim Tin Tsai interior 2018",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "St Joseph's Chapel in Yim Tin Tsai|Flickr images reviewed by FlickreviewR 2|Photographs by tak.wing",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "St Joseph's Chapel in Yim Tin Tsai",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-10-20 13:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/takwing/31571510278/\">L1290537</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52032216@N00\">tak.wing</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1698063": {
+        "pageid": 1698063,
+        "ns": 6,
+        "title": "File:Statue of St Joseph Freinademetz in St Joseph Chapel of Yim Tin Tsai.JPG",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 643249,
+            "width": 864,
+            "height": 1299,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Statue_of_St_Joseph_Freinademetz_in_St_Joseph_Chapel_of_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1443,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Statue_of_St_Joseph_Freinademetz_in_St_Joseph_Chapel_of_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1443
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Statue_of_St_Joseph_Freinademetz_in_St_Joseph_Chapel_of_Yim_Tin_Tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Statue_of_St_Joseph_Freinademetz_in_St_Joseph_Chapel_of_Yim_Tin_Tsai.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1698063",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-02-20 16:50:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Statue of St Joseph Freinademetz in St Joseph Chapel of Yim Tin Tsai",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-LX1|CC-BY-SA-2.5,2.0,1.0|St Joseph's Chapel in Yim Tin Tsai|License migration redundant|Self-published work|Statues of Christian saints in Hong Kong|Statues of standing men in Hong Kong|Roman Catholics from Hong Kong|Statues of Saint Joseph Freinademetz",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The statue of St. Joseph Freinademetz in St Joseph's Chapel in Yim Tin Tsai, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "10/12/2006 (uploaded on 20/02/2007 )",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1698112": {
+        "pageid": 1698112,
+        "ns": 6,
+        "title": "File:The Altar in St Joseph's Chapel in Yim Tin tsai.JPG",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 877808,
+            "width": 864,
+            "height": 1299,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Altar_in_St_Joseph%27s_Chapel_in_Yim_Tin_tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1443,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Altar_in_St_Joseph%27s_Chapel_in_Yim_Tin_tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1443
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Altar_in_St_Joseph%27s_Chapel_in_Yim_Tin_tsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Altar_in_St_Joseph%27s_Chapel_in_Yim_Tin_tsai.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1698112",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-02-20 17:05:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "The Altar in St Joseph's Chapel in Yim Tin tsai",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Altars in China|Statues of Saint Joseph in China|GFDL|Taken with Panasonic Lumix DMC-LX1|CC-BY-SA-2.5,2.0,1.0|St Joseph's Chapel in Yim Tin Tsai|License migration redundant|Self-published work|Statues of Christian saints in Hong Kong|Statues of standing men in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Altar of St Joseph's Chapel in Yim Tin Tsai, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "10/12/2006 (uploaded on 20/02/2007 )",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Isaac Wong (<a href=\"//commons.wikimedia.org/wiki/User:Father_vice\" title=\"User:Father vice\">惡德神父</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "85234370": {
+        "pageid": 85234370,
+        "ns": 6,
+        "title": "File:Views from Sharp Island, Hong Kong 02.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2668870,
+            "width": 4503,
+            "height": 3377,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Views_from_Sharp_Island%2C_Hong_Kong_02.jpg/960px-Views_from_Sharp_Island%2C_Hong_Kong_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Views_from_Sharp_Island%2C_Hong_Kong_02.jpg/1920px-Views_from_Sharp_Island%2C_Hong_Kong_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Views_from_Sharp_Island%2C_Hong_Kong_02.jpg/960px-Views_from_Sharp_Island%2C_Hong_Kong_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Views_from_Sharp_Island%2C_Hong_Kong_02.jpg/1920px-Views_from_Sharp_Island%2C_Hong_Kong_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Views_from_Sharp_Island%2C_Hong_Kong_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Views_from_Sharp_Island,_Hong_Kong_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85234370",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-25 13:12:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Views from Sharp Island, Hong Kong 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Memorial Monument of Sai Kung Martyrs of World War II|St Joseph's Chapel in Yim Tin Tsai|Images with annotations|Views from Sharp Island, Hong Kong|HKFYG Jockey Club Sai Kung Outdoor Training Camp|Yim Tin Tsai (Sai Kung)|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View from Sharp Island, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Underwaterbuffalo\" title=\"User:Underwaterbuffalo\">Underwaterbuffalo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84925591": {
+        "pageid": 84925591,
+        "ns": 6,
+        "title": "File:Yim Tin Tsai Siu Tsan Chau Pak Sha Chau.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3220950,
+            "width": 4455,
+            "height": 3341,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg/960px-Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg/1920px-Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg/960px-Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg/1920px-Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yim_Tin_Tsai_Siu_Tsan_Chau_Pak_Sha_Chau.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84925591",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-15 17:22:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Yim Tin Tsai Siu Tsan Chau Pak Sha Chau",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "St Joseph's Chapel in Yim Tin Tsai|Images with annotations|Yim Tin Tsai (Sai Kung)|Pak Sha Chau (Sai Kung)|Siu Tsan Chau|Self-published work|Pak Sha Chau Tombolo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Inner Port Shelter",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Underwaterbuffalo\" title=\"User:Underwaterbuffalo\">Underwaterbuffalo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

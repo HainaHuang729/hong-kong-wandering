@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 237177705,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10210996803,
+    "lat": "22.5403527",
+    "lon": "113.9194304",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40580843572923003,
+    "addresstype": "railway",
+    "name": "南头古城",
+    "display_name": "南头古城, 南山大道, 红花园社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5353527",
+      "22.5453527",
+      "113.9144304",
+      "113.9244304"
+    ]
+  },
+  {
+    "place_id": 237160900,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9648926671,
+    "lat": "22.5435149",
+    "lon": "113.9144599",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "南头古城",
+    "display_name": "南头古城, 深南大道, 红花园社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5434649",
+      "22.5435649",
+      "113.9144099",
+      "113.9145099"
+    ]
+  },
+  {
+    "place_id": 237352641,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4202069692,
+    "lat": "22.5435656",
+    "lon": "113.9160827",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "南头古城",
+    "display_name": "南头古城, 深南大道辅路, 南头城社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5435156",
+      "22.5436156",
+      "113.9160327",
+      "113.9161327"
+    ]
+  },
+  {
+    "place_id": 237160851,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11632742645,
+    "lat": "22.5432026",
+    "lon": "113.9185760",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "南头古城",
+    "display_name": "南头古城, 深南大道, 南头城社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5431526",
+      "22.5432526",
+      "113.9185260",
+      "113.9186260"
+    ]
+  },
+  {
+    "place_id": 237104905,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10223661523,
+    "lat": "22.5403539",
+    "lon": "113.9193606",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "南头古城",
+    "display_name": "南头古城, 南山大道, 红花园社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5403039",
+      "22.5404039",
+      "113.9193106",
+      "113.9194106"
+    ]
+  }
+]

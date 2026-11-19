@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237697246,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5981068157,
+    "lat": "22.5436910",
+    "lon": "114.0121236",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "农林地铁站",
+    "display_name": "农林地铁站, 农林路, 农园社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5436410",
+      "22.5437410",
+      "114.0120736",
+      "114.0121736"
+    ]
+  },
+  {
+    "place_id": 238047774,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5981068156,
+    "lat": "22.5440378",
+    "lon": "114.0116930",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "农林地铁站",
+    "display_name": "农林地铁站, 农林路, 竹园社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5439878",
+      "22.5440878",
+      "114.0116430",
+      "114.0117430"
+    ]
+  }
+]

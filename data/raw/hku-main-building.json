@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235386746,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2424275,
+    "lat": "22.2840217",
+    "lon": "114.1378583",
+    "class": "building",
+    "type": "university",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "building",
+    "name": "本部大樓 Main Building",
+    "display_name": "本部大樓 Main Building, 仲賢路 Lee Chung Yin Road, 石塘咀 Shek Tong Tsui, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2837033",
+      "22.2843973",
+      "114.1374461",
+      "114.1382709"
+    ]
+  }
+]

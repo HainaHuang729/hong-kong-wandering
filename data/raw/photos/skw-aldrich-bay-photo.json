@@ -1,0 +1,2955 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "19253314": {
+        "pageid": 19253314,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park (Hong Kong).JPG",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3240826,
+            "width": 3600,
+            "height": 2396,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aldrich_Bay_Park_%28Hong_Kong%29.JPG/960px-Aldrich_Bay_Park_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 639,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aldrich_Bay_Park_%28Hong_Kong%29.JPG/1920px-Aldrich_Bay_Park_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aldrich_Bay_Park_%28Hong_Kong%29.JPG/960px-Aldrich_Bay_Park_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 639,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aldrich_Bay_Park_%28Hong_Kong%29.JPG/1920px-Aldrich_Bay_Park_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aldrich_Bay_Park_%28Hong_Kong%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_(Hong_Kong).JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19253314",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-04-29 06:40:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with annotations|Munsang College (Hong Kong Island)|Tung Tao Court|I•UniQ Grand, Hong Kong|Aldrich Bay Park|Self-published work|Oi Po House|Hong Kong photographs taken on 2012-04-29|Files with coordinates missing SDC location of creation|2012 photographs of Hong Kong by Mk2010|April 2012 in Aldrich Bay|2012 in Eastern District, Hong Kong|Construction sites in Shau Kei Wan|I•UniQ Grand, Hong Kong - Under construction|2012 in I•UniQ Grand, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.283260",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225420",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aldrich Bay Park, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-04-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "19412285": {
+        "pageid": 19412285,
+        "ns": 6,
+        "title": "File:Munsang College (H.K. Island) (Hong Kong).jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2787472,
+            "width": 3600,
+            "height": 2395,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg/960px-Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 639,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg/1920px-Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg/960px-Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 639,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg/1920px-Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Munsang_College_%28H.K._Island%29_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Munsang_College_(H.K._Island)_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19412285",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-05-12 03:28:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Munsang College (H.K. Island) (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Munsang College (Hong Kong Island)|Self-published work|Files with coordinates missing SDC location of creation|2012 photographs of Hong Kong by Mk2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282950",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224420",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Munsang College (Hong Kong Island), 26 Tai On Street, Sai Wan Ho, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-05-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "19422620": {
+        "pageid": 19422620,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park (Hong Kong).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3126568,
+            "width": 3600,
+            "height": 2396,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_%28Hong_Kong%29.jpg/960px-Aldrich_Bay_Park_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 639,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_%28Hong_Kong%29.jpg/1920px-Aldrich_Bay_Park_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_%28Hong_Kong%29.jpg/960px-Aldrich_Bay_Park_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 639,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_%28Hong_Kong%29.jpg/1920px-Aldrich_Bay_Park_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Aldrich_Bay_Park_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19422620",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-05-13 02:22:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with annotations|Munsang College (Hong Kong Island)|Les Saisons (Hong Kong)|Aldrich Bay Park|Self-published work|Hong Kong photographs taken on 2012-05-13|Files with coordinates missing SDC location of creation|2012 photographs of Hong Kong by Mk2010|Oi Kan Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282600",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224700",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aldrich Bay Park, Sai Wan Ho, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-05-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "19422679": {
+        "pageid": 19422679,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park and Oi Tung Estate (Hong Kong).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3205034,
+            "width": 3600,
+            "height": 2396,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg/960px-Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 639,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg/1920px-Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg/960px-Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 639,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg/1920px-Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Aldrich_Bay_Park_and_Oi_Tung_Estate_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_and_Oi_Tung_Estate_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19422679",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-05-13 02:41:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park and Oi Tung Estate (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with annotations|Tung Tao Court|Aldrich Bay Park|Self-published work|Hong Kong photographs taken on 2012-05-13|Oi Po House|Files with coordinates missing SDC location of creation|2012 photographs of Hong Kong by Mk2010|May 2012 in Sai Wan Ho",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282600",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224700",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aldrich Bay Park and Oi Tung Estate Oi Po House, Sai Wan Ho, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-05-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "22424668": {
+        "pageid": 22424668,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park at night (Hong Kong).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2956040,
+            "width": 3573,
+            "height": 2679,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg/960px-Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg/1920px-Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg/960px-Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg/1920px-Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Aldrich_Bay_Park_at_night_%28Hong_Kong%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_at_night_(Hong_Kong).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22424668",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-10-28 02:45:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park at night (Hong Kong)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot SX260 HS|Aldrich Bay Park|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2012-10-27|2012 photographs of Hong Kong by Mk2010|Night in Shau Kei Wan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282890",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225070",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aldrich Bay Park at night, Sai Wan Ho, Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-10-27 18:40:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mk2010\" title=\"User:Mk2010\">Mk2010</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"margin: 1.5 em auto; width:100%; background-color:gainsboro;\" cellspacing=\"2\">\n<tbody><tr>\n<td align=\"center\">\n</td>\n<td>\n<ul><li>You are welcome to use this image under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0 International (CC BY 4.0)</a> license. Please attribute the work to the author, <b>Malcolm Koo</b>, and include the acronym of the license <b>CC BY 4.0</b> in a prominent location near the image.</li></ul>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "38131064": {
+        "pageid": 38131064,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park Washroom outside 201407.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2962564,
+            "width": 2272,
+            "height": 1704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aldrich_Bay_Park_Washroom_outside_201407.jpg/960px-Aldrich_Bay_Park_Washroom_outside_201407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aldrich_Bay_Park_Washroom_outside_201407.jpg/1920px-Aldrich_Bay_Park_Washroom_outside_201407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aldrich_Bay_Park_Washroom_outside_201407.jpg/960px-Aldrich_Bay_Park_Washroom_outside_201407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aldrich_Bay_Park_Washroom_outside_201407.jpg/1920px-Aldrich_Bay_Park_Washroom_outside_201407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aldrich_Bay_Park_Washroom_outside_201407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_Washroom_outside_201407.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38131064",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-01-31 08:12:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park Washroom outside 201407",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Toilets in Hong Kong|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282542",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225014",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aldrich Bay Park Washroom outside",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-07-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wing1990hk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wing1990hk (page does not exist)\">Wing1990hk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55055991": {
+        "pageid": 55055991,
+        "ns": 6,
+        "title": "File:愛秩序灣公園遊樂場.jpeg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1316107,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg/960px-%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg/1920px-%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg/960px-%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg/1920px-%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92%E9%81%8A%E6%A8%82%E5%A0%B4.jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55055991",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-16 05:52:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "愛秩序灣公園遊樂場",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Xiaomi Redmi 4A|Media lacking a description|Munsang College (Hong Kong Island)|Aldrich Bay Park|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Jul 2016 - Jun 2017)|Files with coordinates missing SDC location of creation|Night in Shau Kei Wan|Children's playgrounds in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282544",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224747",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Richard923888\" title=\"User:Richard923888\">Richard923888</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55086165": {
+        "pageid": 55086165,
+        "ns": 6,
+        "title": "File:西灣河體育館.jpeg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1931267,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg/960px-%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg/1920px-%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg/960px-%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg/1920px-%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E7%81%A3%E6%B2%B3%E9%AB%94%E8%82%B2%E9%A4%A8.jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55086165",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-17 11:54:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "西灣河體育館",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Xiaomi Redmi 4A|Media lacking a description|Exterior of Felicity Garden, Hong Kong|Tai On Street|Sai Wan Ho Sports Centre|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Jul 2016 - Jun 2017)|Files with coordinates missing SDC location of creation|Sai Wan Ho Market and Cooked Food Centre",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282733",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224375",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Richard923888\" title=\"User:Richard923888\">Richard923888</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55086167": {
+        "pageid": 55086167,
+        "ns": 6,
+        "title": "File:太安街.jpeg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1660631,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg/960px-%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg/1920px-%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg/960px-%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg/1920px-%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E5%AE%89%E8%A1%97.jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55086167",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-17 11:54:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "太安街",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Xiaomi Redmi 4A|Media lacking a description|Tai On Street|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Jul 2016 - Jun 2017)|Files with coordinates missing SDC location of creation|Sai Wan Ho Market and Cooked Food Centre",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282733",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224375",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Richard923888\" title=\"User:Richard923888\">Richard923888</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55086275": {
+        "pageid": 55086275,
+        "ns": 6,
+        "title": "File:康祥街.jpeg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1714177,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg/960px-%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg/1920px-%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg/960px-%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg/1920px-%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%BA%B7%E7%A5%A5%E8%A1%97.jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55086275",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-17 11:59:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "康祥街",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Xiaomi Redmi 4A|Island Eastern Corridor|Images with annotations|Exterior of Tai On Building|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Jul 2016 - Jun 2017)|Files with coordinates missing SDC location of creation|January 2017 in Eastern District, Hong Kong|Tai Hing Roast Restaurants|Hong Cheung Street|Tai Foo House|Tai Hong House|Tai Shun House",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282733",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224375",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Cheung Street, Island Eastern Corridor, Sai Wan Ho, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Richard923888\" title=\"User:Richard923888\">Richard923888</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55384089": {
+        "pageid": 55384089,
+        "ns": 6,
+        "title": "File:愛跌序灣公園 2017-01-26.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1433333,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg/960px-%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg/1920px-%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg/960px-%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg/1920px-%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%84%9B%E8%B7%8C%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_2017-01-26.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55384089",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-26 10:35:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "愛跌序灣公園 2017-01-26",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "China photographs taken on 2017-01-26|Media lacking a description|Munsang College (Hong Kong Island)|Aldrich Bay Park|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Jul 2016 - Jun 2017)|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282384",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224375",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "DateTimeOriginal": {
+                "value": "26 January 2017 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Richard923888\" title=\"User:Richard923888\">Richard923888</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117814498": {
+        "pageid": 117814498,
+        "ns": 6,
+        "title": "File:HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 02.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4886794,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_02.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_02.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_02.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_02.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117814498",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-08 21:10:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Buildings in Sai Wan Ho|Aldrich Bay Community Hall|2022 in Oi Po House|2022 in Oi Tung Estate|May 2022 in Aldrich Bay",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282040",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225424",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay 愛德街 3 Oi Tak Street <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E6%9D%B1%E9%82%A8\" class=\"extiw\" title=\"zh:愛東邨\">zh:愛東邨</a> Oi Tung Estate 愛寶樓 Oi Po House <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82\" class=\"extiw\" title=\"zh:愛秩序灣社區會堂\">zh:愛秩序灣社區會堂</a> Aldrich Bay Community Hall in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:28:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117814500": {
+        "pageid": 117814500,
+        "ns": 6,
+        "title": "File:HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 06.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4139339,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_06.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_06.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_06.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_06.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117814500",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-08 21:10:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Buildings in Sai Wan Ho|Aldrich Bay Community Hall|2022 in Oi Po House|2022 in Oi Tung Estate|May 2022 in Aldrich Bay",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282001",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225383",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay 愛德街 3 Oi Tak Street <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E6%9D%B1%E9%82%A8\" class=\"extiw\" title=\"zh:愛東邨\">zh:愛東邨</a> Oi Tung Estate 愛寶樓 Oi Po House <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82\" class=\"extiw\" title=\"zh:愛秩序灣社區會堂\">zh:愛秩序灣社區會堂</a> Aldrich Bay Community Hall in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:29:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117814502": {
+        "pageid": 117814502,
+        "ns": 6,
+        "title": "File:HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 04.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4515873,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_04.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_04.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_04.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_04.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117814502",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-08 21:10:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Buildings in Sai Wan Ho|Aldrich Bay Community Hall|2022 in Oi Po House|2022 in Oi Tung Estate|May 2022 in Aldrich Bay",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282001",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225383",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay 愛德街 3 Oi Tak Street <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E6%9D%B1%E9%82%A8\" class=\"extiw\" title=\"zh:愛東邨\">zh:愛東邨</a> Oi Tung Estate 愛寶樓 Oi Po House <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82\" class=\"extiw\" title=\"zh:愛秩序灣社區會堂\">zh:愛秩序灣社區會堂</a> Aldrich Bay Community Hall in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:29:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117814507": {
+        "pageid": 117814507,
+        "ns": 6,
+        "title": "File:HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 07.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4061834,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_07.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_07.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_07.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_07.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E5%BE%B7%E8%A1%97_3_Oi_Tak_Street_%E6%84%9B%E6%9D%B1%E9%82%A8_Oi_Tung_Estate_%E6%84%9B%E5%AF%B6%E6%A8%93_Oi_Po_House_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82_Aldrich_Bay_Community_Hall_May_2022_Px3_07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117814507",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-08 21:10:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK 愛秩序灣 Aldrich Bay 愛德街 3 Oi Tak Street 愛東邨 Oi Tung Estate 愛寶樓 Oi Po House 愛秩序灣社區會堂 Aldrich Bay Community Hall May 2022 Px3 07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|Buildings in Sai Wan Ho|Aldrich Bay Community Hall|2022 in Oi Po House|2022 in Oi Tung Estate|May 2022 in Aldrich Bay",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282109",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225371",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay 愛德街 3 Oi Tak Street <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E6%9D%B1%E9%82%A8\" class=\"extiw\" title=\"zh:愛東邨\">zh:愛東邨</a> Oi Tung Estate 愛寶樓 Oi Po House <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E7%A4%BE%E5%8D%80%E6%9C%83%E5%A0%82\" class=\"extiw\" title=\"zh:愛秩序灣社區會堂\">zh:愛秩序灣社區會堂</a> Aldrich Bay Community Hall in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:30:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117884845": {
+        "pageid": 117884845,
+        "ns": 6,
+        "title": "File:HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 01.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4646132,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117884845",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-11 07:22:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2022 in Aldrich Bay|2022 in Oi Shun Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282530",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.225044",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Sai Wan Ho <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BF%A1%E9%81%93\" class=\"extiw\" title=\"zh:愛信道\">zh:愛信道</a> Oi Shun Road <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:愛秩序灣公園\">zh:愛秩序灣公園</a> Aldrich Bay Park in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:21:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117884859": {
+        "pageid": 117884859,
+        "ns": 6,
+        "title": "File:HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 09.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5569648,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117884859",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-11 07:22:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2022 in Aldrich Bay|2022 in Oi Shun Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282429",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224107",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Sai Wan Ho <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BF%A1%E9%81%93\" class=\"extiw\" title=\"zh:愛信道\">zh:愛信道</a> Oi Shun Road <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:愛秩序灣公園\">zh:愛秩序灣公園</a> Aldrich Bay Park in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:18:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117884860": {
+        "pageid": 117884860,
+        "ns": 6,
+        "title": "File:HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 08.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5041597,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_08.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117884860",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-11 07:22:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 08",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Munsang College (Hong Kong Island)|Aldrich Bay Park|Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2022 in Aldrich Bay|2022 in Oi Shun Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282429",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224107",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Sai Wan Ho <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BF%A1%E9%81%93\" class=\"extiw\" title=\"zh:愛信道\">zh:愛信道</a> Oi Shun Road <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:愛秩序灣公園\">zh:愛秩序灣公園</a> Aldrich Bay Park in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:18:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117884862": {
+        "pageid": 117884862,
+        "ns": 6,
+        "title": "File:HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 11.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5527726,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_11.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117884862",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-11 07:22:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Munsang College (Hong Kong Island)|Aldrich Bay Park|Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2022 in Aldrich Bay|2022 in Oi Shun Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282147",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224562",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Sai Wan Ho <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BF%A1%E9%81%93\" class=\"extiw\" title=\"zh:愛信道\">zh:愛信道</a> Oi Shun Road <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:愛秩序灣公園\">zh:愛秩序灣公園</a> Aldrich Bay Park in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:19:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117884863": {
+        "pageid": 117884863,
+        "ns": 6,
+        "title": "File:HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 10.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6258600,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg/960px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg/1920px-HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Sai_Wan_Ho_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3_Aldrich_Bay_%E6%84%9B%E4%BF%A1%E9%81%93_Oi_Shun_Road_%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92_Aldrich_Bay_Park_May_2022_Px3_10.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117884863",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-11 07:22:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Sai Wan Ho 愛秩序灣 Aldrich Bay 愛信道 Oi Shun Road 愛秩序灣公園 Aldrich Bay Park May 2022 Px3 10",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Hong Kong photographs taken on 2022-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2022 in Aldrich Bay|2022 in Oi Shun Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282148",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224287",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Sai Wan Ho <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3\" class=\"extiw\" title=\"zh:愛秩序灣\">zh:愛秩序灣</a> Aldrich Bay <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BF%A1%E9%81%93\" class=\"extiw\" title=\"zh:愛信道\">zh:愛信道</a> Oi Shun Road <a href=\"https://zh.wikipedia.org/wiki/%E6%84%9B%E7%A7%A9%E5%BA%8F%E7%81%A3%E5%85%AC%E5%9C%92\" class=\"extiw\" title=\"zh:愛秩序灣公園\">zh:愛秩序灣公園</a> Aldrich Bay Park in May 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-05-08 11:19:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SOAOKAITSAM_BROAD_WAY_085\" title=\"User:SOAOKAITSAM BROAD WAY 085\">SOAOKAITSAM BROAD WAY 085</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "146711391": {
+        "pageid": 146711391,
+        "ns": 6,
+        "title": "File:AED at Aldrich Bay Park.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7465091,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AED_at_Aldrich_Bay_Park.jpg/960px-AED_at_Aldrich_Bay_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AED_at_Aldrich_Bay_Park.jpg/1920px-AED_at_Aldrich_Bay_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AED_at_Aldrich_Bay_Park.jpg/960px-AED_at_Aldrich_Bay_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AED_at_Aldrich_Bay_Park.jpg/1920px-AED_at_Aldrich_Bay_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/AED_at_Aldrich_Bay_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:AED_at_Aldrich_Bay_Park.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146711391",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-03-24 03:37:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "AED at Aldrich Bay Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|On OSM|Files with coordinates missing SDC location of creation|AED in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282363",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224909",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A definrillator at Aldrich Bay Park",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-03-24 09:33:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wright.one\" title=\"User:Wright.one\">Wright.one</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151640460": {
+        "pageid": 151640460,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park 20-08-2024(3).jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15957590,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_20-08-2024%283%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_20-08-2024%283%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_20-08-2024%283%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldrich_Bay_Park_20-08-2024%283%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Aldrich_Bay_Park_20-08-2024%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_20-08-2024(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151640460",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-20 13:22:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park 20-08-2024(3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Wet pavements|Artificial waterfalls in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-08-20",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282222",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224336",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在西灣河拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-20 16:35:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151640463": {
+        "pageid": 151640463,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park 20-08-2024(4).jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14056776,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aldrich_Bay_Park_20-08-2024%284%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aldrich_Bay_Park_20-08-2024%284%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aldrich_Bay_Park_20-08-2024%284%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aldrich_Bay_Park_20-08-2024%284%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Aldrich_Bay_Park_20-08-2024%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_20-08-2024(4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151640463",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-20 13:23:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park 20-08-2024(4)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Wet pavements|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-08-20",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282097",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224486",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在西灣河拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-20 16:35:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151640464": {
+        "pageid": 151640464,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park 20-08-2024(5).jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12688356,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Aldrich_Bay_Park_20-08-2024%285%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Aldrich_Bay_Park_20-08-2024%285%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Aldrich_Bay_Park_20-08-2024%285%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Aldrich_Bay_Park_20-08-2024%285%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aldrich_Bay_Park_20-08-2024%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_20-08-2024(5).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151640464",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-20 13:23:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park 20-08-2024(5)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Wet pavements|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-08-20|Children's playgrounds in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282133",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224519",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在西灣河拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-20 16:35:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151640465": {
+        "pageid": 151640465,
+        "ns": 6,
+        "title": "File:Aldrich Bay Park 20-08-2024(6).jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15408376,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Aldrich_Bay_Park_20-08-2024%286%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Aldrich_Bay_Park_20-08-2024%286%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Aldrich_Bay_Park_20-08-2024%286%29.jpg/960px-Aldrich_Bay_Park_20-08-2024%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Aldrich_Bay_Park_20-08-2024%286%29.jpg/1920px-Aldrich_Bay_Park_20-08-2024%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aldrich_Bay_Park_20-08-2024%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldrich_Bay_Park_20-08-2024(6).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151640465",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-20 13:23:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aldrich Bay Park 20-08-2024(6)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aldrich Bay Park|Self-published work|Wet pavements|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-08-20|Children's playgrounds in Eastern District, Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.282864",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.224892",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在西灣河拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-20 16:36:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

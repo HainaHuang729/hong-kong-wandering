@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235377191,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1329891989,
+    "lat": "22.2879333",
+    "lon": "114.2365500",
+    "class": "man_made",
+    "type": "lighthouse",
+    "place_rank": 30,
+    "importance": 0.16273786379520622,
+    "addresstype": "man_made",
+    "name": "鯉魚門燈塔 Lei Yue Mun Lighthouse",
+    "display_name": "鯉魚門燈塔 Lei Yue Mun Lighthouse, 鯉魚門海傍道中, 安里西村 On Li Sai Tsuen, 觀塘區 Kwun Tong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2878833",
+      "22.2879833",
+      "114.2365000",
+      "114.2366000"
+    ]
+  }
+]

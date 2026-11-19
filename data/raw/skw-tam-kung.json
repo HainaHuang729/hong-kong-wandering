@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237474045,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 558168332,
+    "lat": "22.2824941",
+    "lon": "114.2307056",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.19938740066310082,
+    "addresstype": "amenity",
+    "name": "譚公廟 Tam Kung Temple",
+    "display_name": "譚公廟 Tam Kung Temple, 譚公廟道 Tam Kung Temple Road, 愛秩序灣 Aldrich Bay, 筲箕灣 Shau Kei Wan, 東區 Eastern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2823587",
+      "22.2826296",
+      "114.2305606",
+      "114.2308506"
+    ]
+  },
+  {
+    "place_id": 234110481,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5465701821,
+    "lat": "22.2824449",
+    "lon": "114.2306730",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "amenity",
+    "name": "Tam Kung Temple",
+    "display_name": "Tam Kung Temple, 譚公廟道 Tam Kung Temple Road, 愛秩序灣 Aldrich Bay, 筲箕灣 Shau Kei Wan, 東區 Eastern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2823949",
+      "22.2824949",
+      "114.2306230",
+      "114.2307230"
+    ]
+  }
+]

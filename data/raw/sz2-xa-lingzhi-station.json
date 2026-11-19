@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 245734410,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9327070288,
+    "lat": "22.5719966",
+    "lon": "113.8992269",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.406074657779347,
+    "addresstype": "railway",
+    "name": "灵芝",
+    "display_name": "灵芝, 创业二路, 宝民社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5669966",
+      "22.5769966",
+      "113.8942269",
+      "113.9042269"
+    ]
+  },
+  {
+    "place_id": 235724648,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2300668711,
+    "lat": "22.5719720",
+    "lon": "113.8992698",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "灵芝",
+    "display_name": "灵芝, 创业二路, 宝民社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5719220",
+      "22.5720220",
+      "113.8992198",
+      "113.8993198"
+    ]
+  },
+  {
+    "place_id": 235749971,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10223661517,
+    "lat": "22.5721519",
+    "lon": "113.8991626",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "灵芝",
+    "display_name": "灵芝, 前进一路, 大浪社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5721019",
+      "22.5722019",
+      "113.8991126",
+      "113.8992126"
+    ]
+  },
+  {
+    "place_id": 235774037,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10223660416,
+    "lat": "22.5720694",
+    "lon": "113.8990686",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "灵芝",
+    "display_name": "灵芝, 前进一路, 宝民社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5720194",
+      "22.5721194",
+      "113.8990186",
+      "113.8991186"
+    ]
+  }
+]

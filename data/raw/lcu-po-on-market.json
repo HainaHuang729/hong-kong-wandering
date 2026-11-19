@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236889414,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 208655078,
+    "lat": "22.3384195",
+    "lon": "114.1577799",
+    "class": "building",
+    "type": "civic",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "building",
+    "name": "保安道市政大廈 Po On Road Municipal Services Building",
+    "display_name": "保安道市政大廈 Po On Road Municipal Services Building, 325-329, 發祥街 Fat Tseung Street, 李鄭屋 Li Cheng Uk, 蘇屋 So Uk, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3379014",
+      "22.3390371",
+      "114.1570995",
+      "114.1584591"
+    ]
+  }
+]

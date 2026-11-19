@@ -1,0 +1,6862 @@
+{
+  "sz:南山区华侨城公交公司 深圳": [],
+  "sz:深圳市南山区文苑街": [
+    {
+      "place_id": 238223203,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 232330957,
+      "lat": "22.5216628",
+      "lon": "113.9264587",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "文心广场街心花园",
+      "display_name": "文心广场街心花园, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5209914",
+        "22.5222102",
+        "113.9257889",
+        "113.9275761"
+      ]
+    }
+  ],
+  "sz:福民新村 深圳": [
+    {
+      "place_id": 236970072,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 220799228,
+      "lat": "22.5256015",
+      "lon": "114.0647187",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "福民新村",
+      "display_name": "福民新村, 福民社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5230925",
+        "22.5279779",
+        "114.0631951",
+        "114.0658854"
+      ]
+    },
+    {
+      "place_id": 236881305,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1430001511,
+      "lat": "22.5254779",
+      "lon": "114.0649175",
+      "category": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "23栋",
+      "display_name": "23栋, 福喜三街, 福民新村, 福民社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5253615",
+        "22.5255941",
+        "114.0646542",
+        "114.0652123"
+      ]
+    },
+    {
+      "place_id": 236739929,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1430001506,
+      "lat": "22.5259371",
+      "lon": "114.0647973",
+      "category": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "21栋",
+      "display_name": "21栋, 福喜三街, 福民新村, 福民社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5258261",
+        "22.5260480",
+        "114.0645529",
+        "114.0650417"
+      ]
+    }
+  ],
+  "sz:圳市福田区园岭六街 深圳": [
+    {
+      "place_id": 237194225,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 19124013,
+      "lat": "22.5560967",
+      "lon": "114.0927417",
+      "category": "building",
+      "type": "kindergarten",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "深圳市基建幼儿园",
+      "display_name": "深圳市基建幼儿园, 园岭六街, 红荔社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5558043",
+        "22.5563814",
+        "114.0926653",
+        "114.0933615"
+      ]
+    }
+  ],
+  "sz:南山海德二道 深圳": [
+    {
+      "place_id": 237324473,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2380714957,
+      "lat": "22.5209817",
+      "lon": "113.9325260",
+      "category": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "tourism",
+      "name": "新桃园酒店",
+      "display_name": "新桃园酒店, 海德二道, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5209317",
+        "22.5210317",
+        "113.9324760",
+        "113.9325760"
+      ]
+    },
+    {
+      "place_id": 237184014,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10270081633,
+      "lat": "22.5212248",
+      "lon": "113.9330539",
+      "category": "office",
+      "type": "educational_institution",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "office",
+      "name": "香港插花艺术学院深圳培训中心",
+      "display_name": "香港插花艺术学院深圳培训中心, 海德二道, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5211748",
+        "22.5212748",
+        "113.9330039",
+        "113.9331039"
+      ]
+    }
+  ],
+  "sz:福田八卦四路 深圳": [],
+  "sz:盐田深盐路 深圳": [
+    {
+      "place_id": 235570897,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10779289546,
+      "lat": "22.5801641",
+      "lon": "114.2585039",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "盐田",
+      "display_name": "盐田, 深盐路, 盐田街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5751641",
+        "22.5851641",
+        "114.2535039",
+        "114.2635039"
+      ]
+    }
+  ],
+  "sz:罗湖东湖街道 深圳": [
+    {
+      "place_id": 237936933,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 417246,
+      "lat": "22.5852157",
+      "lon": "114.1489953",
+      "category": "water",
+      "type": "reservoir",
+      "place_rank": 20,
+      "importance": 0.2659205816262254,
+      "addresstype": "reservoir",
+      "name": "深圳水库",
+      "display_name": "深圳水库, 东湖街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5686151",
+        "22.6018129",
+        "114.1406459",
+        "114.1646140"
+      ]
+    },
+    {
+      "place_id": 236033882,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1256608471,
+      "lat": "22.5999704",
+      "lon": "114.1790836",
+      "category": "landuse",
+      "type": "plant_nursery",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "plant_nursery",
+      "name": "深圳市兰科植物保护研究中心",
+      "display_name": "深圳市兰科植物保护研究中心, 塘坑仔, 东湖街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5984767",
+        "22.6007119",
+        "114.1774702",
+        "114.1808513"
+      ]
+    },
+    {
+      "place_id": 237987748,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 574503797,
+      "lat": "22.5791996",
+      "lon": "114.1365090",
+      "category": "landuse",
+      "type": "construction",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "construction",
+      "name": "布心小学",
+      "display_name": "布心小学, 68, 翠新社区, 东湖街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5786451",
+        "22.5798939",
+        "114.1359831",
+        "114.1370954"
+      ]
+    }
+  ],
+  "sz:文华花园 深圳": [
+    {
+      "place_id": 236991274,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1205224259,
+      "lat": "22.5475177",
+      "lon": "114.1318905",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "文华花园",
+      "display_name": "文华花园, 文华社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5466971",
+        "22.5483118",
+        "114.1298491",
+        "114.1339348"
+      ]
+    }
+  ],
+  "sz:深圳市罗湖区深圳万象城": [
+    {
+      "place_id": 237453107,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 756810453,
+      "lat": "22.5424295",
+      "lon": "114.1057278",
+      "category": "landuse",
+      "type": "retail",
+      "place_rank": 24,
+      "importance": 0.3538242275522032,
+      "addresstype": "retail",
+      "name": "华润万象城",
+      "display_name": "华润万象城, 新围社区, 桂园街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5401019",
+        "22.5444614",
+        "114.1047735",
+        "114.1066583"
+      ]
+    }
+  ],
+  "sz:南海汇楼上土豆脊骨汤 深圳": [],
+  "sz:园岭新村 深圳": [
+    {
+      "place_id": 237922986,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9202498560,
+      "lat": "22.5583489",
+      "lon": "114.0965550",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "园岭新村",
+      "display_name": "园岭新村, 笋岗西路, 园东社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5582989",
+        "22.5583989",
+        "114.0965050",
+        "114.0966050"
+      ]
+    },
+    {
+      "place_id": 237194966,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9202498557,
+      "lat": "22.5586845",
+      "lon": "114.0965866",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "园岭新村",
+      "display_name": "园岭新村, 笋岗西路, 鹏盛社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5586345",
+        "22.5587345",
+        "114.0965366",
+        "114.0966366"
+      ]
+    }
+  ],
+  "sz:香榭里花园 深圳": [
+    {
+      "place_id": 237062340,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1243990499,
+      "lat": "22.5464708",
+      "lon": "114.0148948",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "香榭里花园",
+      "display_name": "香榭里花园, 117, 农园社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5453529",
+        "22.5480398",
+        "114.0133813",
+        "114.0164604"
+      ]
+    },
+    {
+      "place_id": 237003917,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1343483182,
+      "lat": "22.5474262",
+      "lon": "114.0148456",
+      "category": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "9栋",
+      "display_name": "9栋, 农园路, 农园社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5472248",
+        "22.5476334",
+        "114.0143421",
+        "114.0153261"
+      ]
+    },
+    {
+      "place_id": 236849996,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1343483174,
+      "lat": "22.5472855",
+      "lon": "114.0140346",
+      "category": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "8栋",
+      "display_name": "8栋, 春田路, 农园社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5470972",
+        "22.5474801",
+        "114.0137414",
+        "114.0142422"
+      ]
+    }
+  ],
+  "sz:普通咖啡面包铺 深圳": [],
+  "sz:皇岗村上围一村 深圳": [
+    {
+      "place_id": 237961023,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1430179033,
+      "lat": "22.5298064",
+      "lon": "114.0568686",
+      "category": "amenity",
+      "type": "kindergarten",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "深圳市福田区皇岗小学附属幼儿园",
+      "display_name": "深圳市福田区皇岗小学附属幼儿园, 皇岗三街, 皇岗上围一村, 皇岗社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5295754",
+        "22.5300321",
+        "114.0566586",
+        "114.0570486"
+      ]
+    },
+    {
+      "place_id": 237857324,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1269310462,
+      "lat": "22.5261796",
+      "lon": "114.0556710",
+      "category": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "tourism",
+      "name": "深圳福田皇岗城际酒店",
+      "display_name": "深圳福田皇岗城际酒店, 28, 福民路, 吉龙二村, 皇岗社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5260783",
+        "22.5263767",
+        "114.0550075",
+        "114.0563373"
+      ]
+    }
+  ],
+  "sz:深圳市罗湖区滨河路": [
+    {
+      "place_id": 237993077,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 218587465,
+      "lat": "22.5376195",
+      "lon": "114.1040170",
+      "category": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "primary",
+      "name": "滨河大道辅路",
+      "display_name": "滨河大道辅路, 鹿丹村社区, 桂园街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5374000",
+        "22.5379999",
+        "114.1031207",
+        "114.1049458"
+      ]
+    },
+    {
+      "place_id": 237861771,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 570491403,
+      "lat": "22.5385376",
+      "lon": "114.1009494",
+      "category": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "primary",
+      "name": "滨河大道辅路",
+      "display_name": "滨河大道辅路, 蔡屋围, 新围社区, 桂园街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5383582",
+        "22.5386445",
+        "114.0997766",
+        "114.1021209"
+      ]
+    }
+  ],
+  "sz:深圳市南山区华润万象天地": [
+    {
+      "place_id": 234462545,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 586124738,
+      "lat": "22.5449333",
+      "lon": "113.9511274",
+      "category": "landuse",
+      "type": "retail",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "retail",
+      "name": "华润万象天地",
+      "display_name": "华润万象天地, 大冲社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5437764",
+        "22.5459160",
+        "113.9492485",
+        "113.9528829"
+      ]
+    }
+  ],
+  "sz:Seconds 深圳": [],
+  "sz:卓悦中心 深圳": [
+    {
+      "place_id": 237011760,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 776141699,
+      "lat": "22.5403023",
+      "lon": "114.0599620",
+      "category": "landuse",
+      "type": "retail",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "retail",
+      "name": "One Avenue 卓悦中心",
+      "display_name": "One Avenue 卓悦中心, 岗厦社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5377386",
+        "22.5418468",
+        "114.0589932",
+        "114.0619297"
+      ]
+    },
+    {
+      "place_id": 236746112,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13251476817,
+      "lat": "22.5383843",
+      "lon": "114.0606396",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "寿司郎",
+      "display_name": "寿司郎, 卓悦中心, 福华路, 岗厦社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5383343",
+        "22.5384343",
+        "114.0605896",
+        "114.0606896"
+      ]
+    },
+    {
+      "place_id": 236734338,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13251476818,
+      "lat": "22.5378459",
+      "lon": "114.0608489",
+      "category": "shop",
+      "type": "convenience",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "罗森",
+      "display_name": "罗森, 卓悦中心, 福华路, 岗厦社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5377959",
+        "22.5378959",
+        "114.0607989",
+        "114.0608989"
+      ]
+    }
+  ],
+  "sz:toto 深圳": [],
+  "sz:深圳市宝安区凤凰岗中": [
+    {
+      "place_id": 239694940,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 533997995,
+      "lat": "22.5954276",
+      "lon": "113.8820586",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "中粮澜山",
+      "display_name": "中粮澜山, 富华社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.5940355",
+        "22.5969573",
+        "113.8802646",
+        "113.8865061"
+      ]
+    },
+    {
+      "place_id": 235732126,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1445999885,
+      "lat": "22.5990038",
+      "lon": "113.8707495",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "凤田中心区",
+      "display_name": "凤田中心区, 臣田社区, 西乡街道, 宝安区, 深圳市, 广东省, 518102, 中国",
+      "boundingbox": [
+        "22.5976916",
+        "22.6000144",
+        "113.8692243",
+        "113.8725689"
+      ]
+    },
+    {
+      "place_id": 235725464,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1425739723,
+      "lat": "22.5979545",
+      "lon": "113.8767273",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "中熙·香缤山花园",
+      "display_name": "中熙·香缤山花园, 凤凰岗社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.5971107",
+        "22.5988570",
+        "113.8760227",
+        "113.8775907"
+      ]
+    }
+  ],
+  "sz:COFFEE 深圳": [
+    {
+      "place_id": 238142231,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13232532430,
+      "lat": "22.5189947",
+      "lon": "113.9409603",
+      "category": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "Manner Coffee",
+      "display_name": "Manner Coffee, 深圳湾万象城, 逸湖六街, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5189447",
+        "22.5190447",
+        "113.9409103",
+        "113.9410103"
+      ]
+    },
+    {
+      "place_id": 237907876,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13296798859,
+      "lat": "22.5485093",
+      "lon": "114.0545450",
+      "category": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "瑞幸咖啡",
+      "display_name": "瑞幸咖啡, 深圳书城·中心城, 福中一路, 福中社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5484593",
+        "22.5485593",
+        "114.0544950",
+        "114.0545950"
+      ]
+    }
+  ],
+  "sz:天安创新科技广场 深圳": [],
+  "sz:深圳南山区学府路": [
+    {
+      "place_id": 237509054,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 689220807,
+      "lat": "22.5283563",
+      "lon": "113.9274579",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "学府路",
+      "display_name": "学府路, 滨海社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5280667",
+        "22.5292078",
+        "113.9248330",
+        "113.9302243"
+      ]
+    },
+    {
+      "place_id": 234454290,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1185912014,
+      "lat": "22.5300518",
+      "lon": "113.9217006",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "学府路",
+      "display_name": "学府路, 大汪山社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5296112",
+        "22.5305064",
+        "113.9195267",
+        "113.9238771"
+      ]
+    },
+    {
+      "place_id": 234545494,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 689220805,
+      "lat": "22.5308786",
+      "lon": "113.9177142",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "学府路",
+      "display_name": "学府路, 田下村, 田厦社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5305395",
+        "22.5311427",
+        "113.9160465",
+        "113.9193692"
+      ]
+    }
+  ],
+  "sz:圳市南山区科苑南路 深圳": [
+    {
+      "place_id": 235312302,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 695761856,
+      "lat": "22.5126637",
+      "lon": "113.9390853",
+      "category": "railway",
+      "type": "subway",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "深圳地铁13号线",
+      "display_name": "深圳地铁13号线, 科苑南路, 蔚蓝社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5066285",
+        "22.5206735",
+        "113.9375071",
+        "113.9437681"
+      ]
+    },
+    {
+      "place_id": 237726521,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13232532424,
+      "lat": "22.5184689",
+      "lon": "113.9405554",
+      "category": "shop",
+      "type": "supermarket",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "Ole'精品超市",
+      "display_name": "Ole'精品超市, 深圳湾万象城, 科苑南路, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5184189",
+        "22.5185189",
+        "113.9405054",
+        "113.9406054"
+      ]
+    },
+    {
+      "place_id": 236895117,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12744602576,
+      "lat": "22.5087034",
+      "lon": "113.9394333",
+      "category": "tourism",
+      "type": "artwork",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "tourism",
+      "name": "我是深圳人雕塑",
+      "display_name": "我是深圳人雕塑, 科苑南路, 蔚蓝社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5086534",
+        "22.5087534",
+        "113.9393833",
+        "113.9394833"
+      ]
+    }
+  ],
+  "hk:大围积富街 香港": [
+    {
+      "place_id": 237914593,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 612163145,
+      "lat": "22.2817870",
+      "lon": "114.1562478",
+      "category": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "building",
+      "name": "興瑋大廈",
+      "display_name": "興瑋大廈, 36, 德己立街, 蘇豪, 中環, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2816564",
+        "22.2819260",
+        "114.1561068",
+        "114.1563878"
+      ]
+    }
+  ],
+  "sz:希灵三文鱼 深圳": [],
+  "sz:永新时代广场 深圳": [],
+  "sz:llasagnee 深圳": [],
+  "sz:Dudley 深圳": [],
+  "sz:深圳市福田区沙头街": [
+    {
+      "place_id": 237283512,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 10786947,
+      "lat": "22.5316238",
+      "lon": "114.0373199",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 16,
+      "importance": 0.29684236187219576,
+      "addresstype": "suburb",
+      "name": "沙头街道",
+      "display_name": "沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5070784",
+        "22.5424383",
+        "113.9860161",
+        "114.0449639"
+      ]
+    },
+    {
+      "place_id": 237421508,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1337118149,
+      "lat": "22.5205095",
+      "lon": "114.0398960",
+      "category": "landuse",
+      "type": "construction",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "construction",
+      "name": "福田区沙头街道文化创意园城市更新项目",
+      "display_name": "福田区沙头街道文化创意园城市更新项目, 翠湾社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5193653",
+        "22.5214651",
+        "114.0386129",
+        "114.0413686"
+      ]
+    }
+  ],
+  "hk:ideaology 香港": [],
+  "sz:深圳市福田区车公庙写": [],
+  "sz:山区海上世界船尾广场 深圳": [],
+  "hk:香港会议展览中心": [
+    {
+      "place_id": 234241633,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 754002052,
+      "lat": "22.2826248",
+      "lon": "114.1730688",
+      "category": "amenity",
+      "type": "exhibition_centre",
+      "place_rank": 30,
+      "importance": 0.4923264559525533,
+      "addresstype": "amenity",
+      "name": "香港會議展覽中心",
+      "display_name": "香港會議展覽中心, 中環及灣仔繞道, 灣仔, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2805973",
+        "22.2846752",
+        "114.1708397",
+        "114.1740921"
+      ]
+    },
+    {
+      "place_id": 239354666,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3049050081,
+      "lat": "22.2812077",
+      "lon": "114.1741781",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "highway",
+      "name": "香港會議展覽中心",
+      "display_name": "香港會議展覽中心, 菲林明道, 灣仔北, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2811577",
+        "22.2812577",
+        "114.1741281",
+        "114.1742281"
+      ]
+    },
+    {
+      "place_id": 234266810,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3049050071,
+      "lat": "22.2805420",
+      "lon": "114.1734200",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "highway",
+      "name": "香港會議展覽中心",
+      "display_name": "香港會議展覽中心, 港灣道, 灣仔北, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2804920",
+        "22.2805920",
+        "114.1733700",
+        "114.1734700"
+      ]
+    }
+  ],
+  "sz:洪湖公园 深圳": [
+    {
+      "place_id": 238022824,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 219493684,
+      "lat": "22.5674622",
+      "lon": "114.1144960",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.1507975276546128,
+      "addresstype": "park",
+      "name": "洪湖公园",
+      "display_name": "洪湖公园, 2023号, 笋岗街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5589995",
+        "22.5763197",
+        "114.1118319",
+        "114.1176354"
+      ]
+    }
+  ],
+  "sz:深圳人才公园": [
+    {
+      "place_id": 235735763,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 18459537,
+      "lat": "22.5136618",
+      "lon": "113.9441738",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "深圳人才公园",
+      "display_name": "深圳人才公园, 粤海街道, 南山区, 深圳市, 广东省, 518052, 中国",
+      "boundingbox": [
+        "22.5083196",
+        "22.5190388",
+        "113.9390350",
+        "113.9480925"
+      ]
+    }
+  ],
+  "sz:福田红树林生态公园 深圳": [
+    {
+      "place_id": 236894406,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 545246937,
+      "lat": "22.5118181",
+      "lon": "114.0347317",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "福田红树林生态公园",
+      "display_name": "福田红树林生态公园, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5070784",
+        "22.5165179",
+        "114.0307662",
+        "114.0380090"
+      ]
+    }
+  ],
+  "sz:莲花山公园 深圳": [
+    {
+      "place_id": 238058374,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 41281446,
+      "lat": "22.5566275",
+      "lon": "114.0532386",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.3966620202275504,
+      "addresstype": "park",
+      "name": "莲花山公园",
+      "display_name": "莲花山公园, 6030, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5509741",
+        "22.5623765",
+        "114.0441904",
+        "114.0623191"
+      ]
+    }
+  ],
+  "sz:九祥岭湿地公园 深圳": [
+    {
+      "place_id": 236946107,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 15626539,
+      "lat": "22.5866654",
+      "lon": "113.9548374",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "九祥岭湿地公园",
+      "display_name": "九祥岭湿地公园, 西丽社区, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5839793",
+        "22.5893103",
+        "113.9535401",
+        "113.9557658"
+      ]
+    },
+    {
+      "place_id": 245731669,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1425733155,
+      "lat": "22.5904187",
+      "lon": "113.9561600",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "九祥岭湿地公园",
+      "display_name": "九祥岭湿地公园, 大学城社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5901898",
+        "22.5906450",
+        "113.9558191",
+        "113.9564622"
+      ]
+    }
+  ],
+  "sz:大沙河西丽段 深圳": [],
+  "sz:壹方天地分店仅搜索提 深圳": [],
+  "sz:深圳创意园": [
+    {
+      "place_id": 237764493,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1415598546,
+      "lat": "22.6977485",
+      "lon": "114.2182444",
+      "category": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "commercial",
+      "name": "那里文化创意园",
+      "display_name": "那里文化创意园, 爱联社区, 龙城街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.6968922",
+        "22.6985150",
+        "114.2177209",
+        "114.2196742"
+      ]
+    },
+    {
+      "place_id": 237831820,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 992351694,
+      "lat": "22.5213453",
+      "lon": "114.0397951",
+      "category": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "commercial",
+      "name": "深圳文化创意园",
+      "display_name": "深圳文化创意园, 翠湾社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5207387",
+        "22.5220108",
+        "114.0388668",
+        "114.0406229"
+      ]
+    },
+    {
+      "place_id": 237691020,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1280112424,
+      "lat": "22.6876062",
+      "lon": "113.7771556",
+      "category": "landuse",
+      "type": "industrial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "industrial",
+      "name": "国际会展文化创意园",
+      "display_name": "国际会展文化创意园, 福海街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.6867391",
+        "22.6883598",
+        "113.7765509",
+        "113.7777615"
+      ]
+    }
+  ],
+  "sz:VALERIE 深圳": [],
+  "sz:香轩路 深圳": [
+    {
+      "place_id": 235503667,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 837565285,
+      "lat": "22.5421428",
+      "lon": "114.0179358",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "香轩路",
+      "display_name": "香轩路, 东海社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5416858",
+        "22.5425737",
+        "114.0154388",
+        "114.0204457"
+      ]
+    }
+  ],
+  "sz:深圳市龙华区梅陇路": [
+    {
+      "place_id": 237810538,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1180048045,
+      "lat": "22.6171950",
+      "lon": "114.0304644",
+      "category": "man_made",
+      "type": "bridge",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "man_made",
+      "name": "梅龙路铁路跨线桥",
+      "display_name": "梅龙路铁路跨线桥, 龙华大道绿道, 樟坑, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.6167588",
+        "22.6176360",
+        "114.0300401",
+        "114.0308894"
+      ]
+    },
+    {
+      "place_id": 237771420,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 989327537,
+      "lat": "22.6311249",
+      "lon": "114.0229776",
+      "category": "amenity",
+      "type": "bus_station",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "中梅路公交首末站",
+      "display_name": "中梅路公交首末站, 中梅路, 大岭社区, 民治街道, 龙华区, 深圳市, 广东省, 518131, 中国",
+      "boundingbox": [
+        "22.6309036",
+        "22.6312659",
+        "114.0225989",
+        "114.0233560"
+      ]
+    }
+  ],
+  "sz:深圳湾万象城": [
+    {
+      "place_id": 234468975,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 19692109,
+      "lat": "22.5179038",
+      "lon": "113.9389111",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "深圳湾万象城",
+      "display_name": "深圳湾万象城, 逸湖五街, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5166102",
+        "22.5214478",
+        "113.9355819",
+        "113.9426286"
+      ]
+    },
+    {
+      "place_id": 237566914,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13242476389,
+      "lat": "22.5190296",
+      "lon": "113.9384390",
+      "category": "shop",
+      "type": "variety_store",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "无印良品",
+      "display_name": "无印良品, 深圳湾万象城, 中心路, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5189796",
+        "22.5190796",
+        "113.9383890",
+        "113.9384890"
+      ]
+    },
+    {
+      "place_id": 237566884,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13232532422,
+      "lat": "22.5185865",
+      "lon": "113.9411348",
+      "category": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "星巴克",
+      "display_name": "星巴克, 深圳湾万象城, 逸景四路, 海珠社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5185365",
+        "22.5186365",
+        "113.9410848",
+        "113.9411848"
+      ]
+    }
+  ],
+  "sz:笔架山体育公园 深圳": [
+    {
+      "place_id": 237786556,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1347336359,
+      "lat": "22.5632896",
+      "lon": "114.0688420",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "笔架山体育公园",
+      "display_name": "笔架山体育公园, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5582397",
+        "22.5684489",
+        "114.0677766",
+        "114.0719134"
+      ]
+    }
+  ],
+  "sz:圳深业上城笔架山公园 深圳": [],
+  "sz:罗湖区东湖公园 深圳": [
+    {
+      "place_id": 237715002,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1262825234,
+      "lat": "22.5471864",
+      "lon": "114.1471678",
+      "category": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "深圳市大朋友学校(罗芳校区)",
+      "display_name": "深圳市大朋友学校(罗芳校区), 罗芳公园郊野径, 新兴社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5462436",
+        "22.5479505",
+        "114.1461789",
+        "114.1480508"
+      ]
+    }
+  ],
+  "sz:富德楼 深圳": [
+    {
+      "place_id": 237951071,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1132516294,
+      "lat": "22.5481147",
+      "lon": "114.1187702",
+      "category": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "深圳市湖贝小学",
+      "display_name": "深圳市湖贝小学, 禾塘路, 湖容社区, 东门街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5478972",
+        "22.5483693",
+        "114.1183845",
+        "114.1191984"
+      ]
+    }
+  ],
+  "sz:精神书局 深圳": [],
+  "sz:Daychild 深圳": [],
+  "sz:元创方 深圳": [
+    {
+      "place_id": 235543496,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1253197515,
+      "lat": "22.5050631",
+      "lon": "114.0535598",
+      "category": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "commercial",
+      "name": "智立方创新园",
+      "display_name": "智立方创新园, 福保社区, 福保街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5047051",
+        "22.5054223",
+        "114.0530432",
+        "114.0540884"
+      ]
+    },
+    {
+      "place_id": 235556064,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1442289242,
+      "lat": "22.6290138",
+      "lon": "114.4308926",
+      "category": "landuse",
+      "type": "industrial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "industrial",
+      "name": "东方科技创新产业园",
+      "display_name": "东方科技创新产业园, 葵涌街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.6281114",
+        "22.6297494",
+        "114.4299361",
+        "114.4319535"
+      ]
+    },
+    {
+      "place_id": 237309779,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1296292139,
+      "lat": "22.7555994",
+      "lon": "113.8230296",
+      "category": "landuse",
+      "type": "industrial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "industrial",
+      "name": "同方创意文化产业园",
+      "display_name": "同方创意文化产业园, 沙井街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.7550275",
+        "22.7562392",
+        "113.8223199",
+        "113.8239549"
+      ]
+    }
+  ],
+  "sz:深圳市龙华区": [
+    {
+      "place_id": 239480587,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 5664193,
+      "lat": "22.6994309",
+      "lon": "114.0398603",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.4742878420301921,
+      "addresstype": "county",
+      "name": "龙华区",
+      "display_name": "龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.5839926",
+        "22.7746034",
+        "113.9614318",
+        "114.1084677"
+      ]
+    }
+  ],
+  "sz:深圳南山太子路": [
+    {
+      "place_id": 237963156,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 96797445,
+      "lat": "22.4839065",
+      "lon": "113.9082880",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "太子路",
+      "display_name": "太子路, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.4820231",
+        "22.4856937",
+        "113.9079271",
+        "113.9089398"
+      ]
+    }
+  ],
+  "hk:牛尾洲 香港": [
+    {
+      "place_id": 234261350,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 9560720,
+      "lat": "22.3269133",
+      "lon": "114.2970717",
+      "category": "place",
+      "type": "island",
+      "place_rank": 17,
+      "importance": 0.30723887866744215,
+      "addresstype": "island",
+      "name": "牛尾洲",
+      "display_name": "牛尾洲, 西貢區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3220918",
+        "22.3317223",
+        "114.2928019",
+        "114.3022808"
+      ]
+    }
+  ],
+  "hk:破边洲 香港": [
+    {
+      "place_id": 235417633,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 191174810,
+      "lat": "22.3583810",
+      "lon": "114.3784988",
+      "category": "place",
+      "type": "islet",
+      "place_rank": 20,
+      "importance": 0.13339882429236283,
+      "addresstype": "islet",
+      "name": "破邊洲",
+      "display_name": "破邊洲, 西貢區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3575004",
+        "22.3592728",
+        "114.3772459",
+        "114.3795177"
+      ]
+    }
+  ],
+  "hk:海下湾 香港": [
+    {
+      "place_id": 237226251,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 9278482,
+      "lat": "22.4710069",
+      "lon": "114.3353727",
+      "category": "natural",
+      "type": "bay",
+      "place_rank": 22,
+      "importance": 0.10673215762569617,
+      "addresstype": "bay",
+      "name": "海下灣",
+      "display_name": "海下灣, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4613090",
+        "22.4808923",
+        "114.3213837",
+        "114.3411440"
+      ]
+    }
+  ],
+  "hk:果洲群岛 香港": [
+    {
+      "place_id": 236835815,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 15957609,
+      "lat": "22.2568111",
+      "lon": "114.3502808",
+      "category": "place",
+      "type": "archipelago",
+      "place_rank": 22,
+      "importance": 0.10673215762569617,
+      "addresstype": "archipelago",
+      "name": "果洲群島",
+      "display_name": "果洲群島, 西貢區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.2530737",
+        "22.2721348",
+        "114.3447282",
+        "114.3705866"
+      ]
+    },
+    {
+      "place_id": 236697328,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1132091266,
+      "lat": "22.2631935",
+      "lon": "114.3572059",
+      "category": "place",
+      "type": "locality",
+      "place_rank": 25,
+      "importance": 0.06673215762569619,
+      "addresstype": "locality",
+      "name": "果洲群島",
+      "display_name": "果洲群島, 西貢區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.2531935",
+        "22.2731935",
+        "114.3472059",
+        "114.3672059"
+      ]
+    }
+  ],
+  "sz:仅地区线索 深圳": [
+    {
+      "place_id": 237049122,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 831240063,
+      "lat": "22.7497691",
+      "lon": "114.3796465",
+      "category": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "office",
+      "name": "深圳市不动产登记中心（坪山登记所）",
+      "display_name": "深圳市不动产登记中心（坪山登记所）, 坑梓人民西路, 东二, 坑梓街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+      "boundingbox": [
+        "22.7494639",
+        "22.7500971",
+        "114.3791716",
+        "114.3801337"
+      ]
+    }
+  ],
+  "sz:Hollow 深圳": [],
+  "sz:深圳市宝安区": [
+    {
+      "place_id": 235702223,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 5664101,
+      "lat": "22.5598530",
+      "lon": "113.8790334",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.4844301150291414,
+      "addresstype": "county",
+      "name": "宝安区",
+      "display_name": "宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.5204859",
+        "22.8644043",
+        "113.6805151",
+        "113.9737561"
+      ]
+    }
+  ],
+  "sz:LOFT 深圳": [
+    {
+      "place_id": 238796729,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 435827466,
+      "lat": "22.5425751",
+      "lon": "113.9868104",
+      "category": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "Loft A1",
+      "display_name": "Loft A1, 文昌街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5424249",
+        "22.5426976",
+        "113.9863065",
+        "113.9873172"
+      ]
+    },
+    {
+      "place_id": 239037630,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 532810322,
+      "lat": "22.5412758",
+      "lon": "113.9897931",
+      "category": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "Loft G2",
+      "display_name": "Loft G2, 香山东街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5411373",
+        "22.5414143",
+        "113.9893781",
+        "113.9902082"
+      ]
+    },
+    {
+      "place_id": 235748196,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 435827461,
+      "lat": "22.5426152",
+      "lon": "113.9876884",
+      "category": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "Loft A5",
+      "display_name": "Loft A5, A5, 文昌南街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5424769",
+        "22.5427858",
+        "113.9874082",
+        "113.9879690"
+      ]
+    }
+  ],
+  "sz:周末市集 深圳": [],
+  "sz:楼上市集 深圳": [
+    {
+      "place_id": 238025323,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 787005744,
+      "lat": "22.7381322",
+      "lon": "114.3662514",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "光祖商业楼",
+      "display_name": "光祖商业楼, 吉康路, 沙梨园, 坑梓街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+      "boundingbox": [
+        "22.7378493",
+        "22.7384592",
+        "114.3660147",
+        "114.3665083"
+      ]
+    }
+  ],
+  "sz:斯达大厦 深圳": [
+    {
+      "place_id": 235533003,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1270819270,
+      "lat": "22.5707805",
+      "lon": "114.0607476",
+      "category": "building",
+      "type": "office",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "斯达大厦",
+      "display_name": "斯达大厦, 越华路, 孖岭社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5707179",
+        "22.5708786",
+        "114.0603529",
+        "114.0611847"
+      ]
+    }
+  ],
+  "sz:云峰路 深圳": [
+    {
+      "place_id": 234437145,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 392827312,
+      "lat": "22.6591773",
+      "lon": "113.9973541",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "云峰路",
+      "display_name": "云峰路, 陶元社区, 大浪街道, 龙华区, 深圳市, 广东省, 518109, 中国",
+      "boundingbox": [
+        "22.6564507",
+        "22.6622195",
+        "113.9957313",
+        "113.9977258"
+      ]
+    }
+  ],
+  "sz:盐田区明珠大道 深圳": [
+    {
+      "place_id": 238076920,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5432970376,
+      "lat": "22.5814219",
+      "lon": "114.2656473",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "盐田国际大厦",
+      "display_name": "盐田国际大厦, 明珠大道, 盐田港, 盐田街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5813719",
+        "22.5814719",
+        "114.2655973",
+        "114.2656973"
+      ]
+    }
+  ],
+  "sz:徐记海鲜 深圳": [],
+  "sz:梅林路 深圳": [
+    {
+      "place_id": 235526662,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 867935335,
+      "lat": "22.5713213",
+      "lon": "114.0453396",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "梅林路",
+      "display_name": "梅林路, 新兴社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5705576",
+        "22.5713809",
+        "114.0422816",
+        "114.0485332"
+      ]
+    },
+    {
+      "place_id": 235558210,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1049968041,
+      "lat": "22.5710796",
+      "lon": "114.0603416",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "梅林路",
+      "display_name": "梅林路, 梅亭社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5710784",
+        "22.5712384",
+        "114.0588537",
+        "114.0617985"
+      ]
+    },
+    {
+      "place_id": 235529219,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 996247173,
+      "lat": "22.5711790",
+      "lon": "114.0630062",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "梅林路",
+      "display_name": "梅林路, 翰岭社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5711704",
+        "22.5711931",
+        "114.0620774",
+        "114.0639354"
+      ]
+    }
+  ],
+  "sz:福田区华强南大门坊 深圳": [],
+  "sz:深圳龙华花园新村": [
+    {
+      "place_id": 236997803,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1423221967,
+      "lat": "22.6587369",
+      "lon": "114.0129346",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "龙华荔园新村",
+      "display_name": "龙华荔园新村, 梅苑, 龙华街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.6577589",
+        "22.6594726",
+        "114.0119710",
+        "114.0142674"
+      ]
+    },
+    {
+      "place_id": 237189191,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1352624354,
+      "lat": "22.6697804",
+      "lon": "113.9905998",
+      "category": "landuse",
+      "type": "construction",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "construction",
+      "name": "龙华区大浪街道谭罗村片区城市更新单元（二期）（暂）",
+      "display_name": "龙华区大浪街道谭罗村片区城市更新单元（二期）（暂）, 华荣社区, 大浪街道, 龙华区, 深圳市, 广东省, 518109, 中国",
+      "boundingbox": [
+        "22.6688654",
+        "22.6709252",
+        "113.9896727",
+        "113.9914673"
+      ]
+    }
+  ],
+  "sz:麻吉士林台湾 深圳": [],
+  "sz:顺景花园 深圳": [
+    {
+      "place_id": 238018588,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 906542657,
+      "lat": "22.7047487",
+      "lon": "114.2226494",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "顺景花园",
+      "display_name": "顺景花园, 新联社区, 龙城街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.7043404",
+        "22.7058844",
+        "114.2213750",
+        "114.2239606"
+      ]
+    }
+  ],
+  "hk:铜锣湾 香港": [
+    {
+      "place_id": 236836728,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7682648805,
+      "lat": "22.2820777",
+      "lon": "114.1891587",
+      "category": "place",
+      "type": "locality",
+      "place_rank": 25,
+      "importance": 0.5386399674958041,
+      "addresstype": "locality",
+      "name": "銅鑼灣",
+      "display_name": "銅鑼灣, 東角, 銅鑼灣, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2720777",
+        "22.2920777",
+        "114.1791587",
+        "114.1991587"
+      ]
+    },
+    {
+      "place_id": 236887223,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 255829293,
+      "lat": "22.2809029",
+      "lon": "114.1870669",
+      "category": "place",
+      "type": "suburb",
+      "place_rank": 19,
+      "importance": 0.5386399674958041,
+      "addresstype": "suburb",
+      "name": "銅鑼灣",
+      "display_name": "銅鑼灣, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2609029",
+        "22.3009029",
+        "114.1670669",
+        "114.2070669"
+      ]
+    },
+    {
+      "place_id": 237022680,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 248971549,
+      "lat": "22.2793921",
+      "lon": "114.1829259",
+      "category": "man_made",
+      "type": "tunnel",
+      "place_rank": 30,
+      "importance": 0.43720322864280375,
+      "addresstype": "man_made",
+      "name": "銅鑼灣",
+      "display_name": "銅鑼灣, 555, 啓超道, 利園山, 銅鑼灣, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2780978",
+        "22.2806800",
+        "114.1821758",
+        "114.1853036"
+      ]
+    }
+  ],
+  "hk:坚尼地城 香港": [
+    {
+      "place_id": 236840151,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1680951129,
+      "lat": "22.2824348",
+      "lon": "114.1284168",
+      "category": "place",
+      "type": "suburb",
+      "place_rank": 19,
+      "importance": 0.45875346312934534,
+      "addresstype": "suburb",
+      "name": "堅尼地城",
+      "display_name": "堅尼地城, 西環, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2624348",
+        "22.3024348",
+        "114.1084168",
+        "114.1484168"
+      ]
+    },
+    {
+      "place_id": 237594259,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 248775630,
+      "lat": "22.2814852",
+      "lon": "114.1291911",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.4245821633666411,
+      "addresstype": "railway",
+      "name": "堅尼地城",
+      "display_name": "堅尼地城, 12N, 士美菲路, 堅尼地城, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2808872",
+        "22.2821055",
+        "114.1274223",
+        "114.1295133"
+      ]
+    },
+    {
+      "place_id": 236882176,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9085332216,
+      "lat": "22.2812252",
+      "lon": "114.1283812",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.4245821633666411,
+      "addresstype": "railway",
+      "name": "堅尼地城",
+      "display_name": "堅尼地城, 12N, 士美菲路, 堅尼地城, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2762252",
+        "22.2862252",
+        "114.1233812",
+        "114.1333812"
+      ]
+    }
+  ],
+  "hk:Something 香港": [],
+  "sz:福田村福新坊 深圳": [
+    {
+      "place_id": 236966700,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 351753025,
+      "lat": "22.5489494",
+      "lon": "114.0901195",
+      "category": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "office",
+      "name": "深圳市居台办",
+      "display_name": "深圳市居台办, 振兴路, 深铁汇坊（华强北站）, 福强社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5487435",
+        "22.5491534",
+        "114.0896639",
+        "114.0907184"
+      ]
+    },
+    {
+      "place_id": 236998660,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6642650209,
+      "lat": "22.5489471",
+      "lon": "114.0882945",
+      "category": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "office",
+      "name": "深圳市城市规划设计院",
+      "display_name": "深圳市城市规划设计院, 振兴路, 深铁汇坊（华强北站）, 福强社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5488971",
+        "22.5489971",
+        "114.0882445",
+        "114.0883445"
+      ]
+    }
+  ],
+  "hk:香港南区香港仔渔人码头": [],
+  "hk:莊士敦道 香港": [
+    {
+      "place_id": 236856616,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86325222,
+      "lat": "22.2778363",
+      "lon": "114.1768740",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.41683092676635153,
+      "addresstype": "tertiary",
+      "name": "莊士敦道",
+      "display_name": "莊士敦道, 鵝頸, 摩利臣山, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2777033",
+        "22.2779596",
+        "114.1766389",
+        "114.1771144"
+      ]
+    },
+    {
+      "place_id": 236904273,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 567856163,
+      "lat": "22.2768714",
+      "lon": "114.1707408",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05341976424811166,
+      "addresstype": "tertiary",
+      "name": "莊士敦道",
+      "display_name": "莊士敦道, 灣仔南, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2765942",
+        "22.2771477",
+        "114.1702942",
+        "114.1711868"
+      ]
+    }
+  ],
+  "sz:侨城西街 深圳": [
+    {
+      "place_id": 237214202,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 557222457,
+      "lat": "22.5409981",
+      "lon": "113.9760673",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "侨城西街",
+      "display_name": "侨城西街, 文昌街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5396000",
+        "22.5412705",
+        "113.9726682",
+        "113.9790737"
+      ]
+    },
+    {
+      "place_id": 237181567,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1052231185,
+      "lat": "22.5396903",
+      "lon": "113.9715272",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "侨城西街",
+      "display_name": "侨城西街, 华夏街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5392618",
+        "22.5400869",
+        "113.9713224",
+        "113.9717770"
+      ]
+    }
+  ],
+  "sz:园岭六街 深圳": [
+    {
+      "place_id": 234256013,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 96946522,
+      "lat": "22.5570743",
+      "lon": "114.0945219",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "residential",
+      "name": "园岭六街",
+      "display_name": "园岭六街, 红荔社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5557700",
+        "22.5571134",
+        "114.0926247",
+        "114.0974681"
+      ]
+    }
+  ],
+  "sz:正东名苑 深圳": [
+    {
+      "place_id": 237720916,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 565468006,
+      "lat": "22.5226898",
+      "lon": "113.9207022",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "正东名苑",
+      "display_name": "正东名苑, 355-5, 南光社区, 南山街道, 南山区, 深圳市, 广东省, 518054, 中国",
+      "boundingbox": [
+        "22.5221352",
+        "22.5235439",
+        "113.9198093",
+        "113.9214428"
+      ]
+    },
+    {
+      "place_id": 238449950,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1103062620,
+      "lat": "22.5224030",
+      "lon": "113.9207343",
+      "category": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "2栋A座",
+      "display_name": "2栋A座, 南光商业街, 南光社区, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5221816",
+        "22.5226257",
+        "113.9203133",
+        "113.9208908"
+      ]
+    },
+    {
+      "place_id": 237371729,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1103062621,
+      "lat": "22.5228758",
+      "lon": "113.9210827",
+      "category": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "1栋",
+      "display_name": "1栋, 海德二道, 南光社区, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5226607",
+        "22.5230910",
+        "113.9208319",
+        "113.9213334"
+      ]
+    }
+  ],
+  "sz:海上世界 深圳": [
+    {
+      "place_id": 238108462,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6715085274,
+      "lat": "22.4881293",
+      "lon": "113.9101589",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.4132399184526773,
+      "addresstype": "railway",
+      "name": "海上世界",
+      "display_name": "海上世界, 太子路, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.4831293",
+        "22.4931293",
+        "113.9051589",
+        "113.9151589"
+      ]
+    },
+    {
+      "place_id": 237914897,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10111219662,
+      "lat": "22.4880191",
+      "lon": "113.9088351",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.4132399184526773,
+      "addresstype": "railway",
+      "name": "海上世界",
+      "display_name": "海上世界, 南海大道, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.4830191",
+        "22.4930191",
+        "113.9038351",
+        "113.9138351"
+      ]
+    },
+    {
+      "place_id": 237857814,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 543176177,
+      "lat": "22.4860651",
+      "lon": "113.9118315",
+      "category": "landuse",
+      "type": "retail",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "retail",
+      "name": "海上世界",
+      "display_name": "海上世界, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.4845525",
+        "22.4876275",
+        "113.9096092",
+        "113.9139553"
+      ]
+    }
+  ],
+  "sz:COCO Park 深圳": [
+    {
+      "place_id": 237824332,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 546582690,
+      "lat": "22.5363888",
+      "lon": "114.0488652",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 0.3511138876399894,
+      "addresstype": "shop",
+      "name": "福田 COCO Park",
+      "display_name": "福田 COCO Park, 中心二路, 福安社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5354563",
+        "22.5372110",
+        "114.0479712",
+        "114.0499833"
+      ]
+    },
+    {
+      "place_id": 237708442,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 727054447,
+      "lat": "22.6066180",
+      "lon": "114.0540468",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "星河WORLD COCO Park",
+      "display_name": "星河WORLD COCO Park, 8, 雅星路, 南坑, 坂田街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.6055214",
+        "22.6077097",
+        "114.0535413",
+        "114.0549009"
+      ]
+    }
+  ],
+  "sz:天安数码城 深圳": [
+    {
+      "place_id": 238050321,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1305353889,
+      "lat": "22.5342640",
+      "lon": "114.0267427",
+      "category": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "commercial",
+      "name": "天安数码城",
+      "display_name": "天安数码城, 天安社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5321548",
+        "22.5372121",
+        "114.0245534",
+        "114.0281790"
+      ]
+    },
+    {
+      "place_id": 237976333,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5870072785,
+      "lat": "22.5359513",
+      "lon": "114.0239902",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "天安数码城",
+      "display_name": "天安数码城, 香蜜湖路辅路, 泰然社区, 天安社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5359013",
+        "22.5360013",
+        "114.0239402",
+        "114.0240402"
+      ]
+    },
+    {
+      "place_id": 237929208,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12086532567,
+      "lat": "22.5351768",
+      "lon": "114.0237191",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "天安数码城 (招呼站)",
+      "display_name": "天安数码城 (招呼站), 泰然六路, 泰然社区, 天安社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5351268",
+        "22.5352268",
+        "114.0236691",
+        "114.0237691"
+      ]
+    }
+  ],
+  "sz:学府路 南山 深圳": [
+    {
+      "place_id": 235810196,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1185912014,
+      "lat": "22.5300518",
+      "lon": "113.9217006",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "学府路",
+      "display_name": "学府路, 大汪山社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5296112",
+        "22.5305064",
+        "113.9195267",
+        "113.9238771"
+      ]
+    },
+    {
+      "place_id": 235733043,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 689220805,
+      "lat": "22.5308786",
+      "lon": "113.9177142",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "学府路",
+      "display_name": "学府路, 田下村, 田厦社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5305395",
+        "22.5311427",
+        "113.9160465",
+        "113.9193692"
+      ]
+    },
+    {
+      "place_id": 235790640,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 996007441,
+      "lat": "22.5312761",
+      "lon": "113.9074921",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "学府路",
+      "display_name": "学府路, 前海社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5312724",
+        "22.5315472",
+        "113.9047575",
+        "113.9102620"
+      ]
+    }
+  ],
+  "hk:積富街 大圍 香港": [
+    {
+      "place_id": 237985575,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 116287662,
+      "lat": "22.3752503",
+      "lon": "114.1782449",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "residential",
+      "name": "積富街",
+      "display_name": "積富街, 大圍墟, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3743441",
+        "22.3762387",
+        "114.1779194",
+        "114.1787268"
+      ]
+    },
+    {
+      "place_id": 237530413,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1284802614,
+      "lat": "22.3749827",
+      "lon": "114.1783682",
+      "category": "highway",
+      "type": "footway",
+      "place_rank": 27,
+      "importance": 0.04006549095902952,
+      "addresstype": "road",
+      "name": "積富街",
+      "display_name": "積富街, 大圍墟, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3748561",
+        "22.3751094",
+        "114.1783289",
+        "114.1784075"
+      ]
+    },
+    {
+      "place_id": 430736994,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 37554025,
+      "lat": "22.3741667",
+      "lon": "114.1784146",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "tertiary",
+      "name": "積福街",
+      "display_name": "積福街, 大圍, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3741664",
+        "22.3741846",
+        "114.1783404",
+        "114.1784909"
+      ]
+    }
+  ],
+  "sz:南油 南山 深圳": [
+    {
+      "place_id": 238142844,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10111193098,
+      "lat": "22.5136086",
+      "lon": "113.9210605",
+      "category": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "南油",
+      "display_name": "南油, 南海大道, 登良社区, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5135586",
+        "22.5136586",
+        "113.9210105",
+        "113.9211105"
+      ]
+    }
+  ],
+  "sz:海上世界 蛇口 深圳": [
+    {
+      "place_id": 238146427,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9657459856,
+      "lat": "22.4850058",
+      "lon": "113.9126538",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "海上世界南",
+      "display_name": "海上世界南, 望海路, 海昌社区, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.4849558",
+        "22.4850558",
+        "113.9126038",
+        "113.9127038"
+      ]
+    }
+  ],
+  "hk:香港會議展覽中心": [
+    {
+      "place_id": 236869097,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 754002052,
+      "lat": "22.2826248",
+      "lon": "114.1730688",
+      "category": "amenity",
+      "type": "exhibition_centre",
+      "place_rank": 30,
+      "importance": 0.4923264559525533,
+      "addresstype": "amenity",
+      "name": "香港會議展覽中心",
+      "display_name": "香港會議展覽中心, 中環及灣仔繞道, 灣仔, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2805973",
+        "22.2846752",
+        "114.1708397",
+        "114.1740921"
+      ]
+    },
+    {
+      "place_id": 237004801,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3049050088,
+      "lat": "22.2806860",
+      "lon": "114.1734590",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "highway",
+      "name": "香港會議展覽中心",
+      "display_name": "香港會議展覽中心, 港灣道, 灣仔北, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2806360",
+        "22.2807360",
+        "114.1734090",
+        "114.1735090"
+      ]
+    },
+    {
+      "place_id": 236832252,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2556736117,
+      "lat": "22.2772036",
+      "lon": "114.1733047",
+      "category": "railway",
+      "type": "subway_entrance",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "railway",
+      "name": "香港會議展覽中心",
+      "display_name": "香港會議展覽中心, 130-150, 柯布連道, 灣仔, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2771536",
+        "22.2772536",
+        "114.1732547",
+        "114.1733547"
+      ]
+    }
+  ],
+  "sz:龙华公园 深圳": [
+    {
+      "place_id": 238069250,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 693802019,
+      "lat": "22.6601074",
+      "lon": "114.0120973",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "龙华公园",
+      "display_name": "龙华公园, 4279, 梅苑, 龙华街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.6588277",
+        "22.6613004",
+        "114.0096404",
+        "114.0141217"
+      ]
+    },
+    {
+      "place_id": 237705615,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9214025754,
+      "lat": "22.6597762",
+      "lon": "114.0135686",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "龙华公园",
+      "display_name": "龙华公园, 龙华公园路, 梅苑, 龙华街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.6597262",
+        "22.6598262",
+        "114.0135186",
+        "114.0136186"
+      ]
+    },
+    {
+      "place_id": 237702185,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11892574261,
+      "lat": "22.6627973",
+      "lon": "114.0120235",
+      "category": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "龙华公园",
+      "display_name": "龙华公园, 龙华人民路, 牛地埔, 龙华街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.6627473",
+        "22.6628473",
+        "114.0119735",
+        "114.0120735"
+      ]
+    }
+  ],
+  "sz:南澳 大鹏 深圳": [
+    {
+      "place_id": 235568419,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 9281732,
+      "lat": "22.5372308",
+      "lon": "114.4861410",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 16,
+      "importance": 0.32592895108882386,
+      "addresstype": "suburb",
+      "name": "南澳街道",
+      "display_name": "南澳街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.4501900",
+        "22.5714854",
+        "114.4654571",
+        "114.6232970"
+      ]
+    }
+  ],
+  "sz:深圳万象城 罗湖": [
+    {
+      "place_id": 235316570,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 15750001,
+      "lat": "22.4634752",
+      "lon": "113.9670899",
+      "category": "man_made",
+      "type": "bridge",
+      "place_rank": 30,
+      "importance": 0.3331894015087746,
+      "addresstype": "man_made",
+      "name": "深圳灣公路大橋",
+      "display_name": "深圳灣公路大橋, 港深西部公路, 廈村, 元朗區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4522888",
+        "22.4746595",
+        "113.9572206",
+        "113.9744005"
+      ]
+    },
+    {
+      "place_id": 237565636,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 15750002,
+      "lat": "22.4806398",
+      "lon": "113.9516199",
+      "category": "man_made",
+      "type": "bridge",
+      "place_rank": 30,
+      "importance": 0.3331894015087746,
+      "addresstype": "man_made",
+      "name": "深圳灣公路大橋",
+      "display_name": "深圳灣公路大橋, 沙江廟村, 元朗區, 新界, 香港, 518067, 中国",
+      "boundingbox": [
+        "22.4744226",
+        "22.4869038",
+        "113.9473072",
+        "113.9574933"
+      ]
+    }
+  ],
+  "hk:香港中文大學 文物館": [],
+  "sz:泰然九路 深圳": [
+    {
+      "place_id": 237834024,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 856026045,
+      "lat": "22.5354062",
+      "lon": "114.0194853",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "泰然九路",
+      "display_name": "泰然九路, 泰然社区, 天安社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5325927",
+        "22.5382198",
+        "114.0189368",
+        "114.0200339"
+      ]
+    }
+  ],
+  "sz:香山东街 深圳": [
+    {
+      "place_id": 235744568,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 609577977,
+      "lat": "22.5441632",
+      "lon": "113.9856138",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "香山东街",
+      "display_name": "香山东街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5414088",
+        "22.5472056",
+        "113.9813379",
+        "113.9892199"
+      ]
+    },
+    {
+      "place_id": 238796636,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 532810253,
+      "lat": "22.5416037",
+      "lon": "113.9915260",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "香山东街",
+      "display_name": "香山东街, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5414930",
+        "22.5416826",
+        "113.9913880",
+        "113.9916394"
+      ]
+    }
+  ],
+  "sz:光明 深圳": [
+    {
+      "place_id": 237238894,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 5664192,
+      "lat": "22.7516872",
+      "lon": "113.9300061",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.47072350692939346,
+      "addresstype": "county",
+      "name": "光明区",
+      "display_name": "光明区, 深圳市, 广东省, 518107, 中国",
+      "boundingbox": [
+        "22.6884902",
+        "22.8356503",
+        "113.8539887",
+        "114.0040247"
+      ]
+    },
+    {
+      "place_id": 238158412,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 9692940,
+      "lat": "22.7662899",
+      "lon": "113.9426460",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 16,
+      "importance": 0.30289193994832775,
+      "addresstype": "suburb",
+      "name": "光明街道",
+      "display_name": "光明街道, 光明区, 深圳市, 广东省, 518107, 中国",
+      "boundingbox": [
+        "22.7197853",
+        "22.7749020",
+        "113.9083984",
+        "114.0040247"
+      ]
+    }
+  ],
+  "sz:锦绣北街 深圳": [
+    {
+      "place_id": 237385026,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 532810296,
+      "lat": "22.5391785",
+      "lon": "113.9898639",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "residential",
+      "name": "锦绣北街",
+      "display_name": "锦绣北街, 锦绣花园, 光华街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5391515",
+        "22.5392055",
+        "113.9893472",
+        "113.9903805"
+      ]
+    },
+    {
+      "place_id": 238178929,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 996263611,
+      "lat": "22.5391343",
+      "lon": "113.9890123",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "residential",
+      "name": "锦绣北街",
+      "display_name": "锦绣北街, 光华街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5391171",
+        "22.5391515",
+        "113.9886773",
+        "113.9893472"
+      ]
+    }
+  ],
+  "hk:和豐街 粉嶺 香港": [
+    {
+      "place_id": 235433547,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 146667695,
+      "lat": "22.4987215",
+      "lon": "114.1425744",
+      "category": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "unclassified",
+      "name": "和豐街",
+      "display_name": "和豐街, 聯和墟, 北區, 新界, 香港, 518010, 中国",
+      "boundingbox": [
+        "22.4980976",
+        "22.4993497",
+        "114.1419574",
+        "114.1431811"
+      ]
+    }
+  ],
+  "sz:皇庭广场 深圳": [
+    {
+      "place_id": 237896950,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 193921211,
+      "lat": "22.5360913",
+      "lon": "114.0546849",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "皇庭广场",
+      "display_name": "皇庭广场, 118, 福华三路, 福安社区, 福田街道, 福田区, 深圳市, 广东省, 518048, 中国",
+      "boundingbox": [
+        "22.5356130",
+        "22.5371670",
+        "114.0538966",
+        "114.0554637"
+      ]
+    }
+  ],
+  "hk:iSQUARE 香港": [
+    {
+      "place_id": 237016198,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 28379380,
+      "lat": "22.2969432",
+      "lon": "114.1718570",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 0.3710973104982575,
+      "addresstype": "shop",
+      "name": "iSQUARE",
+      "display_name": "iSQUARE, 63, 樂道, 尖沙咀, 油尖旺區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.2964922",
+        "22.2974170",
+        "114.1716222",
+        "114.1720887"
+      ]
+    },
+    {
+      "place_id": 237013182,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 15829461,
+      "lat": "22.2969896",
+      "lon": "114.1718539",
+      "category": "building",
+      "type": "retail",
+      "place_rank": 30,
+      "importance": 0.3710973104982575,
+      "addresstype": "building",
+      "name": "iSQUARE",
+      "display_name": "iSQUARE, 63, 樂道, 尖沙咀, 油尖旺區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.2965800",
+        "22.2974170",
+        "114.1716222",
+        "114.1720843"
+      ]
+    }
+  ],
+  "hk:香港仔海濱公園 香港": [
+    {
+      "place_id": 235931677,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 51801673,
+      "lat": "22.2473273",
+      "lon": "114.1542196",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.37526729549138227,
+      "addresstype": "park",
+      "name": "香港仔海濱公園",
+      "display_name": "香港仔海濱公園, 石排灣, 南區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2466364",
+        "22.2479589",
+        "114.1522252",
+        "114.1585280"
+      ]
+    }
+  ],
+  "sz:兴隆西街 深圳": [
+    {
+      "place_id": 238233266,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 610188499,
+      "lat": "22.5376508",
+      "lon": "113.9770477",
+      "category": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "unclassified",
+      "name": "兴隆西街",
+      "display_name": "兴隆西街, 中新街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5371402",
+        "22.5384017",
+        "113.9763945",
+        "113.9772814"
+      ]
+    },
+    {
+      "place_id": 237979425,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 694439498,
+      "lat": "22.5385193",
+      "lon": "113.9776165",
+      "category": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "unclassified",
+      "name": "兴隆西街",
+      "display_name": "兴隆西街, 中旅广场, 中新街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5384017",
+        "22.5387942",
+        "113.9772776",
+        "113.9778839"
+      ]
+    }
+  ],
+  "sz:大梅沙海滨公园": [
+    {
+      "place_id": 237058771,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 730043029,
+      "lat": "22.5943462",
+      "lon": "114.3020948",
+      "category": "leisure",
+      "type": "beach_resort",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "leisure",
+      "name": "大梅沙海滨公园",
+      "display_name": "大梅沙海滨公园, 33号, 盐梅路, 大梅沙社区, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5901670",
+        "22.5986117",
+        "114.2989388",
+        "114.3075292"
+      ]
+    },
+    {
+      "place_id": 237678199,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13001218220,
+      "lat": "22.5942613",
+      "lon": "114.3009830",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "大梅沙海滨公园",
+      "display_name": "大梅沙海滨公园, 33号, 盐梅路, 大梅沙社区, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5942113",
+        "22.5943113",
+        "114.3009330",
+        "114.3010330"
+      ]
+    }
+  ],
+  "hk:太古樓 香港大學": [],
+  "sz:车公庙 深圳": [
+    {
+      "place_id": 238031365,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5214901838,
+      "lat": "22.5388378",
+      "lon": "114.0226605",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.41705598036976543,
+      "addresstype": "railway",
+      "name": "车公庙",
+      "display_name": "车公庙, 深南大道辅路, 泰然社区, 天安社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5338378",
+        "22.5438378",
+        "114.0176605",
+        "114.0276605"
+      ]
+    },
+    {
+      "place_id": 237991997,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3373068617,
+      "lat": "22.5377854",
+      "lon": "114.0231552",
+      "category": "place",
+      "type": "suburb",
+      "place_rank": 19,
+      "importance": 0.1467369657434958,
+      "addresstype": "suburb",
+      "name": "车公庙",
+      "display_name": "车公庙, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5177854",
+        "22.5577854",
+        "114.0031552",
+        "114.0431552"
+      ]
+    }
+  ],
+  "sz:赤尾 深圳": [
+    {
+      "place_id": 236390816,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9328278155,
+      "lat": "22.5345383",
+      "lon": "114.0787937",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.40377650850105207,
+      "addresstype": "railway",
+      "name": "赤尾",
+      "display_name": "赤尾, 滨河大道, 赤尾社区, 南园街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5295383",
+        "22.5395383",
+        "114.0737937",
+        "114.0837937"
+      ]
+    },
+    {
+      "place_id": 235550712,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 15601844,
+      "lat": "22.5335808",
+      "lon": "114.0802431",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 20,
+      "importance": 0.13340363241016248,
+      "addresstype": "quarter",
+      "name": "赤尾社区",
+      "display_name": "赤尾社区, 南园街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5321938",
+        "22.5372585",
+        "114.0785211",
+        "114.0821099"
+      ]
+    }
+  ],
+  "sz:深圳国际园林花卉博览园": [
+    {
+      "place_id": 237281659,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 207170378,
+      "lat": "22.5403221",
+      "lon": "113.9985698",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.3656661556590361,
+      "addresstype": "park",
+      "name": "深圳国际园林花卉博览园",
+      "display_name": "深圳国际园林花卉博览园, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5351738",
+        "22.5456403",
+        "113.9925558",
+        "114.0073907"
+      ]
+    }
+  ],
+  "sz:福田新村 深圳": [
+    {
+      "place_id": 237947592,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1431608273,
+      "lat": "22.5223500",
+      "lon": "114.0457180",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "新天·石厦铭苑",
+      "display_name": "新天·石厦铭苑, 1, 石厦社区, 福保街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5215018",
+        "22.5227950",
+        "114.0449232",
+        "114.0470947"
+      ]
+    }
+  ],
+  "sz:南海意库": [
+    {
+      "place_id": 237235282,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 539914042,
+      "lat": "22.4897345",
+      "lon": "113.9128760",
+      "category": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "commercial",
+      "name": "南海意库",
+      "display_name": "南海意库, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.4885638",
+        "22.4909138",
+        "113.9114499",
+        "113.9142922"
+      ]
+    },
+    {
+      "place_id": 237315575,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9657680530,
+      "lat": "22.4892370",
+      "lon": "113.9138260",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "南海意库",
+      "display_name": "南海意库, 兴华路, 招商街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.4891870",
+        "22.4892870",
+        "113.9137760",
+        "113.9138760"
+      ]
+    }
+  ],
+  "sz:万象天地 深圳": [
+    {
+      "place_id": 234462545,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 586124738,
+      "lat": "22.5449333",
+      "lon": "113.9511274",
+      "category": "landuse",
+      "type": "retail",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "retail",
+      "name": "华润万象天地",
+      "display_name": "华润万象天地, 大冲社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5437764",
+        "22.5459160",
+        "113.9492485",
+        "113.9528829"
+      ]
+    },
+    {
+      "place_id": 237539073,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13257274703,
+      "lat": "22.5445297",
+      "lon": "113.9511976",
+      "category": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "阿嬷手作",
+      "display_name": "阿嬷手作, 万象天地, 深南大道, 大冲, 大冲社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5444797",
+        "22.5445797",
+        "113.9511476",
+        "113.9512476"
+      ]
+    },
+    {
+      "place_id": 237189859,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13230251349,
+      "lat": "22.5446512",
+      "lon": "113.9520548",
+      "category": "shop",
+      "type": "dairy",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "Blueglass酸奶",
+      "display_name": "Blueglass酸奶, 万象天地, 深南大道, 大冲, 大冲社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5446012",
+        "22.5447012",
+        "113.9520048",
+        "113.9521048"
+      ]
+    }
+  ],
+  "sz:东海朗廷酒店 深圳": [
+    {
+      "place_id": 237384216,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 545225936,
+      "lat": "22.5390891",
+      "lon": "114.0155634",
+      "category": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "tourism",
+      "name": "东海朗廷酒店",
+      "display_name": "东海朗廷酒店, 7888, 深南大道, 东海社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518040, 中国",
+      "boundingbox": [
+        "22.5389078",
+        "22.5392703",
+        "114.0152468",
+        "114.0158800"
+      ]
+    }
+  ],
+  "sz:水库新村 深圳": [
+    {
+      "place_id": 237128683,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 302394752,
+      "lat": "22.5672417",
+      "lon": "114.1337158",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "水库新村",
+      "display_name": "水库新村, 新村社区, 翠竹街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5642611",
+        "22.5699840",
+        "114.1307606",
+        "114.1358381"
+      ]
+    },
+    {
+      "place_id": 237010837,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6210847901,
+      "lat": "22.5644442",
+      "lon": "114.1341944",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "水库新村",
+      "display_name": "水库新村, 爱国路, 碧波社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5643942",
+        "22.5644942",
+        "114.1341444",
+        "114.1342444"
+      ]
+    }
+  ],
+  "hk:香港大學": [
+    {
+      "place_id": 234116656,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 4246029,
+      "lat": "22.2828768",
+      "lon": "114.1378586",
+      "category": "amenity",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 0.5913099980706643,
+      "addresstype": "amenity",
+      "name": "香港大學",
+      "display_name": "香港大學, 大學道, 石塘咀, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2810667",
+        "22.2846972",
+        "114.1328986",
+        "114.1407567"
+      ]
+    },
+    {
+      "place_id": 237184426,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6135479158,
+      "lat": "22.2839758",
+      "lon": "114.1355067",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.42596930671825545,
+      "addresstype": "railway",
+      "name": "香港大學",
+      "display_name": "香港大學, 山道天橋, 石塘咀, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2789758",
+        "22.2889758",
+        "114.1305067",
+        "114.1405067"
+      ]
+    }
+  ],
+  "hk:新城市廣場 沙田": [
+    {
+      "place_id": 234201076,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 136991414,
+      "lat": "22.3812008",
+      "lon": "114.1878566",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "secondary",
+      "name": "沙田正街",
+      "display_name": "沙田正街, 1期, 沙田市中心, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3807761",
+        "22.3815501",
+        "114.1877091",
+        "114.1881687"
+      ]
+    }
+  ],
+  "hk:運頭街 大埔 香港": [
+    {
+      "place_id": 238709209,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 146471492,
+      "lat": "22.4469288",
+      "lon": "114.1681403",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "secondary",
+      "name": "運頭街",
+      "display_name": "運頭街, 大埔墟四里, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4463066",
+        "22.4478482",
+        "114.1673991",
+        "114.1686134"
+      ]
+    }
+  ],
+  "hk:大明里 大埔 香港": [
+    {
+      "place_id": 236411119,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5740644000,
+      "lat": "22.4475412",
+      "lon": "114.1676165",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "香港人魚蛋粉",
+      "display_name": "香港人魚蛋粉, 大明里, 大埔墟四里, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4474912",
+        "22.4475912",
+        "114.1675665",
+        "114.1676665"
+      ]
+    }
+  ],
+  "hk:元創方": [
+    {
+      "place_id": 234135964,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 242554453,
+      "lat": "22.2832741",
+      "lon": "114.1518456",
+      "category": "landuse",
+      "type": "retail",
+      "place_rank": 24,
+      "importance": 0.08008643091477834,
+      "addresstype": "retail",
+      "name": "元創方",
+      "display_name": "元創方, 35, 上環, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2829150",
+        "22.2838299",
+        "114.1513282",
+        "114.1524117"
+      ]
+    }
+  ],
+  "sz:南头古城": [
+    {
+      "place_id": 238092033,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10210996803,
+      "lat": "22.5403527",
+      "lon": "113.9194304",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.40580843572923003,
+      "addresstype": "railway",
+      "name": "南头古城",
+      "display_name": "南头古城, 南山大道, 红花园社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5353527",
+        "22.5453527",
+        "113.9144304",
+        "113.9244304"
+      ]
+    },
+    {
+      "place_id": 237949963,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 219961346,
+      "lat": "22.5462391",
+      "lon": "113.9158929",
+      "category": "place",
+      "type": "quarter",
+      "place_rank": 20,
+      "importance": 0.13340363241016248,
+      "addresstype": "quarter",
+      "name": "南头古城",
+      "display_name": "南头古城, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5445268",
+        "22.5479841",
+        "113.9136383",
+        "113.9183782"
+      ]
+    }
+  ],
+  "sz:大望村 深圳": [
+    {
+      "place_id": 234486912,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1448147526,
+      "lat": "22.7179520",
+      "lon": "113.8013065",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "大王山新村",
+      "display_name": "大王山新村, 大王山社区, 沙井街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.7164996",
+        "22.7196480",
+        "113.7997543",
+        "113.8030648"
+      ]
+    },
+    {
+      "place_id": 235613702,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1448147523,
+      "lat": "22.7158600",
+      "lon": "113.8013172",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "大王山旧村",
+      "display_name": "大王山旧村, 大王山社区, 沙井街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.7146983",
+        "22.7170576",
+        "113.8000878",
+        "113.8024270"
+      ]
+    },
+    {
+      "place_id": 237557328,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1448147519,
+      "lat": "22.7148372",
+      "lon": "113.8027350",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "residential",
+      "name": "大王山南新村",
+      "display_name": "大王山南新村, 大王山社区, 沙井街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.7142878",
+        "22.7154989",
+        "113.8007129",
+        "113.8032585"
+      ]
+    }
+  ],
+  "sz:黄贝岭 深圳": [
+    {
+      "place_id": 237866868,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5448623264,
+      "lat": "22.5488036",
+      "lon": "114.1313834",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.41395049179757576,
+      "addresstype": "railway",
+      "name": "黄贝岭",
+      "display_name": "黄贝岭, 深南东路, 文华社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5438036",
+        "22.5538036",
+        "114.1263834",
+        "114.1363834"
+      ]
+    },
+    {
+      "place_id": 237688036,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6482359919,
+      "lat": "22.5500915",
+      "lon": "114.1331894",
+      "category": "place",
+      "type": "quarter",
+      "place_rank": 20,
+      "importance": 0.13340363241016248,
+      "addresstype": "quarter",
+      "name": "黄贝岭社区",
+      "display_name": "黄贝岭社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5400915",
+        "22.5600915",
+        "114.1231894",
+        "114.1431894"
+      ]
+    }
+  ],
+  "hk:廣東道 旺角 香港": [
+    {
+      "place_id": 237729395,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1451365057,
+      "lat": "22.3185847",
+      "lon": "114.1672755",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339935225452045,
+      "addresstype": "residential",
+      "name": "廣東道",
+      "display_name": "廣東道, 旺角, 油尖旺區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3183700",
+        "22.3187994",
+        "114.1672303",
+        "114.1673207"
+      ]
+    },
+    {
+      "place_id": 237763494,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 150771600,
+      "lat": "22.3239004",
+      "lon": "114.1661739",
+      "category": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05339935225452045,
+      "addresstype": "unclassified",
+      "name": "廣東道",
+      "display_name": "廣東道, 旺角, 油尖旺區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3236868",
+        "22.3241157",
+        "114.1661393",
+        "114.1662185"
+      ]
+    },
+    {
+      "place_id": 237864114,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 918730080,
+      "lat": "22.3203813",
+      "lon": "114.1669079",
+      "category": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.05339935225452045,
+      "addresstype": "pedestrian",
+      "name": "廣東道",
+      "display_name": "廣東道, 旺角, 油尖旺區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3203406",
+        "22.3204220",
+        "114.1668995",
+        "114.1669162"
+      ]
+    }
+  ],
+  "sz:华侨城创意文化园": [
+    {
+      "place_id": 237194590,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 741581536,
+      "lat": "22.5412214",
+      "lon": "113.9886215",
+      "category": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "commercial",
+      "name": "华侨城创意文化园",
+      "display_name": "华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5390904",
+        "22.5441404",
+        "113.9860012",
+        "113.9903657"
+      ]
+    },
+    {
+      "place_id": 234465900,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 532810256,
+      "lat": "22.5430643",
+      "lon": "113.9867822",
+      "category": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "Loft C1",
+      "display_name": "Loft C1, 文昌街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518053, 中国",
+      "boundingbox": [
+        "22.5429178",
+        "22.5432627",
+        "113.9862957",
+        "113.9872686"
+      ]
+    },
+    {
+      "place_id": 237509961,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 532810274,
+      "lat": "22.5398689",
+      "lon": "113.9881523",
+      "category": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "building",
+      "name": "Loft F3",
+      "display_name": "Loft F3, 恩平街, 华侨城创意文化园, 香山街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5396640",
+        "22.5400738",
+        "113.9878324",
+        "113.9884722"
+      ]
+    }
+  ],
+  "hk:積福街 大圍 香港": [
+    {
+      "place_id": 430737001,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1346988389,
+      "lat": "22.3741002",
+      "lon": "114.1784717",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "tertiary",
+      "name": "積福街",
+      "display_name": "積福街, 大圍, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3740294",
+        "22.3741677",
+        "114.1784676",
+        "114.1784909"
+      ]
+    },
+    {
+      "place_id": 430737000,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1346988384,
+      "lat": "22.3745196",
+      "lon": "114.1789858",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "tertiary",
+      "name": "積福街",
+      "display_name": "積福街, 大圍墟, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3743441",
+        "22.3746950",
+        "114.1787268",
+        "114.1792448"
+      ]
+    },
+    {
+      "place_id": 237864395,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1088767648,
+      "lat": "22.3763473",
+      "lon": "114.1790609",
+      "category": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053398824292362826,
+      "addresstype": "unclassified",
+      "name": "積福街",
+      "display_name": "積福街, 大圍墟, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.3759907",
+        "22.3767050",
+        "114.1789536",
+        "114.1791719"
+      ]
+    }
+  ],
+  "sz:梅林公园 深圳": [
+    {
+      "place_id": 236792239,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8624031074,
+      "lat": "22.5721110",
+      "lon": "114.0376901",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "梅林公园",
+      "display_name": "梅林公园, 龙尾路, 龙尾社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5720610",
+        "22.5721610",
+        "114.0376401",
+        "114.0377401"
+      ]
+    }
+  ],
+  "sz:下梅林 深圳": [
+    {
+      "place_id": 237891182,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9062301332,
+      "lat": "22.5684708",
+      "lon": "114.0368840",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.39951314662297394,
+      "addresstype": "railway",
+      "name": "下梅林",
+      "display_name": "下梅林, 梅林路, 梅河社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5634708",
+        "22.5734708",
+        "114.0318840",
+        "114.0418840"
+      ]
+    },
+    {
+      "place_id": 237714761,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3434031589,
+      "lat": "22.5684761",
+      "lon": "114.0368653",
+      "category": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 0.39951314662297394,
+      "addresstype": "railway",
+      "name": "下梅林",
+      "display_name": "下梅林, 梅林路, 梅河社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5684261",
+        "22.5685261",
+        "114.0368153",
+        "114.0369153"
+      ]
+    },
+    {
+      "place_id": 237994176,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9380950969,
+      "lat": "22.5647744",
+      "lon": "114.0354952",
+      "category": "place",
+      "type": "quarter",
+      "place_rank": 20,
+      "importance": 0.13340363241016248,
+      "addresstype": "quarter",
+      "name": "下梅社区",
+      "display_name": "下梅社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5547744",
+        "22.5747744",
+        "114.0254952",
+        "114.0454952"
+      ]
+    }
+  ],
+  "sz:香梅北 深圳": [
+    {
+      "place_id": 236648354,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1716044102,
+      "lat": "22.5566662",
+      "lon": "114.0278124",
+      "category": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "香梅北",
+      "display_name": "香梅北, 侨香路, 香梅社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5566162",
+        "22.5567162",
+        "114.0277624",
+        "114.0278624"
+      ]
+    },
+    {
+      "place_id": 237238742,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6715085277,
+      "lat": "22.5566537",
+      "lon": "114.0278197",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "香梅北",
+      "display_name": "香梅北, 侨香路, 香梅社区, 香蜜湖街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5516537",
+        "22.5616537",
+        "114.0228197",
+        "114.0328197"
+      ]
+    }
+  ],
+  "sz:商报东路 深圳": [
+    {
+      "place_id": 237772931,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1234274163,
+      "lat": "22.7383410",
+      "lon": "114.2771250",
+      "category": "railway",
+      "type": "subway",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "深圳地铁3号线",
+      "display_name": "深圳地铁3号线, 桥东路, 上井北, 龙岗街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.7323231",
+        "22.7454884",
+        "114.2741456",
+        "114.2778186"
+      ]
+    },
+    {
+      "place_id": 237714638,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1346638498,
+      "lat": "22.6248945",
+      "lon": "113.9341305",
+      "category": "railway",
+      "type": "subway",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "railway",
+      "name": "深圳地铁13号线",
+      "display_name": "深圳地铁13号线, 龙眼山路, 梨园, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.5545813",
+        "22.6914534",
+        "113.9214250",
+        "113.9405306"
+      ]
+    },
+    {
+      "place_id": 238122566,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 820112284,
+      "lat": "22.7350454",
+      "lon": "114.2870088",
+      "category": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "深圳市建文外国语学校",
+      "display_name": "深圳市建文外国语学校, 鸿基路, 龙东社区, 宝龙街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.7334945",
+        "22.7365436",
+        "114.2858377",
+        "114.2884670"
+      ]
+    }
+  ],
+  "sz:大鹏所城 深圳": [
+    {
+      "place_id": 239509954,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 404249608,
+      "lat": "22.5978742",
+      "lon": "114.5076920",
+      "category": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 0.43561499490559125,
+      "addresstype": "tourism",
+      "name": "大鹏所城",
+      "display_name": "大鹏所城, 南门西路, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.5962434",
+        "22.5997751",
+        "114.5057377",
+        "114.5095036"
+      ]
+    },
+    {
+      "place_id": 237488752,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9073862358,
+      "lat": "22.5956402",
+      "lon": "114.5099648",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "大鹏所城",
+      "display_name": "大鹏所城, 鹏飞路, 鹏城社区, 大鹏街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.5955902",
+        "22.5956902",
+        "114.5099148",
+        "114.5100148"
+      ]
+    }
+  ],
+  "sz:盐田港 深圳": [
+    {
+      "place_id": 238000559,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 261283912,
+      "lat": "22.5740105",
+      "lon": "114.2749373",
+      "category": "landuse",
+      "type": "industrial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "industrial",
+      "name": "盐田港",
+      "display_name": "盐田港, 盐田街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5662055",
+        "22.5836772",
+        "114.2480685",
+        "114.2887268"
+      ]
+    }
+  ],
+  "sz:东园路 深圳": [
+    {
+      "place_id": 238049889,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 996207957,
+      "lat": "22.5401500",
+      "lon": "114.0933191",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "东园路",
+      "display_name": "东园路, 巴登社区, 南园街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5401165",
+        "22.5401674",
+        "114.0913991",
+        "114.0952394"
+      ]
+    },
+    {
+      "place_id": 238070743,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 96942986,
+      "lat": "22.5401050",
+      "lon": "114.0902977",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "tertiary",
+      "name": "东园路",
+      "display_name": "东园路, 滨江社区, 南园街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5400942",
+        "22.5401144",
+        "114.0894815",
+        "114.0911139"
+      ]
+    }
+  ],
+  "sz:福中路 深圳": [
+    {
+      "place_id": 245491019,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 616988539,
+      "lat": "22.5473294",
+      "lon": "114.0544639",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "福中路",
+      "display_name": "福中路, 福中社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5472859",
+        "22.5473725",
+        "114.0516076",
+        "114.0573203"
+      ]
+    },
+    {
+      "place_id": 235493930,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 228119764,
+      "lat": "22.5475212",
+      "lon": "114.0653249",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "福中路",
+      "display_name": "福中路, 新田社区, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5474701",
+        "22.5475617",
+        "114.0628273",
+        "114.0678227"
+      ]
+    },
+    {
+      "place_id": 238813841,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 996625967,
+      "lat": "22.5473637",
+      "lon": "114.0461773",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340363241016247,
+      "addresstype": "secondary",
+      "name": "福中路",
+      "display_name": "福中路, 福新社区, 莲花街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5473426",
+        "22.5473847",
+        "114.0447012",
+        "114.0476534"
+      ]
+    }
+  ],
+  "hk:青山道 長沙灣 香港": [
+    {
+      "place_id": 236809237,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 648622765,
+      "lat": "22.3378426",
+      "lon": "114.1571200",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339935225452045,
+      "addresstype": "secondary",
+      "name": "青山道",
+      "display_name": "青山道, 李鄭屋, 蘇屋, 深水埗區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3364678",
+        "22.3392172",
+        "114.1553473",
+        "114.1588926"
+      ]
+    },
+    {
+      "place_id": 237753329,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 494493979,
+      "lat": "22.3355766",
+      "lon": "114.1600409",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339935225452045,
+      "addresstype": "secondary",
+      "name": "青山道",
+      "display_name": "青山道, 李鄭屋, 深水埗, 深水埗區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3350108",
+        "22.3361546",
+        "114.1593117",
+        "114.1607796"
+      ]
+    },
+    {
+      "place_id": 237625916,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 103428520,
+      "lat": "22.3346547",
+      "lon": "114.1612312",
+      "category": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339935225452045,
+      "addresstype": "secondary",
+      "name": "青山道",
+      "display_name": "青山道, 元洲, 深水埗, 深水埗區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3342988",
+        "22.3350108",
+        "114.1607796",
+        "114.1616830"
+      ]
+    }
+  ],
+  "sz:官湖 深圳": [
+    {
+      "place_id": 238039029,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1194651815,
+      "lat": "22.6105052",
+      "lon": "114.4306029",
+      "category": "highway",
+      "type": "motorway_junction",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "highway",
+      "name": "官湖",
+      "display_name": "官湖, 大龙路, 葵涌街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "boundingbox": [
+        "22.6104552",
+        "22.6105552",
+        "114.4305529",
+        "114.4306529"
+      ]
+    },
+    {
+      "place_id": 237905319,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 10660743,
+      "lat": "22.6978039",
+      "lon": "114.0667491",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 16,
+      "importance": 0.23822746059912708,
+      "addresstype": "suburb",
+      "name": "观湖街道",
+      "display_name": "观湖街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.6612227",
+        "22.7236596",
+        "114.0385423",
+        "114.0979105"
+      ]
+    }
+  ],
+  "hk:荔枝角 香港": [
+    {
+      "place_id": 237849293,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2517098096,
+      "lat": "22.3370495",
+      "lon": "114.1420691",
+      "category": "place",
+      "type": "suburb",
+      "place_rank": 19,
+      "importance": 0.4588722129971396,
+      "addresstype": "suburb",
+      "name": "荔枝角",
+      "display_name": "荔枝角, 深水埗區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3170495",
+        "22.3570495",
+        "114.1220691",
+        "114.1620691"
+      ]
+    },
+    {
+      "place_id": 237564084,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12596366142,
+      "lat": "22.3373962",
+      "lon": "114.1484136",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3990711390903937,
+      "addresstype": "railway",
+      "name": "荔枝角",
+      "display_name": "荔枝角, 長沙灣道, 四小龍, 長沙灣工業區, 深水埗區, 九龍, 香港, 中国",
+      "boundingbox": [
+        "22.3323962",
+        "22.3423962",
+        "114.1434136",
+        "114.1534136"
+      ]
+    }
+  ],
+  "hk:置地廣場 香港": [
+    {
+      "place_id": 236671753,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 17417565,
+      "lat": "22.2811091",
+      "lon": "114.1578922",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 0.4218210293457707,
+      "addresstype": "shop",
+      "name": "置地廣場",
+      "display_name": "置地廣場, 德輔道中, 政府山, 中環, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2803458",
+        "22.2824720",
+        "114.1573001",
+        "114.1595205"
+      ]
+    },
+    {
+      "place_id": 237081330,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2991173351,
+      "lat": "22.2811994",
+      "lon": "114.1583396",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "highway",
+      "name": "置地廣場",
+      "display_name": "置地廣場, 德輔道中, 政府山, 中環, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2811494",
+        "22.2812494",
+        "114.1582896",
+        "114.1583896"
+      ]
+    },
+    {
+      "place_id": 236902009,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1442107002,
+      "lat": "22.2818243",
+      "lon": "114.1577864",
+      "category": "railway",
+      "type": "subway_entrance",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "railway",
+      "name": "置地廣場",
+      "display_name": "置地廣場, 德輔道中, 政府山, 中環, 中西區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2817743",
+        "22.2818743",
+        "114.1577364",
+        "114.1578364"
+      ]
+    }
+  ],
+  "hk:香港中文大學 富爾敦樓": [],
+  "sz:永新汇 深圳": [
+    {
+      "place_id": 238152182,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13299606414,
+      "lat": "22.5120880",
+      "lon": "113.9141720",
+      "category": "amenity",
+      "type": "bank",
+      "place_rank": 30,
+      "importance": 0.3514206354333152,
+      "addresstype": "amenity",
+      "name": "珠海华润银行",
+      "display_name": "珠海华润银行, 永新汇, 东滨路, 登良社区, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5120380",
+        "22.5121380",
+        "113.9141220",
+        "113.9142220"
+      ]
+    },
+    {
+      "place_id": 238202807,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1347327523,
+      "lat": "22.5125284",
+      "lon": "113.9148805",
+      "category": "amenity",
+      "type": "office",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "amenity",
+      "name": "永新汇",
+      "display_name": "永新汇, 4078, 东滨路, 登良社区, 南山街道, 南山区, 深圳市, 广东省, 518054, 中国",
+      "boundingbox": [
+        "22.5106267",
+        "22.5143096",
+        "113.9136958",
+        "113.9162064"
+      ]
+    }
+  ],
+  "sz:深业上城 深圳": [
+    {
+      "place_id": 237174274,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 674566923,
+      "lat": "22.5601574",
+      "lon": "114.0651169",
+      "category": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "commercial",
+      "name": "深业上城",
+      "display_name": "深业上城, 莲花一村社区, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5584541",
+        "22.5617958",
+        "114.0629262",
+        "114.0672986"
+      ]
+    }
+  ],
+  "hk:軒尼詩道 灣仔 香港": [
+    {
+      "place_id": 237834221,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12082870574,
+      "lat": "22.2778189",
+      "lon": "114.1705733",
+      "category": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 0.1570394422394589,
+      "addresstype": "tourism",
+      "name": "香港灣仔睿景酒店",
+      "display_name": "香港灣仔睿景酒店, 軒尼詩道, 灣仔, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2777689",
+        "22.2778689",
+        "114.1705233",
+        "114.1706233"
+      ]
+    },
+    {
+      "place_id": 237857108,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1298359466,
+      "lat": "22.2777361",
+      "lon": "114.1727028",
+      "category": "amenity",
+      "type": "bank",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "amenity",
+      "name": "中國銀行（香港）",
+      "display_name": "中國銀行（香港）, 軒尼詩道, 灣仔, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2776861",
+        "22.2777861",
+        "114.1726528",
+        "114.1727528"
+      ]
+    },
+    {
+      "place_id": 236888154,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1298359475,
+      "lat": "22.2777268",
+      "lon": "114.1714226",
+      "category": "amenity",
+      "type": "bank",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "amenity",
+      "name": "滙豐銀行",
+      "display_name": "滙豐銀行, 71-85, 軒尼詩道, 灣仔, 灣仔區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2776768",
+        "22.2777768",
+        "114.1713726",
+        "114.1714726"
+      ]
+    }
+  ],
+  "sz:太子路 蛇口 深圳": [],
+  "hk:大美督 香港": [
+    {
+      "place_id": 237556370,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8728689134,
+      "lat": "22.4729560",
+      "lon": "114.2331608",
+      "category": "place",
+      "type": "quarter",
+      "place_rank": 20,
+      "importance": 0.13339882429236283,
+      "addresstype": "quarter",
+      "name": "大美督",
+      "display_name": "大美督, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4629560",
+        "22.4829560",
+        "114.2231608",
+        "114.2431608"
+      ]
+    },
+    {
+      "place_id": 237921158,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 297147769,
+      "lat": "22.4741139",
+      "lon": "114.2346066",
+      "category": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14673215762569614,
+      "addresstype": "village",
+      "name": "大美督村",
+      "display_name": "大美督村, 香港, 中国",
+      "boundingbox": [
+        "22.4541139",
+        "22.4941139",
+        "114.2146066",
+        "114.2546066"
+      ]
+    },
+    {
+      "place_id": 237448796,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 942626237,
+      "lat": "22.4722742",
+      "lon": "114.2328699",
+      "category": "amenity",
+      "type": "bus_station",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "大美督",
+      "display_name": "大美督, 大美督路, 大美督, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4718055",
+        "22.4726827",
+        "114.2325935",
+        "114.2331285"
+      ]
+    }
+  ],
+  "sz:东湖公园 深圳": [
+    {
+      "place_id": 235509640,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 210730914,
+      "lat": "22.5664393",
+      "lon": "114.1439640",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08007029907682915,
+      "addresstype": "park",
+      "name": "东湖公园",
+      "display_name": "东湖公园, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5563385",
+        "22.5767626",
+        "114.1382829",
+        "114.1463060"
+      ]
+    }
+  ],
+  "sz:梧桐山 深圳": [
+    {
+      "place_id": 235973554,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9131873008,
+      "lat": "22.5822680",
+      "lon": "114.2146672",
+      "category": "natural",
+      "type": "peak",
+      "place_rank": 18,
+      "importance": 0.4216117942344225,
+      "addresstype": "peak",
+      "name": "梧桐山",
+      "display_name": "梧桐山, 深圳市, 广东省, 中国",
+      "boundingbox": [
+        "22.5822180",
+        "22.5823180",
+        "114.2146172",
+        "114.2147172"
+      ]
+    },
+    {
+      "place_id": 237883830,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 19820647,
+      "lat": "22.5938264",
+      "lon": "114.1880499",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 20,
+      "importance": 0.13340363241016248,
+      "addresstype": "quarter",
+      "name": "梧桐山社区",
+      "display_name": "梧桐山社区, 东湖街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5701442",
+        "22.6187460",
+        "114.1748885",
+        "114.2157221"
+      ]
+    }
+  ],
+  "sz:壹方天地 深圳": [
+    {
+      "place_id": 237661724,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1299307175,
+      "lat": "22.6491873",
+      "lon": "114.0241217",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 7.029907682912974e-05,
+      "addresstype": "shop",
+      "name": "壹方天地",
+      "display_name": "壹方天地, 龙华大道, 松和社区, 龙华街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "boundingbox": [
+        "22.6452234",
+        "22.6533612",
+        "114.0214231",
+        "114.0314798"
+      ]
+    }
+  ],
+  "sz:草埔 深圳": [
+    {
+      "place_id": 237347088,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5214690548,
+      "lat": "22.5870347",
+      "lon": "114.1113561",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.4063398020044483,
+      "addresstype": "railway",
+      "name": "草埔",
+      "display_name": "草埔, 文锦北路, 兰花社区, 东晓街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+      "boundingbox": [
+        "22.5820347",
+        "22.5920347",
+        "114.1063561",
+        "114.1163561"
+      ]
+    },
+    {
+      "place_id": 237380462,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7249340323,
+      "lat": "22.7006492",
+      "lon": "114.3732979",
+      "category": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13340363241016248,
+      "addresstype": "hamlet",
+      "name": "草埔",
+      "display_name": "草埔, 石井街道, 坪山区, 深圳市, 广东省, 518118, 中国",
+      "boundingbox": [
+        "22.6806492",
+        "22.7206492",
+        "114.3532979",
+        "114.3932979"
+      ]
+    }
+  ],
+  "hk:香港中文大學": [
+    {
+      "place_id": 236734114,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 7802779,
+      "lat": "22.4201838",
+      "lon": "114.2079145",
+      "category": "amenity",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 0.5740136743893479,
+      "addresstype": "amenity",
+      "name": "香港中文大學",
+      "display_name": "香港中文大學, 博研路, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4118499",
+        "22.4282506",
+        "114.1989273",
+        "114.2149419"
+      ]
+    }
+  ],
+  "hk:海怡半島 香港": [
+    {
+      "place_id": 235569441,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 454158470,
+      "lat": "22.2428410",
+      "lon": "114.1488018",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.4026664728735604,
+      "addresstype": "railway",
+      "name": "海怡半島",
+      "display_name": "海怡半島, 怡南路, 鴨脷洲, 南區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2421527",
+        "22.2435314",
+        "114.1481506",
+        "114.1493584"
+      ]
+    },
+    {
+      "place_id": 236648226,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3943626060,
+      "lat": "22.2423467",
+      "lon": "114.1490890",
+      "category": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "railway",
+      "name": "海怡半島",
+      "display_name": "海怡半島, 怡南路, 鴨脷洲, 南區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2422967",
+        "22.2423967",
+        "114.1490390",
+        "114.1491390"
+      ]
+    },
+    {
+      "place_id": 234719498,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6300994206,
+      "lat": "22.2426815",
+      "lon": "114.1495317",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "highway",
+      "name": "海怡半島",
+      "display_name": "海怡半島, 利南道, 鴨脷洲, 南區, 香港島, 香港, 中国",
+      "boundingbox": [
+        "22.2426315",
+        "22.2427315",
+        "114.1494817",
+        "114.1495817"
+      ]
+    }
+  ],
+  "hk:范克廉樓 香港中文大學": [],
+  "hk:范克廉樓 沙田 香港": [
+    {
+      "place_id": 237968877,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135265606,
+      "lat": "22.4184327",
+      "lon": "114.2052029",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "范克廉樓",
+      "display_name": "范克廉樓, 校友徑, 狗肚山, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4181846",
+        "22.4185892",
+        "114.2048510",
+        "114.2057146"
+      ]
+    }
+  ],
+  "hk:富爾敦樓 香港中文大學": [],
+  "hk:富爾敦樓 沙田 香港": [
+    {
+      "place_id": 235737465,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135265609,
+      "lat": "22.4181636",
+      "lon": "114.2045904",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "富爾敦樓",
+      "display_name": "富爾敦樓, 校友徑, 狗肚山, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4180806",
+        "22.4183564",
+        "114.2045165",
+        "114.2048514"
+      ]
+    }
+  ],
+  "hk:李兆基樓 香港中文大學": [],
+  "hk:李兆基樓 沙田 香港": [
+    {
+      "place_id": 236916739,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 188010216,
+      "lat": "22.4195296",
+      "lon": "114.2039547",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "李兆基樓",
+      "display_name": "李兆基樓, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4191405",
+        "22.4198183",
+        "114.2033071",
+        "114.2040676"
+      ]
+    }
+  ],
+  "hk:李卓敏基本醫學大樓 香港中文大學": [],
+  "hk:李卓敏基本醫學大樓 沙田 香港": [
+    {
+      "place_id": 236917497,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134410448,
+      "lat": "22.4194849",
+      "lon": "114.2087966",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "李卓敏基本醫學大樓",
+      "display_name": "李卓敏基本醫學大樓, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4193893",
+        "22.4195805",
+        "114.2084432",
+        "114.2091499"
+      ]
+    }
+  ],
+  "hk:龐萬倫學生中心 香港中文大學": [],
+  "hk:龐萬倫學生中心 沙田 香港": [
+    {
+      "place_id": 236923866,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 230129212,
+      "lat": "22.4170814",
+      "lon": "114.2088271",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "龐萬倫學生中心",
+      "display_name": "龐萬倫學生中心, 池旁路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4167695",
+        "22.4173774",
+        "114.2085672",
+        "114.2094230"
+      ]
+    }
+  ],
+  "hk:康本國際學術園 香港中文大學": [],
+  "hk:康本國際學術園 沙田 香港": [
+    {
+      "place_id": 234977883,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 201907981,
+      "lat": "22.4162582",
+      "lon": "114.2111236",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "康本國際學術園",
+      "display_name": "康本國際學術園, 車站路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4160208",
+        "22.4165921",
+        "114.2109412",
+        "114.2112596"
+      ]
+    },
+    {
+      "place_id": 235367788,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2035049978,
+      "lat": "22.4159729",
+      "lon": "114.2108317",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "康本國際學術園",
+      "display_name": "康本國際學術園, 池旁路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4159229",
+        "22.4160229",
+        "114.2107817",
+        "114.2108817"
+      ]
+    }
+  ],
+  "hk:李慧珍樓 香港中文大學": [],
+  "hk:李慧珍樓 沙田 香港": [
+    {
+      "place_id": 237098584,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135098352,
+      "lat": "22.4151169",
+      "lon": "114.2070432",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "李慧珍樓",
+      "display_name": "李慧珍樓, 大埔公路－馬料水段, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4146573",
+        "22.4155329",
+        "114.2067469",
+        "114.2074432"
+      ]
+    }
+  ],
+  "hk:眾志堂 香港中文大學": [],
+  "hk:眾志堂 沙田 香港": [
+    {
+      "place_id": 237522676,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 923320403,
+      "lat": "22.4166521",
+      "lon": "114.2097687",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "眾志堂",
+      "display_name": "眾志堂, 池旁路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4165069",
+        "22.4168074",
+        "114.2094797",
+        "114.2100577"
+      ]
+    },
+    {
+      "place_id": 237275256,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2036810042,
+      "lat": "22.4166722",
+      "lon": "114.2098730",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "崇基學院學生膳堂",
+      "display_name": "崇基學院學生膳堂, 池旁路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4166222",
+        "22.4167222",
+        "114.2098230",
+        "114.2099230"
+      ]
+    }
+  ],
+  "hk:蘭苑 香港中文大學": [],
+  "hk:蘭苑 沙田 香港": [
+    {
+      "place_id": 237020146,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 696387736,
+      "lat": "22.4155245",
+      "lon": "114.2077145",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "蘭苑",
+      "display_name": "蘭苑, 崇基路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4154562",
+        "22.4156334",
+        "114.2076284",
+        "114.2077784"
+      ]
+    }
+  ],
+  "hk:崇基學院禮拜堂 香港中文大學": [],
+  "hk:崇基學院禮拜堂 沙田 香港": [
+    {
+      "place_id": 237997697,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135156315,
+      "lat": "22.4159814",
+      "lon": "114.2070173",
+      "category": "amenity",
+      "type": "place_of_worship",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "崇基學院禮拜堂",
+      "display_name": "崇基學院禮拜堂, 教堂路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4158658",
+        "22.4160970",
+        "114.2068173",
+        "114.2072173"
+      ]
+    }
+  ],
+  "hk:鄭裕彤樓 香港中文大學": [],
+  "hk:鄭裕彤樓 沙田 香港": [
+    {
+      "place_id": 237022268,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 185266979,
+      "lat": "22.4122565",
+      "lon": "114.2107909",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "鄭裕彤樓",
+      "display_name": "鄭裕彤樓, 大埔公路－馬料水段, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4120344",
+        "22.4124544",
+        "114.2104295",
+        "114.2109291"
+      ]
+    }
+  ],
+  "hk:大學站 香港中文大學": [],
+  "hk:大學站 沙田 香港": [
+    {
+      "place_id": 237113147,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1716519472,
+      "lat": "22.4145368",
+      "lon": "114.2102205",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "大學站",
+      "display_name": "大學站, 車站路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4144868",
+        "22.4145868",
+        "114.2101705",
+        "114.2102705"
+      ]
+    },
+    {
+      "place_id": 234183838,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7231973810,
+      "lat": "22.4128174",
+      "lon": "114.2102703",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "大學站",
+      "display_name": "大學站, 澤祥街, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4127674",
+        "22.4128674",
+        "114.2102203",
+        "114.2103203"
+      ]
+    },
+    {
+      "place_id": 236604967,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7231973807,
+      "lat": "22.4125234",
+      "lon": "114.2105065",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "大學站",
+      "display_name": "大學站, 大埔公路－馬料水段, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4124734",
+        "22.4125734",
+        "114.2104565",
+        "114.2105565"
+      ]
+    }
+  ],
+  "hk:香港中文大學醫院": [
+    {
+      "place_id": 235708831,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 453319885,
+      "lat": "22.4134742",
+      "lon": "114.2114063",
+      "category": "amenity",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "香港中文大學醫院",
+      "display_name": "香港中文大學醫院, 9, 澤祥街, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4128668",
+        "22.4141709",
+        "114.2106133",
+        "114.2121610"
+      ]
+    },
+    {
+      "place_id": 236898270,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1080920665,
+      "lat": "22.4135195",
+      "lon": "114.2113606",
+      "category": "building",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "香港中文大學醫院",
+      "display_name": "香港中文大學醫院, 澤祥街, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4129646",
+        "22.4140527",
+        "114.2106133",
+        "114.2120875"
+      ]
+    }
+  ],
+  "hk:新亞書院 香港中文大學": [],
+  "hk:新亞書院 沙田 香港": [
+    {
+      "place_id": 234297140,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 546379287,
+      "lat": "22.4212095",
+      "lon": "114.2090478",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "新亞書院",
+      "display_name": "新亞書院, NA梯, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4203479",
+        "22.4221058",
+        "114.2072376",
+        "114.2108693"
+      ]
+    },
+    {
+      "place_id": 234320132,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1502822176,
+      "lat": "22.4212709",
+      "lon": "114.2075587",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "新亞書院",
+      "display_name": "新亞書院, 新亞坊, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4212209",
+        "22.4213209",
+        "114.2075087",
+        "114.2076087"
+      ]
+    }
+  ],
+  "hk:雲起軒 香港中文大學": [],
+  "hk:雲起軒 沙田 香港": [
+    {
+      "place_id": 234182335,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2036864521,
+      "lat": "22.4208476",
+      "lon": "114.2093026",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "新亞書院雲起軒",
+      "display_name": "新亞書院雲起軒, 新亞坊, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4207976",
+        "22.4208976",
+        "114.2092526",
+        "114.2093526"
+      ]
+    }
+  ],
+  "hk:張祝珊師生康樂大樓 香港中文大學": [],
+  "hk:張祝珊師生康樂大樓 沙田 香港": [
+    {
+      "place_id": 235451106,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135193913,
+      "lat": "22.4209664",
+      "lon": "114.2057450",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "張祝珊師生康樂大樓",
+      "display_name": "張祝珊師生康樂大樓, 情人路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4208245",
+        "22.4211143",
+        "114.2053205",
+        "114.2061714"
+      ]
+    }
+  ],
+  "hk:思源館 香港中文大學": [],
+  "hk:思源館 沙田 香港": [],
+  "hk:逸夫書院 香港中文大學": [],
+  "hk:逸夫書院 沙田 香港": [
+    {
+      "place_id": 237700291,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 545778817,
+      "lat": "22.4229946",
+      "lon": "114.2014622",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "逸夫書院",
+      "display_name": "逸夫書院, 士林一巷, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4219681",
+        "22.4241202",
+        "114.2005258",
+        "114.2023333"
+      ]
+    },
+    {
+      "place_id": 237740900,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1716519477,
+      "lat": "22.4224859",
+      "lon": "114.2013149",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "逸夫書院",
+      "display_name": "逸夫書院, 逸夫里, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4224359",
+        "22.4225359",
+        "114.2012649",
+        "114.2013649"
+      ]
+    }
+  ],
+  "hk:晨興書院 香港中文大學": [],
+  "hk:晨興書院 沙田 香港": [
+    {
+      "place_id": 236696326,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 546320461,
+      "lat": "22.4190788",
+      "lon": "114.2104361",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 0.3298727163953751,
+      "addresstype": "amenity",
+      "name": "晨興書院",
+      "display_name": "晨興書院, 保健路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4188036",
+        "22.4192974",
+        "114.2099312",
+        "114.2109778"
+      ]
+    },
+    {
+      "place_id": 237129072,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 230185998,
+      "lat": "22.4190809",
+      "lon": "114.2105161",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "晨興書院",
+      "display_name": "晨興書院, 保健路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4188162",
+        "22.4192925",
+        "114.2100926",
+        "114.2109623"
+      ]
+    }
+  ],
+  "hk:善衡書院 香港中文大學": [],
+  "hk:善衡書院 沙田 香港": [
+    {
+      "place_id": 237876582,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 6270723,
+      "lat": "22.4183158",
+      "lon": "114.2101261",
+      "category": "amenity",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "善衡書院",
+      "display_name": "善衡書院, 大學道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4179439",
+        "22.4186501",
+        "114.2096923",
+        "114.2105140"
+      ]
+    },
+    {
+      "place_id": 237968893,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2035104643,
+      "lat": "22.4180416",
+      "lon": "114.2098498",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "善衡書院",
+      "display_name": "善衡書院, 大學道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4179916",
+        "22.4180916",
+        "114.2097998",
+        "114.2098998"
+      ]
+    }
+  ],
+  "hk:敬文書院 香港中文大學": [],
+  "hk:敬文書院 沙田 香港": [
+    {
+      "place_id": 237906183,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 673134728,
+      "lat": "22.4252529",
+      "lon": "114.2064729",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 0.32901661879114147,
+      "addresstype": "amenity",
+      "name": "敬文書院",
+      "display_name": "敬文書院, 士林二巷, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4249875",
+        "22.4255088",
+        "114.2060747",
+        "114.2069452"
+      ]
+    },
+    {
+      "place_id": 236939910,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 194547399,
+      "lat": "22.4252810",
+      "lon": "114.2062811",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 0.32901661879114147,
+      "addresstype": "building",
+      "name": "敬文書院",
+      "display_name": "敬文書院, 環迴北路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4250712",
+        "22.4254773",
+        "114.2061740",
+        "114.2067910"
+      ]
+    },
+    {
+      "place_id": 237444616,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2035133243,
+      "lat": "22.4255566",
+      "lon": "114.2062179",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "敬文書院",
+      "display_name": "敬文書院, 環迴北路, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4255066",
+        "22.4256066",
+        "114.2061679",
+        "114.2062679"
+      ]
+    }
+  ],
+  "hk:伍宜孫書院 香港中文大學": [],
+  "hk:伍宜孫書院 沙田 香港": [
+    {
+      "place_id": 235454683,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 544797039,
+      "lat": "22.4221995",
+      "lon": "114.2026212",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "伍宜孫書院",
+      "display_name": "伍宜孫書院, 逸夫「神秘」小徑, 大埔, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4218288",
+        "22.4226328",
+        "114.2022284",
+        "114.2030170"
+      ]
+    },
+    {
+      "place_id": 235457627,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 194547401,
+      "lat": "22.4222046",
+      "lon": "114.2023945",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "伍宜孫書院",
+      "display_name": "伍宜孫書院, 逸夫「神秘」小徑, 大埔, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4218666",
+        "22.4224307",
+        "114.2022563",
+        "114.2029893"
+      ]
+    }
+  ],
+  "hk:和聲書院 香港中文大學": [],
+  "hk:和聲書院 沙田 香港": [
+    {
+      "place_id": 237096868,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 546379286,
+      "lat": "22.4224244",
+      "lon": "114.2043379",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "和聲書院",
+      "display_name": "和聲書院, 士林路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4219818",
+        "22.4228719",
+        "114.2038627",
+        "114.2047070"
+      ]
+    }
+  ],
+  "hk:香港中文大學圖書館": [
+    {
+      "place_id": 234977970,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2038772689,
+      "lat": "22.4194575",
+      "lon": "114.2046340",
+      "category": "amenity",
+      "type": "library",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "中國研究服務中心",
+      "display_name": "中國研究服務中心, 圖書館道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4194075",
+        "22.4195075",
+        "114.2045840",
+        "114.2046840"
+      ]
+    },
+    {
+      "place_id": 236080205,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2038772701,
+      "lat": "22.4194575",
+      "lon": "114.2045696",
+      "category": "amenity",
+      "type": "library",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "利國偉法律圖書館",
+      "display_name": "利國偉法律圖書館, 圖書館道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4194075",
+        "22.4195075",
+        "114.2045196",
+        "114.2046196"
+      ]
+    }
+  ],
+  "hk:牟路思怡圖書館 香港中文大學": [],
+  "hk:牟路思怡圖書館 沙田 香港": [
+    {
+      "place_id": 237924448,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135021154,
+      "lat": "22.4165359",
+      "lon": "114.2087002",
+      "category": "amenity",
+      "type": "library",
+      "place_rank": 30,
+      "importance": 0.2328416436185146,
+      "addresstype": "amenity",
+      "name": "牟路思怡圖書館",
+      "display_name": "牟路思怡圖書館, 池旁路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4163323",
+        "22.4167519",
+        "114.2084027",
+        "114.2091515"
+      ]
+    }
+  ],
+  "hk:錢穆圖書館 香港中文大學": [],
+  "hk:錢穆圖書館 沙田 香港": [
+    {
+      "place_id": 236881107,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134408696,
+      "lat": "22.4214554",
+      "lon": "114.2085442",
+      "category": "amenity",
+      "type": "library",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "錢穆圖書館",
+      "display_name": "錢穆圖書館, 新亞坊, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4213145",
+        "22.4215962",
+        "114.2083896",
+        "114.2086988"
+      ]
+    }
+  ],
+  "hk:胡忠圖書館 香港中文大學": [],
+  "hk:胡忠圖書館 沙田 香港": [
+    {
+      "place_id": 237780929,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135193166,
+      "lat": "22.4209197",
+      "lon": "114.2048084",
+      "category": "amenity",
+      "type": "library",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "胡忠多媒體圖書館",
+      "display_name": "胡忠多媒體圖書館, 聯合院道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4207267",
+        "22.4210491",
+        "114.2046733",
+        "114.2049435"
+      ]
+    }
+  ],
+  "hk:伍何曼原樓 香港中文大學": [],
+  "hk:伍何曼原樓 沙田 香港": [
+    {
+      "place_id": 237217807,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 201907994,
+      "lat": "22.4166900",
+      "lon": "114.2116636",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "伍何曼原樓",
+      "display_name": "伍何曼原樓, 車站路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4163977",
+        "22.4169312",
+        "114.2114355",
+        "114.2119306"
+      ]
+    }
+  ],
+  "hk:香港中文大學 科學館": [],
+  "hk:香港中文大學 科學館 沙田 香港": [],
+  "hk:大學保健醫療中心 香港中文大學": [],
+  "hk:大學保健醫療中心 沙田 香港": [
+    {
+      "place_id": 238403337,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135190717,
+      "lat": "22.4194156",
+      "lon": "114.2102103",
+      "category": "amenity",
+      "type": "clinic",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "大學保健醫療中心",
+      "display_name": "大學保健醫療中心, 保健路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4192503",
+        "22.4195347",
+        "114.2098384",
+        "114.2104362"
+      ]
+    }
+  ],
+  "hk:大學體育中心 香港中文大學": [],
+  "hk:大學體育中心 沙田 香港": [
+    {
+      "place_id": 236935404,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134820401,
+      "lat": "22.4185940",
+      "lon": "114.2111110",
+      "category": "leisure",
+      "type": "sports_centre",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "leisure",
+      "name": "大學體育中心",
+      "display_name": "大學體育中心, 大學道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4183729",
+        "22.4188150",
+        "114.2109892",
+        "114.2112328"
+      ]
+    },
+    {
+      "place_id": 237736146,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1716519481,
+      "lat": "22.4178117",
+      "lon": "114.2104816",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "大學體育中心",
+      "display_name": "大學體育中心, 大學道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4177617",
+        "22.4178617",
+        "114.2104316",
+        "114.2105316"
+      ]
+    }
+  ],
+  "hk:聯合書院 香港中文大學": [],
+  "hk:聯合書院 沙田 香港": [
+    {
+      "place_id": 237255316,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 546379272,
+      "lat": "22.4219756",
+      "lon": "114.2054245",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 0.3728855590490345,
+      "addresstype": "amenity",
+      "name": "聯合書院",
+      "display_name": "聯合書院, 思源梯, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4202301",
+        "22.4237137",
+        "114.2036675",
+        "114.2066475"
+      ]
+    },
+    {
+      "place_id": 237184178,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5413654375,
+      "lat": "22.4203021",
+      "lon": "114.2054651",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "聯合書院 (下行)",
+      "display_name": "聯合書院 (下行), 聯合路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4202521",
+        "22.4203521",
+        "114.2054151",
+        "114.2055151"
+      ]
+    },
+    {
+      "place_id": 237450234,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2035204908,
+      "lat": "22.4203899",
+      "lon": "114.2053940",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "聯合書院 (上行)",
+      "display_name": "聯合書院 (上行), 聯合路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4203399",
+        "22.4204399",
+        "114.2053440",
+        "114.2054440"
+      ]
+    }
+  ],
+  "hk:邵逸夫堂 香港中文大學": [],
+  "hk:邵逸夫堂 沙田 香港": [
+    {
+      "place_id": 237965703,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 107139030,
+      "lat": "22.4201660",
+      "lon": "114.2072072",
+      "category": "amenity",
+      "type": "theatre",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "邵逸夫堂",
+      "display_name": "邵逸夫堂, NA梯, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4199642",
+        "22.4203325",
+        "114.2068983",
+        "114.2074196"
+      ]
+    },
+    {
+      "place_id": 238024864,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1716519535,
+      "lat": "22.4198410",
+      "lon": "114.2069424",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "邵逸夫堂",
+      "display_name": "邵逸夫堂, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4197910",
+        "22.4198910",
+        "114.2068924",
+        "114.2069924"
+      ]
+    }
+  ],
+  "hk:未圓湖 香港中文大學": [],
+  "hk:未圓湖 沙田 香港": [
+    {
+      "place_id": 237780407,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 33411938,
+      "lat": "22.4155474",
+      "lon": "114.2100303",
+      "category": "water",
+      "type": "pond",
+      "place_rank": 24,
+      "importance": 0.31074813956852465,
+      "addresstype": "pond",
+      "name": "未圓湖",
+      "display_name": "未圓湖, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4148209",
+        "22.4162915",
+        "114.2087355",
+        "114.2102765"
+      ]
+    }
+  ],
+  "hk:合一亭 香港中文大學": [],
+  "hk:合一亭 沙田 香港": [
+    {
+      "place_id": 237055479,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 230177223,
+      "lat": "22.4215942",
+      "lon": "114.2099331",
+      "category": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "tourism",
+      "name": "合一亭",
+      "display_name": "合一亭, 新亞坊, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4215615",
+        "22.4216277",
+        "114.2098552",
+        "114.2100001"
+      ]
+    }
+  ],
+  "hk:百萬大道 香港中文大學": [
+    {
+      "place_id": 237954298,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1424959676,
+      "lat": "22.4189360",
+      "lon": "114.2060323",
+      "category": "amenity",
+      "type": "research_institute",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "中國文化研究所",
+      "display_name": "中國文化研究所, 百萬大道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4186542",
+        "22.4194249",
+        "114.2055839",
+        "114.2064752"
+      ]
+    },
+    {
+      "place_id": 237987669,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 955764557,
+      "lat": "22.4195441",
+      "lon": "114.2047773",
+      "category": "amenity",
+      "type": "library",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "amenity",
+      "name": "大學圖書館",
+      "display_name": "大學圖書館, 百萬大道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4193253",
+        "22.4198137",
+        "114.2044133",
+        "114.2051419"
+      ]
+    },
+    {
+      "place_id": 238042790,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 2096073,
+      "lat": "22.4191948",
+      "lon": "114.2059963",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "中國文化研究所",
+      "display_name": "中國文化研究所, 百萬大道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4190447",
+        "22.4193355",
+        "114.2055994",
+        "114.2060880"
+      ]
+    }
+  ],
+  "hk:香港中文大學游泳池": [],
+  "hk:香港中文大學游泳池 沙田 香港": [],
+  "hk:夏鼎基運動場 香港中文大學": [],
+  "hk:夏鼎基運動場 沙田 香港": [
+    {
+      "place_id": 236848225,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 386952421,
+      "lat": "22.4187663",
+      "lon": "114.2119536",
+      "category": "leisure",
+      "type": "stadium",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "leisure",
+      "name": "夏鼎基運動場",
+      "display_name": "夏鼎基運動場, 環迴東路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4177034",
+        "22.4195873",
+        "114.2114022",
+        "114.2127071"
+      ]
+    }
+  ],
+  "hk:嶺南運動場 香港中文大學": [],
+  "hk:嶺南運動場 沙田 香港": [],
+  "hk:李兆基建築學大樓 香港中文大學": [],
+  "hk:李兆基建築學大樓 沙田 香港": [
+    {
+      "place_id": 237890783,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 201907977,
+      "lat": "22.4162843",
+      "lon": "114.2118023",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "李兆基建築學大樓",
+      "display_name": "李兆基建築學大樓, 車站路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4159407",
+        "22.4165333",
+        "114.2115225",
+        "114.2120670"
+      ]
+    }
+  ],
+  "hk:香港中文大學文物館": [],
+  "hk:香港中文大學文物館 沙田 香港": [],
+  "hk:香港中文大學水上活動中心": [
+    {
+      "place_id": 236935454,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 299581586,
+      "lat": "22.4186870",
+      "lon": "114.2144445",
+      "category": "leisure",
+      "type": "sports_centre",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "leisure",
+      "name": "香港中文大學水上活動中心",
+      "display_name": "香港中文大學水上活動中心, 科學園路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4177401",
+        "22.4195944",
+        "114.2141012",
+        "114.2145976"
+      ]
+    }
+  ],
+  "hk:香港中文大學網球場": [],
+  "hk:香港中文大學網球場 沙田 香港": [],
+  "hk:雅禮賓館 香港中文大學": [],
+  "hk:雅禮賓館 沙田 香港": [
+    {
+      "place_id": 234774048,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135190720,
+      "lat": "22.4197310",
+      "lon": "114.2107995",
+      "category": "tourism",
+      "type": "guest_house",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "tourism",
+      "name": "雅禮賓館",
+      "display_name": "雅禮賓館, 保健路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4196640",
+        "22.4197979",
+        "114.2107164",
+        "114.2108826"
+      ]
+    }
+  ],
+  "hk:香港中文大學行政樓": [],
+  "hk:香港中文大學行政樓 沙田 香港": [],
+  "hk:信和樓 香港中文大學": [],
+  "hk:信和樓 沙田 香港": [
+    {
+      "place_id": 237652454,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 138223978,
+      "lat": "22.4155057",
+      "lon": "114.2071755",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "信和樓",
+      "display_name": "信和樓, 教堂路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4153709",
+        "22.4157023",
+        "114.2069953",
+        "114.2073960"
+      ]
+    }
+  ],
+  "hk:何善衡工程學大樓 香港中文大學": [],
+  "hk:何善衡工程學大樓 沙田 香港": [
+    {
+      "place_id": 236978057,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135312912,
+      "lat": "22.4179256",
+      "lon": "114.2073520",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "何善衡工程學大樓",
+      "display_name": "何善衡工程學大樓, 新賤橋, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4176889",
+        "22.4181699",
+        "114.2071251",
+        "114.2075831"
+      ]
+    }
+  ],
+  "hk:博文苑 香港中文大學": [],
+  "hk:博文苑 沙田 香港": [
+    {
+      "place_id": 237262618,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134819423,
+      "lat": "22.4131047",
+      "lon": "114.2095567",
+      "category": "building",
+      "type": "dormitory",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "研究生宿舍第三座",
+      "display_name": "研究生宿舍第三座, 大埔公路－馬料水段, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4129520",
+        "22.4132601",
+        "114.2094700",
+        "114.2096505"
+      ]
+    }
+  ],
+  "hk:何善衡夫人堂 香港中文大學": [],
+  "hk:何善衡夫人堂 沙田 香港": [],
+  "hk:香港中文大學正門": [
+    {
+      "place_id": 236679301,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 667717925,
+      "lat": "22.4260226",
+      "lon": "114.2062714",
+      "category": "building",
+      "type": "dormitory",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "香港中文大學賽馬會研究生宿舍二座",
+      "display_name": "香港中文大學賽馬會研究生宿舍二座, 環迴北路, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4258060",
+        "22.4262292",
+        "114.2060570",
+        "114.2064840"
+      ]
+    },
+    {
+      "place_id": 235450343,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 667717927,
+      "lat": "22.4262388",
+      "lon": "114.2058459",
+      "category": "building",
+      "type": "dormitory",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "香港中文大學賽馬會研究生宿舍三座",
+      "display_name": "香港中文大學賽馬會研究生宿舍三座, 39區路, 大埔, 大埔區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4260238",
+        "22.4264556",
+        "114.2057098",
+        "114.2061180"
+      ]
+    }
+  ],
+  "hk:香港中文大學 研究生宿舍": [],
+  "hk:香港中文大學 研究生宿舍 沙田 香港": [],
+  "hk:碧秋樓 香港中文大學": [],
+  "hk:碧秋樓 沙田 香港": [
+    {
+      "place_id": 237021287,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 107139024,
+      "lat": "22.4197383",
+      "lon": "114.2064382",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "碧秋樓",
+      "display_name": "碧秋樓, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4196603",
+        "22.4198402",
+        "114.2059818",
+        "114.2068946"
+      ]
+    }
+  ],
+  "hk:利黃瑤璧樓 香港中文大學": [],
+  "hk:利黃瑤璧樓 沙田 香港": [
+    {
+      "place_id": 236901252,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135156233,
+      "lat": "22.4138398",
+      "lon": "114.2086090",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "利黃瑤璧樓",
+      "display_name": "利黃瑤璧樓, 池旁路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4134446",
+        "22.4143057",
+        "114.2081699",
+        "114.2088035"
+      ]
+    }
+  ],
+  "hk:蒙民偉樓 香港中文大學": [],
+  "hk:蒙民偉樓 沙田 香港": [
+    {
+      "place_id": 236730354,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134410719,
+      "lat": "22.4200380",
+      "lon": "114.2092428",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "蒙民偉樓",
+      "display_name": "蒙民偉樓, 山村徑, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4197005",
+        "22.4203924",
+        "114.2090335",
+        "114.2094021"
+      ]
+    }
+  ],
+  "hk:羅桂祥綜合生物醫學大樓 香港中文大學": [],
+  "hk:羅桂祥綜合生物醫學大樓 沙田 香港": [],
+  "hk:潤昌堂 香港中文大學": [],
+  "hk:潤昌堂 沙田 香港": [
+    {
+      "place_id": 234740283,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 185740160,
+      "lat": "22.4201008",
+      "lon": "114.2065455",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "潤昌堂",
+      "display_name": "潤昌堂, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4199252",
+        "22.4202198",
+        "114.2064034",
+        "114.2066854"
+      ]
+    }
+  ],
+  "hk:方樹泉樓 香港中文大學": [],
+  "hk:方樹泉樓 沙田 香港": [
+    {
+      "place_id": 237138180,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134819424,
+      "lat": "22.4153894",
+      "lon": "114.2104500",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "方樹泉樓",
+      "display_name": "方樹泉樓, 車站路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4152500",
+        "22.4155288",
+        "114.2103341",
+        "114.2105659"
+      ]
+    }
+  ],
+  "hk:馮景禧樓 香港中文大學": [],
+  "hk:馮景禧樓 沙田 香港": [
+    {
+      "place_id": 236821919,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135265380,
+      "lat": "22.4194902",
+      "lon": "114.2033324",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "馮景禧樓",
+      "display_name": "馮景禧樓, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4194082",
+        "22.4195731",
+        "114.2029533",
+        "114.2037116"
+      ]
+    },
+    {
+      "place_id": 236940789,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1716519434,
+      "lat": "22.4198637",
+      "lon": "114.2030318",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "馮景禧樓",
+      "display_name": "馮景禧樓, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4198137",
+        "22.4199137",
+        "114.2029818",
+        "114.2030818"
+      ]
+    }
+  ],
+  "hk:梁銶琚樓 香港中文大學": [],
+  "hk:梁銶琚樓 沙田 香港": [
+    {
+      "place_id": 237244621,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135265381,
+      "lat": "22.4200290",
+      "lon": "114.2028108",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "梁銶琚樓",
+      "display_name": "梁銶琚樓, 中央道, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4196713",
+        "22.4203805",
+        "114.2027233",
+        "114.2029935"
+      ]
+    }
+  ],
+  "hk:何添樓 香港中文大學": [],
+  "hk:何添樓 沙田 香港": [
+    {
+      "place_id": 238036458,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135156235,
+      "lat": "22.4153190",
+      "lon": "114.2078139",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "何添樓",
+      "display_name": "何添樓, 崇基路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4150503",
+        "22.4156253",
+        "114.2076601",
+        "114.2081419"
+      ]
+    }
+  ],
+  "hk:蒙民偉工程學大樓 香港中文大學": [],
+  "hk:蒙民偉工程學大樓 沙田 香港": [
+    {
+      "place_id": 236954951,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135311808,
+      "lat": "22.4179995",
+      "lon": "114.2079495",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "蒙民偉工程學大樓",
+      "display_name": "蒙民偉工程學大樓, 新賤橋, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4178488",
+        "22.4182248",
+        "114.2077876",
+        "114.2081088"
+      ]
+    }
+  ],
+  "hk:許讓成樓 香港中文大學": [],
+  "hk:許讓成樓 沙田 香港": [
+    {
+      "place_id": 237044815,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135181545,
+      "lat": "22.4146723",
+      "lon": "114.2077933",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "許讓成樓",
+      "display_name": "許讓成樓, 崇基路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4144675",
+        "22.4148668",
+        "114.2076175",
+        "114.2079397"
+      ]
+    }
+  ],
+  "hk:王福元樓 香港中文大學": [],
+  "hk:王福元樓 沙田 香港": [
+    {
+      "place_id": 237670639,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 138223977,
+      "lat": "22.4149456",
+      "lon": "114.2075697",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "王福元樓",
+      "display_name": "王福元樓, 崇基路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4147735",
+        "22.4151619",
+        "114.2073413",
+        "114.2077961"
+      ]
+    }
+  ],
+  "hk:陳國本樓 香港中文大學": [],
+  "hk:陳國本樓 沙田 香港": [
+    {
+      "place_id": 235455493,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 138223979,
+      "lat": "22.4152513",
+      "lon": "114.2073610",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "陳國本樓",
+      "display_name": "陳國本樓, 崇基路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4150725",
+        "22.4154607",
+        "114.2071507",
+        "114.2076000"
+      ]
+    }
+  ],
+  "hk:李達三樓 香港中文大學": [],
+  "hk:李達三樓 沙田 香港": [
+    {
+      "place_id": 237274589,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 188010213,
+      "lat": "22.4193394",
+      "lon": "114.2036728",
+      "category": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "李達三樓",
+      "display_name": "李達三樓, 圖書館道, 狗肚山, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4192823",
+        "22.4193961",
+        "114.2035026",
+        "114.2038427"
+      ]
+    }
+  ],
+  "hk:利樹培堂 香港中文大學": [],
+  "hk:利樹培堂 沙田 香港": [
+    {
+      "place_id": 237049423,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 135021155,
+      "lat": "22.4170245",
+      "lon": "114.2110553",
+      "category": "building",
+      "type": "dormitory",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "building",
+      "name": "利樹培堂",
+      "display_name": "利樹培堂, 進德路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4169090",
+        "22.4171302",
+        "114.2108118",
+        "114.2112994"
+      ]
+    }
+  ],
+  "hk:崇基學院 香港中文大學": [],
+  "hk:崇基學院 沙田 香港": [
+    {
+      "place_id": 238715185,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 546625754,
+      "lat": "22.4152074",
+      "lon": "114.2086112",
+      "category": "amenity",
+      "type": "college",
+      "place_rank": 30,
+      "importance": 0.41300133700796254,
+      "addresstype": "amenity",
+      "name": "崇基學院",
+      "display_name": "崇基學院, 教堂路, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4121691",
+        "22.4181363",
+        "114.2051874",
+        "114.2127949"
+      ]
+    },
+    {
+      "place_id": 245442011,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 727423869,
+      "lat": "22.4133315",
+      "lon": "114.2080086",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "崇基學院",
+      "display_name": "崇基學院, 大埔公路－馬料水段, 狗肚山, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4132815",
+        "22.4133815",
+        "114.2079586",
+        "114.2080586"
+      ]
+    },
+    {
+      "place_id": 235456624,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 728099078,
+      "lat": "22.4132412",
+      "lon": "114.2083956",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.549095902948069e-05,
+      "addresstype": "highway",
+      "name": "崇基學院",
+      "display_name": "崇基學院, 大埔公路－馬料水段, 馬料水, 沙田區, 新界, 香港, 中国",
+      "boundingbox": [
+        "22.4131912",
+        "22.4132912",
+        "114.2083456",
+        "114.2084456"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238025992,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8058692640,
+    "lat": "22.5479603",
+    "lon": "114.0705246",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "中心公园",
+    "display_name": "中心公园, 振华西路, 田面社区, 华富街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5479103",
+      "22.5480103",
+      "114.0704746",
+      "114.0705746"
+    ]
+  }
+]

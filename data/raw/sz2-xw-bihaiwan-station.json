@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 235633701,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6503565372,
+    "lat": "22.5787973",
+    "lon": "113.8502805",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4003883115502947,
+    "addresstype": "railway",
+    "name": "碧海湾",
+    "display_name": "碧海湾, 宝源路, 劳动社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5737973",
+      "22.5837973",
+      "113.8452805",
+      "113.8552805"
+    ]
+  },
+  {
+    "place_id": 237634372,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3424982662,
+    "lat": "22.5788192",
+    "lon": "113.8503018",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "碧海湾",
+    "display_name": "碧海湾, 宝源路, 永丰社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5787692",
+      "22.5788692",
+      "113.8502518",
+      "113.8503518"
+    ]
+  },
+  {
+    "place_id": 235129662,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6273255252,
+    "lat": "22.5787752",
+    "lon": "113.8502603",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "碧海湾",
+    "display_name": "碧海湾, 宝源路, 劳动社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5787252",
+      "22.5788252",
+      "113.8502103",
+      "113.8503103"
+    ]
+  }
+]

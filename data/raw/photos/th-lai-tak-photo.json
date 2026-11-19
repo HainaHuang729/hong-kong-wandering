@@ -1,0 +1,2992 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "83558603": {
+        "pageid": 83558603,
+        "ns": 6,
+        "title": "File:Tai Hang Fire Dragon (173119905).jpeg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 569746,
+            "width": 1800,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Tai_Hang_Fire_Dragon_%28173119905%29.jpeg/960px-Tai_Hang_Fire_Dragon_%28173119905%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tai_Hang_Fire_Dragon_%28173119905%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Tai_Hang_Fire_Dragon_%28173119905%29.jpeg/960px-Tai_Hang_Fire_Dragon_%28173119905%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tai_Hang_Fire_Dragon_%28173119905%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tai_Hang_Fire_Dragon_%28173119905%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tai_Hang_Fire_Dragon_(173119905).jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83558603",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-01 07:41:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nTai Hang Fire Dragon</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Tai Hang Fire Dragon|Files with coordinates missing SDC location of creation|Photos imported with import-500px",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278191",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193076",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/ManLaiKiloWest\">M L Wong</a></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n500px provided description: Tai Hang Fire Dragon in Mid Autumn Festival in Hong Kong 16Sep16 [#Canon ,#Hong Kong ,#Dragon ,#Fire Dragon ,#Tai Hang ,#Mid Autumn]</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "16 September 2016, 21:34:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/173119905/tai-hang-fire-dragon-by-m-l-wong\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/173119905/m%3D2048/v2?webp=true&amp;sig=e5a25b1d51d9d2983257b378457d63c463edaf3288ee3794184e9415a82c5431\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/173119905\" class=\"extiw\" title=\"toolforge:import-500px/photo/173119905\">detail page</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border: 2px solid var(--border-color-subtle, #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83558605": {
+        "pageid": 83558605,
+        "ns": 6,
+        "title": "File:Tai Tang Fire Dragon (173122143).jpeg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 647369,
+            "width": 1800,
+            "height": 1200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tai_Tang_Fire_Dragon_%28173122143%29.jpeg/960px-Tai_Tang_Fire_Dragon_%28173122143%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tai_Tang_Fire_Dragon_%28173122143%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tai_Tang_Fire_Dragon_%28173122143%29.jpeg/960px-Tai_Tang_Fire_Dragon_%28173122143%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tai_Tang_Fire_Dragon_%28173122143%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tai_Tang_Fire_Dragon_%28173122143%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tai_Tang_Fire_Dragon_(173122143).jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83558605",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-01 07:41:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nTai Tang Fire Dragon</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Files with coordinates missing SDC location of creation|Photos imported with import-500px|2016 Mid-Autumn Festival in Hong Kong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278191",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193076",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/ManLaiKiloWest\">M L Wong</a></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n500px provided description: Tai Tang Fire Dragon on Mid Autumn Festival, 16Sep16 [#Canon ,#Hong Kong ,#Fire Dragon ,#Tai Hang ,#Mid Autumn]</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "16 September 2016, 21:38:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/173122143/tai-tang-fire-dragon-by-m-l-wong\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/173122143/m%3D2048/v2?webp=true&amp;sig=031ace4acfaf1ea86ef87fb42eed14e0eda6ad845a95d8580ac204a4a49f6e14\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/173122143\" class=\"extiw\" title=\"toolforge:import-500px/photo/173122143\">detail page</a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border: 2px solid var(--border-color-subtle, #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84334202": {
+        "pageid": 84334202,
+        "ns": 6,
+        "title": "File:Lai Tak Tsuen.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6910318,
+            "width": 3600,
+            "height": 2400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Lai_Tak_Tsuen.jpg/960px-Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Lai_Tak_Tsuen.jpg/1920px-Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Lai_Tak_Tsuen.jpg/960px-Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Lai_Tak_Tsuen.jpg/1920px-Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lai_Tak_Tsuen.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84334202",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-24 21:56:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lai Tak Tsuen",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lai Tak Tsuen|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.279367",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194040",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Lai Tak Tsuen, Causeway Bay, Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-12-12 17:44:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/eugenelimphotography/16010239501/\">https://www.flickr.com/photos/eugenelimphotography/16010239501/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Eugene Lim",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97121656": {
+        "pageid": 97121656,
+        "ns": 6,
+        "title": "File:HK Tai Hang Wun Sha Street November 2020 SS2 17.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3966623,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg/960px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg/1920px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg/960px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg/1920px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_17.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97121656",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-29 11:14:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Tai Hang Wun Sha Street November 2020 SS2 17",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2020-11-29|November 2020 in Tai Hang|2020 in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278681",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.192983",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Tai Hang Wun Sha Street in November 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-11-29 16:14:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lin_Yuedia_Hunguea\" title=\"User:Lin Yuedia Hunguea\">Lin Yuedia Hunguea</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97121661": {
+        "pageid": 97121661,
+        "ns": 6,
+        "title": "File:HK Tai Hang Wun Sha Street November 2020 SS2 23.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1310746,
+            "width": 2576,
+            "height": 1932,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg/960px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg/1920px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg/960px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg/1920px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_23.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97121661",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-29 11:14:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Tai Hang Wun Sha Street November 2020 SS2 23",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2020-11-29|November 2020 in Tai Hang|2020 in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278632",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.192973",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Tai Hang Wun Sha Street in November 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-11-29 16:16:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lin_Yuedia_Hunguea\" title=\"User:Lin Yuedia Hunguea\">Lin Yuedia Hunguea</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97121662": {
+        "pageid": 97121662,
+        "ns": 6,
+        "title": "File:HK Tai Hang Wun Sha Street November 2020 SS2 24.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4699612,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg/960px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg/1920px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg/960px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg/1920px-HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Tai_Hang_Wun_Sha_Street_November_2020_SS2_24.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97121662",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-29 11:14:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK Tai Hang Wun Sha Street November 2020 SS2 24",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2020-11-29|November 2020 in Tai Hang|2020 in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278553",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.192947",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK Tai Hang Wun Sha Street in November 2020",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-11-29 16:16:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lin_Yuedia_Hunguea\" title=\"User:Lin Yuedia Hunguea\">Lin Yuedia Hunguea</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98574084": {
+        "pageid": 98574084,
+        "ns": 6,
+        "title": "File:HK WCD 大坑 Tai Hang 蓮花宮公共廁所 Lin Fa Kung Public Toilets baby seat January 2021 SS2.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2774940,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg/960px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg/1920px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg/960px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg/1920px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E8%93%AE%E8%8A%B1%E5%AE%AE%E5%85%AC%E5%85%B1%E5%BB%81%E6%89%80_Lin_Fa_Kung_Public_Toilets_baby_seat_January_2021_SS2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98574084",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-06 06:11:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WCD 大坑 Tai Hang 蓮花宮公共廁所 Lin Fa Kung Public Toilets baby seat January 2021 SS2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Public toilets in Hong Kong|Self-published work|Files with coordinates missing SDC location of creation|January 2021 in Wan Chai District|Hong Kong photographs taken on 2021-01-02|January 2021 in Tai Hang|Objects at corners|Toilet buildings in Wan Chai District|Buildings in Tai Hang|Baby seats in public toilet|Lin Fa Kung Public Toilet",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278530",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193539",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WCD 大坑 Tai Hang 蓮花宮公共廁所 Lin Fa Kung Public Toilets in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-02 12:37:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zihfaboecfoak\" title=\"User:Zihfaboecfoak\">Zihfaboecfoak</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98977692": {
+        "pageid": 98977692,
+        "ns": 6,
+        "title": "File:HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road buildings January 2021 SS2 05.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1426675,
+            "width": 1932,
+            "height": 2576,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg/960px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg/1920px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg/960px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg/1920px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98977692",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-19 05:25:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road buildings January 2021 SS2 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gables|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in Tai Hang|Buildings in Tai Hang|Buildings in Tai Hang Road|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277080",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193625",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 12:49:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98977696": {
+        "pageid": 98977696,
+        "ns": 6,
+        "title": "File:HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road buildings January 2021 SS2 07.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3770367,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg/960px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg/1920px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg/960px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg/1920px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_07.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98977696",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-19 05:25:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road buildings January 2021 SS2 07",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Grand Deco Tower, Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in Tai Hang|Buildings in Tai Hang|Buildings in Tai Hang Road|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.276910",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193976",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 12:48:24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98977697": {
+        "pageid": 98977697,
+        "ns": 6,
+        "title": "File:HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road buildings January 2021 SS2 09.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5590941,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg/960px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg/1920px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg/960px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg/1920px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_buildings_January_2021_SS2_09.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98977697",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-19 05:26:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road buildings January 2021 SS2 09",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Reliefs in Hong Kong|Number 2817 on vehicles|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in Tai Hang|Buildings in Tai Hang|Buildings in Tai Hang Road|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278009",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193205",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB 銅鑼灣 Causeway Bay 大坑道 Tai Hang Road in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 12:55:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98986728": {
+        "pageid": 98986728,
+        "ns": 6,
+        "title": "File:HK WCD 大坑 Tai Hang 浣紗街 Wun Sha Street January 2021 SS2 03.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5718355,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg/960px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg/1920px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg/960px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg/1920px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98986728",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-19 12:56:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WCD 大坑 Tai Hang 浣紗街 Wun Sha Street January 2021 SS2 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in Tai Hang|2021 in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278081",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193189",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WCD 大坑 Tai Hang 浣紗街 Wun Sha Street in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 12:55:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98986732": {
+        "pageid": 98986732,
+        "ns": 6,
+        "title": "File:HK WCD 大坑 Tai Hang 浣紗街 Wun Sha Street January 2021 SS2 04.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4245433,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg/960px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg/1920px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg/960px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg/1920px-HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_WCD_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B5%A3%E7%B4%97%E8%A1%97_Wun_Sha_Street_January_2021_SS2_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98986732",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-19 12:56:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK WCD 大坑 Tai Hang 浣紗街 Wun Sha Street January 2021 SS2 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Number 4304 on vehicles|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-01-16|January 2021 in Tai Hang|2021 in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278020",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193186",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK WCD 大坑 Tai Hang 浣紗街 Wun Sha Street in January 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-16 12:56:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gutvoixam_Radfwi_Headzd\" title=\"User:Gutvoixam Radfwi Headzd\">Gutvoixam Radfwi Headzd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101609820": {
+        "pageid": 101609820,
+        "ns": 6,
+        "title": "File:HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street shop Thai Restaurant night March 2021 SS2.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3111495,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_shop_Thai_Restaurant_night_March_2021_SS2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101609820",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 06:46:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street shop Thai Restaurant night March 2021 SS2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|Night in Tai Hang|2021 in Wun Sha Street|Night in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277983",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193141",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB 大坑 Tai Hang <a href=\"https://zh.wikipedia.org/wiki/%E6%B2%85%E7%B4%97%E8%A1%97\" class=\"extiw\" title=\"zh:沅紗街\">zh:沅紗街</a> Wun Sha Street night in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 19:00:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101609821": {
+        "pageid": 101609821,
+        "ns": 6,
+        "title": "File:HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street Children Playground night March 2021 SS2.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3468165,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Children_Playground_night_March_2021_SS2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101609821",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 06:46:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street Children Playground night March 2021 SS2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|Wun Sha Street Children's Playground|Illumination Terrace (street)|Night in Tai Hang|2021 in Wun Sha Street|Night in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277743",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193348",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB 大坑 Tai Hang <a href=\"https://zh.wikipedia.org/wiki/%E6%B2%85%E7%B4%97%E8%A1%97\" class=\"extiw\" title=\"zh:沅紗街\">zh:沅紗街</a> Wun Sha Street night in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 18:59:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101609822": {
+        "pageid": 101609822,
+        "ns": 6,
+        "title": "File:HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street near Tai Hang Road outdoor stairs night March 2021 SS2.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4285647,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_near_Tai_Hang_Road_outdoor_stairs_night_March_2021_SS2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101609822",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 06:46:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street near Tai Hang Road outdoor stairs night March 2021 SS2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|Wun Sha Street Children's Playground|Illumination Terrace (street)|Night in Tai Hang|2021 in Wun Sha Street|Night in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277297",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193681",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB 大坑 Tai Hang <a href=\"https://zh.wikipedia.org/wiki/%E6%B2%85%E7%B4%97%E8%A1%97\" class=\"extiw\" title=\"zh:沅紗街\">zh:沅紗街</a> Wun Sha Street night in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 18:57:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101609825": {
+        "pageid": 101609825,
+        "ns": 6,
+        "title": "File:HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street Sunshine Laundry night March 2021 SS2.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2842296,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg/960px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg/1920px-HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E5%A4%A7%E5%9D%91_Tai_Hang_%E6%B2%85%E7%B4%97%E8%A1%97_Wun_Sha_Street_Sunshine_Laundry_night_March_2021_SS2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101609825",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 06:46:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB 大坑 Tai Hang 沅紗街 Wun Sha Street Sunshine Laundry night March 2021 SS2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|Night in Tai Hang|Sunshine Laundry Convenience Store|2021 in Wun Sha Street|Night in Wun Sha Street",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278409",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193153",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB 大坑 Tai Hang <a href=\"https://zh.wikipedia.org/wiki/%E6%B2%85%E7%B4%97%E8%A1%97\" class=\"extiw\" title=\"zh:沅紗街\">zh:沅紗街</a> Wun Sha Street night in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 19:01:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613415": {
+        "pageid": 101613415,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 05.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4925867,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613415",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:16:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277479",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193322",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:31:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613443": {
+        "pageid": 101613443,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 13.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4842972,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_13.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613443",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:17:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 13",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277078",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194620",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:33:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613449": {
+        "pageid": 101613449,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 15.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4350936,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_15.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613449",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:17:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 15",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277117",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193830",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:33:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101613494": {
+        "pageid": 101613494,
+        "ns": 6,
+        "title": "File:HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 20.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4321377,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg/960px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg/1920px-HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_CWB_Mid-Levels_%E5%A4%A7%E5%9D%91%E9%81%93_Tai_Hang_Road_1630pm_March_2021_SS2_20.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101613494",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-16 09:18:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK CWB Mid-Levels 大坑道 Tai Hang Road 1630pm March 2021 SS2 20",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2021-03-13|March 2021 in Tai Hang|2021 in Tai Hang Road",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.276877",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194225",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK CWB Mid-Levels <a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%91%E9%81%93\" class=\"extiw\" title=\"zh:大坑道\">zh:大坑道</a> Tai Hang Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-13 16:34:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Foang_ZHCHU_Minsam\" title=\"User:Foang ZHCHU Minsam\">Foang ZHCHU Minsam</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102125231": {
+        "pageid": 102125231,
+        "ns": 6,
+        "title": "File:Hong Kong appartments (51062796216).jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7846329,
+            "width": 5806,
+            "height": 3871,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_appartments_%2851062796216%29.jpg/960px-Hong_Kong_appartments_%2851062796216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_appartments_%2851062796216%29.jpg/1920px-Hong_Kong_appartments_%2851062796216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_appartments_%2851062796216%29.jpg/960px-Hong_Kong_appartments_%2851062796216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hong_Kong_appartments_%2851062796216%29.jpg/1920px-Hong_Kong_appartments_%2851062796216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hong_Kong_appartments_%2851062796216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_appartments_(51062796216).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102125231",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-22 16:25:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong appartments (51062796216)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Buildings in Hong Kong|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Raita Futo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278280",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194055",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong appartments",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-01-02 17:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/raita/51062796216/\">Hong Kong appartments</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/128275472@N07\">Raita Futo</a> from Tokyo, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102125235": {
+        "pageid": 102125235,
+        "ns": 6,
+        "title": "File:Hong Kong appartments (51062881232).jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7398150,
+            "width": 5905,
+            "height": 3937,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Hong_Kong_appartments_%2851062881232%29.jpg/960px-Hong_Kong_appartments_%2851062881232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Hong_Kong_appartments_%2851062881232%29.jpg/1920px-Hong_Kong_appartments_%2851062881232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Hong_Kong_appartments_%2851062881232%29.jpg/960px-Hong_Kong_appartments_%2851062881232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Hong_Kong_appartments_%2851062881232%29.jpg/1920px-Hong_Kong_appartments_%2851062881232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hong_Kong_appartments_%2851062881232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_appartments_(51062881232).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102125235",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-22 16:25:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong appartments (51062881232)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Buildings in Hong Kong|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Raita Futo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.278225",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194805",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hong Kong appartments",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-01-02 16:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/raita/51062881232/\">Hong Kong appartments</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/128275472@N07\">Raita Futo</a> from Tokyo, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "102125245": {
+        "pageid": 102125245,
+        "ns": 6,
+        "title": "File:Hong Kong elite appartments (51062083758).jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7443346,
+            "width": 5973,
+            "height": 3982,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hong_Kong_elite_appartments_%2851062083758%29.jpg/960px-Hong_Kong_elite_appartments_%2851062083758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hong_Kong_elite_appartments_%2851062083758%29.jpg/1920px-Hong_Kong_elite_appartments_%2851062083758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hong_Kong_elite_appartments_%2851062083758%29.jpg/960px-Hong_Kong_elite_appartments_%2851062083758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hong_Kong_elite_appartments_%2851062083758%29.jpg/1920px-Hong_Kong_elite_appartments_%2851062083758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hong_Kong_elite_appartments_%2851062083758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_elite_appartments_(51062083758).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102125245",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-22 16:26:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hong Kong elite appartments (51062083758)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Buildings in Hong Kong|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Raita Futo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.276898",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194456",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "名門",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-01-02 16:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/raita/51062083758/\">Hong Kong elite appartments</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/128275472@N07\">Raita Futo</a> from Tokyo, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "113953781": {
+        "pageid": 113953781,
+        "ns": 6,
+        "title": "File:勵德邨 Lai Tak Tsuen.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4368576,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg/960px-%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg/1920px-%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg/960px-%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg/1920px-%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%8B%B5%E5%BE%B7%E9%82%A8_Lai_Tak_Tsuen.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113953781",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-01-03 16:35:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "勵德邨 Lai Tak Tsuen",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lai Tak Tsuen|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277092",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.194144",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Lai Tak Tsuen (Chinese: 勵德邨) is a public housing estate at 2 – 38 Lai Tak Tsuen Road, Tai Hang, Causeway Bay, Hong Kong. Built in 1975, it is one of the first public housing developments in Hong Kong.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-01-03 10:40:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:1841Hongkong&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:1841Hongkong (page does not exist)\">1841Hongkong</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "192578156": {
+        "pageid": 192578156,
+        "ns": 6,
+        "title": "File:Lai Tak Tsuen 22-05-2026.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11925402,
+            "width": 8064,
+            "height": 6048,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lai_Tak_Tsuen_22-05-2026.jpg/960px-Lai_Tak_Tsuen_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lai_Tak_Tsuen_22-05-2026.jpg/1920px-Lai_Tak_Tsuen_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lai_Tak_Tsuen_22-05-2026.jpg/960px-Lai_Tak_Tsuen_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lai_Tak_Tsuen_22-05-2026.jpg/1920px-Lai_Tak_Tsuen_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lai_Tak_Tsuen_22-05-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lai_Tak_Tsuen_22-05-2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192578156",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-22 07:40:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lai Tak Tsuen 22-05-2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lai Tak Tsuen|Self-published work|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2026-05-22",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.277047",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.193847",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​這張照片在巴士上拍攝。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-05-22 15:38:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

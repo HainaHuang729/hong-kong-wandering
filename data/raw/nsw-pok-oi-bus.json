@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238010084,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2436311528,
+    "lat": "22.4459353",
+    "lon": "114.0367204",
+    "class": "railway",
+    "type": "subway_entrance",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "railway",
+    "name": "博愛醫院 Pok Oi Hospital",
+    "display_name": "博愛醫院 Pok Oi Hospital, 朗明街 Long Ming Street, 大圍村 Tai Wai Tsuen, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4458853",
+      "22.4459853",
+      "114.0366704",
+      "114.0367704"
+    ]
+  }
+]

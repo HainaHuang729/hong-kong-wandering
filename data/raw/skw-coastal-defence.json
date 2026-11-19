@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236767283,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 97788544,
+    "lat": "22.2826752",
+    "lon": "114.2350603",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.3140788844789178,
+    "addresstype": "tourism",
+    "name": "香港抗戰及海防博物館 Hong Kong Museum of the War of Resistance and Coastal Defence",
+    "display_name": "香港抗戰及海防博物館 Hong Kong Museum of the War of Resistance and Coastal Defence, 175, 東喜道 Tung Hei Road, 筲箕灣 Shau Kei Wan, 東區 Eastern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2808443",
+      "22.2844976",
+      "114.2336415",
+      "114.2367008"
+    ]
+  }
+]

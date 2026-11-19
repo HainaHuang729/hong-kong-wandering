@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237301580,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5895465423,
+    "lat": "22.4623971",
+    "lon": "114.0379722",
+    "class": "place",
+    "type": "suburb",
+    "place_rank": 19,
+    "importance": 0.14673215762569614,
+    "addresstype": "suburb",
+    "name": "南生圍 Nam Sang Wai",
+    "display_name": "南生圍 Nam Sang Wai, 元朗區 Yuen Long District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4423971",
+      "22.4823971",
+      "114.0179722",
+      "114.0579722"
+    ]
+  }
+]

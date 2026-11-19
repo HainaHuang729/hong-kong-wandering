@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 234061163,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1052430675,
+    "lat": "22.3353251",
+    "lon": "114.1563727",
+    "class": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 0.4181697918103512,
+    "addresstype": "building",
+    "name": "長沙灣站 Cheung Sha Wan Station",
+    "display_name": "長沙灣站 Cheung Sha Wan Station, 長沙灣道 Cheung Sha Wan Road, 長沙灣 Cheung Sha Wan, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3342913",
+      "22.3364703",
+      "114.1549492",
+      "114.1578300"
+    ]
+  },
+  {
+    "place_id": 237184940,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2689681195,
+    "lat": "22.3351204",
+    "lon": "114.1579518",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "長沙灣站 Cheung Sha Wan Station",
+    "display_name": "長沙灣站 Cheung Sha Wan Station, 東京街 Tonkin Street, 李鄭屋 Li Cheng Uk, 長沙灣 Cheung Sha Wan, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3350704",
+      "22.3351704",
+      "114.1579018",
+      "114.1580018"
+    ]
+  },
+  {
+    "place_id": 234185677,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11191138955,
+    "lat": "22.3359891",
+    "lon": "114.1557390",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "長沙灣站 Cheung Sha Wan Station",
+    "display_name": "長沙灣站 Cheung Sha Wan Station, 長沙灣道 Cheung Sha Wan Road, 李鄭屋 Li Cheng Uk, 長沙灣 Cheung Sha Wan, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3359391",
+      "22.3360391",
+      "114.1556890",
+      "114.1557890"
+    ]
+  },
+  {
+    "place_id": 234866309,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7973190121,
+    "lat": "22.3367730",
+    "lon": "114.1548257",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "長沙灣站 Cheung Sha Wan Station",
+    "display_name": "長沙灣站 Cheung Sha Wan Station, 長沙灣道 Cheung Sha Wan Road, 長沙灣 Cheung Sha Wan, 深水埗區 Sham Shui Po District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3367230",
+      "22.3368230",
+      "114.1547757",
+      "114.1548757"
+    ]
+  }
+]

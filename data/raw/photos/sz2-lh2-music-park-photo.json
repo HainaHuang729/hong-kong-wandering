@@ -1,0 +1,1348 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "147229916": {
+        "pageid": 147229916,
+        "ns": 6,
+        "title": "File:Concourse of Baishilong Station.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3531947,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Concourse_of_Baishilong_Station.jpg/960px-Concourse_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Concourse_of_Baishilong_Station.jpg/1920px-Concourse_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Concourse_of_Baishilong_Station.jpg/960px-Concourse_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Concourse_of_Baishilong_Station.jpg/1920px-Concourse_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Concourse_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Concourse_of_Baishilong_Station.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147229916",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-09 13:12:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Concourse of Baishilong Station",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Baishilong Station|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​白石龍站大堂",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-04-09 13:32:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Owennson\" title=\"User:Owennson\">Owennson</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147229924": {
+        "pageid": 147229924,
+        "ns": 6,
+        "title": "File:Platform of Baishilong Station.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4319314,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Platform_of_Baishilong_Station.jpg/960px-Platform_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Platform_of_Baishilong_Station.jpg/1920px-Platform_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Platform_of_Baishilong_Station.jpg/960px-Platform_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Platform_of_Baishilong_Station.jpg/1920px-Platform_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Platform_of_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Platform_of_Baishilong_Station.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147229924",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-09 13:12:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Platform of Baishilong Station",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Baishilong Station|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​白石龍站月台",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-04-09 13:29:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Owennson\" title=\"User:Owennson\">Owennson</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "134262936": {
+        "pageid": 134262936,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 龍華區 Longhua Baishilong Metro Station platform July 2023 Px3.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5703595,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134262936",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-11 07:11:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 龍華區 Longhua Baishilong Metro Station platform July 2023 Px3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rolling stock of Shenzhen Metro Line 4|Baishilong Station|Self-published work|Images with timestamp watermarks|July 2023 in Longhua District, Shenzhen|Shenzhen photographs taken on 2023-07-10",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​SZ 深圳 Shenzhen 龍華區 Longhua Baishilong Metro Station platform in July 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:HuangyueTze_Joyzei_Kammys\" title=\"User:HuangyueTze Joyzei Kammys\">HuangyueTze Joyzei Kammys</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_Baishilong_Metro_Station_platform_July_2023_Px3.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131758913": {
+        "pageid": 131758913,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 龍華區 Longhua 民塘路 Mintang Road 白石龍站 Baishilong Station D exit and entrance night May 2023 Px3 01.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5181745,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_D_exit_and_entrance_night_May_2023_Px3_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131758913",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-11 03:37:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 龍華區 Longhua 民塘路 Mintang Road 白石龍站 Baishilong Station D exit and entrance night May 2023 Px3 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Baishilong Station|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.603561",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.038357",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen <a href=\"https://zh.wikipedia.org/wiki/%E9%BE%8D%E8%8F%AF%E5%8D%80\" class=\"extiw\" title=\"zh:龍華區\">zh:龍華區</a> Longhua 民塘路 Mintang Road <a href=\"https://zh.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99\" class=\"extiw\" title=\"zh:白石龍站\">zh:白石龍站</a> Baishilong Station exit signs in May 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-05-08 18:40:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:EEYAUT_Waihung\" title=\"User:EEYAUT Waihung\">EEYAUT Waihung</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131758922": {
+        "pageid": 131758922,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 龍華區 Longhua 民塘路 Mintang Road 白石龍站 Baishilong Station concourse night May 2023 Px3.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5584961,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_concourse_night_May_2023_Px3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131758922",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-11 03:37:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 龍華區 Longhua 民塘路 Mintang Road 白石龍站 Baishilong Station concourse night May 2023 Px3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Baishilong Station|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.603668",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.037441",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen <a href=\"https://zh.wikipedia.org/wiki/%E9%BE%8D%E8%8F%AF%E5%8D%80\" class=\"extiw\" title=\"zh:龍華區\">zh:龍華區</a> Longhua 民塘路 Mintang Road <a href=\"https://zh.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99\" class=\"extiw\" title=\"zh:白石龍站\">zh:白石龍站</a> Baishilong Station exit signs in May 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-05-08 18:43:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:EEYAUT_Waihung\" title=\"User:EEYAUT Waihung\">EEYAUT Waihung</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131758918": {
+        "pageid": 131758918,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 龍華區 Longhua 民塘路 Mintang Road 白石龍站 Baishilong Station view night May 2023 Px3 05.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4412520,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_night_May_2023_Px3_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131758918",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-11 03:37:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 龍華區 Longhua 民塘路 Mintang Road 白石龍站 Baishilong Station view night May 2023 Px3 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Baishilong Station|Self-published work|Images with timestamp watermarks|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.604190",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.037948",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen <a href=\"https://zh.wikipedia.org/wiki/%E9%BE%8D%E8%8F%AF%E5%8D%80\" class=\"extiw\" title=\"zh:龍華區\">zh:龍華區</a> Longhua 民塘路 Mintang Road <a href=\"https://zh.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99\" class=\"extiw\" title=\"zh:白石龍站\">zh:白石龍站</a> Baishilong Station exit signs in May 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-05-08 18:41:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:EEYAUT_Waihung\" title=\"User:EEYAUT Waihung\">EEYAUT Waihung</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131757030": {
+        "pageid": 131757030,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 龍華區 Longhua 白石龍站 Baishilong Station exit signs May 2023 Px3 01.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3691481,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_exit_signs_May_2023_Px3_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131757030",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-11 01:45:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 龍華區 Longhua 白石龍站 Baishilong Station exit signs May 2023 Px3 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Baishilong Station|Self-published work|Images with timestamp watermarks|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.603965",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.037090",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen <a href=\"https://zh.wikipedia.org/wiki/%E9%BE%8D%E8%8F%AF%E5%8D%80\" class=\"extiw\" title=\"zh:龍華區\">zh:龍華區</a> Longhua <a href=\"https://zh.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99\" class=\"extiw\" title=\"zh:白石龍站\">zh:白石龍站</a> Baishilong Station exit signs in May 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-05-08 18:47:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:EEYAUT_Waihung\" title=\"User:EEYAUT Waihung\">EEYAUT Waihung</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131757387": {
+        "pageid": 131757387,
+        "ns": 6,
+        "title": "File:SZ 深圳 Shenzhen 龍華區 Longhua 白石龍站 Baishilong Station view 民塘路 Mintang Road 玖龍薈 OPark Shopping Mall night May 2023 Px3 01.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3077524,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF%E5%8D%80_Longhua_%E7%99%BD%E7%9F%B3%E9%BE%8D%E7%AB%99_Baishilong_Station_view_%E6%B0%91%E5%A1%98%E8%B7%AF_Mintang_Road_%E7%8E%96%E9%BE%8D%E8%96%88_OPark_Shopping_Mall_night_May_2023_Px3_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131757387",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-11 02:15:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SZ 深圳 Shenzhen 龍華區 Longhua 白石龍站 Baishilong Station view 民塘路 Mintang Road 玖龍薈 OPark Shopping Mall night May 2023 Px3 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Shenzhen photographs taken on 2023-05-08|Files with coordinates missing SDC location of creation|Photographs by Anonymous Hong Kong Photographer 1|May 2023 in Longhua District, Shenzhen|Buildings in Mintang Road, Shenzhen|Residential buildings in Longhua District, Shenzhen|Shopping malls in Longhua District, Shenzhen|Night in Longhua District, Shenzhen|2023 in Mintang Road, Shenzhen|O Park Shopping Centre, Longhua District 深圳 玖龍薈商場",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.603957",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.036972",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "SZ 深圳 Shenzhen 龍華區 Longhua 白石龍站 Baishilong Station view 民塘路 Mintang Road 玖龍薈 OPark Shopping Mall night May 2023 Px3 01",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-05-08 18:46:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:EEYAUT_Waihung\" title=\"User:EEYAUT Waihung\">EEYAUT Waihung</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "17630883": {
+        "pageid": 17630883,
+        "ns": 6,
+        "title": "File:Shenzhen Metro Baishilong Station.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 378880,
+            "width": 2560,
+            "height": 1920,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shenzhen_Metro_Baishilong_Station.jpg/960px-Shenzhen_Metro_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shenzhen_Metro_Baishilong_Station.jpg/1920px-Shenzhen_Metro_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shenzhen_Metro_Baishilong_Station.jpg/960px-Shenzhen_Metro_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shenzhen_Metro_Baishilong_Station.jpg/1920px-Shenzhen_Metro_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shenzhen_Metro_Baishilong_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shenzhen_Metro_Baishilong_Station.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17630883",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-12-10 09:30:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shenzhen Metro Baishilong Station",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Baishilong Station|Self-published work|2011 in Longhua District, Shenzhen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This photo was taken as Dec 10, 2011 at <a href=\"https://en.wikipedia.org/wiki/Baishilong_Station\" class=\"extiw\" title=\"en:Baishilong Station\">Baishilong Station</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-12-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Snivy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Snivy (page does not exist)\">Snivy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52090534": {
+        "pageid": 52090534,
+        "ns": 6,
+        "title": "File:Shenzhen Metro Line 4 Baishilong Sta Concourse.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3246521,
+            "width": 3328,
+            "height": 1872,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg/960px-Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg/1920px-Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg/960px-Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg/1920px-Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shenzhen_Metro_Line_4_Baishilong_Sta_Concourse.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52090534",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-06 14:42:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shenzhen Metro Line 4 Baishilong Sta Concourse",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Baishilong Station|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​深圳地铁4号线白石龙站大堂",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-06 18:56:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wahsaw\" title=\"User:Wahsaw\">Wahsaw</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52090535": {
+        "pageid": 52090535,
+        "ns": 6,
+        "title": "File:Shenzhen Metro Line 4 Baishilong Sta Platform.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3647161,
+            "width": 3328,
+            "height": 1872,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg/960px-Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg/1920px-Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg/960px-Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg/1920px-Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shenzhen_Metro_Line_4_Baishilong_Sta_Platform.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52090535",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-06 14:42:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shenzhen Metro Line 4 Baishilong Sta Platform",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Baishilong Station|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​深圳地铁4号线白石龙站站台",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-06 18:55:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wahsaw\" title=\"User:Wahsaw\">Wahsaw</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "38379495": {
+        "pageid": 38379495,
+        "ns": 6,
+        "title": "File:深圳地铁白石龙站站台.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 642959,
+            "width": 1100,
+            "height": 825,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4a/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg/960px-%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4a/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%99%BD%E7%9F%B3%E9%BE%99%E7%AB%99%E7%AB%99%E5%8F%B0.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38379495",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-02-14 14:07:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "深圳地铁白石龙站站台",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Baishilong Station|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​深圳地铁白石龙站站台",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-07-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wahsaw\" title=\"User:Wahsaw\">Wahsaw</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236928446,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 730043029,
+    "lat": "22.5943462",
+    "lon": "114.3020948",
+    "class": "leisure",
+    "type": "beach_resort",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "leisure",
+    "name": "大梅沙海滨公园",
+    "display_name": "大梅沙海滨公园, 33号, 盐梅路, 大梅沙社区, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5901670",
+      "22.5986117",
+      "114.2989388",
+      "114.3075292"
+    ]
+  },
+  {
+    "place_id": 236804955,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13001218220,
+    "lat": "22.5942613",
+    "lon": "114.3009830",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "大梅沙海滨公园",
+    "display_name": "大梅沙海滨公园, 33号, 盐梅路, 大梅沙社区, 梅沙街道, 盐田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5942113",
+      "22.5943113",
+      "114.3009330",
+      "114.3010330"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237888953,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9310690694,
+    "lat": "22.5686556",
+    "lon": "114.1173197",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3971205322578132,
+    "addresstype": "railway",
+    "name": "洪湖‎",
+    "display_name": "洪湖‎, 梅园路, 铁东小区, 笋岗社区, 笋岗街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5636556",
+      "22.5736556",
+      "114.1123197",
+      "114.1223197"
+    ]
+  },
+  {
+    "place_id": 238107848,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062205694,
+    "lat": "22.5686265",
+    "lon": "114.1173203",
+    "category": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "洪湖",
+    "display_name": "洪湖, 梅园路, 铁东小区, 笋岗社区, 笋岗街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5685765",
+      "22.5686765",
+      "114.1172703",
+      "114.1173703"
+    ]
+  }
+]

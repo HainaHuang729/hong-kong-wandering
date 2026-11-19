@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238714671,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 989782519,
+    "lat": "22.5428578",
+    "lon": "114.6038202",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "鹿嘴山庄",
+    "display_name": "鹿嘴山庄, 鹿嘴大道, 南澳街道, 大鹏新区, 龙岗区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5408159",
+      "22.5448907",
+      "114.6004000",
+      "114.6061495"
+    ]
+  }
+]

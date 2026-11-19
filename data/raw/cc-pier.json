@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 234038282,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 182368836,
+    "lat": "22.2085840",
+    "lon": "114.0283421",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "長洲渡輸碼頭 Cheung Chau Ferry Pier",
+    "display_name": "長洲渡輸碼頭 Cheung Chau Ferry Pier, 新興海傍街 San Hing Praya Street, 長洲 Cheung Chau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2084235",
+      "22.2087445",
+      "114.0280336",
+      "114.0286506"
+    ]
+  },
+  {
+    "place_id": 237318993,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1611297860,
+    "lat": "22.2087121",
+    "lon": "114.0283656",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "Cheung Chau Ferry Pier",
+    "display_name": "Cheung Chau Ferry Pier, 新興海傍街 San Hing Praya Street, 長洲 Cheung Chau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2086621",
+      "22.2087621",
+      "114.0283156",
+      "114.0284156"
+    ]
+  }
+]

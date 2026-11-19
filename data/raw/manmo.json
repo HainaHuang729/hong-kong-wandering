@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237258658,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1300658311,
+    "lat": "22.2838713",
+    "lon": "114.1501584",
+    "class": "building",
+    "type": "temple",
+    "place_rank": 30,
+    "importance": 0.33518014852624106,
+    "addresstype": "building",
+    "name": "文武廟 Man Mo Temple",
+    "display_name": "文武廟 Man Mo Temple, 124-126, 荷李活道 Hollywood Road, 太平山 Tai Ping Shan, 上環 Sheung Wan, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2837547",
+      "22.2840098",
+      "114.1500680",
+      "114.1502801"
+    ]
+  },
+  {
+    "place_id": 234239466,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 319658451,
+    "lat": "22.2839512",
+    "lon": "114.1500968",
+    "class": "landuse",
+    "type": "religious",
+    "place_rank": 24,
+    "importance": 0.08008643091477834,
+    "addresstype": "religious",
+    "name": "文武廟 Man Mo Temple",
+    "display_name": "文武廟 Man Mo Temple, 上環 Sheung Wan, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2837307",
+      "22.2840969",
+      "114.1498499",
+      "114.1503089"
+    ]
+  }
+]

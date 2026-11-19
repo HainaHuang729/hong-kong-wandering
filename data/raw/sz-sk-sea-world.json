@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237307489,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 740022007,
+    "lat": "22.4831641",
+    "lon": "113.9120268",
+    "class": "amenity",
+    "type": "arts_centre",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "amenity",
+    "name": "海上世界文化艺术中心",
+    "display_name": "海上世界文化艺术中心, 1187号, 望海路, 招商街道, 南山区, 深圳市, 广东省, 518067, 中国",
+    "boundingbox": [
+      "22.4823815",
+      "22.4842434",
+      "113.9109174",
+      "113.9131792"
+    ]
+  }
+]

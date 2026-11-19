@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237235286,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 134396010,
+    "lat": "22.4704070",
+    "lon": "114.3586262",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "塔門碼頭 Tap Mun Pier",
+    "display_name": "塔門碼頭 Tap Mun Pier, 塔門海旁街 Tap Mun Hoi Pong, 榕樹村 Yung Shu Village, 大埔區 Tai Po District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4702232",
+      "22.4704778",
+      "114.3585889",
+      "114.3589137"
+    ]
+  },
+  {
+    "place_id": 235687794,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2526208864,
+    "lat": "22.4703404",
+    "lon": "114.3585951",
+    "class": "amenity",
+    "type": "ferry_terminal",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "塔門碼頭 Tap Mun Pier",
+    "display_name": "塔門碼頭 Tap Mun Pier, 塔門海旁街 Tap Mun Hoi Pong, 榕樹村 Yung Shu Village, 大埔區 Tai Po District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.4702904",
+      "22.4703904",
+      "114.3585451",
+      "114.3586451"
+    ]
+  }
+]

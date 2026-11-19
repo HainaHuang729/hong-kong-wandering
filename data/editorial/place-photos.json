@@ -1,0 +1,972 @@
+{
+  "repulse-beach": {
+    "rawFile": "repulse-beach.json",
+    "pageId": 29144890,
+    "caption": "从巴士上望向浅水湾的海湾景观"
+  },
+  "stanley-market": {
+    "rawFile": "stanley-market.json",
+    "pageId": 41530758,
+    "caption": "赤柱市场路牌，可用于辨认街区"
+  },
+  "murray": {
+    "rawFile": "murray-upgraded.json",
+    "pageId": 87647101,
+    "caption": "赤柱美利楼立面与海旁入口（2018 年照片）"
+  },
+  "sheko-beach": {
+    "rawFile": "sheko-beach.json",
+    "pageId": 42380515,
+    "caption": "石澳泳滩实景"
+  },
+  "sheko-temple": {
+    "rawFile": "sheko-temple.json",
+    "pageId": 7762007,
+    "caption": "石澳天后庙外观实景"
+  },
+  "belcher": {
+    "rawFile": "belcher.json",
+    "pageId": 37595139,
+    "caption": "卑路乍湾公园实景"
+  },
+  "hollywood-park": {
+    "rawFile": "hollywood-park.json",
+    "pageId": 39967910,
+    "caption": "荷李活道公园实景"
+  },
+  "manmo": {
+    "rawFile": "manmo-upgraded-v2.json",
+    "pageId": 94880796,
+    "caption": "荷李活道文武庙建筑外立面（2020 年照片）"
+  },
+  "pmq": {
+    "rawFile": "pmq.json",
+    "pageId": 49524666,
+    "caption": "元创方实景"
+  },
+  "central-market": {
+    "rawFile": "central-market.json",
+    "pageId": 109453274,
+    "caption": "中环街市中庭"
+  },
+  "pakta-wan": {
+    "rawFile": "pakta-wan.json",
+    "pageId": 82331859,
+    "caption": "湾仔北帝庙实景"
+  },
+  "apliu": {
+    "rawFile": "apliu.json",
+    "pageId": 155091746,
+    "caption": "鸭寮街实景"
+  },
+  "theatre": {
+    "rawFile": "theatre.json",
+    "pageId": 130898698,
+    "caption": "油麻地戏院与新填地街路口（2023 年照片）"
+  },
+  "temple-street": {
+    "rawFile": "temple-street.json",
+    "pageId": 29155082,
+    "caption": "庙街实景"
+  },
+  "clocktower": {
+    "rawFile": "clocktower.json",
+    "pageId": 60459594,
+    "caption": "尖沙咀钟楼实景"
+  },
+  "cc-paktai": {
+    "rawFile": "cc-paktai-upgraded.json",
+    "pageId": 139009750,
+    "caption": "长洲玉虚宫（北帝庙）入口广场（2023 年照片）"
+  },
+  "western": {
+    "rawFile": "western.json",
+    "pageId": 99255740,
+    "caption": "西港城及电车总站路口（2018 年照片）"
+  },
+  "taikwun": {
+    "rawFile": "taikwun-reviewed.json",
+    "pageId": 101253554,
+    "caption": "大馆荷李活道入口建筑立面（2021 年照片）"
+  },
+  "meiho": {
+    "rawFile": "meiho-upgraded.json",
+    "pageId": 192663930,
+    "caption": "美荷楼活化后外观与入口（2024 年照片）"
+  },
+  "tungwan": {
+    "rawFile": "tungwan.json",
+    "pageId": 129833174,
+    "caption": "长洲东湾泳滩"
+  },
+  "hungshing": {
+    "rawFile": "hungshing.json",
+    "pageId": 16142669,
+    "caption": "南丫岛洪圣爷湾泳滩"
+  },
+  "taio-bridge": {
+    "rawFile": "taio-bridge.json",
+    "pageId": 119600649,
+    "caption": "大澳涌行人桥（2022 年照片）"
+  },
+  "taio-temple": {
+    "rawFile": "taio-temple.json",
+    "pageId": 17835516,
+    "caption": "大澳关帝古庙外墙细部"
+  },
+  "bluehouse": {
+    "rawFile": "bluehouse-exterior.json",
+    "pageId": 100155698,
+    "caption": "湾仔蓝屋外观（2020 年照片）"
+  },
+  "taio-hotel": {
+    "rawFile": "taio-hotel.json",
+    "pageId": 24651125,
+    "caption": "大澳文物酒店，前大澳警署外观（2013 年照片）"
+  },
+  "sk-temple": {
+    "rawFile": "sk-temple-v2.json",
+    "pageId": 160802036,
+    "caption": "西贡墟天后庙香炉与祭祀空间（2025 年照片）"
+  },
+  "sk-promenade": {
+    "rawFile": "sk-promenade.json",
+    "pageId": 167917922,
+    "caption": "西贡海滨公园地质公园入口标识（2025 年照片）"
+  },
+  "st-park": {
+    "rawFile": "st-park-v2.json",
+    "pageId": 81899584,
+    "caption": "沙田公园绿荫与树木标识（2019 年照片）"
+  },
+  "st-bridge": {
+    "rawFile": "st-bridge.json",
+    "pageId": 88144879,
+    "caption": "沥源桥与城门河（2019 年照片）"
+  },
+  "kt-promenade": {
+    "rawFile": "kt-promenade-upgraded.json",
+    "pageId": 106103076,
+    "caption": "观塘海滨花园长廊及地标塔（2021 年照片）"
+  },
+  "pc-temple": {
+    "rawFile": "pc-temple.json",
+    "pageId": 29629861,
+    "caption": "坪洲天后宫外观"
+  },
+  "pc-hill": {
+    "rawFile": "pc-hill.json",
+    "pageId": 130511499,
+    "caption": "坪洲手指山休憩处（2023 年照片）"
+  },
+  "mw-beach": {
+    "rawFile": "mw-beach.json",
+    "pageId": 42380513,
+    "caption": "梅窝银矿湾泳滩实景"
+  },
+  "mw-falls": {
+    "rawFile": "mw-falls-v3.json",
+    "pageId": 44467022,
+    "caption": "银矿湾瀑布景观（2015 年照片；水量随季节变化）"
+  },
+  "wk-xiqu": {
+    "rawFile": "wk-xiqu-photo.json",
+    "pageId": 73463814,
+    "caption": "西九戏曲中心东面入口与银色立面（2018 年照片）"
+  },
+  "wk-mplus": {
+    "rawFile": "wk-mplus-photo.json",
+    "pageId": 162943186,
+    "caption": "M+ 视觉文化博物馆外观（2025 年照片）"
+  },
+  "wk-palace": {
+    "rawFile": "wk-palace-photo.json",
+    "pageId": 127769245,
+    "caption": "香港故宫文化博物馆入口广场（2023 年照片）"
+  },
+  "kc-walled-city": {
+    "rawFile": "kc-walled-city-photo.json",
+    "pageId": 176076145,
+    "caption": "九龙寨城公园南门及前衙门（2025 年照片）"
+  },
+  "tp-railway-museum": {
+    "rawFile": "tp-railway-museum-photo.json",
+    "pageId": 127706465,
+    "caption": "香港铁路博物馆旧大埔墟火车站入口（2023 年照片）"
+  },
+  "cc-pier": {
+    "rawFile": "cc-pier-photo.json",
+    "pageId": 187072827,
+    "caption": "长洲渡轮码头入口与候船区（2026 年照片）"
+  },
+  "pc-pier": {
+    "rawFile": "pc-pier-photo.json",
+    "pageId": 192920910,
+    "caption": "坪洲渡轮码头外观（2025 年照片）"
+  },
+  "mw-pier": {
+    "rawFile": "mw-pier-photo.json",
+    "pageId": 184481536,
+    "caption": "梅窝渡轮码头入口（2026 年照片）"
+  },
+  "th-haw-par": {
+    "rawFile": "th-haw-par-photo.json",
+    "pageId": 107317463,
+    "caption": "大坑道虎豹别墅旧正门入口（2021 年照片）"
+  },
+  "th-lin-fa-kung": {
+    "rawFile": "th-lin-fa-kung-photo.json",
+    "pageId": 98574827,
+    "caption": "大坑莲花宫入口阶梯与八角前殿（2021 年照片）"
+  },
+  "mlw-zoological": {
+    "rawFile": "mlw-zoological-photo.json",
+    "pageId": 190040080,
+    "caption": "香港动植物公园喷水池平台（2026 年照片）"
+  },
+  "alc-wind-tower-park": {
+    "rawFile": "alc-wind-tower-search.json",
+    "pageId": 136762990,
+    "caption": "鸭脷洲风之塔公园外观（2016 年照片）"
+  },
+  "skm-jccac": {
+    "rawFile": "skm-jccac-photo.json",
+    "pageId": 25357268,
+    "caption": "石硖尾赛马会创意艺术中心（JCCAC）入口（2013 年照片）"
+  },
+  "tko-velodrome-park": {
+    "rawFile": "tko-velodrome-photo.json",
+    "pageId": 118533920,
+    "caption": "香港单车馆公园与人工湖广场（2022 年照片）"
+  },
+  "tw-airport-core": {
+    "rawFile": "tw-airport-core-photo.json",
+    "pageId": 184339732,
+    "caption": "白楼（机场核心计划展览中心）与汀九海景（2024 年照片）"
+  },
+  "qb-monster": {
+    "rawFile": "qb-monster-photo.json",
+    "pageId": 147380589,
+    "caption": "益昌大厦与海山楼住宅外立面（2024 年照片）"
+  },
+  "sheko-bus": {
+    "rawFile": "sheko-temple-upgraded-v2.json",
+    "pageId": 203013733,
+    "caption": "石澳巴士总站与城巴 9 号巴士（2026 年照片）"
+  },
+  "tkw-cattle-depot": {
+    "rawFile": "tkw-cattle-depot-photo.json",
+    "pageId": 102744304,
+    "caption": "牛棚艺术村红砖建筑群（2017 年照片）"
+  },
+  "np-choi-sai-woo": {
+    "rawFile": "np-choi-sai-woo-photo.json",
+    "pageId": 50906838,
+    "caption": "宝马山赛西湖公园绿荫步道（2016 年照片）"
+  },
+  "np-provident": {
+    "rawFile": "np-provident-photo.json",
+    "pageId": 185906661,
+    "caption": "和富中心及东区走廊桥下海滨（2026 年照片）"
+  },
+  "np-ferry-pier": {
+    "rawFile": "np-ferry-pier-photo.json",
+    "pageId": 200654992,
+    "caption": "北角（西）渡轮码头外观（2026 年照片）"
+  },
+  "ncw-village": {
+    "rawFile": "ncw-village-photo.json",
+    "pageId": 202228484,
+    "caption": "牛池湾街市及牛池湾村入口（2026 年照片）"
+  },
+  "ncw-choi-hung-estate": {
+    "rawFile": "ncw-choi-hung-photo.json",
+    "pageId": 200069839,
+    "caption": "彩虹邨公共空间与平台球场（2026 年照片）"
+  },
+  "spk-kai-tak-river": {
+    "rawFile": "spk-kai-tak-river-photo.json",
+    "pageId": 65722069,
+    "caption": "启德河新蒲岗段绿化河道（2018 年照片）"
+  },
+  "spk-fung-tak-park": {
+    "rawFile": "spk-fung-tak-park-photo.json",
+    "pageId": 146989018,
+    "caption": "钻石山凤德公园景观（2023 年照片）"
+  },
+  "th-queens-college": {
+    "rawFile": "th-queens-college-photo.json",
+    "pageId": 83024733,
+    "caption": "高士威道皇仁书院外街景（2019 年照片）"
+  },
+  "th-lai-tak": {
+    "rawFile": "th-lai-tak-photo.json",
+    "pageId": 192578156,
+    "caption": "大坑励德邨建筑外观（2026 年照片）"
+  },
+  "mlw-lung-fu-shan": {
+    "rawFile": "mlw-lung-fu-shan-photo.json",
+    "pageId": 96148299,
+    "caption": "龙虎山环境教育中心历史建筑（2020 年照片）"
+  },
+  "abd-promenade": {
+    "rawFile": "abd-promenade-photo.json",
+    "pageId": 192576050,
+    "caption": "香港仔海滨公园海旁长廊（2026 年照片）"
+  },
+  "skm-nam-shan-estate": {
+    "rawFile": "skm-nam-shan-photo.json",
+    "pageId": 145632110,
+    "caption": "南山邨平台与周边长型屋邨（2024 年照片）"
+  },
+  "tkw-hoi-sham-park": {
+    "rawFile": "tkw-hoi-sham-photo.json",
+    "pageId": 71258998,
+    "caption": "土瓜湾海心公园鱼尾石（2018 年照片）"
+  },
+  "tkw-ko-shan-theatre": {
+    "rawFile": "tkw-ko-shan-photo.json",
+    "pageId": 171442043,
+    "caption": "高山剧场及高山道公园入口（2025 年照片）"
+  },
+  "st-town-hall": {
+    "rawFile": "st-town-hall-photo.json",
+    "pageId": 163270544,
+    "caption": "沙田大会堂公共广场与阶梯（2025 年照片）"
+  },
+  "st-lek-yuen": {
+    "rawFile": "st-lek-yuen-photo.json",
+    "pageId": 195284701,
+    "caption": "沙田沥源邨中心喷泉池（2026 年照片）"
+  },
+  "tko-hkdi": {
+    "rawFile": "tko-hkdi-photo.json",
+    "pageId": 150326263,
+    "caption": "调景岭香港知专设计学院平台（2024 年照片）"
+  },
+  "tko-waterfront-park": {
+    "rawFile": "tko-waterfront-photo.json",
+    "pageId": 144826291,
+    "caption": "将军澳南海滨长廊与跨湾景观（2024 年照片）"
+  },
+  "tw-approach-beach": {
+    "rawFile": "tw-approach-beach-photo.json",
+    "pageId": 63521670,
+    "caption": "近水湾泳滩与青马大桥视野（2017 年照片）"
+  },
+  "tw-sham-tseng-garden": {
+    "rawFile": "tw-sham-tseng-garden-search.json",
+    "pageId": 49620911,
+    "caption": "深井嘉顿厂房建筑外观（2016 年照片）"
+  },
+  "qb-chun-yeung": {
+    "rawFile": "qb-chun-yeung-photo.json",
+    "pageId": 118986867,
+    "caption": "北角春秧街电车路露天市集（2022 年照片）"
+  },
+  "qb-woodside": {
+    "rawFile": "qb-woodside-photo.json",
+    "pageId": 36755804,
+    "caption": "鲗鱼涌林边红屋历史建筑（2014 年照片）"
+  },
+  "qb-park": {
+    "rawFile": "qb-park-photo.json",
+    "pageId": 47720649,
+    "caption": "鲗鱼涌公园海滨长廊"
+  },
+  "wk-freespace": {
+    "rawFile": "wk-freespace-photo.json",
+    "pageId": 129768603,
+    "caption": "西九艺术公园与自由空间实景（2023 年照片）"
+  },
+  "kc-garden": {
+    "rawFile": "kc-garden-photo.json",
+    "pageId": 113196083,
+    "caption": "宋王台花园及宋王台石刻（2021 年照片）"
+  },
+  "tp-man-mo": {
+    "rawFile": "tp-man-mo-photo.json",
+    "pageId": 157354073,
+    "caption": "大埔富善街文武二帝庙（2024 年照片）"
+  },
+  "tp-waterfront-park": {
+    "rawFile": "tp-waterfront-photo.json",
+    "pageId": 56796623,
+    "caption": "大埔海滨公园与回归纪念塔（2016 年照片）"
+  },
+  "tt-upper-dam": {
+    "rawFile": "tt-upper-dam-photo.json",
+    "pageId": 24863211,
+    "caption": "大潭上水塘百年花岗岩水坝（2013 年照片）"
+  },
+  "tt-tuk-barbecue": {
+    "rawFile": "tt-tuk-barbecue-photo.json",
+    "pageId": 119091879,
+    "caption": "大潭笃水塘石拱桥群（2022 年照片）"
+  },
+  "tc-battery": {
+    "rawFile": "tc-battery-photo.json",
+    "pageId": 200992575,
+    "caption": "东涌小炮台清代石墙遗址（2026 年照片）"
+  },
+  "tc-fort": {
+    "rawFile": "tc-fort-photo.json",
+    "pageId": 157458266,
+    "caption": "东涌炮台古城墙及正门（2019 年照片）"
+  },
+  "wts-temple": {
+    "rawFile": "wts-temple-photo.json",
+    "pageId": 114191198,
+    "caption": "啬色园黄大仙祠广场与大殿（2022 年照片）"
+  },
+  "wts-nan-lian": {
+    "rawFile": "wts-nan-lian-photo.json",
+    "pageId": 120661221,
+    "caption": "南莲园池唐代木构水景园林（2022 年照片）"
+  },
+  "wts-chi-lin": {
+    "rawFile": "wts-chi-lin-photo.json",
+    "pageId": 97525630,
+    "caption": "志莲净苑仿唐佛寺庭院（2020 年照片）"
+  },
+  "hv-racecourse": {
+    "rawFile": "hv-racecourse-photo.json",
+    "pageId": 197929435,
+    "caption": "跑马地马场及香港赛马博物馆外立面（2026 年照片）"
+  },
+  "hv-tram-terminus": {
+    "rawFile": "hv-tram-terminus-photo.json",
+    "pageId": 83250708,
+    "caption": "黄泥涌道跑马地电车总站（2019 年照片）"
+  },
+  "skw-tam-kung": {
+    "rawFile": "skw-tam-kung-photo.json",
+    "pageId": 20313836,
+    "caption": "筲箕湾谭公庙入口建筑"
+  },
+  "skw-coastal-defence": {
+    "rawFile": "skw-coastal-defence-photo.json",
+    "pageId": 128541957,
+    "caption": "香港抗战及海防博物馆堡垒与天幕（2023 年照片）"
+  },
+  "skw-aldrich-bay": {
+    "rawFile": "skw-aldrich-bay-photo.json",
+    "pageId": 151640463,
+    "caption": "爱秩序湾公园海滨亭阁（2024 年照片）"
+  },
+  "cwb-st-paul": {
+    "rawFile": "cwb-st-paul-search.json",
+    "pageId": 183727693,
+    "caption": "铜锣湾圣保禄修院基督君王小堂"
+  },
+  "cwb-haven-street": {
+    "rawFile": "cwb-haven-street-photo.json",
+    "pageId": 147162561,
+    "caption": "铜锣湾希云街社区街景（2024 年照片）"
+  },
+  "pk-lions-pavilion": {
+    "rawFile": "pk-lions-pavilion-search.json",
+    "pageId": 55225884,
+    "caption": "太平山狮子亭观景台"
+  },
+  "pk-lugard-road": {
+    "rawFile": "pk-lugard-road-photo.json",
+    "pageId": 201464998,
+    "caption": "太平山卢吉道百年高空栈道（2026 年照片）"
+  },
+  "lym-lighthouse": {
+    "rawFile": "lym-lighthouse-photo.json",
+    "pageId": 168824255,
+    "caption": "鲤鱼门海角红白灯塔（2025 年照片）"
+  },
+  "lym-tin-hau": {
+    "rawFile": "lym-tin-hau-photo.json",
+    "pageId": 180228885,
+    "caption": "鲤鱼门海峡旁天后古庙（2025 年照片）"
+  },
+  "hh-promenade": {
+    "rawFile": "hh-promenade-photo.json",
+    "pageId": 194274600,
+    "caption": "红磡海滨花园维港长廊（2026 年照片）"
+  },
+  "hh-whampoa-ship": {
+    "rawFile": "hh-whampoa-ship-photo.json",
+    "pageId": 191647086,
+    "caption": "黄埔号船形建筑地标（2026 年照片）"
+  },
+  "lck-jao-tsung-i": {
+    "rawFile": "lck-jao-tsung-i-photo.json",
+    "pageId": 21401953,
+    "caption": "饶宗颐文化馆红砖建筑群"
+  },
+  "lck-lingnan-garden": {
+    "rawFile": "lck-lingnan-garden-photo.json",
+    "pageId": 46044927,
+    "caption": "荔枝角公园岭南之风园林（2013 年照片）"
+  },
+  "lck-d2-place": {
+    "rawFile": "lck-d2-place-search.json",
+    "pageId": 85392410,
+    "caption": "荔枝角 D2 Place 文创工厦"
+  },
+  "tkt-anchor-street": {
+    "rawFile": "tkt-anchor-street-photo.json",
+    "pageId": 202716443,
+    "caption": "大角咀晏架街街区景观（2026 年照片）"
+  },
+  "tkt-hoi-fai": {
+    "rawFile": "tkt-hoi-fai-photo.json",
+    "pageId": 129145612,
+    "caption": "海辉道海滨花园与西九海湾（2023 年照片）"
+  },
+  "ps-tsui-sing-lau": {
+    "rawFile": "ps-tsui-sing-lau-photo.json",
+    "pageId": 185253330,
+    "caption": "屏山聚星楼六百年青砖古塔（2026 年照片）"
+  },
+  "ps-tang-ancestral-hall": {
+    "rawFile": "ps-tang-ancestral-hall-photo.json",
+    "pageId": 145250174,
+    "caption": "屏山邓氏宗祠正门及三进瓦顶（2024 年照片）"
+  },
+  "ps-heritage-museum": {
+    "rawFile": "ps-heritage-museum-photo.json",
+    "pageId": 28756144,
+    "caption": "屏山邓族文物馆（旧屏山警署）"
+  },
+  "lyt-tang-chung-ling": {
+    "rawFile": "lyt-tang-chung-ling-photo.json",
+    "pageId": 84327299,
+    "caption": "粉岭龙跃头松岭邓公祠（2017 年照片）"
+  },
+  "lyt-tin-hau": {
+    "rawFile": "lyt-tin-hau-photo.json",
+    "pageId": 84327296,
+    "caption": "龙跃头天后宫古庙立面（2017 年照片）"
+  },
+  "lyt-ma-wat-wai": {
+    "rawFile": "lyt-ma-wat-wai-photo.json",
+    "pageId": 84327314,
+    "caption": "龙跃头麻笏围门楼建筑（2017 年照片）"
+  },
+  "hku-main-building": {
+    "rawFile": "hku-main-building-photo.json",
+    "pageId": 54813814,
+    "caption": "香港大学本部大楼与陆佑堂外观"
+  },
+  "hku-fung-ping-shan": {
+    "rawFile": "hku-fung-ping-shan-search.json",
+    "pageId": 31725159,
+    "caption": "香港大学美术博物馆（冯平山楼）"
+  },
+  "hku-medical-museum": {
+    "rawFile": "hku-medical-museum-photo.json",
+    "pageId": 83150614,
+    "caption": "香港医学博物馆红砖阳廊建筑（2019 年照片）"
+  },
+  "tw-sam-tung-uk": {
+    "rawFile": "tw-sam-tung-uk-photo.json",
+    "pageId": 92120873,
+    "caption": "荃湾三栋屋博物馆客家围屋（2020 年照片）"
+  },
+  "tw-the-mills": {
+    "rawFile": "tw-the-mills-photo.json",
+    "pageId": 79754250,
+    "caption": "荃湾南丰纱厂活化天台与厂房立面"
+  },
+  "tm-park": {
+    "rawFile": "tm-park-photo.json",
+    "pageId": 48341425,
+    "caption": "屯门公园河畔与林荫步道"
+  },
+  "tm-kadoorie-pier": {
+    "rawFile": "tm-kadoorie-pier-photo.json",
+    "pageId": 201896118,
+    "caption": "屯门青山湾嘉道理码头海堤（2026 年照片）"
+  },
+  "si-tombolo": {
+    "rawFile": "si-tombolo-photo.json",
+    "pageId": 71254291,
+    "caption": "西贡桥咀洲天然连岛沙洲（2018 年照片）"
+  },
+  "si-pier": {
+    "rawFile": "si-pier-search.json",
+    "pageId": 107108858,
+    "caption": "西贡桥咀岛街渡码头（2016 年照片）"
+  },
+  "tm-tin-hau": {
+    "rawFile": "tm-tin-hau-photo.json",
+    "pageId": 8896214,
+    "caption": "塔门天后古庙外貌"
+  },
+  "tm-balanced-rock": {
+    "rawFile": "tm-balanced-rock-zh.json",
+    "pageId": 7184227,
+    "caption": "塔门海崖吕字叠石"
+  },
+  "adm-flagstaff": {
+    "rawFile": "adm-flagstaff-photo.json",
+    "pageId": 120125958,
+    "caption": "茶具文物馆（旗杆屋）白墙廊柱外观（2022 年照片）"
+  },
+  "adm-st-john": {
+    "rawFile": "adm-st-john-photo.json",
+    "pageId": 189328736,
+    "caption": "花园道圣约翰座堂石墙与钟楼（2026 年照片）"
+  },
+  "adm-cfa": {
+    "rawFile": "adm-cfa-photo.json",
+    "pageId": 165272830,
+    "caption": "中环终审法院大楼新古典花岗岩柱廊（2025 年照片）"
+  },
+  "pfl-bethanie": {
+    "rawFile": "pfl-bethanie-photo.json",
+    "pageId": 190323683,
+    "caption": "薄扶林伯大尼修院新哥德式外立面（2026 年照片）"
+  },
+  "pfl-pokfulam-farm": {
+    "rawFile": "pfl-pokfulam-farm-search.json",
+    "pageId": 19215499,
+    "caption": "薄鳧林牧场（旧牛奶公司职员宿舍）"
+  },
+  "pfl-waterfall-bay": {
+    "rawFile": "pfl-waterfall-bay-photo.json",
+    "pageId": 186029917,
+    "caption": "薄扶林瀑布湾海崖天然飞瀑（2026 年照片）"
+  },
+  "ar-upper-dam": {
+    "rawFile": "ar-upper-dam-photo.json",
+    "pageId": 54483616,
+    "caption": "香港仔上水塘石拱桥与水坝（2011 年照片）"
+  },
+  "db-shek-o-peak": {
+    "rawFile": "db-shek-o-peak-search.json",
+    "pageId": 1954063,
+    "caption": "石澳龙脊打烂埕顶山海湾脊线"
+  },
+  "db-big-wave-bay": {
+    "rawFile": "db-big-wave-bay-photo.json",
+    "pageId": 193414015,
+    "caption": "大浪湾泳滩与环山海岸（2025 年照片）"
+  },
+  "fm-flower-market": {
+    "rawFile": "fm-flower-market-photo.json",
+    "pageId": 101303657,
+    "caption": "旺角花墟道鲜花与园艺街市（2021 年照片）"
+  },
+  "fm-bird-garden": {
+    "rawFile": "fm-bird-garden-search.json",
+    "pageId": 5232871,
+    "caption": "太子园圃街雀鸟花园中式回廊"
+  },
+  "kh-kadoorie-avenue": {
+    "rawFile": "kh-kadoorie-avenue-photo.json",
+    "pageId": 57736652,
+    "caption": "加多利山嘉道理道林荫洋房街道（2014 年照片）"
+  },
+  "kh-maryknoll": {
+    "rawFile": "kh-maryknoll-photo.json",
+    "pageId": 109717429,
+    "caption": "窝打老道玛利诺修院学校古迹外墙（2021 年照片）"
+  },
+  "lcu-han-tomb": {
+    "rawFile": "lcu-han-tomb-photo.json",
+    "pageId": 196971018,
+    "caption": "李郑屋汉墓博物馆东汉砖室与汉花园（2026 年照片）"
+  },
+  "lcu-so-uk": {
+    "rawFile": "lcu-so-uk-hk.json",
+    "pageId": 44667169,
+    "caption": "长沙湾苏屋邨公共空间"
+  },
+  "ktk-sky-garden": {
+    "rawFile": "ktk-sky-garden-photo.json",
+    "pageId": 196068511,
+    "caption": "启德空中花园高架绿化步道（2026 年照片）"
+  },
+  "ktk-cruise-park": {
+    "rawFile": "ktk-cruise-park-photo.json",
+    "pageId": 136606192,
+    "caption": "启德邮轮码头公园顶层海港草坪（2023 年照片）"
+  },
+  "sm-main-dam": {
+    "rawFile": "sm-main-dam-photo.json",
+    "pageId": 116031296,
+    "caption": "城门水塘主水坝与青山倒影（2022 年照片）"
+  },
+  "nsw-eucalyptus": {
+    "rawFile": "nsw-eucalyptus-search.json",
+    "pageId": 80745618,
+    "caption": "元朗南生围湿地与树林大道"
+  },
+  "lk-kuk-po": {
+    "rawFile": "lk-kuk-po-photo.json",
+    "pageId": 78226061,
+    "caption": "谷埔海畔芦苇田与启才学校旧址（2018 年照片）"
+  },
+  "hsh-hau-ku-shek": {
+    "rawFile": "hsh-hau-ku-shek-photo.json",
+    "pageId": 95953280,
+    "caption": "上水河上乡明代居石侯公祠正门（2020 年照片）"
+  },
+  "ytt-chapel": {
+    "rawFile": "ytt-chapel-photo.json",
+    "pageId": 75200727,
+    "caption": "西贡盐田梓百年圣若瑟小堂（2018 年照片）"
+  },
+  "ytt-salt-pans": {
+    "rawFile": "ytt-salt-pans-photo.json",
+    "pageId": 173988988,
+    "caption": "西贡盐田梓复修传统海盐晒盐池（2025 年照片）"
+  },
+  "mw-tung-wan": {
+    "rawFile": "mw-tung-wan-search.json",
+    "pageId": 28900496,
+    "caption": "马湾东湾泳滩与海峡海景"
+  },
+  "mw-fong-yuen": {
+    "rawFile": "mw-fong-yuen-photo.json",
+    "pageId": 85660381,
+    "caption": "马湾百年古迹芳园书室山花外观（2017 年照片）"
+  },
+  "pt-rock-carving": {
+    "rawFile": "pt-rock-carving-photo.json",
+    "pageId": 11128172,
+    "caption": "蒲台岛青铜时期史前摩崖石刻（2010 年照片）"
+  },
+  "pt-lighthouse": {
+    "rawFile": "pt-lighthouse-photo.json",
+    "pageId": 158752653,
+    "caption": "蒲台岛南角咀 126 号纯白灯塔（2022 年照片）"
+  },
+  "ar-lower-dam": {
+    "rawFile": "ar-lower-dam-search.json",
+    "pageId": 15810591,
+    "caption": "香港仔下水塘百年花岗岩石坝"
+  },
+  "nsw-wedding-bridge": {
+    "rawFile": "nsw-wedding-bridge-hk.json",
+    "pageId": 80745358,
+    "caption": "元朗南生围木桥与湿地水面"
+  },
+  "lk-fung-hang": {
+    "rawFile": "lk-fung-hang-search.json",
+    "pageId": 113944418,
+    "caption": "鹿颈至凤坑海岸与红树林步道"
+  },
+  "hsh-long-valley": {
+    "rawFile": "hsh-long-valley-hk.json",
+    "pageId": 34952895,
+    "caption": "上水塱原自然生态公园湿地农田（2014 年照片）"
+  },
+  "sz-sk-sea-world": {
+    "rawFile": "sz-sk-sea-world-photo.json",
+    "pageId": 163084068,
+    "caption": "海上世界文化艺术中心临海白色展馆（2025 年照片）"
+  },
+  "sz-sk-old-street": {
+    "rawFile": "sz-sk-old-street-photo.json",
+    "pageId": 142017295,
+    "caption": "蛇口老街区生活风貌（2023 年照片）"
+  },
+  "sz-oct-loft-north": {
+    "rawFile": "sz-oct-loft-north-photo.json",
+    "pageId": 162655802,
+    "caption": "华侨城创意园北区红砖旧厂房（2025 年照片）"
+  },
+  "sz-oct-eco-plaza": {
+    "rawFile": "sz-oct-eco-plaza-photo.json",
+    "pageId": 153271235,
+    "caption": "华侨城林荫园区与广场水景（2024 年照片）"
+  },
+  "sz-sb-mangrove": {
+    "rawFile": "sz-sb-mangrove-photo.json",
+    "pageId": 56621586,
+    "caption": "深圳湾红树林海滨湿地滩涂（2013 年照片）"
+  },
+  "sz-sb-talent-park": {
+    "rawFile": "sz-sb-talent-park-photo.json",
+    "pageId": 117603331,
+    "caption": "深圳人才公园与后海高楼海湾（2021 年照片）"
+  },
+  "sz-nt-south-gate": {
+    "rawFile": "sz-nt-south-gate-photo.json",
+    "pageId": 161365236,
+    "caption": "南头古城青砖南城门与拱廊（2025 年照片）"
+  },
+  "sz-nt-zhongshan-park": {
+    "rawFile": "sz-nt-zhongshan-park-photo.json",
+    "pageId": 178553969,
+    "caption": "南山中山公园古荔荫道（2025 年照片）"
+  },
+  "sz-lh-top-plaza": {
+    "rawFile": "sz-lh-top-plaza-photo.json",
+    "pageId": 196133770,
+    "caption": "莲花山公园山顶平台与福田中轴视野（2026 年照片）"
+  },
+  "sz-lh-upperhills": {
+    "rawFile": "sz-lh-upperhills-photo.json",
+    "pageId": 141593655,
+    "caption": "深业上城红黄墙开放平台（2023 年照片）"
+  },
+  "sz-lh-bijiashan": {
+    "rawFile": "sz-lh-bijiashan-photo.json",
+    "pageId": 196133745,
+    "caption": "笔架山公园山林绿道（2026 年照片）"
+  },
+  "sz-yl-lizhi-park": {
+    "rawFile": "sz-yl-lizhi-park-photo.json",
+    "pageId": 176452094,
+    "caption": "荔枝公园湖面与对岸罗湖福田大厦群（2025 年照片）"
+  },
+  "sz-dm-pedestrian": {
+    "rawFile": "sz-dm-pedestrian-photo.json",
+    "pageId": 155632338,
+    "caption": "罗湖东门老街商业步行街景（2024 年照片）"
+  },
+  "sz-dm-peoples-park": {
+    "rawFile": "sz-dm-peoples-park-photo.json",
+    "pageId": 186403655,
+    "caption": "罗湖人民公园林荫园林（2026 年照片）"
+  },
+  "sz-hqb-seg": {
+    "rawFile": "sz-hqb-seg-photo.json",
+    "pageId": 161608795,
+    "caption": "华强北赛格广场与商业大道（2025 年照片）"
+  },
+  "sz-hqb-central-park": {
+    "rawFile": "sz-hqb-central-park-photo.json",
+    "pageId": 187791302,
+    "caption": "福田中心公园河畔绿带与中轴大厦（2026 年照片）"
+  },
+  "sz-yt-dameisha-boardwalk": {
+    "rawFile": "sz-yt-central-park-search.json",
+    "pageId": 166116249,
+    "caption": "盐田区海滨栈道临海步道（2025 年盐田海滨实景）"
+  },
+  "sz-ml-dam": {
+    "rawFile": "sz-ml-dam-photo.json",
+    "pageId": 162787784,
+    "caption": "梅林水库大坝湖水与山景（2025 年照片）"
+  },
+  "sz-qh-stone-park": {
+    "rawFile": "sz-qh-stone-park-photo.json",
+    "pageId": 203268592,
+    "caption": "前海石公园海湾岸堤与夕阳视野（2026 年照片）"
+  },
+  "sz-qh-happy-harbor": {
+    "rawFile": "sz-qh-happy-harbor-geo.json",
+    "pageId": 134339756,
+    "caption": "宝安欢乐港湾海滨文化公园与「湾区之光」摩天轮（2023 年照片）"
+  },
+  "sz-tl-peak": {
+    "rawFile": "sz-tl-peak-photo.json",
+    "pageId": 84779982,
+    "caption": "塘朗山山脊观景点与市区视野（2019 年照片）"
+  },
+  "sz-dp-fortress": {
+    "rawFile": "sz-dp-fortress-photo.json",
+    "pageId": 156744402,
+    "caption": "大鹏所城古城门与历史城墙（2024 年照片）"
+  },
+  "sz-ymk-coastal-road": {
+    "rawFile": "sz-ymk-coastal-road-photo.json",
+    "pageId": 46929786,
+    "caption": "杨梅坑—鹿嘴海岸悬崖海景路（2016 年照片）"
+  },
+  "sz-gk-south-gate": {
+    "rawFile": "sz-gk-south-gate-photo.json",
+    "pageId": 163144332,
+    "caption": "甘坑客家古镇青砖水岸建筑（2025 年照片）"
+  },
+  "sz-df-oil-street": {
+    "rawFile": "sz-df-oil-street-photo.json",
+    "pageId": 159859355,
+    "caption": "大芬油画村太阳广场街巷画坊（2025 年照片）"
+  },
+  "sz-df-art-museum": {
+    "rawFile": "sz-df-art-museum-photo.json",
+    "pageId": 159746826,
+    "caption": "大芬美术馆现代外观（2025 年照片）"
+  },
+  "sz2-xm-park": {
+    "rawFile": "sz2-xm-park-photo.json",
+    "pageId": 78711810,
+    "caption": "香蜜公园空中栈道与荔枝林海（2019 年照片）"
+  },
+  "sz2-dsh-park": {
+    "rawFile": "sz2-dsh-park-photo.json",
+    "pageId": 164584875,
+    "caption": "大沙河生态绿廊桥面与河道（2025 年照片）"
+  },
+  "sz2-xw-mangrove": {
+    "rawFile": "sz2-xw-mangrove-photo.json",
+    "pageId": 201676937,
+    "caption": "宝安西湾红树林湿地公园海滨景观（2026 年照片）"
+  },
+  "sz2-xa-old-street": {
+    "rawFile": "sz2-xa-old-street-photo.json",
+    "pageId": 148884773,
+    "caption": "宝安新安公园湖畔园林（2024 年照片）"
+  },
+  "sz2-sw-village": {
+    "rawFile": "sz2-sw-village-photo.json",
+    "pageId": 131538635,
+    "caption": "福田水围村牌坊与街区（2023 年照片）"
+  },
+  "sz2-hh-park": {
+    "rawFile": "sz2-hh-park-photo.json",
+    "pageId": 188944186,
+    "caption": "罗湖洪湖公园荷塘与湖堤（2026 年照片）"
+  },
+  "sz2-dh-park": {
+    "rawFile": "sz2-dh-park-photo.json",
+    "pageId": 202507432,
+    "caption": "罗湖东湖公园大门与林荫广场（2026 年照片）"
+  },
+  "sz-yt-dameisha-park": {
+    "rawFile": "sz-yt-dameisha-park-photo.json",
+    "pageId": 143461476,
+    "caption": "大梅沙海滨公园沙滩与海景（2024 年照片）"
+  },
+  "sz-yt-seafood-street": {
+    "rawFile": "sz-yt-seafood-street-photo.json",
+    "pageId": 165986933,
+    "caption": "盐田海鲜街海滨栈道（2025 年照片）"
+  },
+  "sz2-gm-hongqiao": {
+    "rawFile": "sz2-gm-hongqiao-photo.json",
+    "pageId": 181265301,
+    "caption": "光明虹桥公园空中红桥（2025 年照片）"
+  },
+  "sz2-gl-old-market": {
+    "rawFile": "sz2-gl-old-market-photo.json",
+    "pageId": 193602604,
+    "caption": "观澜古墟清代商埠老街与碉楼（2026 年照片）"
+  },
+  "sz2-hh2-hehu": {
+    "rawFile": "sz2-hh2-hehu-photo.json",
+    "pageId": 81480144,
+    "caption": "龙岗鹤湖新居客家围屋（2019 年照片）"
+  },
+  "sz2-ps-dawan": {
+    "rawFile": "sz2-ps-dawan-photo.json",
+    "pageId": 196727366,
+    "caption": "坪山大万世居清代方形围屋（2026 年照片）"
+  },
+  "sz2-wt-xiantong": {
+    "rawFile": "sz2-wt-xiantong-photo.json",
+    "pageId": 144876821,
+    "caption": "梧桐山国家森林公园南麓林道（2024 年照片）"
+  },
+  "sz2-lh2-north-station": {
+    "rawFile": "sz2-lh2-north-station-photo.json",
+    "pageId": 162110270,
+    "caption": "深圳北站东广场建筑外观（2025 年照片）"
+  },
+  "sz2-xms-station": {
+    "rawFile": "sz2-xms-beizaijiao-photo.json",
+    "pageId": 146301369,
+    "caption": "地铁 8 号线小梅沙站 C 出口外景"
+  }
+}

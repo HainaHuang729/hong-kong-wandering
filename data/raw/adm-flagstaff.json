@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238671654,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 42255475,
+    "lat": "22.2783171",
+    "lon": "114.1625581",
+    "class": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.3943200352487266,
+    "addresstype": "tourism",
+    "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+    "display_name": "茶具文物館 Flagstaff House Museum of Tea Ware, 10, 紅棉路 Cotton Tree Drive, 政府山 Government Hill, 金鐘 Admiralty, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2779481",
+      "22.2786245",
+      "114.1623101",
+      "114.1626858"
+    ]
+  }
+]

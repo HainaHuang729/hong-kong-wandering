@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236952280,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 688176795,
+    "lat": "22.3278767",
+    "lon": "114.1795618",
+    "class": "amenity",
+    "type": "school",
+    "place_rank": 30,
+    "importance": 0.39995219095429424,
+    "addresstype": "amenity",
+    "name": "瑪利諾修院學校 Maryknoll Convent School",
+    "display_name": "瑪利諾修院學校 Maryknoll Convent School, 火石道 Flint Road, 九龍仔 Kowloon Tsai, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3270720",
+      "22.3286904",
+      "114.1786376",
+      "114.1804894"
+    ]
+  },
+  {
+    "place_id": 242400637,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 9563160,
+    "lat": "22.3274871",
+    "lon": "114.1788951",
+    "class": "building",
+    "type": "school",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "building",
+    "name": "瑪利諾修院學校(小學部)",
+    "display_name": "瑪利諾修院學校(小學部), 130, 窩打老道 Waterloo Road, 加多利山 Kadoorie Hill, 九龍塘 Kowloon Tong, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3271865",
+      "22.3278192",
+      "114.1787100",
+      "114.1793390"
+    ]
+  }
+]

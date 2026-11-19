@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237151752,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11314828263,
+    "lat": "22.5828585",
+    "lon": "114.0110031",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "tourism",
+    "name": "梅林水库绿道涂鸦墙",
+    "display_name": "梅林水库绿道涂鸦墙, 二线公路, 长源社区, 梅林街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5828085",
+      "22.5829085",
+      "114.0109531",
+      "114.0110531"
+    ]
+  }
+]

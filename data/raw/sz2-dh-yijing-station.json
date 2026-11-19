@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237206559,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8627507124,
+    "lat": "22.5576600",
+    "lon": "114.1356482",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "怡景地铁站 ①",
+    "display_name": "怡景地铁站 ①, 怡景路, 怡景社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5576100",
+      "22.5577100",
+      "114.1355982",
+      "114.1356982"
+    ]
+  },
+  {
+    "place_id": 237777483,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8627507123,
+    "lat": "22.5571325",
+    "lon": "114.1361787",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "怡景地铁站 ②",
+    "display_name": "怡景地铁站 ②, 怡景人行天桥, 怡景社区, 黄贝街道, 罗湖区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5570825",
+      "22.5571825",
+      "114.1361287",
+      "114.1362287"
+    ]
+  }
+]

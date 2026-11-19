@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 238300167,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 170698530,
+    "lat": "22.2532822",
+    "lon": "113.8536280",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "tourism",
+    "name": "大澳文物酒店 Tai O Heritage Hotel",
+    "display_name": "大澳文物酒店 Tai O Heritage Hotel, 石仔埗街 Shek Tsai Po Street, 半路棚 Pun Lo Pang, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2529185",
+      "22.2537279",
+      "113.8531219",
+      "113.8541179"
+    ]
+  }
+]

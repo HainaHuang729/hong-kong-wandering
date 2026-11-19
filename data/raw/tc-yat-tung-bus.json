@@ -1,0 +1,35 @@
+[
+  {
+    "place_id": 236092090,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 16007449,
+    "lat": "22.2821462",
+    "lon": "113.9358781",
+    "category": "amenity",
+    "type": "bus_station",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "amenity",
+    "name": "逸東邨 Yat Tung Estate",
+    "display_name": "逸東邨 Yat Tung Estate, 黎淑英紀念廣場 Lai Shuk Ying Memorial Square, 逸東邨 Yat Tung Estate, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "address": {
+      "amenity": "逸東邨 Yat Tung Estate",
+      "road": "黎淑英紀念廣場 Lai Shuk Ying Memorial Square",
+      "residential": "逸東邨 Yat Tung Estate",
+      "borough": "大嶼山 Lantau",
+      "suburb": "離島區 Islands District",
+      "region": "新界 New Territories",
+      "city": "香港 Hong Kong",
+      "ISO3166-2-lvl3": "CN-HK",
+      "country": "中国",
+      "country_code": "cn"
+    },
+    "boundingbox": [
+      "22.2816238",
+      "22.2823926",
+      "113.9355730",
+      "113.9361672"
+    ]
+  }
+]

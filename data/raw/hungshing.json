@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235323553,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 52298447,
+    "lat": "22.2187272",
+    "lon": "114.1197128",
+    "class": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.33155205287302,
+    "addresstype": "beach",
+    "name": "洪聖爺灣泳灘 Hung Shing Yeh Beach",
+    "display_name": "洪聖爺灣泳灘 Hung Shing Yeh Beach, 洪聖爺 Hung Shing Yeh, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2182765",
+      "22.2191611",
+      "114.1189197",
+      "114.1201747"
+    ]
+  }
+]

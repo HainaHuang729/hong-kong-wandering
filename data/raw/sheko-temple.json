@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 236762861,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1134758319,
+    "lat": "22.2306021",
+    "lon": "114.2520923",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.311877314681546,
+    "addresstype": "amenity",
+    "name": "Tin Hau temple",
+    "display_name": "Tin Hau temple, 石澳村路 Shek O Village Road, 石澳山仔 Shek O Headland, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2305414",
+      "22.2306626",
+      "114.2520302",
+      "114.2521544"
+    ]
+  }
+]

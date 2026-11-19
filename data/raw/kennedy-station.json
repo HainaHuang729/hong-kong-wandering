@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 236659623,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3276856743,
+    "lat": "22.2813400",
+    "lon": "114.1277042",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "堅尼地城站 Kennedy Town Station",
+    "display_name": "堅尼地城站 Kennedy Town Station, 科士街 Forbes Street, 堅尼地城 Kennedy Town, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2812900",
+      "22.2813900",
+      "114.1276542",
+      "114.1277542"
+    ]
+  },
+  {
+    "place_id": 236856667,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6777088713,
+    "lat": "22.2814945",
+    "lon": "114.1287969",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "堅尼地城站 Kennedy Town Station",
+    "display_name": "堅尼地城站 Kennedy Town Station, 士美菲路 Smithfield, 堅尼地城 Kennedy Town, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2814445",
+      "22.2815445",
+      "114.1287469",
+      "114.1288469"
+    ]
+  },
+  {
+    "place_id": 236857555,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8000151611,
+    "lat": "22.2812764",
+    "lon": "114.1287375",
+    "class": "amenity",
+    "type": "bus_station",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "amenity",
+    "name": "堅尼地城站 Kennedy Town Station",
+    "display_name": "堅尼地城站 Kennedy Town Station, 12N, 士美菲路 Smithfield, 堅尼地城 Kennedy Town, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2812264",
+      "22.2813264",
+      "114.1286875",
+      "114.1287875"
+    ]
+  }
+]

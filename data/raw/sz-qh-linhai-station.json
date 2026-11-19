@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237724711,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062180233,
+    "lat": "22.5472917",
+    "lon": "113.8843099",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3095991533582804,
+    "addresstype": "railway",
+    "name": "临海",
+    "display_name": "临海, 甲岸路, 宝安中心区, 海裕社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5422917",
+      "22.5522917",
+      "113.8793099",
+      "113.8893099"
+    ]
+  },
+  {
+    "place_id": 238274115,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9062180450,
+    "lat": "22.5472495",
+    "lon": "113.8843012",
+    "class": "railway",
+    "type": "stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "railway",
+    "name": "临海",
+    "display_name": "临海, 甲岸路, 宝安中心区, 海裕社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+    "boundingbox": [
+      "22.5471995",
+      "22.5472995",
+      "113.8842512",
+      "113.8843512"
+    ]
+  }
+]

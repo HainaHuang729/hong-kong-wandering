@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237187365,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 146933497,
+    "lat": "22.4974683",
+    "lon": "114.1527329",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.3281491818164103,
+    "addresstype": "amenity",
+    "name": "龍躍頭天后宮 Tin Hau Temple, Lung Yeuk Tau",
+    "display_name": "龍躍頭天后宮 Tin Hau Temple, Lung Yeuk Tau, 萃雲路 Sui Wan Road, 祠堂村 Tsz Tong Tsuen, 北區 North District, 新界 New Territories, 香港 Hong Kong, 518010, 中国",
+    "boundingbox": [
+      "22.4973749",
+      "22.4975617",
+      "114.1526436",
+      "114.1528222"
+    ]
+  }
+]

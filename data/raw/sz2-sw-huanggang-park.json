@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 237901428,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 14532495,
+    "lat": "22.5209634",
+    "lon": "114.0529406",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08007029907682915,
+    "addresstype": "park",
+    "name": "皇岗公园",
+    "display_name": "皇岗公园, 皇岗社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5184574",
+      "22.5235126",
+      "114.0511804",
+      "114.0549117"
+    ]
+  },
+  {
+    "place_id": 237948359,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7726383863,
+    "lat": "22.5216033",
+    "lon": "114.0513481",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "皇岗公园",
+    "display_name": "皇岗公园, 益田路, 吉龙二村, 皇岗社区, 福田街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5215533",
+      "22.5216533",
+      "114.0512981",
+      "114.0513981"
+    ]
+  },
+  {
+    "place_id": 238026774,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7726383862,
+    "lat": "22.5217479",
+    "lon": "114.0509702",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "highway",
+    "name": "皇岗公园",
+    "display_name": "皇岗公园, 益田路, 新港社区, 福保街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5216979",
+      "22.5217979",
+      "114.0509202",
+      "114.0510202"
+    ]
+  }
+]

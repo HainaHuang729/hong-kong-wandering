@@ -1,0 +1,107 @@
+[
+  {
+    "place_id": 238214788,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1346960339,
+    "lat": "22.3813689",
+    "lon": "113.9786954",
+    "class": "place",
+    "type": "house",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "place",
+    "name": "三聖邨 Sam Shing Estate",
+    "display_name": "三聖邨 Sam Shing Estate, 6, 青山公路－青山灣段 Castle Peak Road – Castle Peak Bay, 三聖 Sam Shing, 青山灣 Castle Peak Bay, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3811557",
+      "22.3815921",
+      "113.9784404",
+      "113.9789082"
+    ]
+  },
+  {
+    "place_id": 238189098,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 223012113,
+    "lat": "22.3806528",
+    "lon": "113.9783662",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "shop",
+    "name": "三聖商場 Sam Shing Shopping Centre",
+    "display_name": "三聖商場 Sam Shing Shopping Centre, 6, 三聖街 Sam Shing Street, 三聖 Sam Shing, 青山灣 Castle Peak Bay, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3803258",
+      "22.3810276",
+      "113.9780618",
+      "113.9786690"
+    ]
+  },
+  {
+    "place_id": 236020862,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 223012115,
+    "lat": "22.3812292",
+    "lon": "113.9779653",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "building",
+    "name": "豐漁樓 Fung Yu House",
+    "display_name": "豐漁樓 Fung Yu House, 6, 三聖街 Sam Shing Street, 三聖 Sam Shing, 青山灣 Castle Peak Bay, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3810438",
+      "22.3815751",
+      "113.9773743",
+      "113.9781217"
+    ]
+  },
+  {
+    "place_id": 238188649,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 223013445,
+    "lat": "22.3811406",
+    "lon": "113.9785368",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "building",
+    "name": "滿漁樓 Moon Yu House",
+    "display_name": "滿漁樓 Moon Yu House, 6, 青山公路－青山灣段 Castle Peak Road – Castle Peak Bay, 三聖 Sam Shing, 青山灣 Castle Peak Bay, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3808157",
+      "22.3813320",
+      "113.9783882",
+      "113.9791060"
+    ]
+  },
+  {
+    "place_id": 237992104,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 223008845,
+    "lat": "22.3818631",
+    "lon": "113.9782141",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "building",
+    "name": "進漁樓 Chun Yu House",
+    "display_name": "進漁樓 Chun Yu House, 6, 青山公路－青山灣段 Castle Peak Road – Castle Peak Bay, 三聖 Sam Shing, 青山灣 Castle Peak Bay, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3814638",
+      "22.3822274",
+      "113.9780050",
+      "113.9784467"
+    ]
+  }
+]

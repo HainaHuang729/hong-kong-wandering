@@ -1,0 +1,2982 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "27779901": {
+        "pageid": 27779901,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-24.jpg",
+        "index": -1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8467810,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/13-08-11-hongkong-50mm-24.jpg/960px-13-08-11-hongkong-50mm-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/13-08-11-hongkong-50mm-24.jpg/1920px-13-08-11-hongkong-50mm-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/13-08-11-hongkong-50mm-24.jpg/960px-13-08-11-hongkong-50mm-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/13-08-11-hongkong-50mm-24.jpg/1920px-13-08-11-hongkong-50mm-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/13-08-11-hongkong-50mm-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-24.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779901",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:08:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-24",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Unassessed QI candidates|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325203",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171267",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flower Market in Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:28:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779906": {
+        "pageid": 27779906,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-25.jpg",
+        "index": 0,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9526562,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/13-08-11-hongkong-50mm-25.jpg/960px-13-08-11-hongkong-50mm-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/13-08-11-hongkong-50mm-25.jpg/1920px-13-08-11-hongkong-50mm-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/13-08-11-hongkong-50mm-25.jpg/960px-13-08-11-hongkong-50mm-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/13-08-11-hongkong-50mm-25.jpg/1920px-13-08-11-hongkong-50mm-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/13-08-11-hongkong-50mm-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-25.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779906",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:09:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-25",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2013-08-11|Rose bunches with flowers of more than one colour|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.324958",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171503",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flower Market in Hong Kong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:29:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779919": {
+        "pageid": 27779919,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-28.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8321764,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/13-08-11-hongkong-50mm-28.jpg/960px-13-08-11-hongkong-50mm-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/13-08-11-hongkong-50mm-28.jpg/1920px-13-08-11-hongkong-50mm-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/13-08-11-hongkong-50mm-28.jpg/960px-13-08-11-hongkong-50mm-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/13-08-11-hongkong-50mm-28.jpg/1920px-13-08-11-hongkong-50mm-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/13-08-11-hongkong-50mm-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-28.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779919",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:09:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-28",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325160",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171543",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wikimania 2013 Hongkong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:30:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779921": {
+        "pageid": 27779921,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-29.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8358502,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/13-08-11-hongkong-50mm-29.jpg/960px-13-08-11-hongkong-50mm-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/13-08-11-hongkong-50mm-29.jpg/1920px-13-08-11-hongkong-50mm-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/13-08-11-hongkong-50mm-29.jpg/960px-13-08-11-hongkong-50mm-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/13-08-11-hongkong-50mm-29.jpg/1920px-13-08-11-hongkong-50mm-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/13-08-11-hongkong-50mm-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-29.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779921",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:10:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-29",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325160",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171543",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wikimania 2013 Hongkong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:30:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779924": {
+        "pageid": 27779924,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-30.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8690163,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/13-08-11-hongkong-50mm-30.jpg/960px-13-08-11-hongkong-50mm-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/13-08-11-hongkong-50mm-30.jpg/1920px-13-08-11-hongkong-50mm-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/13-08-11-hongkong-50mm-30.jpg/960px-13-08-11-hongkong-50mm-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/13-08-11-hongkong-50mm-30.jpg/1920px-13-08-11-hongkong-50mm-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/13-08-11-hongkong-50mm-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-30.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779924",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:10:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-30",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013|Wikimania Impressionen von Ralf Roletschek/Hongkong/lächelnde Gesichter",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325160",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171543",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wikimania 2013 Hongkong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:30:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779927": {
+        "pageid": 27779927,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-31.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8558101,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/13-08-11-hongkong-50mm-31.jpg/960px-13-08-11-hongkong-50mm-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/13-08-11-hongkong-50mm-31.jpg/1920px-13-08-11-hongkong-50mm-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/13-08-11-hongkong-50mm-31.jpg/960px-13-08-11-hongkong-50mm-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/13-08-11-hongkong-50mm-31.jpg/1920px-13-08-11-hongkong-50mm-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/13-08-11-hongkong-50mm-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-31.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779927",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:10:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-31",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325160",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171543",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wikimania 2013 Hongkong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:31:06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779929": {
+        "pageid": 27779929,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-32.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8405402,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/13-08-11-hongkong-50mm-32.jpg/960px-13-08-11-hongkong-50mm-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/13-08-11-hongkong-50mm-32.jpg/1920px-13-08-11-hongkong-50mm-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/13-08-11-hongkong-50mm-32.jpg/960px-13-08-11-hongkong-50mm-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/13-08-11-hongkong-50mm-32.jpg/1920px-13-08-11-hongkong-50mm-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/13-08-11-hongkong-50mm-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-32.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779929",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:10:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-32",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325160",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171543",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wikimania 2013 Hongkong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:31:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779933": {
+        "pageid": 27779933,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-33.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10717376,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/13-08-11-hongkong-50mm-33.jpg/960px-13-08-11-hongkong-50mm-33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/13-08-11-hongkong-50mm-33.jpg/1920px-13-08-11-hongkong-50mm-33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/13-08-11-hongkong-50mm-33.jpg/960px-13-08-11-hongkong-50mm-33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/13-08-11-hongkong-50mm-33.jpg/1920px-13-08-11-hongkong-50mm-33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/13-08-11-hongkong-50mm-33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-33.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779933",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:11:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-33",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325160",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171543",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wikimania 2013 Hongkong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:31:55",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27779935": {
+        "pageid": 27779935,
+        "ns": 6,
+        "title": "File:13-08-11-hongkong-50mm-34.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8313011,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/13-08-11-hongkong-50mm-34.jpg/960px-13-08-11-hongkong-50mm-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 638,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/13-08-11-hongkong-50mm-34.jpg/1920px-13-08-11-hongkong-50mm-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/13-08-11-hongkong-50mm-34.jpg/960px-13-08-11-hongkong-50mm-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 638,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/13-08-11-hongkong-50mm-34.jpg/1920px-13-08-11-hongkong-50mm-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/13-08-11-hongkong-50mm-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:13-08-11-hongkong-50mm-34.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27779935",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-19 14:11:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "13-08-11-hongkong-50mm-34",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D300s|Flower Market Road|License migration redundant|Self-published work|Images by Ralf Roletschek/x|Wikimania Impressionen von Ralf Roletschek/Hongkong|Files with coordinates missing SDC location of creation|Supported by Wikimedia Deutschland/Wikimania 2013",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325160",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171543",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Wikimania 2013 Hongkong",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-11 10:32:25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303568": {
+        "pageid": 101303568,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 755.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4763567,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_755.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303568",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:23:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 755",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325104",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171454",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:41:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303577": {
+        "pageid": 101303577,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 759.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4745166,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_759.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303577",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:23:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 759",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325161",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171515",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:42:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303600": {
+        "pageid": 101303600,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 802.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5601295,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_802.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303600",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:23:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 802",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325204",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171206",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:53:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303601": {
+        "pageid": 101303601,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 801.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5395540,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_801.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303601",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:23:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 801",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325069",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171172",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:53:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303618": {
+        "pageid": 101303618,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 805.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5170974,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_805.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303618",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 805",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325057",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171168",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:53:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303625": {
+        "pageid": 101303625,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 800.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5366563,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_800.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303625",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 800",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325268",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171317",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:53:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303626": {
+        "pageid": 101303626,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 807.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3807444,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_807.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303626",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 807",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325152",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171190",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:53:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303629": {
+        "pageid": 101303629,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 808.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4934924,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_808.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303629",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 808",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325159",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171206",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:54:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303630": {
+        "pageid": 101303630,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 810.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4723234,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_810.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303630",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 810",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171312",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:54:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303634": {
+        "pageid": 101303634,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 811.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3689021,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_811.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303634",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 811",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.324956",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171284",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:54:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303643": {
+        "pageid": 101303643,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 815.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4714482,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_815.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303643",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 815",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325039",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171217",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:54:51",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303652": {
+        "pageid": 101303652,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 819.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5055453,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_819.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303652",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:24:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 819",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325060",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171102",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:55:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303655": {
+        "pageid": 101303655,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 821.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4231665,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_821.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303655",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:25:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 821",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325113",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171223",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:55:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303657": {
+        "pageid": 101303657,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 822.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4570006,
+            "width": 4128,
+            "height": 3096,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_822.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303657",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:25:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 822",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.324995",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171133",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:55:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303660": {
+        "pageid": 101303660,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 825.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4577281,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_825.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303660",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:25:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 825",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325195",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171236",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:56:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "101303665": {
+        "pageid": 101303665,
+        "ns": 6,
+        "title": "File:HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 826.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5341008,
+            "width": 3096,
+            "height": 4128,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg/960px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg/1920px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E8%8A%B1%E5%A2%9F%E9%81%93_Flower_Market_Road_March_2021_SS2_826.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101303665",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 08:25:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HK MK 旺角 Mongkok 花墟道 Flower Market Road March 2021 SS2 826",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|March 2021 in Mong Kok|Hong Kong photographs taken on 2021-03-11|2021 in Flower Market Road|Flower products in Yau Tsim Mong District",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.325252",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.171254",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "HK MK 旺角 Mongkok <a href=\"https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A2%9F%E9%81%93\" class=\"extiw\" title=\"zh:花墟道\">zh:花墟道</a> Flower Market Road in March 2021",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-10 17:56:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:FAIUOKAMEI_NgaU\" title=\"User:FAIUOKAMEI NgaU\">FAIUOKAMEI NgaU</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

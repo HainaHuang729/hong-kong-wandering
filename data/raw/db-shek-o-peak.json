@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237281611,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5142423213,
+    "lat": "22.2364931",
+    "lon": "114.2433703",
+    "class": "tourism",
+    "type": "viewpoint",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "tourism",
+    "name": "龍脊觀景台 Dragon's Back Viewing Point",
+    "display_name": "龍脊觀景台 Dragon's Back Viewing Point, 龍脊 Dragon's Back, 爛泥灣村 Lan Nai Wan Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2364431",
+      "22.2365431",
+      "114.2433203",
+      "114.2434203"
+    ]
+  }
+]

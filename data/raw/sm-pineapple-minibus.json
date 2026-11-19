@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237085502,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 23368182,
+    "lat": "22.3845509",
+    "lon": "114.1440780",
+    "class": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.13339882429236283,
+    "addresstype": "dam",
+    "name": "菠蘿壩 Pineapple Dam",
+    "display_name": "菠蘿壩 Pineapple Dam, 和宜合 Wo Yi Hop, 荃灣區 Tsuen Wan District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3838654",
+      "22.3851289",
+      "114.1438146",
+      "114.1443779"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 235763485,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 55444337,
+    "lat": "22.3915697",
+    "lon": "113.9736578",
+    "class": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.4336393929250951,
+    "addresstype": "park",
+    "name": "屯門公園 Tuen Mun Park",
+    "display_name": "屯門公園 Tuen Mun Park, 屯門市 Tuen Mun Town, 屯門區 Tuen Mun District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3888353",
+      "22.3938015",
+      "113.9718708",
+      "113.9749923"
+    ]
+  }
+]

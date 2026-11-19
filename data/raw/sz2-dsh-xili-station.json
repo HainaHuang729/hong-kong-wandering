@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 235728863,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11170912279,
+    "lat": "22.5836964",
+    "lon": "113.9494105",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.41395049179757576,
+    "addresstype": "railway",
+    "name": "西丽",
+    "display_name": "西丽, 留仙大道, 丽雅社区, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5786964",
+      "22.5886964",
+      "113.9444105",
+      "113.9544105"
+    ]
+  },
+  {
+    "place_id": 245727731,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 9656472,
+    "lat": "22.5829404",
+    "lon": "113.9478107",
+    "category": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.354703308323595,
+    "addresstype": "suburb",
+    "name": "西丽街道",
+    "display_name": "西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5550846",
+      "22.6554224",
+      "113.9171897",
+      "113.9884808"
+    ]
+  },
+  {
+    "place_id": 235722901,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11422538103,
+    "lat": "22.5764939",
+    "lon": "113.9486529",
+    "category": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "hamlet",
+    "name": "西丽",
+    "display_name": "西丽, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5564939",
+      "22.5964939",
+      "113.9286529",
+      "113.9686529"
+    ]
+  }
+]

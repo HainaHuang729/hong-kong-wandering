@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237213245,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1437144978,
+    "lat": "22.4893121",
+    "lon": "113.9233487",
+    "class": "amenity",
+    "type": "marketplace",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "amenity",
+    "name": "蛇口市场",
+    "display_name": "蛇口市场, 4, 渔村路, 湾厦旧村, 海滨社区, 蛇口街道, 南山区, 深圳市, 广东省, 518054, 中国",
+    "boundingbox": [
+      "22.4888989",
+      "22.4897252",
+      "113.9230294",
+      "113.9236680"
+    ]
+  },
+  {
+    "place_id": 237290851,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1293783468,
+    "lat": "22.4893153",
+    "lon": "113.9233409",
+    "class": "building",
+    "type": "retail",
+    "place_rank": 30,
+    "importance": 7.029907682912974e-05,
+    "addresstype": "building",
+    "name": "蛇口市场",
+    "display_name": "蛇口市场, 渔村路, 湾厦旧村, 海滨社区, 蛇口街道, 南山区, 深圳市, 广东省, 518054, 中国",
+    "boundingbox": [
+      "22.4889360",
+      "22.4896945",
+      "113.9230514",
+      "113.9236303"
+    ]
+  }
+]

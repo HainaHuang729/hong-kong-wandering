@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 236735223,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9061469964,
+    "lat": "22.5456566",
+    "lon": "114.0816792",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.4140681747297726,
+    "addresstype": "railway",
+    "name": "华强北",
+    "display_name": "华强北, 华强路步行街, 深铁汇坊（华强北站）, 华航社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5406566",
+      "22.5506566",
+      "114.0766792",
+      "114.0866792"
+    ]
+  },
+  {
+    "place_id": 236968463,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3373068621,
+    "lat": "22.5448183",
+    "lon": "114.0815422",
+    "class": "place",
+    "type": "neighbourhood",
+    "place_rank": 24,
+    "importance": 0.40842317558839564,
+    "addresstype": "neighbourhood",
+    "name": "华强北",
+    "display_name": "华强北, 华航社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5348183",
+      "22.5548183",
+      "114.0715422",
+      "114.0915422"
+    ]
+  },
+  {
+    "place_id": 237000772,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2897473429,
+    "lat": "22.5492689",
+    "lon": "114.0841432",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 0.24158668584662718,
+    "addresstype": "tourism",
+    "name": "华强北",
+    "display_name": "华强北, 华发北路, 荔村社区, 华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5492189",
+      "22.5493189",
+      "114.0840932",
+      "114.0841932"
+    ]
+  },
+  {
+    "place_id": 237126596,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 12341743,
+    "lat": "22.5479159",
+    "lon": "114.0877818",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.2659205816262254,
+    "addresstype": "suburb",
+    "name": "华强北街道",
+    "display_name": "华强北街道, 福田区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5430426",
+      "22.5582711",
+      "114.0760304",
+      "114.0995654"
+    ]
+  }
+]

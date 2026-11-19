@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237089462,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 449056700,
+    "lat": "22.1633438",
+    "lon": "114.2530887",
+    "class": "man_made",
+    "type": "pier",
+    "place_rank": 30,
+    "importance": 6.549095902948069e-05,
+    "addresstype": "man_made",
+    "name": "蒲苔碼頭 Po Toi Pier",
+    "display_name": "蒲苔碼頭 Po Toi Pier, 蒲台郊遊徑 Po Toi Country Trail, 灣仔 Wan Tsai, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.1632909",
+      "22.1633965",
+      "114.2528879",
+      "114.2536637"
+    ]
+  }
+]

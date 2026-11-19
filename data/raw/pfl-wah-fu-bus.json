@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 237274491,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 395016057,
+    "lat": "22.2511344",
+    "lon": "114.1367096",
+    "class": "building",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "building",
+    "name": "華富 (南) 巴士總站 Wah Fu (South) Bus Terminus",
+    "display_name": "華富 (南) 巴士總站 Wah Fu (South) Bus Terminus, 華昌街 Wah Cheong Street, 華富（二）邨 Wah Fu (II) Estate, 水菜田村 Shui Choi Tin Village, 南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2510873",
+      "22.2512112",
+      "114.1366765",
+      "114.1367427"
+    ]
+  }
+]

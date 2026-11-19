@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 236787713,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 109730298,
+    "lat": "22.1580851",
+    "lon": "114.2582269",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04006549095902952,
+    "addresstype": "road",
+    "name": "蒲台郊遊徑 Po Toi Country Trail",
+    "display_name": "蒲台郊遊徑 Po Toi Country Trail, 灣仔 Wan Tsai, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.1563884",
+      "22.1597746",
+      "114.2561621",
+      "114.2593971"
+    ]
+  },
+  {
+    "place_id": 236826206,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 109732678,
+    "lat": "22.1618647",
+    "lon": "114.2599676",
+    "class": "highway",
+    "type": "steps",
+    "place_rank": 27,
+    "importance": 0.04006549095902952,
+    "addresstype": "road",
+    "name": "蒲台郊遊徑 Po Toi Country Trail",
+    "display_name": "蒲台郊遊徑 Po Toi Country Trail, 灣仔 Wan Tsai, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.1597573",
+      "22.1637438",
+      "114.2589500",
+      "114.2607785"
+    ]
+  }
+]

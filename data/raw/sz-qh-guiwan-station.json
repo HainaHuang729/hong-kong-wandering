@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 238279277,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6836123689,
+    "lat": "22.5344306",
+    "lon": "113.8928669",
+    "class": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.40473259167301984,
+    "addresstype": "railway",
+    "name": "桂湾",
+    "display_name": "桂湾, 听海大道, 前海合作区, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5294306",
+      "22.5394306",
+      "113.8878669",
+      "113.8978669"
+    ]
+  },
+  {
+    "place_id": 238288463,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11166062009,
+    "lat": "22.5365896",
+    "lon": "113.8962474",
+    "class": "place",
+    "type": "quarter",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "quarter",
+    "name": "桂湾",
+    "display_name": "桂湾, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+    "boundingbox": [
+      "22.5265896",
+      "22.5465896",
+      "113.8862474",
+      "113.9062474"
+    ]
+  }
+]

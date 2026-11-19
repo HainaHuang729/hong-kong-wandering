@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 237453920,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5214753201,
+    "lat": "22.6041719",
+    "lon": "114.0373808",
+    "category": "railway",
+    "type": "station",
+    "place_rank": 30,
+    "importance": 0.3933592766861344,
+    "addresstype": "railway",
+    "name": "白石龙",
+    "display_name": "白石龙, 民塘路, 民乐社区, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.5991719",
+      "22.6091719",
+      "114.0323808",
+      "114.0423808"
+    ]
+  },
+  {
+    "place_id": 234859893,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10976892639,
+    "lat": "22.6070965",
+    "lon": "114.0319770",
+    "category": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.13340363241016248,
+    "addresstype": "hamlet",
+    "name": "白石龙",
+    "display_name": "白石龙, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+    "boundingbox": [
+      "22.5870965",
+      "22.6270965",
+      "114.0119770",
+      "114.0519770"
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "place_id": 237855034,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 355109678,
+    "lat": "22.3245845",
+    "lon": "114.1682763",
+    "class": "building",
+    "type": "train_station",
+    "place_rank": 30,
+    "importance": 0.43955546351514724,
+    "addresstype": "building",
+    "name": "太子站 Prince Edward Station",
+    "display_name": "太子站 Prince Edward Station, 彌敦道 Nathan Road, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3234559",
+      "22.3257177",
+      "114.1676514",
+      "114.1690501"
+    ]
+  },
+  {
+    "place_id": 237333411,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3906046124,
+    "lat": "22.3241384",
+    "lon": "114.1697698",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "太子站 Prince Edward Station",
+    "display_name": "太子站 Prince Edward Station, 太子道西 Prince Edward Road West, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3240884",
+      "22.3241884",
+      "114.1697198",
+      "114.1698198"
+    ]
+  },
+  {
+    "place_id": 237749204,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5940564235,
+    "lat": "22.3254783",
+    "lon": "114.1679806",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "太子站 Prince Edward Station",
+    "display_name": "太子站 Prince Edward Station, 彌敦道 Nathan Road, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3254283",
+      "22.3255283",
+      "114.1679306",
+      "114.1680306"
+    ]
+  },
+  {
+    "place_id": 235762500,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9926356946,
+    "lat": "22.3250058",
+    "lon": "114.1693508",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.60189211871064e-05,
+    "addresstype": "highway",
+    "name": "太子站 Prince Edward Station",
+    "display_name": "太子站 Prince Edward Station, 通菜街 Tung Choi Street, 旺角 Mong Kok, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.3249558",
+      "22.3250558",
+      "114.1693008",
+      "114.1694008"
+    ]
+  }
+]

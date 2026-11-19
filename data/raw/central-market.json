@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 234238873,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 1528216,
+    "lat": "22.2839703",
+    "lon": "114.1551489",
+    "class": "building",
+    "type": "retail",
+    "place_rank": 30,
+    "importance": 0.4351905570353818,
+    "addresstype": "building",
+    "name": "中環街市 Central Market",
+    "display_name": "中環街市 Central Market, 鐵行里 Tit Hong Lane, 蘇豪 SoHo, 中環 Central, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2836158",
+      "22.2844387",
+      "114.1549248",
+      "114.1559150"
+    ]
+  },
+  {
+    "place_id": 234238845,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 988672084,
+    "lat": "22.2840273",
+    "lon": "114.1554199",
+    "class": "shop",
+    "type": "mall",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "shop",
+    "name": "中環街市 Central Market",
+    "display_name": "中環街市 Central Market, 80, 鐵行里 Tit Hong Lane, 蘇豪 SoHo, 中環 Central, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2836115",
+      "22.2844387",
+      "114.1548532",
+      "114.1559150"
+    ]
+  },
+  {
+    "place_id": 234129122,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5218132411,
+    "lat": "22.2848946",
+    "lon": "114.1553511",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.64309147783172e-05,
+    "addresstype": "highway",
+    "name": "中環街市 Central Market",
+    "display_name": "中環街市 Central Market, 德輔道中 Des Voeux Road Central, 蘇豪 SoHo, 中環 Central, 中西區 Central and Western District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+    "boundingbox": [
+      "22.2848446",
+      "22.2849446",
+      "114.1553011",
+      "114.1554011"
+    ]
+  }
+]
