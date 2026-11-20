@@ -14043,7 +14043,7 @@
             "在滩尾远望潮水中若隐若现连接对面「桥头」小岛的天然砾石连岛沙洲"
           ],
           "arrivalSteps": [
-            "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
+            "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
             "按地图中的真实步行路线到此点；车站出口与现场围挡以指示为准。"
           ],
           "transportSourceUrl": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html",
@@ -14078,11 +14078,11 @@
           "离岛慢游",
           "山海之间"
         ],
-        "description": "趁退潮步行走过 250 米天然连岛沙洲，沿着香港世界地质公园说明牌认识 1.4 亿年前火山爆发历史；找寻因温差风化呈现网格亀裂状的「菠萝包石」石英二长岩巨砾。",
-        "sourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island",
+        "description": "香港政府景点资料列连岛沙洲长约 200 米，可在泳滩岸上观赏；「菠萝包石」是风化开裂的石英二长岩；去桥头是受潮汐影响的可选延伸，往返不确定时不涉水。",
+        "sourceUrl": "https://www.gohk.gov.hk/chs/spots/spot_detail.php?spot=Sharp+Island",
         "coordinateSource": "https://www.openstreetmap.org/way/282312622",
         "coordinateKind": "OSM 代表点，非保证无障碍入口；具体站口按现场指示。",
-        "verifiedAt": "2026-11-16",
+        "verifiedAt": "2026-11-20",
         "priority": 133,
         "visitDuration": 38,
         "visitGuide": {
@@ -14093,16 +14093,16 @@
           ],
           "durationNote": "编辑建议，包含观看和休息；不含两站之间步行与往返交通。",
           "highlights": [
-            "趁退潮步行走过 250 米天然连岛沙洲，沿着香港世界地质公园说明牌认识 1.4 亿年前火山爆发历史",
-            "找寻因温差风化呈现网格亀裂状的「菠萝包石」石英二长岩巨砾"
+            "香港政府景点资料列连岛沙洲长约 200 米，可在泳滩岸上观赏",
+            "「菠萝包石」是风化开裂的石英二长岩；去桥头是受潮汐影响的可选延伸，往返不确定时不涉水"
           ],
           "arrivalSteps": [
-            "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
-            "按地图中的真实步行路线到此点；车站出口与现场围挡以指示为准。"
+            "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
+            "从泳滩远望即可；去桥头为可选延伸，先核对去程和回程潮汐和现场情况，勿涉水。"
           ],
           "transportSourceUrl": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html",
-          "contentSourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island",
-          "checkedAt": "2026-11-16",
+          "contentSourceUrl": "https://www.gohk.gov.hk/chs/spots/spot_detail.php?spot=Sharp+Island",
+          "checkedAt": "2026-11-20",
           "transportNote": "静态资料，不含实时班次、临时改道或开放状态。候车、候船及往返交通时间另计。"
         },
         "dataLicense": "https://opendatacommons.org/licenses/odbl/1-0/",
@@ -14150,11 +14150,11 @@
           "离岛慢游",
           "山海之间"
         ],
-        "description": "顺着连岛沙洲末端步上桥头岛山坡小亭与自动导航灯桩；四顾窖西洲、白沙洲与西贡外海群岛蓝绿分层海色，再趁潮位安全回返码头。",
-        "sourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island",
+        "description": "桥头观景台可远望牛尾海；这里不是默认步行路线的站点；连岛沙洲去程和回程均受潮汐影响，不能确认往返可通行就不要跨越。",
+        "sourceUrl": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09/map_type/1",
         "coordinateSource": "https://www.openstreetmap.org/relation/15749568",
         "coordinateKind": "OSM 代表点，非保证无障碍入口；具体站口按现场指示。",
-        "verifiedAt": "2026-11-16",
+        "verifiedAt": "2026-11-20",
         "priority": 133,
         "visitDuration": 25,
         "visitGuide": {
@@ -14165,16 +14165,16 @@
           ],
           "durationNote": "编辑建议，包含观看和休息；不含两站之间步行与往返交通。",
           "highlights": [
-            "顺着连岛沙洲末端步上桥头岛山坡小亭与自动导航灯桩",
-            "四顾窖西洲、白沙洲与西贡外海群岛蓝绿分层海色，再趁潮位安全回返码头"
+            "桥头观景台可远望牛尾海",
+            "这里不是默认步行路线的站点；连岛沙洲去程和回程均受潮汐影响，不能确认往返可通行就不要跨越"
           ],
           "arrivalSteps": [
-            "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
-            "按地图中的真实步行路线到此点；车站出口与现场围挡以指示为准。"
+            "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
+            "从泳滩远望即可；去桥头为可选延伸，先核对去程和回程潮汐和现场情况，勿涉水。"
           ],
           "transportSourceUrl": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html",
-          "contentSourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island",
-          "checkedAt": "2026-11-16",
+          "contentSourceUrl": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09/map_type/1",
+          "checkedAt": "2026-11-20",
           "transportNote": "静态资料，不含实时班次、临时改道或开放状态。候车、候船及往返交通时间另计。"
         },
         "dataLicense": "https://opendatacommons.org/licenses/odbl/1-0/",
@@ -15632,7 +15632,7 @@
             "核对目的地方向与现场登车、登船位置"
           ],
           "arrivalSteps": [
-            "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
+            "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
             "按地图中的真实步行路线到此点；车站出口与现场围挡以指示为准。"
           ],
           "transportSourceUrl": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html",

@@ -1724,11 +1724,11 @@
       "离岛慢游",
       "山海之间"
     ],
-    "description": "从西贡码头乘约 15 分钟街渡登岸桥咀洲，在桥咀泳滩旁沿着著名的连岛沙洲走过退潮海床，沿途细看「菠萝包石」火山角砾岩奇观，再小登桥头岛观景台回看西贡内海。",
-    "duration": "半天",
-    "transport": "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
-    "sourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island",
-    "verifiedAt": "2026-11-16",
+    "description": "从桥咀码头步行到泳滩看海，再原路返回码头。去桥头观景台是受潮汐影响的可选延伸，不含在本路线内。去程走得通不代表回程也能走；不能确认往返都可通行，就留在泳滩，不涉水。",
+    "duration": "短程",
+    "transport": "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
+    "sourceUrl": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09/map_type/1",
+    "verifiedAt": "2026-11-20",
     "placeIds": [
       "si-pier",
       "si-beach",
@@ -1747,7 +1747,7 @@
     ],
     "boundsNote": "精选步行路线及地点的浏览范围，不是行政边界。",
     "weather": "建议干燥、凉爽天气；雷雨避免海岸、海堤和山径。",
-    "timeOfDay": "白天出发；海滨与山顶可选傍晚，注意回程末班时间。",
+    "timeOfDay": "建议白天游览，核对回程末班船。",
     "priority": 53,
     "status": "researched",
     "city": "hk"

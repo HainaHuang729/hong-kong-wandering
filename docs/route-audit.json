@@ -860,16 +860,14 @@
   },
   {
     "id": "route-sharpisland",
-    "vertices": 76,
-    "meters": 1551,
-    "minutes": 21,
+    "vertices": 19,
+    "meters": 431,
+    "minutes": 6,
     "climbLevel": "moderate",
     "effortLevel": "easy",
-    "maxSegmentMeters": 79,
-    "snapMeters": 7.800056877,
-    "roads": [
-      "橋咀洲地質步道 Sharp Island Geo Trail"
-    ]
+    "maxSegmentMeters": 46,
+    "snapMeters": 2.435220937,
+    "roads": []
   },
   {
     "id": "route-tapmun",

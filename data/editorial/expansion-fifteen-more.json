@@ -1,5 +1,7 @@
 {
   "sources": {
+    "sharp_island_length": "https://www.gohk.gov.hk/chs/spots/spot_detail.php?spot=Sharp+Island",
+    "sharp_island_afcd": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09/map_type/1",
     "mtr": "https://www.mtr.com.hk/en/customer/services/system_map.html",
     "tram": "https://www.hktramways.com/en/interactive-map/",
     "peaktram": "https://www.thepeak.com.hk/en/getting-here/getting-to-the-peak",
@@ -581,43 +583,50 @@
     {
       "id": "sharpisland",
       "routeId": "route-sharpisland",
-      "rawFile": "route-sharpisland-expansion.json",
+      "rawFile": "route-sharpisland-beach-return.json",
       "nameZh": "西贡桥咀洲",
       "nameEn": "Sharp Island (Kiu Tsui Chau)",
-      "title": "连岛沙洲与火山岩海岸：桥咀码头、桥咀泳滩到桥头岛地质步道",
-      "description": "从西贡码头乘约 15 分钟街渡登岸桥咀洲，在桥咀泳滩旁沿着著名的连岛沙洲走过退潮海床，沿途细看「菠萝包石」火山角砾岩奇观，再小登桥头岛观景台回看西贡内海。",
-      "duration": "半天",
-      "visitMinutes": 165,
-      "source": "geopark_si",
+      "title": "桥咀洲：码头至桥咀泳滩往返",
+      "description": "从桥咀码头步行到泳滩看海，再原路返回码头。去桥头观景台是受潮汐影响的可选延伸，不含在本路线内。去程走得通不代表回程也能走；不能确认往返都可通行，就留在泳滩，不涉水。",
+      "duration": "短程",
+      "visitMinutes": 60,
+      "source": "sharp_island_afcd",
       "transportSource": "ferry",
-      "transport": "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
+      "transport": "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
       "categories": {
-        "离岛慢游": "短程街渡可达的世界地质公园火山岩小岛，半天即可往返体验离岛看海慢步。",
-        "山海之间": "步行跨越随潮汐隐现的天然连岛沙洲，观赏石英二长岩风化形成的奇特「菠萝包石」。"
+        "离岛慢游": "由西贡乘街渡，在桥咀泳滩轻松看海，再原路返回码头。",
+        "山海之间": "岸上观赏连岛沙洲与石英二长岩风化形成的「菠萝包石」；往桥头为受潮汐影响的可选延伸。"
       },
       "placeIds": [
         "si-pier",
         "si-beach",
-        "si-tombolo",
-        "si-kiu-tau",
         "si-pier"
       ],
-      "interests": ["坐船", "看海", "散步", "轻徒步"],
+      "interests": [
+        "坐船",
+        "看海",
+        "散步",
+        "轻徒步"
+      ],
       "preferences": [],
       "climbLevel": "moderate",
       "effortLevel": "easy",
-      "climbNote": "全长约 1.6 km 环线较短，桥咀码头至泳滩平缓，唯连岛沙洲砾石海滩及登上桥头岛小丘部分为不平坦泥石路与坡阶。",
+      "climbNote": "默认只走码头与泳滩之间的岸上短段，原路折返；留意台阶和湿滑路面。",
       "earlyExit": {
         "atPlaceId": "si-beach",
         "stopIndex": 1,
-        "nameZh": "桥咀岛码头（若潮涨无法跨沙洲）",
+        "nameZh": "桥咀泳滩折返",
         "mode": "ferry",
-        "exitOrStop": "由桥咀泳滩向西步行 180 米返码头",
-        "service": "西贡 ↔ 桥咀洲街渡 · 白天滚动班次（查当日尾班船）",
-        "instruction": "若抵岛时正值高潮海水淹没连岛沙洲，不可强行涉水渡过桥头，建议在桥咀泳滩及岸边地质步道观察岩石后折返码头搭船。",
-        "sourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island"
+        "exitOrStop": "沿岸上来路返回桥咀码头",
+        "service": "西贡 ↔ 桥咀洲持牌街渡 · 查当日回程末班",
+        "instruction": "泳滩是默认折返点。不能确认去程和回程都可通行时，留在岸上，勿涉水。",
+        "sourceUrl": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09/map_type/1"
       },
-      "notes": "出发前务必查阅香港天文台潮汐预报，连岛沙洲仅于潮退（一般低于 1.4 米潮高）时方露全路且鹅卵石易滑，严禁涨潮强行涉水或敲凿岩石。"
+      "notes": "如考虑去桥头，出发前查香港天文台潮汐预报，看去程和回程时段，到场以标示、实际水位和路况为准。潮汐预报和单一潮高数值不能保证通行；沙洲湿滑、已被水覆盖或回程不确定时，不要跨越。",
+      "optionalPlaceIds": [
+        "si-tombolo",
+        "si-kiu-tau"
+      ]
     },
     {
       "id": "tapmun",
@@ -712,8 +721,8 @@
     ["tm-sam-shing", "三圣墟海鲜街及三圣邨", "Sam Shing Hui Seafood Market", 223012113, "tm-sam-shing", "lcsd_tm", [25, 40], ["在青山湾鱼市场旁的海鲜街头档铺走廊看现捞鱼鲜，近岸停靠多艘渔船", "也可绕上看山边昔日麒麟岗巨石传说的三圣庙一带"]],
     ["tm-kadoorie-pier", "嘉道理码头与青山湾海堤", "Kadoorie Pier, Castle Peak Bay", 261637357, "tm-kadoorie-pier", "lcsd_tm", [15, 25], ["沿着海滨步道走到突出青山湾海面的白色水泥嘉道理码头", "360 度望见大榄青山海域、屯门避风塘船阵与夕阳海景，然后折返三圣总站"]],
     ["si-beach", "桥咀泳滩", "Kiu Tsui Beach", 282307133, "si-beach", "geopark_si", [15, 25], ["上岸后跨过几步石阶便来到水清沙幼的西贡外海泳滩", "在滩尾远望潮水中若隐若现连接对面「桥头」小岛的天然砾石连岛沙洲"]],
-    ["si-tombolo", "桥咀洲连岛沙洲及地质步道", "Sharp Island Tombolo & Geo Trail", 282312622, "si-tombolo", "geopark_si", [30, 45], ["趁退潮步行走过 250 米天然连岛沙洲，沿着香港世界地质公园说明牌认识 1.4 亿年前火山爆发历史", "找寻因温差风化呈现网格亀裂状的「菠萝包石」石英二长岩巨砾"]],
-    ["si-kiu-tau", "桥头岛灯塔观景台", "Kiu Tau Viewpoint, Sharp Island", 15749568, "si-kiu-tau", "geopark_si", [20, 30], ["顺着连岛沙洲末端步上桥头岛山坡小亭与自动导航灯桩", "四顾窖西洲、白沙洲与西贡外海群岛蓝绿分层海色，再趁潮位安全回返码头"]],
+    ["si-tombolo", "桥咀洲连岛沙洲及地质步道", "Sharp Island Tombolo & Geo Trail", 282312622, "si-tombolo", "sharp_island_length", [30, 45], ["香港政府景点资料列连岛沙洲长约 200 米，可在泳滩岸上观赏", "「菠萝包石」是风化开裂的石英二长岩；去桥头是受潮汐影响的可选延伸，往返不确定时不涉水"]],
+    ["si-kiu-tau", "桥头岛灯塔观景台", "Kiu Tau Viewpoint, Sharp Island", 15749568, "si-kiu-tau", "sharp_island_afcd", [20, 30], ["桥头观景台可远望牛尾海", "这里不是默认步行路线的站点；连岛沙洲去程和回程均受潮汐影响，不能确认往返可通行就不要跨越"]],
     ["tm-tin-hau", "塔门天后古庙", "Tin Hau Temple, Tap Mun", 134396009, "tm-tin-hau", "dhk_tm", [15, 25], ["穿过满是晾晒鱿鱼与紫菜的塔门海傍街，参观守护大鹏湾水上渔民近四百年的天后古庙", "庙旁仍留有传说与海湾地势相连的「佛手岩」风物小径"]],
     ["tm-pavilion", "龙景亭与山顶大草地", "Dragon View Pavilion & Grass Meadow, Tap Mun", 1691360459, "tm-pavilion", "dhk_tm", [40, 60], ["沿山村梯级爬升到面朝整个东海浩瀚大鹏湾的山顶大草坪及八角龙景亭", "在开阔风声与常在草地上悠闲吃草的野生黄牛旁慢坐观海"]],
     ["tm-balanced-rock", "吕字叠石海崖", "Balanced Rock, Tap Mun", 1691360460, "tm-balanced-rock", "dhk_tm", [20, 30], ["从草地顺东岸小径下望海边两块巨型沉积岩上下叠置而成的天然「吕」字奇岩", "沿环岛南路返回海傍村及塔门码头准备候船回市区"]]

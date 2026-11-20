@@ -32,7 +32,7 @@ services = {
 static_note = '静态资料，不含实时班次、临时改道或开放状态。候车、候船及往返交通时间另计。'
 
 def areaof(pid):
-    return next(a for a in new_areas if pid in a['placeIds'])
+    return next(a for a in new_areas if pid in a['placeIds'] or pid in a.get('optionalPlaceIds', []))
 
 def add_place(pid, name, en, osm_id, src_key, mins, highlights, mode=None, service=None, exit_or_stop=None):
     a = areaof(pid)
@@ -124,7 +124,7 @@ for idx, a in enumerate(new_areas):
         transport=a['transport'],
         sourceUrl=S[a['source']],
         verifiedAt='2026-11-16',
-        placeIds=list(dict.fromkeys(ids)),
+        placeIds=list(dict.fromkeys(ids + a.get('optionalPlaceIds', []))),
         coordinates=ps[ids[0]]['coordinates'],
         bounds=[
             min(c[0] for c in coords) - .002,

@@ -63541,13 +63541,11 @@
   {
     "id": "route-sharpisland",
     "areaId": "sharpisland",
-    "title": "连岛沙洲与火山岩海岸：桥咀码头、桥咀泳滩到桥头岛地质步道",
-    "description": "从西贡码头乘约 15 分钟街渡登岸桥咀洲，在桥咀泳滩旁沿着著名的连岛沙洲走过退潮海床，沿途细看「菠萝包石」火山角砾岩奇观，再小登桥头岛观景台回看西贡内海。",
+    "title": "桥咀洲：码头至桥咀泳滩往返",
+    "description": "从桥咀码头步行到泳滩看海，再原路返回码头。去桥头观景台是受潮汐影响的可选延伸，不含在本路线内。去程走得通不代表回程也能走；不能确认往返都可通行，就留在泳滩，不涉水。",
     "placeIds": [
       "si-pier",
       "si-beach",
-      "si-tombolo",
-      "si-kiu-tau",
       "si-pier"
     ],
     "categories": [
@@ -63555,28 +63553,28 @@
       "山海之间"
     ],
     "categoryNotes": {
-      "离岛慢游": "短程街渡可达的世界地质公园火山岩小岛，半天即可往返体验离岛看海慢步。",
-      "山海之间": "步行跨越随潮汐隐现的天然连岛沙洲，观赏石英二长岩风化形成的奇特「菠萝包石」。"
+      "离岛慢游": "由西贡乘街渡，在桥咀泳滩轻松看海，再原路返回码头。",
+      "山海之间": "岸上观赏连岛沙洲与石英二长岩风化形成的「菠萝包石」；往桥头为受潮汐影响的可选延伸。"
     },
     "status": "network-checked",
     "verificationNote": "官方景点与交通资料、独立 OSM 代表点与 FOSSGIS OSRM foot 路网已核对；未实地踏查，不代表当天开放或无障碍保证。",
-    "distance": 1551,
-    "walkingMinutes": 21,
-    "maxSnapMeters": 7.800056877,
-    "visitMinutes": 165,
+    "distance": 431,
+    "walkingMinutes": 6,
+    "maxSnapMeters": 2.435220937,
+    "visitMinutes": 60,
     "stayMinutes": [
-      65,
-      100
+      15,
+      25
     ],
     "climbLevel": "moderate",
     "effortLevel": "easy",
-    "climbNote": "全长约 1.6 km 环线较短，桥咀码头至泳滩平缓，唯连岛沙洲砾石海滩及登上桥头岛小丘部分为不平坦泥石路与坡阶。",
-    "transport": "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
+    "climbNote": "默认只走码头与泳滩之间的岸上短段，原路折返；留意台阶和湿滑路面。",
+    "transport": "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
     "transportSource": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html",
-    "sourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island",
-    "verifiedAt": "2026-11-16",
-    "timeOfDay": "白天出发；海滨与山顶可选傍晚，注意回程末班时间。",
-    "notes": "出发前务必查阅香港天文台潮汐预报，连岛沙洲仅于潮退（一般低于 1.4 米潮高）时方露全路且鹅卵石易滑，严禁涨潮强行涉水或敲凿岩石。",
+    "sourceUrl": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09/map_type/1",
+    "verifiedAt": "2026-11-20",
+    "timeOfDay": "建议白天游览，核对回程末班船。",
+    "notes": "如考虑去桥头，出发前查香港天文台潮汐预报，看去程和回程时段，到场以标示、实际水位和路况为准。潮汐预报和单一潮高数值不能保证通行；沙洲湿滑、已被水覆盖或回程不确定时，不要跨越。",
     "interests": [
       "坐船",
       "看海",
@@ -63586,7 +63584,7 @@
     "preferences": [
       "不太累"
     ],
-    "requestUrl": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/114.2873008,22.367677;114.2889716,22.368288;114.2878531,22.3652381;114.2865918,22.3633344;114.2873008,22.367677?overview=full&geometries=geojson&steps=true",
+    "requestUrl": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/114.2873008,22.367677;114.2889716,22.368288;114.2873008,22.367677?overview=full&geometries=geojson&steps=true",
     "geometry": {
       "type": "FeatureCollection",
       "features": [
@@ -63596,18 +63594,16 @@
             "mode": "walk",
             "routeId": "route-sharpisland",
             "source": "OSM / FOSSGIS OSRM foot",
-            "requestUrl": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/114.2873008,22.367677;114.2889716,22.368288;114.2878531,22.3652381;114.2865918,22.3633344;114.2873008,22.367677?overview=full&geometries=geojson&steps=true",
-            "rawFile": "route-sharpisland-expansion.json",
+            "requestUrl": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/114.2873008,22.367677;114.2889716,22.368288;114.2873008,22.367677?overview=full&geometries=geojson&steps=true",
+            "rawFile": "route-sharpisland-beach-return.json",
             "placeIds": [
               "si-pier",
               "si-beach",
-              "si-tombolo",
-              "si-kiu-tau",
               "si-pier"
             ],
-            "distance": 1551.1,
-            "duration": 1241,
-            "maxSnapMeters": 7.800056877,
+            "distance": 431,
+            "duration": 345.2,
+            "maxSnapMeters": 2.435220937,
             "license": "https://opendatacommons.org/licenses/odbl/1-0/",
             "attribution": "© OpenStreetMap contributors / FOSSGIS OSRM"
           },
@@ -63674,234 +63670,6 @@
                 22.367536
               ],
               [
-                114.287961,
-                22.367343
-              ],
-              [
-                114.288095,
-                22.367187
-              ],
-              [
-                114.288094,
-                22.367054
-              ],
-              [
-                114.288319,
-                22.366712
-              ],
-              [
-                114.288415,
-                22.366492
-              ],
-              [
-                114.288437,
-                22.366444
-              ],
-              [
-                114.288458,
-                22.366394
-              ],
-              [
-                114.288506,
-                22.366267
-              ],
-              [
-                114.288477,
-                22.366232
-              ],
-              [
-                114.288352,
-                22.366072
-              ],
-              [
-                114.287959,
-                22.365457
-              ],
-              [
-                114.287874,
-                22.365287
-              ],
-              [
-                114.287853,
-                22.365238
-              ],
-              [
-                114.287795,
-                22.365102
-              ],
-              [
-                114.287745,
-                22.365001
-              ],
-              [
-                114.287634,
-                22.364825
-              ],
-              [
-                114.287461,
-                22.364584
-              ],
-              [
-                114.287283,
-                22.364397
-              ],
-              [
-                114.287169,
-                22.364297
-              ],
-              [
-                114.287101,
-                22.364253
-              ],
-              [
-                114.286886,
-                22.36416
-              ],
-              [
-                114.286851,
-                22.364048
-              ],
-              [
-                114.28677,
-                22.363946
-              ],
-              [
-                114.286767,
-                22.363868
-              ],
-              [
-                114.286803,
-                22.363779
-              ],
-              [
-                114.286808,
-                22.363569
-              ],
-              [
-                114.286774,
-                22.363455
-              ],
-              [
-                114.286682,
-                22.363385
-              ],
-              [
-                114.286666,
-                22.363319
-              ],
-              [
-                114.286682,
-                22.363385
-              ],
-              [
-                114.286774,
-                22.363455
-              ],
-              [
-                114.286808,
-                22.363569
-              ],
-              [
-                114.286803,
-                22.363779
-              ],
-              [
-                114.286767,
-                22.363868
-              ],
-              [
-                114.28677,
-                22.363946
-              ],
-              [
-                114.286851,
-                22.364048
-              ],
-              [
-                114.286886,
-                22.36416
-              ],
-              [
-                114.287101,
-                22.364253
-              ],
-              [
-                114.287169,
-                22.364297
-              ],
-              [
-                114.287283,
-                22.364397
-              ],
-              [
-                114.287461,
-                22.364584
-              ],
-              [
-                114.287634,
-                22.364825
-              ],
-              [
-                114.287745,
-                22.365001
-              ],
-              [
-                114.287795,
-                22.365102
-              ],
-              [
-                114.287874,
-                22.365287
-              ],
-              [
-                114.287959,
-                22.365457
-              ],
-              [
-                114.288352,
-                22.366072
-              ],
-              [
-                114.288477,
-                22.366232
-              ],
-              [
-                114.288506,
-                22.366267
-              ],
-              [
-                114.288458,
-                22.366394
-              ],
-              [
-                114.288437,
-                22.366444
-              ],
-              [
-                114.288415,
-                22.366492
-              ],
-              [
-                114.288319,
-                22.366712
-              ],
-              [
-                114.288094,
-                22.367054
-              ],
-              [
-                114.288095,
-                22.367187
-              ],
-              [
-                114.287961,
-                22.367343
-              ],
-              [
-                114.287742,
-                22.367536
-              ],
-              [
                 114.287696,
                 22.367498
               ],
@@ -63932,12 +63700,12 @@
         "mode": "ferry",
         "exitOrStop": "桥咀洲北岸街渡码头上岸口",
         "service": "西贡 ↔ 桥咀洲持牌街渡 · 查当日回程班次",
-        "instruction": "于西贡新公众码头乘坐往返桥咀洲的持牌街渡（航程约 15 分钟），上岸环行地质步道一圈后原码头乘街渡返回西贡。",
+        "instruction": "在西贡新公众码头乘持牌街渡到桥咀码头，游览泳滩后原路返回同一码头；出发前核对回程末班船。",
         "sourceUrl": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html"
       },
       {
         "placeId": "si-pier",
-        "stopIndex": 4,
+        "stopIndex": 2,
         "role": "end",
         "mode": "ferry",
         "exitOrStop": "桥咀洲北岸街渡码头上岸口",
@@ -63950,12 +63718,12 @@
       {
         "atPlaceId": "si-beach",
         "stopIndex": 1,
-        "nameZh": "桥咀岛码头（若潮涨无法跨沙洲）",
+        "nameZh": "桥咀泳滩折返",
         "mode": "ferry",
-        "exitOrStop": "由桥咀泳滩向西步行 180 米返码头",
-        "service": "西贡 ↔ 桥咀洲街渡 · 白天滚动班次（查当日尾班船）",
-        "instruction": "若抵岛时正值高潮海水淹没连岛沙洲，不可强行涉水渡过桥头，建议在桥咀泳滩及岸边地质步道观察岩石后折返码头搭船。",
-        "sourceUrl": "https://www.geopark.gov.hk/en/discover/attractions/sharp-island"
+        "exitOrStop": "沿岸上来路返回桥咀码头",
+        "service": "西贡 ↔ 桥咀洲持牌街渡 · 查当日回程末班",
+        "instruction": "泳滩是默认折返点。不能确认去程和回程都可通行时，留在岸上，勿涉水。",
+        "sourceUrl": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09/map_type/1"
       }
     ],
     "itineraryLegs": [
@@ -63970,22 +63738,8 @@
         "fromIndex": 1,
         "toIndex": 2,
         "mode": "walk",
-        "distance": 454,
-        "minutes": 7
-      },
-      {
-        "fromIndex": 2,
-        "toIndex": 3,
-        "mode": "walk",
-        "distance": 262,
-        "minutes": 4
-      },
-      {
-        "fromIndex": 3,
-        "toIndex": 4,
-        "mode": "walk",
-        "distance": 619,
-        "minutes": 9
+        "distance": 216,
+        "minutes": 3
       }
     ],
     "city": "hk"

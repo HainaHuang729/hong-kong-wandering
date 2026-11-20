@@ -39,3 +39,11 @@ console.log(`${photos.length} sourced photos (${camVerified} camera-verified EXI
 const xhs=read('xhs-spots.json');assert(Array.isArray(xhs)&&xhs.length>0,'xhs-spots.json empty');
 for(const s of xhs){assert(s.id&&s.name&&['hk','sz'].includes(s.city)&&inCityBounds(s.coordinates,s.city),`invalid xhs spot ${s.id}`);}
 console.log(`${xhs.length} XHS curated spots (${xhs.filter(s=>s.city==='hk').length} HK, ${xhs.filter(s=>s.city==='sz').length} SZ) passed.`);
+
+const sharp=routes.find(r=>r.id==='route-sharpisland');
+assert.deepEqual(sharp.placeIds,['si-pier','si-beach','si-pier'],'Sharp Island default route must stay on the beach side');
+assert(sharp.distance>=400&&sharp.distance<=460,'Sharp Island default geometry must be the short out-and-back');
+assert(sharp.description.includes('可选延伸')&&sharp.description.includes('回程')&&!sharp.notes.includes('1.4 米'));
+assert(places.find(p=>p.id==='si-tombolo').description.includes('约 200 米'));
+assert(places.find(p=>p.id==='si-kiu-tau').description.includes('不是默认'));
+console.log('Sharp Island default stops and tide-dependent extension passed.');
